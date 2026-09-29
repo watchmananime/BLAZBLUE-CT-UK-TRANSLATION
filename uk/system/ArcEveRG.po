@@ -1,0 +1,1131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveRG01_00
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: 何か用？
+msgctxt "ArcEveRG01_00"
+msgid "You need something?"
+msgstr "Чого тобі?"
+
+#. Key: ArcEveRG01_01
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Ragna
+#. JA: 貴様が「ラグナ＝ザ＝ブラッドエッジ」か？
+msgctxt "ArcEveRG01_01"
+msgid "Are you Ragna the Bloodedge?"
+msgstr "Ти і є Раґна Бладедж?"
+
+#. Key: ArcEveRG01_02
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: ……違います、人違いです。
+msgctxt "ArcEveRG01_02"
+msgid "...No. You have the wrong person."
+msgstr "...Ні. Ти мене з кимось сплутав."
+
+#. Key: ArcEveRG01_03
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Ragna
+#. JA: 私は第七機関の者だ。
+msgctxt "ArcEveRG01_03"
+msgid "I am from Sector Seven."
+msgstr "Я із Сектора Сім."
+
+#. Key: ArcEveRG01_04
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Ragna
+#. JA: 「ラグナ＝ザ＝ブラッドエッジ」、貴様を拘束する。
+#. JA:   おとなしくしていれば事は早く済むぞ。
+msgctxt "ArcEveRG01_04"
+msgid ""
+"Ragna the Bloodedge, I have orders to restrain you.\n"
+"I'd prefer it if you came quietly. If you don't resist, I won't\n"
+"have to hurt you."
+msgstr ""
+"Раґно Бладедж, я тебе затримаю. Не опирайся — і все\n"
+"швидко скінчиться."
+
+#. Key: ArcEveRG01_05
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: 人の話聞けよ。
+msgctxt "ArcEveRG01_05"
+msgid "You didn't hear a word I said, did you?"
+msgstr "Ти взагалі мене слухав?"
+
+#. Key: ArcEveRG01_06
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Ragna
+#. JA: 貴様が「蒼」の魔道書を持っている以上、
+#. JA:   測位システムに反応するなというのが間違いだ。
+msgctxt "ArcEveRG01_06"
+msgid ""
+"You've got the Azure Grimoire with you.\n"
+"You must have known you'd show up on our EADAP."
+msgstr ""
+"Раз у тебе Лазурний гримуар, дивно було б сподіватися,\n"
+"що система визначення координат тебе не засіче."
+
+#. Key: ArcEveRG01_07
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Ragna
+#. JA: 第七機関を、アナログな統制機構の同類と思ってもらっては困る。
+msgctxt "ArcEveRG01_07"
+msgid ""
+"I do hope you're not mistaking Sector Seven for that\n"
+"subpar Librarium."
+msgstr ""
+"Не рівняй Сектор Сім із тією застарілою Організацією\n"
+"контролю."
+
+#. Key: ArcEveRG01_08
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: はー……で、どうするんだ「赤鬼」さんよ？
+msgctxt "ArcEveRG01_08"
+msgid "*sigh* So, what're you gonna do, Mr. Red Devil?"
+msgstr "Ха-а... І що робитимеш, пане «Червоний демоне»?"
+
+#. Key: ArcEveRG01_09
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Ragna
+#. JA: ！？
+#. JA:   ふ、私の事を知っているというのならば話は早い。
+#. JA:   気乗りはしないが、力ずくでということになるな。
+msgctxt "ArcEveRG01_09"
+msgid ""
+"So you know of me, then? I suppose I can dispense with\n"
+"the formalities. I'd hoped I wouldn't have to force you, but\n"
+"you've given me no choice."
+msgstr ""
+"!? Хм. Якщо ти знаєш, хто я, то все простіше. Не хотілося,\n"
+"але доведеться взяти тебе силою."
+
+#. Key: ArcEveRG01_10
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Ragna
+#. JA: ぐぅっ、さすが「蒼」の魔道書の所有者なだけはあるな。
+#. JA:   見込みが甘かったようだ。
+msgctxt "ArcEveRG01_10"
+msgid ""
+"Guh...I should've expected this...from the man who carries\n"
+"the Azure Grimoire.  A fatal...miscalculation..."
+msgstr ""
+"Кх... Недарма ти власник Лазурного гримуара. Схоже, я\n"
+"тебе недооцінив."
+
+#. Key: ArcEveRG01_11
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: メチャメチャ硬ぇ、何でできてやがるんだ。
+#. JA:   ったく余計な時間とらせんじゃねーよ、この馬鹿。
+msgctxt "ArcEveRG01_11"
+msgid ""
+"Goddammit. That was like hitting a rock. The hell are you\n"
+"made of? Ugh, I'm not gonna waste any more time on you,\n"
+"asshole."
+msgstr ""
+"Твердий, зараза... З чого ти взагалі зроблений? Чорт, не\n"
+"змушуй мене марнувати час, ідіоте."
+
+#. Key: ArcEveRG02_00
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Ragna
+#. JA: 挨拶もなしで斬りかかるのかい？
+#. JA:   はははっ、相変わらず無茶ばかりしてるみたいだね。
+msgctxt "ArcEveRG02_00"
+msgid ""
+"Come on, is that any way to greet someone?\n"
+"Hahaha, looks like you're as reckless as ever."
+msgstr ""
+"І це замість привітання — одразу рубати? Ха-ха-ха, ти,\n"
+"схоже, й досі такий самий відчайдуха."
+
+#. Key: ArcEveRG02_01
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Ragna
+#. JA: まったく、昔と何も変わってないんだから。でも少し安心したよ。
+msgctxt "ArcEveRG02_01"
+msgid ""
+"You haven't changed at all, although I have to admit I'm a\n"
+"little relieved."
+msgstr "Анітрохи не змінився. Хоча я трохи заспокоївся."
+
+#. Key: ArcEveRG02_02
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: なんでテメェがここにいやがる！
+#. JA:   いや、そんなことよりテメェには聞きたいことが山ほどある！
+msgctxt "ArcEveRG02_02"
+msgid ""
+"What the hell are you doing here!? No, never mind that.\n"
+"I've got a whole bunch of other questions that you need\n"
+"to answer."
+msgstr ""
+"Якого біса ти тут робиш?! Та байдуже — у мене до тебе\n"
+"купа запитань!"
+
+#. Key: ArcEveRG02_03
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: だがその前に一回ぶった斬らせろ！
+msgctxt "ArcEveRG02_03"
+msgid ""
+"Make it easy on yourself and just stand there while I cut\n"
+"you up!"
+msgstr "Але спершу дай мені разок тебе рубонути!"
+
+#. Key: ArcEveRG02_04
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Ragna
+#. JA: 無茶苦茶なことをいうじゃないか、久しぶりに会えたのに。
+msgctxt "ArcEveRG02_04"
+msgid "Whoa...you're askin' for quite a bit."
+msgstr "Ну що ти верзеш? А ми ж так давно не бачилися."
+
+#. Key: ArcEveRG02_05
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Ragna
+#. JA: でも、すごいじゃないか最高賞金首だなんて、
+#. JA:   今は皆が「ラグナ＝ザ＝ブラッドエッジ」を狙ってる。
+msgctxt "ArcEveRG02_05"
+msgid ""
+"I have to say though...there's enough money on your head\n"
+"to buy a small country. A whole lot of people are looking\n"
+"for \"Ragna the Bloodedge\"."
+msgstr ""
+"Але вражає: за твою голову призначили найвищу\n"
+"нагороду. Тепер усі полюють на Раґну Бладеджа."
+
+#. Key: ArcEveRG02_06
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: テメェには関係ねぇ！
+msgctxt "ArcEveRG02_06"
+msgid "That's got nothin' to do with you!"
+msgstr "Тебе це не стосується!"
+
+#. Key: ArcEveRG02_07
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Ragna
+#. JA: でも、安心して。もう誰にも手は出させないから。
+msgctxt "ArcEveRG02_07"
+msgid ""
+"Aaah, but don't worry. I won't let anyone else touch you...\n"
+"You're all mine."
+msgstr "Та не хвилюйся. Я більше нікому не дам тебе скривдити."
+
+#. Key: ArcEveRG02_08
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: ジン、テメェ。
+msgctxt "ArcEveRG02_08"
+msgid "You son of a bitch!"
+msgstr "Джіне, ти..."
+
+#. Key: ArcEveRG02_09
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Ragna
+#. JA: ははっ、いいね、いいよ。いいよこの感覚、忘れてた。
+#. JA:   まさかまた会えるなんて……また、”殺せる”なんて。
+msgctxt "ArcEveRG02_09"
+msgid ""
+"Ahaha! Yes, that's it... I'd almost forgotten this feeling...\n"
+"To think that we'd meet like this again...that I'd have the\n"
+"chance to \"kill\" you again."
+msgstr ""
+"Ха-ха, чудово, чудово. Я вже забув це відчуття. Подумати\n"
+"лишень, ми знову зустрілися... і я знову можу тебе «вбити»."
+
+#. Key: ArcEveRG02_10
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Ragna
+#. JA: クックックッ……さあ、殺ろうか――兄さん！
+msgctxt "ArcEveRG02_10"
+msgid ""
+"Hehehe... Enough nostalgia...\n"
+"Let's kill each other...Ragna!"
+msgstr "Хе-хе-хе... То почнімо — братику!"
+
+#. Key: ArcEveRG02_11
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Ragna
+#. JA: グハッ……グッ。
+msgctxt "ArcEveRG02_11"
+msgid "Hurgh...gah..."
+msgstr "Ґха... кх..."
+
+#. Key: ArcEveRG02_12
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: トドメは刺さねぇぞ、
+#. JA:   テメェには聞かせてもらわなきゃなんねぇことがあるからな。
+msgctxt "ArcEveRG02_12"
+msgid ""
+"I'm not gonna finish you off this time, asshole. I still got a\n"
+"lotta questions, and I think you've got the answers."
+msgstr ""
+"Не добиватиму тебе. Ти ще маєш багато чого мені\n"
+"розповісти."
+
+#. Key: ArcEveRG02_13
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: それに、今回の目的はテメェじゃねぇんだよ。話はまた後でだ。
+msgctxt "ArcEveRG02_13"
+msgid ""
+"But, I got bigger fish to fry than you right now, so how\n"
+"'bout we continue this chat later?"
+msgstr ""
+"Та цього разу я прийшов не по тебе. Поговоримо іншим\n"
+"разом."
+
+#. Key: ArcEveRG03_00
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: 来たか―――。久しいな、黒き者よ。
+msgctxt "ArcEveRG03_00"
+msgid "At last, fiend. You finally show yourself."
+msgstr "Ти прийшов... Давно не бачилися, чорний."
+
+#. Key: ArcEveRG03_01
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: 久しい？何いってんだ、テメェは。一体何者だ？
+msgctxt "ArcEveRG03_01"
+msgid ""
+"At last? The hell are you talking about?\n"
+"Who are you?"
+msgstr "Давно? Якого біса ти верзеш? Ти взагалі хто?"
+
+#. Key: ArcEveRG03_02
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: 吼えるな小僧、貴様に謂った訳では無い。
+msgctxt "ArcEveRG03_02"
+msgid "I'm not talking to you."
+msgstr "Не гарчи, хлопче. Я говорив не до тебе."
+
+#. Key: ArcEveRG03_03
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: わけわかんねぇし。テメェは馬鹿か？
+msgctxt "ArcEveRG03_03"
+msgid "Then who the hell are you talking to? Yourself?"
+msgstr "Нічого не второпаю. Ти що, сам з собою балакаєш?"
+
+#. Key: ArcEveRG03_04
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: おら、邪魔だどけ。仮装パーティーなら他の場所でやんな。
+#. JA:   悪ィけど時間がねーんだよ、うだうだしてっとぶった斬るぞ。
+msgctxt "ArcEveRG03_04"
+msgid ""
+"Whatever. I don't have time for you or your shit.\n"
+"Now get outta my way, or I'm gonna rip that stupid mask\n"
+"off and make you eat it."
+msgstr ""
+"Гей, не заважай, відійди. Маскарад влаштовуй деінде.\n"
+"Вибач, але часу обмаль: будеш телитися — розрубаю."
+
+#. Key: ArcEveRG03_05
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: 為らば何故、剣を抜かない？
+msgctxt "ArcEveRG03_05"
+msgid "Then why don't you draw your sword?"
+msgstr "Тоді чому не витягаєш меча?"
+
+#. Key: ArcEveRG03_06
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: るせえぞ。
+msgctxt "ArcEveRG03_06"
+msgid "Shut up."
+msgstr "Заткнися."
+
+#. Key: ArcEveRG03_07
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: それが恐怖だ、ラグナ＝ザ＝ブラッドエッジ。
+#. JA:   貴様の中に眠る「モノ」が、私に戦慄する。
+msgctxt "ArcEveRG03_07"
+msgid ""
+"Aaahh, yes, now that is fear, Ragna the Bloodedge.\n"
+"The creature that sleeps within you...it can sense my\n"
+"power, and it is afraid."
+msgstr ""
+"Це страх, Раґно Бладедж. «Дещо», що спить у тобі,\n"
+"тремтить переді мною."
+
+#. Key: ArcEveRG03_08
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: なんだと、テメェ！？
+msgctxt "ArcEveRG03_08"
+msgid "What did you say!?"
+msgstr "Що ти сказав?!"
+
+#. Key: ArcEveRG03_09
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: 黒の焦点にして悪の元凶。
+#. JA:   貴様の存在は此の世界に於いて全てを狂わす悪夢だ。
+msgctxt "ArcEveRG03_09"
+msgid ""
+"It is the center of darkness and the source of all evil.\n"
+"Your very existence is the world's worst nightmare."
+msgstr ""
+"Осередок пітьми й джерело зла. Твоє існування — кошмар,\n"
+"що спотворює все в цьому світі."
+
+#. Key: ArcEveRG03_10
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: だが、貴様の死に依り黒き縁も途切れよう、
+#. JA:   悠久の旅路も此処で終焉だ。
+msgctxt "ArcEveRG03_10"
+msgid ""
+"Only your death can put an end to this nightmare.\n"
+"It is time for the eternal wanderer to meet his demise."
+msgstr ""
+"Та з твоєю смертю урветься й чорний зв'язок. Твоя вічна\n"
+"мандрівка скінчиться тут."
+
+#. Key: ArcEveRG03_11
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: はっ、俺が悪夢ときたか！んで、陶酔しきった前口上は終わりか？
+#. JA:   いいぜ、正義の味方気取ってねぇでさっさと来いよ！
+msgctxt "ArcEveRG03_11"
+msgid ""
+"Hah! So now I'm a nightmare? I'm gettin' tired of listening\n"
+"to your nonsense. Why don't you drop the hero crap, so\n"
+"we can get this over with!?"
+msgstr ""
+"Ха, то я вже кошмар! Ну що, закінчив свою самозакохану\n"
+"промову? Гаразд, годі вдавати героя — нападай уже!"
+
+#. Key: ArcEveRG03_12
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ArcEveRG03_12"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveRG03_13
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveRG03_13"
+msgid "I am Hakumen. The end has come!"
+msgstr "Ім'я мені — Хакумен. До бою!"
+
+#. Key: ArcEveRG03_14
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Ragna
+#. JA: クッ、事象干渉か！邪魔をするな化け猫め！！！
+msgctxt "ArcEveRG03_14"
+msgid "Gah! How dare you interrupt me, Grimalkin!"
+msgstr ""
+"Кх... Втручання у причинність!? Не ставай мені на заваді,\n"
+"клята відьомська кицька!"
+
+#. Key: ArcEveRG03_15
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: 口先だけの変人かと思えば。強ぇなんてもんじゃねぇ。
+#. JA:   くそっ、何だよ、あれ……。
+msgctxt "ArcEveRG03_15"
+msgid ""
+"I thought he was just some freak that wouldn't shut up...\n"
+"but he was pretty tough... Damn it...what the hell is he...?"
+msgstr ""
+"Я думав, це просто якийсь базікало-псих... Але він не\n"
+"просто сильний. Чорт, що це взагалі було?.."
+
+#. Key: ArcEveRG04_00
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: チッ、精錬が終わっちまったか。めんどくせぇことになるな。
+msgctxt "ArcEveRG04_00"
+msgid ""
+"Tch. You gotta be kidding me...\n"
+"I guess I was too late."
+msgstr "Тц, виплавлення вже завершилося. Тепер буде морока."
+
+#. Key: ArcEveRG04_01
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: 起動・起動・起動・起動・認識……
+#. JA:   あーっ、ラグナだ～！久し振りだねっ――４回目だっけ？
+msgctxt "ArcEveRG04_01"
+msgid ""
+"Loading...loading...loading...loading... Complete...\n"
+"Ahh! It's Ragna! I haven't seen you in sooooo long!\n"
+"What is this...the fourth time?"
+msgstr ""
+"Запуск, запуск, запуск, запуск... Ідентифіковано... А-а, це\n"
+"Раґна! Давно не бачилися! Учетверте, здається?"
+
+#. Key: ArcEveRG04_02
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: ３回目だ。
+msgctxt "ArcEveRG04_02"
+msgid "Third."
+msgstr "Утретє."
+
+#. Key: ArcEveRG04_03
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: ん～、なんだか今日も機嫌悪そうだね。
+msgctxt "ArcEveRG04_03"
+msgid "Awwww...looks like somebody's in a bad mood."
+msgstr "М-м, ти й сьогодні наче не в гуморі."
+
+#. Key: ArcEveRG04_04
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: この前と、その前はちゃんとお話できなかったからかな？
+#. JA:   でも、ほら今日はちゃんとお話できる「からだ」だよ！
+msgctxt "ArcEveRG04_04"
+msgid ""
+"Are you mad 'cause we couldn't talk the last few times?\n"
+"I've got a body that can talk now, see?"
+msgstr ""
+"Бо минулого й позаминулого разу ми не змогли нормально\n"
+"поговорити? Але дивись: сьогодні в мене є справжнє\n"
+"«тіло», здатне говорити!"
+
+#. Key: ArcEveRG04_05
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: 前なんかさ、いきなり斬りかかって来たでしょ？
+#. JA:   あれ痛かったんだよ、血がいっぱいでて。本当だよ。でもね
+msgctxt "ArcEveRG04_05"
+msgid ""
+"You...you remember how you hurt me before?\n"
+"It really hurt a lot. I bled a whole bunch. Really!\n"
+"But, you know..."
+msgstr ""
+"Пам'ятаєш, минулого разу ти зненацька мене рубонув?\n"
+"Було боляче, крові витекло багато. Справді. Але..."
+
+#. Key: ArcEveRG04_06
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: うるせーよ。
+msgctxt "ArcEveRG04_06"
+msgid "Shut up."
+msgstr "Заткнися."
+
+#. Key: ArcEveRG04_07
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: あぁ！ラグナなんか怪我してる！何で回復しないの？
+#. JA:   大丈夫？誰が、そんなことしたの？
+msgctxt "ArcEveRG04_07"
+msgid ""
+"Ah! Ragna, you're injured! Why don't you heal yourself?\n"
+"Are you OK? Who did that to you?"
+msgstr ""
+"А-а! Раґно, тебе поранено! Чому рани не загоюються? Ти\n"
+"як? Хто це з тобою зробив?"
+
+#. Key: ArcEveRG04_08
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: 黙れ！！その顔で、その声で、俺に話しかけるな！
+#. JA:   ……俺は、てめぇを破壊しにきたんだ。わかるな？
+msgctxt "ArcEveRG04_08"
+msgid ""
+"Shut up! That face! That voice! Don't you dare talk to me!\n"
+"...I'm here to destroy you. Understand?"
+msgstr ""
+"Замовкни!! Не говори зі мною цим обличчям, цим голосом!\n"
+"...Я прийшов знищити тебе. Зрозуміло?"
+
+#. Key: ArcEveRG04_09
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: えーっ！！　ラグナ、そんなことしちゃやだ！
+msgctxt "ArcEveRG04_09"
+msgid "Whaa! Ragna! Don't do that! That's so mean!"
+msgstr "Е-е?! Раґно, не треба! Не роби цього!"
+
+#. Key: ArcEveRG04_10
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: やっと、やっとちゃんとした「からだ」になれたのに、
+#. JA:   やっと一緒になれるのに、ひどいよ、やだよ、やだよぅ。
+msgctxt "ArcEveRG04_10"
+msgid ""
+"I finally...I finally have a body. We can finally be together,\n"
+"but you...you... You're so mean..."
+msgstr ""
+"Я нарешті... нарешті отримала справжнє «тіло». Ми\n"
+"нарешті можемо бути разом, а ти... Це жорстоко. Не хочу...\n"
+"не хочу-у..."
+
+#. Key: ArcEveRG04_11
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: 今さら許せとはいわねぇ。
+msgctxt "ArcEveRG04_11"
+msgid "It's too late for me to ask for your forgiveness."
+msgstr "Не проситиму пробачити мене — для цього вже запізно."
+
+#. Key: ArcEveRG04_12
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: ……ふ～ん。じゃあ無理矢理にでもお話してもらおうかな。
+msgctxt "ArcEveRG04_12"
+msgid ""
+"...Don't wanna talk, hmm? Perhaps you'll open up after\n"
+"something a bit more...physical?"
+msgstr "Гм... Тоді доведеться змусити тебе поговорити зі мною."
+
+#. Key: ArcEveRG05_01
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: くそっ！……なぜだ、テメェ！！
+msgctxt "ArcEveRG05_01"
+msgid "Dammit! Why...!?"
+msgstr "Чорт! Чому?! Чому ти...?!"
+
+#. Key: ArcEveRG05_02
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: 無理だよ、無理なんだ。誰にも変えられないんだよ。
+#. JA:   これは予定調和、ラグナとニューが一つになる為の通過儀式。
+msgctxt "ArcEveRG05_02"
+msgid ""
+"It's impossible, you know. No one can change what\n"
+"happened. This is destiny! You and are I supposed to\n"
+"be together."
+msgstr ""
+"Неможливо. Нічого не вийде. Ніхто не здатен цього\n"
+"змінити. Це визначений наперед хід подій — обряд, після\n"
+"якого Раґна й Ню стануть одним цілим."
+
+#. Key: ArcEveRG05_03
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: 誰にも変えられない物語の終焉。
+msgctxt "ArcEveRG05_03"
+msgid "It's a story that can't be rewritten."
+msgstr "Кінець історії, якого ніхто не може змінити."
+
+#. Key: ArcEveRG05_04_0
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: 何ほざいてやがる
+msgctxt "ArcEveRG05_04_0"
+msgid "The hell are you talking about!?"
+msgstr "Що за маячню ти верзеш?!"
+
+#. Key: ArcEveRG05_04_1
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: 先のことをてめぇに決められる筋合いなんざねぇんだよ！
+msgctxt "ArcEveRG05_04_1"
+msgid "I don't need anyone telling me what to do!"
+msgstr "Не тобі вирішувати, що на мене чекає!"
+
+#. Key: ArcEveRG05_05
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: グハッ！
+msgctxt "ArcEveRG05_05"
+msgid "Guhah!"
+msgstr "Ґха!"
+
+#. Key: ArcEveRG05_06_0
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: そう、ここはラグナとニューが溶け合う場所。
+msgctxt "ArcEveRG05_06_0"
+msgid "...And we fall into each other's arms..."
+msgstr "Так. Тут Раґна і Ню зіллються воєдино."
+
+#. Key: ArcEveRG05_06_1
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: ああ、すごく気持ちいいよ。
+msgctxt "ArcEveRG05_06_1"
+msgid "Oh, this is so romantic."
+msgstr "А-а, як же приємно."
+
+#. Key: ArcEveRG05_07
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: ふざけるな、このカスが……！
+msgctxt "ArcEveRG05_07"
+msgid "Let go of me...you bastard...!"
+msgstr "Не верзи дурниць, тварюка...!"
+
+#. Key: ArcEveRG05_08
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: グハァッ！
+msgctxt "ArcEveRG05_08"
+msgid "Guagh!"
+msgstr "Ґха-а!"
+
+#. Key: ArcEveRG05_09
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: ラグナとニューの命は一つなんだよ。
+msgctxt "ArcEveRG05_09"
+msgid "Your life and my life are the same."
+msgstr "Життя Раґни й Ню — одне на двох."
+
+#. Key: ArcEveRG05_10_0
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: ニューが死ななければラグナは絶対に死なないの
+msgctxt "ArcEveRG05_10_0"
+msgid "If I'm still alive, you definitely won't die."
+msgstr "Поки Ню не помре, Раґна нізащо не помре."
+
+#. Key: ArcEveRG05_10_1
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: そしてそれはニューも同じ。
+msgctxt "ArcEveRG05_10_1"
+msgid "The same goes for me too."
+msgstr "І з Ню так само."
+
+#. Key: ArcEveRG05_11_0
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: 熱いうねりに身をゆだねて、ひとつになる。
+msgctxt "ArcEveRG05_11_0"
+msgid "You can't fight your feelings, Ragna."
+msgstr "Віддайся гарячому потоку — і ми станемо одним цілим."
+
+#. Key: ArcEveRG05_11_1
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: ずっとずっと、一緒だよ。
+msgctxt "ArcEveRG05_11_1"
+msgid "We're going to be together...forever and always."
+msgstr "Назавжди-навзавжди разом."
+
+#. Key: ArcEveRG05_12
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Ragna
+#. JA: やめ、ろ……俺は……。
+msgctxt "ArcEveRG05_12"
+msgid "Stop...it... I'm...not..."
+msgstr "При... пини... Я..."
+
+#. Key: ArcEveRG05_13_0
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: さあ、一緒に全てを壊そう
+msgctxt "ArcEveRG05_13_0"
+msgid "All right, let's go destroy everything now. "
+msgstr "Нумо разом усе зруйнуємо."
+
+#. Key: ArcEveRG05_13_1
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: 憎い憎いこの世界を壊そう
+msgctxt "ArcEveRG05_13_1"
+msgid "Destroy this whole terrible, awful excuse for a world."
+msgstr "Зруйнуймо цей ненависний, ненависний світ."
+
+#. Key: ArcEveRG05_13_2
+#. Source: system/ArcEveRG_ArcEveRG01 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG02 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG03 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG04 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Source: system/ArcEveRG_ArcEveRG05 (data/ETC/Text_Eng/ArcEveRG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Ragna
+#. JA: ね、ラグナ。
+msgctxt "ArcEveRG05_13_2"
+msgid "OK? Ragna?"
+msgstr "Так, Раґно?"

@@ -1,0 +1,910 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveNO01_00
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Noel
+#. JA: こんにちは、統制機構の方とお見受けします。
+#. JA:   僕は咎追いのカルル＝クローバーと申します。
+msgctxt "ArcEveNO01_00"
+msgid ""
+"Ah, hello! You're from the Librarium, right?\n"
+"I'm Carl Clover, a vigilante."
+msgstr ""
+"Добридень. Бачу, ви з Організації контролю. Я Карл\n"
+"Кловер, мисливець за головами."
+
+#. Key: ArcEveNO01_01
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Noel
+#. JA: 申し訳ありませんが、「ラグナ＝ザ＝ブラッドエッジ」について
+#. JA:   情報を提供していただきたいのですが。
+msgctxt "ArcEveNO01_01"
+msgid ""
+"Pardon me, but I need to ask you a few questions\n"
+"regarding Ragna the Bloodedge."
+msgstr ""
+"Перепрошую, але чи не могли б ви надати мені\n"
+"інформацію про Раґну Бладеджа?"
+
+#. Key: ArcEveNO01_02
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: え？あ、はい私は、統制機構のノエル＝ヴァーミリオン少尉です。
+msgctxt "ArcEveNO01_02"
+msgid ""
+"Eh? Oh, hello. I'm Lieutenant Noel Vermillion of the\n"
+"Novus Orbis Librarium."
+msgstr ""
+"Е? А, так. Я лейтенантка Ноель Верміліон з Організації\n"
+"контролю."
+
+#. Key: ArcEveNO01_03
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 申し訳ありません、原則的に統制機構側から
+#. JA:   直接「咎追い」の方へ対して情報提供は行っていません。
+msgctxt "ArcEveNO01_03"
+msgid ""
+"Uh... I'm sorry, but Librarium officers aren't allowed to\n"
+"pass information directly to vigilantes."
+msgstr ""
+"Перепрошую, але за правилами Організація контролю не\n"
+"надає інформацію безпосередньо мисливцям за головами."
+
+#. Key: ArcEveNO01_04
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 情報を必要とする場合、
+#. JA:   申請書を統制機構に提出していただくことになります。
+msgctxt "ArcEveNO01_04"
+msgid ""
+"If you need certain information, you must fill out the\n"
+"appropriate forms and submit them at the central office."
+msgstr ""
+"Якщо вам потрібна інформація, доведеться подати заяву\n"
+"до Організації контролю."
+
+#. Key: ArcEveNO01_05
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: ですが、ご返答まで最低でも２週間はかかると思います。
+msgctxt "ArcEveNO01_05"
+msgid "You should receive an answer in about two weeks."
+msgstr ""
+"Однак на відповідь доведеться чекати щонайменше два\n"
+"тижні."
+
+#. Key: ArcEveNO01_06
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Noel
+#. JA: どうしよう姉さん？この人、教えてくれる気はないみたいだ。
+msgctxt "ArcEveNO01_06"
+msgid ""
+"What should we do, Sis?\n"
+"She doesn't want to tell us anything."
+msgstr ""
+"Що робити, сестро? Схоже, вона не збирається нічого\n"
+"розповідати."
+
+#. Key: ArcEveNO01_07
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: ――やっぱりそうだ、あなたカルル君だよね？
+#. JA:   士官学校小等部にいた。なんで、咎追いなんかに？
+msgctxt "ArcEveNO01_07"
+msgid ""
+"Wait. You're Carl, aren't you? I knew it.\n"
+"You were in the Military Academy.\n"
+"Why are you a vigilante?"
+msgstr ""
+"Так і знала, ти ж Карл, правда? Ти навчався в молодшій\n"
+"школі Військової академії. Чому ти став мисливцем за\n"
+"головами?"
+
+#. Key: ArcEveNO01_08
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Noel
+#. JA: うん、うん……しょうがないよね、お仕事だから。
+#. JA:   でもきっとこうすれば教えてくれるよ、だから悲しまないで。
+msgctxt "ArcEveNO01_08"
+msgid ""
+"Right... Right. She can't do anything about it because it's\n"
+"her job. But I'm sure she'll tell me if I do that, so please\n"
+"don't be sad."
+msgstr ""
+"Так, так... Нічого не вдієш, це її робота. Але якщо зробити\n"
+"ось так, вона напевно нам усе розповість, тож не сумуй."
+
+#. Key: ArcEveNO01_09
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Noel
+#. JA: ね、姉さん？
+msgctxt "ArcEveNO01_09"
+msgid "OK, Sis?"
+msgstr "Правда, сестро?"
+
+#. Key: ArcEveNO01_10
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: カ、カルル君、大丈夫！？
+msgctxt "ArcEveNO01_10"
+msgid "C-Carl, are you OK!?"
+msgstr "К-Карле, ти цілий?!"
+
+#. Key: ArcEveNO01_11
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Noel
+#. JA: く……油断しました、今回は退散させていただきます。
+#. JA:   また、お会いしましょう「ノエル先輩」。
+msgctxt "ArcEveNO01_11"
+msgid ""
+"Guh...I wasn't prepared for that. I will retreat for today.\n"
+"Let's meet again, Cadet Noel."
+msgstr ""
+"Кх... Я втратив пильність. Цього разу відступлю. Ще\n"
+"побачимося, старшокурснице Ноель."
+
+#. Key: ArcEveNO01_12
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: あ、待ちなさい！！
+msgctxt "ArcEveNO01_12"
+msgid "Hey, wait!"
+msgstr "Гей, стій!!"
+
+#. Key: ArcEveNO02_00
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Noel
+#. JA: 兄さんは、何と戦っているんだ？
+msgctxt "ArcEveNO02_00"
+msgid "Brother, what are you fighting with?"
+msgstr "З чим же ти борешся, брате?"
+
+#. Key: ArcEveNO02_01
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 少佐、ここにいらっしゃったのですね。
+msgctxt "ArcEveNO02_01"
+msgid "Major... I finally found you..."
+msgstr "Майоре, ось ви де."
+
+#. Key: ArcEveNO02_02
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 自分は統合本部からの命を受けて参りました。
+msgctxt "ArcEveNO02_02"
+msgid "I've been given a direct order to come here."
+msgstr "Я прибула за наказом Об’єднаного штабу."
+
+#. Key: ArcEveNO02_03
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 今なら命令違反も不問に付すというのが上層の意向です。
+#. JA:   至急隊にお戻りください。
+msgctxt "ArcEveNO02_03"
+msgid ""
+"They say that if you return right away, they'll overlook this\n"
+"incident. Please, do as they say."
+msgstr ""
+"Керівництво готове не карати вас за порушення наказу,\n"
+"якщо ви повернетеся зараз. Негайно поверніться до загону."
+
+#. Key: ArcEveNO02_04
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Noel
+#. JA: 貴様、5年より前の記憶がないとかいっていたな。
+#. JA:   では聞くが、貴様の最初の記憶はなんだ？
+msgctxt "ArcEveNO02_04"
+msgid ""
+"You don't remember anything before five years ago, right?\n"
+"Let me ask you... What's the earliest thing you do\n"
+"remember?"
+msgstr ""
+"Ти казала, що не пам’ятаєш нічого з того, що було понад\n"
+"п’ять років тому. Тоді відповідай: який твій найперший\n"
+"спогад?"
+
+#. Key: ArcEveNO02_05
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: ！？　少佐、今はそのような
+msgctxt "ArcEveNO02_05"
+msgid ""
+"!?\n"
+"Major, this isn't the time—"
+msgstr "?! Майоре, зараз не час для..."
+
+#. Key: ArcEveNO02_06
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Noel
+#. JA: 命令だ、答えろ。
+msgctxt "ArcEveNO02_06"
+msgid "Answer me! That's an order."
+msgstr "Це наказ. Відповідай."
+
+#. Key: ArcEveNO02_07
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: ……イカルガの焼け野原です、私はそこで助けられました。
+msgctxt "ArcEveNO02_07"
+msgid ""
+"...The burning fields of Ikaruga.\n"
+"That's where I was rescued."
+msgstr "...Випалені землі Ікаруґи. Мене там урятували."
+
+#. Key: ArcEveNO02_08
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Noel
+#. JA: では、やはり貴様の両親は。
+msgctxt "ArcEveNO02_08"
+msgid "I see... Then your parents?"
+msgstr "Отже, твої батьки..."
+
+#. Key: ArcEveNO02_09
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 義理です。
+msgctxt "ArcEveNO02_09"
+msgid "...They adopted me."
+msgstr "Прийомні."
+
+#. Key: ArcEveNO02_10
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Noel
+#. JA: はっ、そうか、そうなのか。はっはっは……ククク……、
+#. JA:   やはり、お前は僕にとって「障害」だ！！
+msgctxt "ArcEveNO02_10"
+msgid ""
+"Hah! I see... I'm beginning to understand now...\n"
+"Hahaha... So, you insist on obstructing me after all!"
+msgstr ""
+"Ха, ось як. Ось воно що. Ха-ха-ха... Хе-хе-хе... Ти таки для\n"
+"мене «перешкода»!!"
+
+#. Key: ArcEveNO02_11
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Noel
+#. JA: グハッ……貴様は、いつも、僕の、邪魔ばかり。
+msgctxt "ArcEveNO02_11"
+msgid "Gugh... You always...have to get in...my way..."
+msgstr "Ґха... Ти завжди тільки й робиш, що стаєш мені на заваді..."
+
+#. Key: ArcEveNO02_12
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 気を失ってしまった。少佐は最初から手傷を負っていた。
+msgctxt "ArcEveNO02_12"
+msgid ""
+"...He's unconscious.\n"
+"The major was injured prior to fighting with me."
+msgstr ""
+"Він знепритомнів. Майор був поранений ще до нашого\n"
+"бою."
+
+#. Key: ArcEveNO02_13
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 何があったんだろう？それに、なぜ私の過去の話を？
+msgctxt "ArcEveNO02_13"
+msgid ""
+"I wonder what happened?\n"
+"And...why did he bring up my past?"
+msgstr "Що ж сталося? І чому він заговорив про моє минуле?"
+
+#. Key: ArcEveNO02_14
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 記憶、か。
+msgctxt "ArcEveNO02_14"
+msgid "My past..."
+msgstr "Спогади..."
+
+#. Key: ArcEveNO02_15
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 少佐はここの奥を気にしているようだった。
+#. JA:   進むしか、ないか。
+msgctxt "ArcEveNO02_15"
+msgid ""
+"The major was interested in whatever is further inside...\n"
+"I guess I have to keep going..."
+msgstr ""
+"Майор, схоже, цікавився тим, що лежить далі. Доведеться\n"
+"йти вперед."
+
+#. Key: ArcEveNO03_00
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 統制機構の地下にこんな場所があるなんて。
+#. JA:   ！？　　そこにいるのは誰ですか？
+msgctxt "ArcEveNO03_00"
+msgid ""
+"I never knew all of this was down here...\n"
+"!?     Who goes there!?"
+msgstr ""
+"Не знала, що під Організацією контролю є таке місце...?!\n"
+"Хто там?"
+
+#. Key: ArcEveNO03_01
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: ほう、それはアークエネミーか。
+msgctxt "ArcEveNO03_01"
+msgid "Hmm...is that the Nox Nyctores?"
+msgstr "О, це Арк-Енемі?"
+
+#. Key: ArcEveNO03_02
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 答えなさい！
+msgctxt "ArcEveNO03_02"
+msgid "Answer me!"
+msgstr "Відповідайте!"
+
+#. Key: ArcEveNO03_03
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: 私の名はハクメン。
+msgctxt "ArcEveNO03_03"
+msgid "I am...Hakumen."
+msgstr "Моє ім’я — Хакумен."
+
+#. Key: ArcEveNO03_04
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: ハクメン？あなたの姿どこかで……嘘！？
+#. JA:   本に描かれていた六英雄の。まさか、そんな！
+msgctxt "ArcEveNO03_04"
+msgid ""
+"Hakumen? But...I think I've seen you somewhere before...\n"
+"No... Impossible...! You're...you're one of the Six Heroes!?"
+msgstr ""
+"Хакумен? Я десь бачила цю постать... Не може бути!? Це ж\n"
+"один із Шести Героїв, якого я бачила в книзі! Неможливо!"
+
+#. Key: ArcEveNO03_05
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: では私も問う、貴様は何者だ？
+msgctxt "ArcEveNO03_05"
+msgid "Now it's time for me to ask a question. Who are you?"
+msgstr "Тоді й я запитаю: хто ти?"
+
+#. Key: ArcEveNO03_06
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: わ、私は世界虚空情報統制機構第四師団
+#. JA:   ノエル＝ヴァーミリオン少尉です。
+msgctxt "ArcEveNO03_06"
+msgid ""
+"L-Lieutenant Noel Vermillion, Praetorian Guard,\n"
+"Fourth Division."
+msgstr ""
+"Я-я лейтенантка Ноель Верміліон із Четвертої дивізії\n"
+"Всесвітньої Організації Контролю Інформації."
+
+#. Key: ArcEveNO03_07
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: 其のような肩書きでは無い。貴様の存在を問うて居るのだ。
+msgctxt "ArcEveNO03_07"
+msgid ""
+"I'm not interested in whatever you call yourself.\n"
+"I was questioning your existence."
+msgstr "Я питаю не про звання. Я питаю про саму твою сутність."
+
+#. Key: ArcEveNO03_08
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: そ、存在？
+msgctxt "ArcEveNO03_08"
+msgid "M-My...existence?"
+msgstr "М-мою сутність?"
+
+#. Key: ArcEveNO03_09
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: 私は貴様を「しらない」。
+msgctxt "ArcEveNO03_09"
+msgid "I don't \"know\" you."
+msgstr "Я тебе «не знаю»."
+
+#. Key: ArcEveNO03_10
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: な、何をいっているの？
+msgctxt "ArcEveNO03_10"
+msgid "Wh-What are you talking about?"
+msgstr "П-про що ви говорите?"
+
+#. Key: ArcEveNO03_11
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: だが、斯うして私と対峙しているのは事実。
+#. JA:   貴様も因子に招かれたと云う事だ。良かろう――
+msgctxt "ArcEveNO03_11"
+msgid ""
+"Well, I can't deny it... You are standing before me,\n"
+"confronting me. Perhaps there is a reason for your\n"
+"presence here... Very well."
+msgstr ""
+"Та факт лишається фактом: ти стоїш переді мною як\n"
+"супротивниця. Отже, й тебе сюди привів цей чинник.\n"
+"Гаразд..."
+
+#. Key: ArcEveNO03_12
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ArcEveNO03_12"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveNO03_13
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveNO03_13"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveNO03_14
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Noel
+#. JA: クッ、事象干渉か！邪魔をするな化け猫め！！！
+msgctxt "ArcEveNO03_14"
+msgid "Guh, how dare you interrupt me, Grimalkin!"
+msgstr ""
+"Кх, втручання у причинність! Не заважай, клята\n"
+"відьомська кицько!!!"
+
+#. Key: ArcEveNO03_15
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: えっ、消えてしまった。なぜ？
+msgctxt "ArcEveNO03_15"
+msgid "Eh? He disappeared... Why?"
+msgstr "Е? Він зник. Чому?"
+
+#. Key: ArcEveNO04_00
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Noel
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveNO04_00"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveNO04_01
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: これ……みたこと、ある。
+msgctxt "ArcEveNO04_01"
+msgid "I've...seen this before."
+msgstr "Я це... вже бачила."
+
+#. Key: ArcEveNO04_02
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: なに？…………あれ、なに？
+msgctxt "ArcEveNO04_02"
+msgid "What? Huh... What?"
+msgstr "Що?.. ...А це що?"
+
+#. Key: ArcEveNO04_03
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Noel
+#. JA: 対象・認識・自律モード・起動。
+msgctxt "ArcEveNO04_03"
+msgid "Scanning: complete. Auto-mode: confirmed."
+msgstr "Ціль ідентифіковано. Автономний режим активовано."
+
+#. Key: ArcEveNO04_04
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: これは、私の記憶？あなたの記憶？私達の記憶？あなた達の記憶？
+msgctxt "ArcEveNO04_04"
+msgid ""
+"Are these...my memories? Or...yours?\n"
+"Mine...? Or are they...ours?"
+msgstr ""
+"Це мої спогади? Твої спогади? Наші спогади? Ваші\n"
+"спогади?"
+
+#. Key: ArcEveNO04_05
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Noel
+#. JA: 対象・認識・障害・認識・排除・容認……対象を同一体と認識。
+msgctxt "ArcEveNO04_05"
+msgid ""
+"Scanning: complete. IFF determined. Processing...\n"
+"Subject determined to be hostile."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"схвалено... Ціль ідентифіковано як тотожну сутність."
+
+#. Key: ArcEveNO04_06
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: あなた……だれ……わたし……わたし……わたし……。
+msgctxt "ArcEveNO04_06"
+msgid ""
+"Who...are you...?\n"
+"I... I... I..."
+msgstr "Ти... хто... я... я... я..."
+
+#. Key: ArcEveNO04_07
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Noel
+#. JA: 対象の殲滅を開始します。
+msgctxt "ArcEveNO04_07"
+msgid "Activate termination protocol."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveNO04_08
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 対象の殲滅を開始します。
+msgctxt "ArcEveNO04_08"
+msgid "Activate termination protocol."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveNO05_00
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: あれ？ここ、どこだっけ？
+msgctxt "ArcEveNO05_00"
+msgid "Huh? Where is this...?"
+msgstr "Га? Де це я?"
+
+#. Key: ArcEveNO05_01_0
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: えーと、なにしてたんだっけ私。
+msgctxt "ArcEveNO05_01_0"
+msgid "Umm... What was I doing?"
+msgstr "Ем... Що ж я робила?"
+
+#. Key: ArcEveNO05_01_1
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: 思い出せない。それに、なんだかとっても、眠い。
+msgctxt "ArcEveNO05_01_1"
+msgid "I can't remember... And I'm... I'm really sleepy."
+msgstr "Не можу згадати. І ще я чомусь страшенно хочу спати."
+
+#. Key: ArcEveNO05_02
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: ウサギ、さん？
+msgctxt "ArcEveNO05_02"
+msgid "A rabbit?"
+msgstr "Кролиця?"
+
+#. Key: ArcEveNO05_03
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: あなたは……だれ？
+msgctxt "ArcEveNO05_03"
+msgid "Who...are you...?"
+msgstr "Ти... хто?"
+
+#. Key: ArcEveNO05_04
+#. Source: system/ArcEveNO_ArcEveNO01 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO02 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO03 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO04 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Source: system/ArcEveNO_ArcEveNO05 (data/ETC/Text_Eng/ArcEveNO.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Noel
+#. JA: わたしは……だれ？
+msgctxt "ArcEveNO05_04"
+msgid "Who...am I...?"
+msgstr "Хто... я?"

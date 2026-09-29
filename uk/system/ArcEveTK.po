@@ -1,0 +1,1018 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveTK01_00
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: おっすー、乳の人！
+msgctxt "ArcEveTK01_00"
+msgid "Hey, boobie lady!"
+msgstr "Привіт, Цицькаста Пані!"
+
+#. Key: ArcEveTK01_01
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: あらタオじゃない、どうしたのこんな所で？
+#. JA:   それと私の名前は「ライチ」。いい加減覚えてちょうだい。
+msgctxt "ArcEveTK01_01"
+msgid ""
+"Oh, hello, Tao. What are you doing here?\n"
+"And my name is Litchi. Can't you remember my name\n"
+"already?"
+msgstr ""
+"О, Тао. Що ти тут робиш? І моє імʼя — Лічі. Запамʼятай\n"
+"уже нарешті."
+
+#. Key: ArcEveTK01_02
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: おう、おぼえたぞ乳の人！
+msgctxt "ArcEveTK01_02"
+msgid "OK, boobie lady! I remembered it."
+msgstr "Ага, запамʼятала, Цицькаста Пані!"
+
+#. Key: ArcEveTK01_03
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ま、まあいいわ。で、どこに行こうとしていたの？
+#. JA:   散歩にしては少し遠出じゃないかしら？
+msgctxt "ArcEveTK01_03"
+msgid ""
+"Uh...I guess that's fine. Anyway, where are you going?\n"
+"Isn't this a little too far from home for a walk?"
+msgstr ""
+"Н-ну гаразд. То куди ти прямувала? Як на прогулянку, ти\n"
+"забрела доволі далеко."
+
+#. Key: ArcEveTK01_04
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 聞いておどろくニャス！
+#. JA:   タオはにゃんと「とがなんとか」になったのネ！
+msgctxt "ArcEveTK01_04"
+msgid ""
+"You're going to be surprised when I tell you neow!\n"
+"Tao has become one of those \"vigi-somethings\"!"
+msgstr ""
+"Слухай і дивуйся, няв! Тао стала отою «мисливицею за\n"
+"чимось там»!"
+
+#. Key: ArcEveTK01_05
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: だいあくとー「らぐにゃ」を倒してオカネをもらうんだニャ！
+msgctxt "ArcEveTK01_05"
+msgid ""
+"I'm going to make money by taking down that villain\n"
+"\"Rawrgna\"!"
+msgstr "Тао здолає великого лиходія Раґню й отримає гроші, няв!"
+
+#. Key: ArcEveTK01_06
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: というわけで、乳の人。
+#. JA:   これよりまちうける辛くキビシー旅のために手合わせ願うのニャ！
+msgctxt "ArcEveTK01_06"
+msgid ""
+"So, boobie lady, spar with meow to help me prepare for\n"
+"my difficult journey!"
+msgstr ""
+"Тому, Цицькаста Пані, побийся з Тао, щоб підготувати її\n"
+"до важкої-преважкої подорожі, няв!"
+
+#. Key: ArcEveTK01_07
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 「とがなんとか」に……「らぐにゃ」……誰、それ？
+msgctxt "ArcEveTK01_07"
+msgid "\"Vigi-something\"?\"Rawrgna\"? Who's that...?"
+msgstr "«Мисливиця за чимось там»... «Раґня»... Хто це взагалі?"
+
+#. Key: ArcEveTK01_08
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: まあいいわ、手合わせっていつもの組み手のことかしら？
+#. JA:   相手してあげたいんだけど、私もこれから用事が――。
+msgctxt "ArcEveTK01_08"
+msgid ""
+"Oh, well. So you'd like to spar, like we usually do?\n"
+"I'm sorry, but as much as I'd like to, I have some other\n"
+"pla—"
+msgstr ""
+"Ну гаразд. Під «побитися» ти маєш на увазі наш\n"
+"звичайний спаринг? Я б залюбки, але зараз маю деякі\n"
+"спра—"
+
+#. Key: ArcEveTK01_09
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: い～く～ニャ～ス～♪
+msgctxt "ArcEveTK01_09"
+msgid "Heeeeere I coooome!♪"
+msgstr "Тао йде-е-е, ня-я-яв! ♪"
+
+#. Key: ArcEveTK01_10
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ふぅ、アナタも手加減っていうものを覚えなさい。疲れた。
+msgctxt "ArcEveTK01_10"
+msgid ""
+"Phew. You're always at one hundred percent, aren't you?\n"
+"I'm all tired out..."
+msgstr ""
+"Фух... Тобі теж варто навчитися стримуватися. Я геть\n"
+"виснажилася."
+
+#. Key: ArcEveTK01_11
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ニャラリニャリラリ～～～♪
+#. JA:   乳の人相変わらずいいむにむにエアバッグゥ～。
+msgctxt "ArcEveTK01_11"
+msgid ""
+"Meow meow mewww!♪\n"
+"Boobie lady! You always have nice, comfy airbags."
+msgstr ""
+"Ня-ля-ля-ля-ля-а-а! ♪ У Цицькастої Пані, як завжди,\n"
+"чудові мʼякенькі подушки безпеки-и-и!"
+
+#. Key: ArcEveTK01_12
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 何かいった？
+msgctxt "ArcEveTK01_12"
+msgid "What did you say?"
+msgstr "Ти щось сказала?"
+
+#. Key: ArcEveTK01_13
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: にゃんにゃんにゃんでもないニャッス～。
+#. JA:   いい運動になったぞ乳の人！感謝ニャス～。
+msgctxt "ArcEveTK01_13"
+msgid ""
+"Meow meow! Nyoothing!\n"
+"That was a good workout, boobie lady! Thank mew!"
+msgstr ""
+"Н-ня-нічого, няв! Гарно розімʼялися, Цицькаста Пані!\n"
+"Дякую, няв!"
+
+#. Key: ArcEveTK02_00
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: おおおおおおおお、まつニャまつニャ
+#. JA:   そこの黒いウネウネ！ちょっとまつニャス～～～！！！
+msgctxt "ArcEveTK02_00"
+msgid ""
+"OOOOOOOOOOOOOOOH! Wait, wait, neow!\n"
+"You black squiggly, come back."
+msgstr ""
+"О-о-о-о-о-о-о! Стій, стій, няв! Чорна кривуле, зачекай на\n"
+"Тао-о-о!!!"
+
+#. Key: ArcEveTK02_01
+#. Speaker: Arakune
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: キサマ　隔世のレプリカ　　　　用　ない
+msgctxt "ArcEveTK02_01"
+msgid ""
+"You    You're just    replica\n"
+"I         no business w     you."
+msgstr "Т  — атавістична репл ка. Мені н має до тебе     ."
+
+#. Key: ArcEveTK02_02
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ウネウネになくてもタオにはあるニャス！
+msgctxt "ArcEveTK02_02"
+msgid "Grrr... But I have business with mew!"
+msgstr ""
+"Кривулі, може, й немає до Тао діла, зате Тао має до неї\n"
+"діло, няв!"
+
+#. Key: ArcEveTK02_03
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ウネウネはタオの村を襲う奴ニャス！
+msgctxt "ArcEveTK02_03"
+msgid "You're the one who attacked my village!"
+msgstr "Кривуля напала на селище Тао, няв!"
+
+#. Key: ArcEveTK02_04
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ウネウネは幸か不幸か賞金首ニャス！
+msgctxt "ArcEveTK02_04"
+msgid ""
+"I dunno if this is good luck or not, but now you have a\n"
+"bounty on your head."
+msgstr ""
+"На щастя чи на біду, за голову кривулі призначено\n"
+"нагороду, няв!"
+
+#. Key: ArcEveTK02_05
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: そんでもってタオたちはオカネがほしいニャス！
+msgctxt "ArcEveTK02_05"
+msgid "And Tao needs a lot of money!"
+msgstr "А Тао з друзями потрібні гроші, няв!"
+
+#. Key: ArcEveTK02_06
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: っちゅーわけでウネウネを倒すニャス！覚悟ニャース！！
+msgctxt "ArcEveTK02_06"
+msgid ""
+"In other words, I'm going to beat you up  and turn you in!\n"
+"Let's go!"
+msgstr "Тож Тао здолає кривулю, няв! Готуйся-я-я!!"
+
+#. Key: ArcEveTK02_07
+#. Speaker: Arakune
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: グプッ
+msgctxt "ArcEveTK02_07"
+msgid "Gffaaaha!"
+msgstr "Ґпу..."
+
+#. Key: ArcEveTK02_08
+#. Speaker: Arakune
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: そうだな、キサマ　オードブル　　ても　いだろう
+#. JA:   喰ってやる　ら　ちら　くるが　い
+msgctxt "ArcEveTK02_08"
+msgid ""
+"Let me se     Mayb   I can tur  you into an hors d'oeu     .\n"
+"I'll d   you    favor    Co     here."
+msgstr "Так... Т  згодишся на зак ску. Я тебе зж ру, тож      пі ходь."
+
+#. Key: ArcEveTK02_09
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 食べるのはタオの方がすごいニャス！だから負けないニャス！
+#. JA:   三枚におろしてワサビ醤油でおいしく召し上がってやるニャス！！
+msgctxt "ArcEveTK02_09"
+msgid ""
+"Tao's better at eating, meow! I won't lose!\n"
+"I'm going to chop you up, dip you in wasabi soy sauce,\n"
+"and eat you neow!"
+msgstr ""
+"Тао краще їсть, няв! Тож Тао не програє! Тао обробить\n"
+"тебе на три філе й смачно зʼїсть із васабі та соєвим соусом!!"
+
+#. Key: ArcEveTK02_10
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ……と思ったけどオマエまずそーだからゴミバコにポイニャ。
+msgctxt "ArcEveTK02_10"
+msgid ""
+"...No, never mind. You look nasty.\n"
+"I'll just throw you in the trash."
+msgstr ""
+"...так Тао думала, але ти на вигляд несмачна, тож полетиш\n"
+"у смітник, няв."
+
+#. Key: ArcEveTK02_11
+#. Speaker: Arakune
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 信じら　　い　　まさか　　んな　つに　グヴヴ……
+msgctxt "ArcEveTK02_11"
+msgid "  can t be ieve it    I   lost        Gggh  Hrght..."
+msgstr "Не м жу повірити... Невже я         такій... Ґв-в-в..."
+
+#. Key: ArcEveTK02_12
+#. Speaker: Arakune
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 感じた　　蒼　　蒼　あちら　感じ　　。　
+msgctxt "ArcEveTK02_12"
+msgid "     I feel     The Azure                 Azure over there."
+msgstr "Відч в... Лазур... Лазур...      там... відч ваю..."
+
+#. Key: ArcEveTK02_13
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: にゅ！？ウネウネ、まつニャス！！
+msgctxt "ArcEveTK02_13"
+msgid "Meow! Hey, squiggly, wait!"
+msgstr "Ню?! Кривуле, стій, няв!!"
+
+#. Key: ArcEveTK03_00
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ムニュ？ここはどこニャス？
+#. JA:   お、そこのお面の人！ウネウネみなかったか！？
+msgctxt "ArcEveTK03_00"
+msgid ""
+"Meow? Where am I?\n"
+"Hey! You in the mask! Did you see the squiggly!?"
+msgstr ""
+"Мня? Де це Тао, няв? О, ти, в масці! Не бачив чорну\n"
+"кривулю?!"
+
+#. Key: ArcEveTK03_01
+#. Speaker: Hakumen
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 隔世のレプリカ。何故此処に居る。
+msgctxt "ArcEveTK03_01"
+msgid ""
+"A replica from the previous age.\n"
+"What are you doing here?"
+msgstr "Атавістична репліка. Чому ти тут?"
+
+#. Key: ArcEveTK03_02
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ムム？おいそこのお面の人、聞こえなかったニャスか？
+#. JA:   黒いウネウネみなかったか？
+msgctxt "ArcEveTK03_02"
+msgid ""
+"Hmm? Hey, you mask man! Did you not hear me? Meow!\n"
+"Did you see a black squiggly pass by?"
+msgstr ""
+"М-м? Гей, чоловіче в масці, ти не почув Тао, няв? Не\n"
+"бачив чорну кривулю?"
+
+#. Key: ArcEveTK03_03
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: あと、ついでにここがどこか教えてほしいニャス！
+msgctxt "ArcEveTK03_03"
+msgid "Oh! Also! Where am I?"
+msgstr "І ще скажи Тао, де вона опинилася, няв!"
+
+#. Key: ArcEveTK03_04
+#. Speaker: Hakumen
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 之も因果か、猫よ。
+msgctxt "ArcEveTK03_04"
+msgid "I guess this is fate, cat."
+msgstr "То й це — причинність, кішко?"
+
+#. Key: ArcEveTK03_05
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ムキー！確かにタオは猫ニャスけど、意味わかんにゃいのニャ！
+msgctxt "ArcEveTK03_05"
+msgid ""
+"Grrrrrr! Yeah, Tao is a cat, but I don't know what you're\n"
+"talking about, meow!"
+msgstr ""
+"Ня-я-я! Так, Тао — кішка, але вона не розуміє, про що ти,\n"
+"няв!"
+
+#. Key: ArcEveTK03_06
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ハッ！！もしかして――頭がカワイソーな人！？
+#. JA:   し、しまったニャ。ちょっと警戒ニャス……。
+msgctxt "ArcEveTK03_06"
+msgid ""
+"Oh! Maybe you're a crazy person?\n"
+"Uh oh. I need to be careful..."
+msgstr ""
+"А-а! Може, в тебе голівка хвора?! Ой лишенько. Треба бути\n"
+"насторожі, няв..."
+
+#. Key: ArcEveTK03_07
+#. Speaker: Hakumen
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ふっ、余興と謂う事か、良いだろう。其れも我が使命。
+msgctxt "ArcEveTK03_07"
+msgid ""
+"Hmph. It appears your purpose is entertainment.\n"
+"Very well then. This shall be my mission."
+msgstr "Хм. Отже, це розвага. Гаразд. Це теж моя місія."
+
+#. Key: ArcEveTK03_08
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ニャニャ！やっぱりオマエ悪いヤツだったか！
+#. JA:   しかしタオは強いニャスよ！！くるならこいニャス！
+msgctxt "ArcEveTK03_08"
+msgid ""
+"Meow! I knew it! You're a bad man!\n"
+"But Tao is very strong! Bring it on!"
+msgstr ""
+"Няв-няв! Так ти таки лиходій! Але Тао сильна, няв!! Ну ж\n"
+"бо, нападай!"
+
+#. Key: ArcEveTK03_09
+#. Speaker: Hakumen
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！
+msgctxt "ArcEveTK03_09"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveTK03_10
+#. Speaker: Hakumen
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveTK03_10"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveTK03_11
+#. Speaker: Hakumen
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: クッ、事象干渉か！邪魔をするな化け猫め！！！
+msgctxt "ArcEveTK03_11"
+msgid "Gah! How dare you interrupt me, Grimalkin!"
+msgstr ""
+"Кх, втручання у причинність! Не заважай, клята\n"
+"відьомська кицько!!!"
+
+#. Key: ArcEveTK03_12
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: おお！？お面の人～、どこに行くニャス～～！？
+#. JA:   ……あらら消えちゃったニャ。もしかして、おばけ！？
+msgctxt "ArcEveTK03_12"
+msgid ""
+"Huh!? Mask man, where are you going, meow!?\n"
+"Oh!? He disappeared... *gasp* Is he a ghost!?"
+msgstr ""
+"О?! Чоловіче в масці, куди ти, ня-я-яв?! ...Ой, зник. Невже\n"
+"привид?!"
+
+#. Key: ArcEveTK04_00
+#. Speaker: Nu
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveTK04_00"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveTK04_01
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: なんかひらひらするのがでてきたニャス！
+msgctxt "ArcEveTK04_01"
+msgid "Ooh, some kind of weird flappy thingy came out!"
+msgstr "О, якась тріпотлива штука зʼявилася, няв!"
+
+#. Key: ArcEveTK04_02
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ううう、なぜかニャニャッと魂がうずくニャス、
+#. JA:   なんだかわからないニャスが、このひらひらを――
+msgctxt "ArcEveTK04_02"
+msgid ""
+"Hmmm, I don't know why, but my soul is feeling antsy,\n"
+"meow... I don't know what it is, but I must..."
+msgstr ""
+"У-у-у, чомусь у Тао аж душа засвербіла, няв. Тао не знає,\n"
+"що це таке, але цю тріпотливу штуку..."
+
+#. Key: ArcEveTK04_03
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: このひらひらを倒せと轟き叫ぶニャス～～～！！！
+msgctxt "ArcEveTK04_03"
+msgid "...beat the crap out of this flappy thingy!"
+msgstr ""
+"...душа гримить і волає: «Здолай цю тріпотливу штуку,\n"
+"няв!!!»"
+
+#. Key: ArcEveTK04_04
+#. Speaker: Nu
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 対象・認識・自律モード・起動
+#. JA:   対象・認識・障害・認識・排除・容認……対象を障害と認識
+msgctxt "ArcEveTK04_04"
+msgid ""
+"Target recognized. Auto-mode: activated.\n"
+"Scanning: complete. IFF determined. Processing..."
+msgstr ""
+"Ціль ідентифіковано. Автономний режим активовано. Ціль\n"
+"ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"дозволено... Ціль ідентифіковано як перешкоду."
+
+#. Key: ArcEveTK04_05
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: みなぎってきたニャス～～～～！
+#. JA:   覚悟するニャス～～～～～～！！！
+msgctxt "ArcEveTK04_05"
+msgid ""
+"I'm feeling full of energy!\n"
+"Let's goooo!"
+msgstr "Тао аж розпирає від сили, ня-я-яв! Готуйся-я-я!!!"
+
+#. Key: ArcEveTK04_06
+#. Speaker: Nu
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 対象の殲滅を開始します
+msgctxt "ArcEveTK04_06"
+msgid "Begin termination."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveTK04_07
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ニャニャニャニャニャニャニャニャニャニャ～～～～～～
+msgctxt "ArcEveTK04_07"
+msgid "Meow meow meow meow meoooooow!"
+msgstr "Няв-няв-няв-няв-няв-няв-няв-няв-ня-я-я-яв!"
+
+#. Key: ArcEveTK05_00
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ふにゃぁああ……眠いニャス～でもお腹すいたニャス～～。
+msgctxt "ArcEveTK05_00"
+msgid "Mew... I'm sleepy... I'm hungry...meow..."
+msgstr ""
+"Мня-я-я... Тао хоче спати, няв... Але ще й їсти хочеться,\n"
+"ня-я-яв..."
+
+#. Key: ArcEveTK05_01_0
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: なんだか呼ばれていたような気がしないでもないけど
+msgctxt "ArcEveTK05_01_0"
+msgid "I feel like someone's calling me, but..."
+msgstr "Наче хтось кликав Тао, а може, й ні..."
+
+#. Key: ArcEveTK05_01_1
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: それはきっと、気のせい気のせいニャ～。
+msgctxt "ArcEveTK05_01_1"
+msgid "...it's probably just my imagination."
+msgstr "Та то, мабуть, лише здалося, няв."
+
+#. Key: ArcEveTK05_02
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ポカポカニャス～、グゴ～～～……。
+msgctxt "ArcEveTK05_02"
+msgid "Mew... Mewzzzzzzzz..."
+msgstr "Тепленько, няв... Хр-р-р..."
+
+#. Key: ArcEveTK05_03_0
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: タオ、タオ～！長老様が呼んでるわよ～！
+msgctxt "ArcEveTK05_03_0"
+msgid "Tao, Taaaooooo! The elder is calling for you!"
+msgstr "Тао! Тао-о-о! Тебе старійшина кличе!"
+
+#. Key: ArcEveTK05_03_1
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 大事なお話があるんだって！
+msgctxt "ArcEveTK05_03_1"
+msgid "She has something important to...tell you."
+msgstr "Каже, має до тебе важливу справу!"
+
+#. Key: ArcEveTK05_04
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: スニャ～、スニャ～。
+msgctxt "ArcEveTK05_04"
+msgid "ZZZzzzZZZZZ..."
+msgstr "Хр-няв... Хр-няв..."
+
+#. Key: ArcEveTK05_05
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: あらあら、こんな所で寝ちゃって……仕方ないわね。
+msgctxt "ArcEveTK05_05"
+msgid "So this is where she was... What am I going to do with her?"
+msgstr ""
+"Ой лишенько, заснула в такому місці... Що ж із тобою\n"
+"робити."
+
+#. Key: ArcEveTK05_06_0
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: ん～、でも確かにここ、陽が差していて気持ちいい。
+msgctxt "ArcEveTK05_06_0"
+msgid "But this is an awfully nice place, with the warm sun shining in..."
+msgstr "Хоча тут і справді так приємно: сонечко пригріває..."
+
+#. Key: ArcEveTK05_06_1
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 地下にこんな所があるなんて知らなかった――
+msgctxt "ArcEveTK05_06_1"
+msgid "I didn't know there was a place like this underground..."
+msgstr "Не знала, що під землею є таке місце..."
+
+#. Key: ArcEveTK05_07_0
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 生体兵器の末裔か。
+msgctxt "ArcEveTK05_07_0"
+msgid "The descendent of a living weapon, huh?"
+msgstr "Отже, вона — нащадок біологічної зброї."
+
+#. Key: ArcEveTK05_07_1
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 最強と呼ばれた生物から造られた割には、天使みたいな寝顔ね。
+msgctxt "ArcEveTK05_07_1"
+msgid "For a being of ultimate power, her face looks so angelic..."
+msgstr ""
+"А проте для створіння, виведеного з істоти, яку називали\n"
+"найсильнішою, спить вона просто як янголятко."
+
+#. Key: ArcEveTK05_08
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 六英雄の一人、「獣兵衛」か。会ってみたい気はするわね。
+msgctxt "ArcEveTK05_08"
+msgid "Jubei...one of the Six Heroes, huh?  I'd like to meet him."
+msgstr ""
+"Джубей — один із Шістьох Героїв... Хотілося б із ним\n"
+"зустрітися."
+
+#. Key: ArcEveTK05_09
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: あっ、そうだ、タオ。起きなさい！
+msgctxt "ArcEveTK05_09"
+msgid "Oh, right. Tao, wake up!"
+msgstr "Ой, точно. Тао, прокидайся!"
+
+#. Key: ArcEveTK05_10_0
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: 長老様が村の存命をかけた、賞金獲得一大プロジェクトの話があるっていってるの
+msgctxt "ArcEveTK05_10_0"
+msgid "The elder wants to talk to you about the plan to"
+msgstr ""
+"Старійшина хоче розповісти тобі про великий план\n"
+"здобуття винагороди, від якого залежить доля селища."
+
+#. Key: ArcEveTK05_10_1
+#. Speaker: Litchi
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: こら～。
+msgctxt "ArcEveTK05_10_1"
+msgid "get the prize money and save the village. Hey!"
+msgstr "Агов!"
+
+#. Key: ArcEveTK05_11_0
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: スニャ～スニャ～……
+msgctxt "ArcEveTK05_11_0"
+msgid "Mewwww Mewww...I'm so full,"
+msgstr "Хр-няв... Хр-няв..."
+
+#. Key: ArcEveTK05_11_1
+#. Speaker: Taokaka
+#. Source: system/ArcEveTK_ArcEveTK01 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK02 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK03 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK04 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Source: system/ArcEveTK_ArcEveTK05 (data/ETC/Text_Eng/ArcEveTK.pac)
+#. Context: Arcade event: Taokaka
+#. JA: もうおなかいっぱいニャ～……。
+msgctxt "ArcEveTK05_11_1"
+msgid "I can't eat anymore... Zzz..."
+msgstr "Тао вже наїлася досхочу, няв..."

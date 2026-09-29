@@ -1,0 +1,1095 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveJN01_00
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: 統制機構のジン＝キサラギと、お見受けするが相違ないか？
+msgctxt "ArcEveJN01_00"
+msgid "Jin Kisaragi from the Library, I presume?"
+msgstr ""
+"Як бачу, переді мною Джін Кісараґі з Організації\n"
+"Контролю. Чи не так?"
+
+#. Key: ArcEveJN01_01
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ん？……ああ、その奇妙な服はイカルガの――
+#. JA:   確か「ニンジャ」とかいったか。その忍者とやらが何の用だ？
+msgctxt "ArcEveJN01_01"
+msgid ""
+"Hmm?...Oh, those strange clothes...\n"
+"You must be from Ikaruga. A...\"ninja\", right?\n"
+"What does a ninja want with me?"
+msgstr ""
+"Гм?.. А, це дивне вбрання з Ікаруґи... Здається, вас\n"
+"називали «нінджя». Чого тобі від мене, нінджя?"
+
+#. Key: ArcEveJN01_02
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: ぬおおぉぉぉ～～！！い、いけしゃあしゃあといってくれる！！
+msgctxt "ArcEveJN01_02"
+msgid "Nuoooooooh! How dare you mock me!"
+msgstr ""
+"Нооо-о-о!! Я-як ти смієш говорити це з таким\n"
+"незворушним виглядом?!"
+
+#. Key: ArcEveJN01_03
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: 拙者の名はシシガミ＝バング！
+#. JA:   まさかこの顔の傷、見忘れたとはいわせんぞ！！
+msgctxt "ArcEveJN01_03"
+msgid ""
+"My name is Bang Shishigami!\n"
+"Don't tell me you've forgotten this face!"
+msgstr ""
+"Мене звати Банґ Шішіґамі! Тільки не кажи, що забув цей\n"
+"шрам на моєму обличчі!"
+
+#. Key: ArcEveJN01_04
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: 殿の遺言、かたくなに守り続けてきたが、
+#. JA:   お主を目の前にしておいそれと見逃すわけにはいかぬでござる！
+msgctxt "ArcEveJN01_04"
+msgid ""
+"I've tried to live my life by my master's last words...\n"
+"But now that I've seen you, I don't think I can do that\n"
+"anymore..."
+msgstr ""
+"Я непохитно дотримувався останньої волі мого володаря,\n"
+"та коли ти стоїш переді мною, я не можу просто дозволити\n"
+"тобі піти!"
+
+#. Key: ArcEveJN01_05
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: 殿っ、申し訳ございませんっっっ！！！！
+msgctxt "ArcEveJN01_05"
+msgid "Forgive me, Master!"
+msgstr "Мій володарю, пробачте мені!!!"
+
+#. Key: ArcEveJN01_06
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: 「人を憎むな悪を憎め」というこの誓い、
+#. JA:   今ここで、破らせて頂きます！！！
+msgctxt "ArcEveJN01_06"
+msgid ""
+"My last vow to you...\"Don't hate people...hate evil\"...\n"
+"I'm afraid I'll have to break it today!"
+msgstr ""
+"«Ненавидь не людину, а зло» — нині я порушу цю\n"
+"клятву!!!"
+
+#. Key: ArcEveJN01_07
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: カグツチの努力と根性を守る使者！
+#. JA:   悪に屈せぬ男「シシガミ＝バング」、ここに見参！！
+msgctxt "ArcEveJN01_07"
+msgid ""
+"I am the protector of Kagutsuchi's soul!\n"
+"I, Bang Shishigami, will not let evil pass by!"
+msgstr ""
+"Посланець, що береже завзяття й незламний дух Каґуцучі!\n"
+"Банґ Шішіґамі — муж, що не скориться злу, — прибув!!"
+
+#. Key: ArcEveJN01_08
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: ここで会ったが、１００万光年！！殿の仇討たせていただく！！
+msgctxt "ArcEveJN01_08"
+msgid ""
+"Haha, I will not miss this opportunity!\n"
+"My master's death will be avenged!"
+msgstr ""
+"Цієї зустрічі я чекав мільйон світлових років!! Я помщуся\n"
+"за мого володаря!"
+
+#. Key: ArcEveJN01_09
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: ジン＝キサラギ！正義の名の下にお主をぶっ飛ばす！！！
+msgctxt "ArcEveJN01_09"
+msgid "Jin Kisaragi! In the name of justice, I must destroy you!"
+msgstr ""
+"Джіне Кісараґі! Іменем справедливості я відправлю тебе в\n"
+"політ!!!"
+
+#. Key: ArcEveJN01_10
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: うるさいぞ貴様。
+msgctxt "ArcEveJN01_10"
+msgid "Do you ever shut up?"
+msgstr "Замовкни вже."
+
+#. Key: ArcEveJN01_11
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Jin
+#. JA: ぐはっ、殿、無念で、ござる……ガク。
+msgctxt "ArcEveJN01_11"
+msgid "Gugh! Master...I'm...sorry..."
+msgstr "Ґха... Мій володарю... Я не зміг... Кх."
+
+#. Key: ArcEveJN01_12
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ふん、障害にもならない屑が。
+msgctxt "ArcEveJN01_12"
+msgid "Hmph. What a waste of time."
+msgstr "Хм. Непотріб, навіть перешкода марна."
+
+#. Key: ArcEveJN02_00
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: キサラギ少佐！
+msgctxt "ArcEveJN02_00"
+msgid "Major Kisaragi!"
+msgstr "Майоре Кісараґі!"
+
+#. Key: ArcEveJN02_01
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 貴様か。何の用だヴァーミリオン少尉。
+msgctxt "ArcEveJN02_01"
+msgid "Oh, it's you. What do you want, Lieutenant Vermillion?"
+msgstr "А, це ти. Що тобі треба, лейтенантко Верміліон?"
+
+#. Key: ArcEveJN02_02
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: 少佐は重大な命令違反を犯しています。
+#. JA:   今なら不問に付すというのが統合本部からの意向です。
+#. JA:   ですから、至急隊にお戻りください。
+msgctxt "ArcEveJN02_02"
+msgid ""
+"Major, you've disobeyed a direct order. Headquarters said\n"
+"they will overlook this incident if you return to your post\n"
+"right now. So, sir, please...!"
+msgstr ""
+"Майоре, ви грубо порушили наказ. Об'єднаний штаб каже,\n"
+"що, якщо повернетеся зараз, вас навіть не каратимуть.\n"
+"Тому, будь ласка, негайно поверніться до загону."
+
+#. Key: ArcEveJN02_03
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+msgctxt "ArcEveJN02_03"
+msgid "..."
+msgstr "..."
+
+#. Key: ArcEveJN02_04
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: 少佐は師団長であり英雄という
+#. JA:   非常に重要な立場のお方です。
+#. JA:   隊を混乱させるようなことをなさっては――。
+msgctxt "ArcEveJN02_04"
+msgid ""
+"You're a war hero with a very important position. \n"
+"If you don't go back, you could be tried as a deserter. \n"
+"Your trial would cause an uproar in the Librarium."
+msgstr ""
+"Майоре, ви командир дивізії та герой — людина, яка\n"
+"обіймає вкрай важливу посаду. Ви не повинні сіяти безлад\n"
+"у військах..."
+
+#. Key: ArcEveJN02_05
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: それに、今回の任務は本来私に下されたもののはずです。
+#. JA:   なぜ少佐がカグツチへ
+msgctxt "ArcEveJN02_05"
+msgid ""
+"And...this particular mission was assigned to me.\n"
+"Why are you here in Kagutsuchi, Major...?"
+msgstr ""
+"До того ж це завдання мали доручити мені. Чому ви\n"
+"прибули до Каґуцучі, майоре?"
+
+#. Key: ArcEveJN02_06
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 黙れ、この「障害」。
+msgctxt "ArcEveJN02_06"
+msgid "Get out of my way."
+msgstr "Замовкни, «перешкодо»."
+
+#. Key: ArcEveJN02_07
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: え？少佐、何を。
+msgctxt "ArcEveJN02_07"
+msgid "Eh? Major, what are you...?"
+msgstr "П-пане майоре... Що ви...?"
+
+#. Key: ArcEveJN02_08
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 貴様はなんだ……貴様は、貴様はなんだ？
+#. JA:   貴様はなんなんだ？貴様はなんなんだ！！
+msgctxt "ArcEveJN02_08"
+msgid "Who... Who... Who the hell do you think you are!?"
+msgstr ""
+"Що ти таке...? Ти... ти що таке? Що ти таке? ЩО ТИ,\n"
+"БЛЯТЬ, ТАКЕ?!"
+
+#. Key: ArcEveJN02_09
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: ……少佐？
+msgctxt "ArcEveJN02_09"
+msgid "...Major?"
+msgstr "...Майоре?"
+
+#. Key: ArcEveJN02_10
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: おまえ　しね。
+msgctxt "ArcEveJN02_10"
+msgid "Why don't you just...go die...?"
+msgstr "Ти. Помри."
+
+#. Key: ArcEveJN02_11
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: やめてくださいっ、っくぅ。
+msgctxt "ArcEveJN02_11"
+msgid "S-Stop it...sir...!"
+msgstr "Припиніть... Кх..."
+
+#. Key: ArcEveJN02_12
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 屑が、屑が、屑が！！消えろ、この障害……ん？
+msgctxt "ArcEveJN02_12"
+msgid ""
+"You trash... Scum! Get out of my way!\n"
+"...Hm?"
+msgstr "Сміття, сміття, сміття!! Зникни, клята «перешкодо»... Гм?"
+
+#. Key: ArcEveJN02_13
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: しょ、少佐……。
+msgctxt "ArcEveJN02_13"
+msgid "M-Ma...jor..."
+msgstr "М-майоре..."
+
+#. Key: ArcEveJN02_14
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ああ、そっちにいたのか――。
+msgctxt "ArcEveJN02_14"
+msgid "Oh, that's where you were..."
+msgstr "А, ось де ти..."
+
+#. Key: ArcEveJN03_00
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Jin
+#. JA: はぁっ、はぁっ……。
+msgctxt "ArcEveJN03_00"
+msgid "Haah... Haah..."
+msgstr "Ха... ха..."
+
+#. Key: ArcEveJN03_01
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 不思議な空間だ。まるで全てが止まっているようだ。
+msgctxt "ArcEveJN03_01"
+msgid ""
+"This is an odd place...\n"
+"It's like time has completely stopped."
+msgstr "Дивний простір. Наче все завмерло."
+
+#. Key: ArcEveJN03_02
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Jin
+#. JA: ！？っテメェ！！
+msgctxt "ArcEveJN03_02"
+msgid ""
+"!?\n"
+"You bastard!"
+msgstr "!? Ти!!"
+
+#. Key: ArcEveJN03_03
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: いきなり斬りかかってくるなんてひどいじゃないか。
+#. JA:   あれ、怪我をしてるようだけど大丈夫？
+msgctxt "ArcEveJN03_03"
+msgid ""
+"That was pretty harsh, just attacking me like that...\n"
+"Hm? You look injured... Are you OK?"
+msgstr ""
+"Одразу кидатися з мечем — хіба не жорстоко? А ти, схоже,\n"
+"поранений. Усе гаразд?"
+
+#. Key: ArcEveJN03_04
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: まったく、久しぶりだっていうのに、
+#. JA:   相変わらず無茶してばかりだね、兄さん。
+msgctxt "ArcEveJN03_04"
+msgid ""
+"It's been a long time, hasn't it?\n"
+"You're reckless as always, Brother."
+msgstr ""
+"Ми ж так давно не бачилися, а ти й досі тільки й робиш,\n"
+"що лізеш напролом, братику."
+
+#. Key: ArcEveJN03_05
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Jin
+#. JA: なんでテメェがここにいやがる、ジン！！
+msgctxt "ArcEveJN03_05"
+msgid "Why the hell are you here, Jin!?"
+msgstr "Якого біса ти тут робиш, Джіне?!"
+
+#. Key: ArcEveJN03_06
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: なんで？そんなの、兄さんに会いに来たに決まってるじゃないか。
+#. JA:   ……くくく……くく……ははははは。
+msgctxt "ArcEveJN03_06"
+msgid ""
+"\"Why\"? I thought that was obvious: to see you, Brother!\n"
+"...Heheh...haha...ahahaha!"
+msgstr ""
+"Якого? Звісно ж, прийшов побачитися з тобою, братику.\n"
+"...Хе-хе... хе... ха-ха-ха-ха!"
+
+#. Key: ArcEveJN03_07
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Jin
+#. JA: 何がおかしい！
+msgctxt "ArcEveJN03_07"
+msgid "What's so funny!?"
+msgstr "Що тут смішного?!"
+
+#. Key: ArcEveJN03_08
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 嬉しいんだ、兄さんが生きてるなんて、
+#. JA:   また会えて、また”殺せる”なんて！
+msgctxt "ArcEveJN03_08"
+msgid ""
+"Oh, I'm just happy you're alive...\n"
+"Now I get to kill you again!"
+msgstr ""
+"Я просто щасливий, що ти живий, братику. Ми знову\n"
+"зустрілися... і я знову можу тебе «вбити»!"
+
+#. Key: ArcEveJN03_09
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 駄目だよ兄さん、そんなんじゃ全然楽しめないよ。
+msgctxt "ArcEveJN03_09"
+msgid "No... Brother, that wasn't fun at all!"
+msgstr "Так не годиться, братику. З тобою зовсім не весело."
+
+#. Key: ArcEveJN03_10
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Jin
+#. JA: やべぇ、あのお面野郎につけられた傷、全然治らねぇぞ。
+msgctxt "ArcEveJN03_10"
+msgid ""
+"Damn it... The wounds from that asshole in the mask\n"
+"aren't healing..."
+msgstr "Лайно... Рани від тієї паскуди в масці зовсім не гояться."
+
+#. Key: ArcEveJN03_11
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 兄さん、まだ全然足りないよ。もっと、もっと楽しもうよ――
+msgctxt "ArcEveJN03_11"
+msgid "Brother...this isn't enough... I need more than that..."
+msgstr ""
+"Братику, цього й близько не досить. Нумо ще, ще\n"
+"повеселимося..."
+
+#. Key: ArcEveJN03_12
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Jin
+#. JA: クソが……！
+msgctxt "ArcEveJN03_12"
+msgid "You piece of shit...!"
+msgstr "Паскуда...!"
+
+#. Key: ArcEveJN03_13
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+msgctxt "ArcEveJN03_13"
+msgid "!?"
+msgstr "!?"
+
+#. Key: ArcEveJN03_14
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Jin
+msgctxt "ArcEveJN03_14"
+msgid "!?"
+msgstr "!?"
+
+#. Key: ArcEveJN04_00
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Jin
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveJN04_00"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveJN04_01
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 何者だ？
+msgctxt "ArcEveJN04_01"
+msgid "Who are you?"
+msgstr "Ти хто?"
+
+#. Key: ArcEveJN04_02
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Jin
+#. JA: 対象・認識・自律モード・起動
+msgctxt "ArcEveJN04_02"
+msgid "Scanning: complete. Auto-mode: confirmed."
+msgstr "Ціль ідентифіковано. Автономний режим активовано."
+
+#. Key: ArcEveJN04_03
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ユキアネサが反応している？
+#. JA:   くっ、何かが、流れ込んでくる――情報？いや、これは記憶？
+msgctxt "ArcEveJN04_03"
+msgid ""
+"Yukianesa is reacting...\n"
+"Hurgh... Something's...something's flowing into me...\n"
+"...Information? No...these are...memories..."
+msgstr ""
+"Юкіанеса реагує? Кх, щось вливається в мене...\n"
+"Інформація? Ні, це... спогади?"
+
+#. Key: ArcEveJN04_04
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Jin
+#. JA: 対象・認識・障害・認識・排除・容認……
+#. JA:   対象を障害と認識、排除を実行します
+msgctxt "ArcEveJN04_04"
+msgid ""
+"Scanning: complete. IFF determined. Processing...\n"
+"Subject is hostile. Activate termination protocol."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"схвалено... Ціль ідентифіковано як перешкоду. Розпочинаю\n"
+"усунення."
+
+#. Key: ArcEveJN04_05
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ああ、そうか、そうなのか。
+#. JA:   これか、こいつなのか……貴様が、「敵」か！！
+msgctxt "ArcEveJN04_05"
+msgid ""
+"Oh... I see...\n"
+"So that's what you are... You...are the enemy!"
+msgstr ""
+"Он як... Ось воно що... Тепер усе зрозуміло! То це ти...\n"
+"«ворог»!!!"
+
+#. Key: ArcEveJN04_06
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: チッ！！どうなっているんだ！？
+msgctxt "ArcEveJN04_06"
+msgid "Gah! What's going on!?"
+msgstr "Тц!! Що відбувається?!"
+
+#. Key: ArcEveJN04_07
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Jin
+#. JA: すぐに会えるわ。またね、「えいゆう」さん。
+msgctxt "ArcEveJN04_07"
+msgid "Until we meet again. Good-bye, Mr. Hero."
+msgstr "Скоро ти з ним зустрінешся. Бувай, пане «герою»."
+
+#. Key: ArcEveJN04_08
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: なんだと！？あいつはどこだ！
+#. JA:   兄さんは、兄さんは！？貴様――――――――――！！
+msgctxt "ArcEveJN04_08"
+msgid ""
+"What!? Where is he!?\n"
+"Brother... Brother...!? You bastard!"
+msgstr "Що?! Де він?! Братику... Де братик?! Ах ти ж...!!"
+
+#. Key: ArcEveJN05_00
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ふう、やはりここが一番落ち着く。
+msgctxt "ArcEveJN05_00"
+msgid "Hmm...This is the only place I can feel relaxed anymore."
+msgstr "Фух... Тут таки найспокійніше."
+
+#. Key: ArcEveJN05_01_0
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 当たり障りのない振る舞いは面倒なだけだし
+msgctxt "ArcEveJN05_01_0"
+msgid "Trying to act nice around others isn't my forte,"
+msgstr "Удавати люб'язність з усіма — лише зайвий клопіт."
+
+#. Key: ArcEveJN05_01_1
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: それに人が多いのは苦手だよ兄さん
+msgctxt "ArcEveJN05_01_1"
+msgid "and I'm not really good around crowds of people either...Brother."
+msgstr "Та й натовпу я не люблю, братику."
+
+#. Key: ArcEveJN05_01_2
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ……なんだ？
+msgctxt "ArcEveJN05_01_2"
+msgid "...Hm?"
+msgstr "...Гм?"
+
+#. Key: ArcEveJN05_02
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: す、すみませ～～～～ん、それ私のです～～～～。
+msgctxt "ArcEveJN05_02"
+msgid "I'm sorry... That's mine..."
+msgstr "П-перепрошую-ю-ю! Це моє-є-є!"
+
+#. Key: ArcEveJN05_03_0
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ん？　あ、ああ、これか。
+msgctxt "ArcEveJN05_03_0"
+msgid "Hm? Oh, this?"
+msgstr "Гм? А-а, це?"
+
+#. Key: ArcEveJN05_03_1
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: ここは急に強い風が吹くことがあるから、気をつけて。
+msgctxt "ArcEveJN05_03_1"
+msgid "It can get really windy here, so you should be careful."
+msgstr "Тут іноді раптово здіймається вітер. Будь обережна."
+
+#. Key: ArcEveJN05_04
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 君は、新入生か？
+msgctxt "ArcEveJN05_04"
+msgid "Are you new here?"
+msgstr "Ти новенька?"
+
+#. Key: ArcEveJN05_05
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: はあ、はあ……あ、ありがとうございます。
+msgctxt "ArcEveJN05_05"
+msgid "Y-Yes... Thank you very much."
+msgstr "Ха... ха... Д-дякую вам."
+
+#. Key: ArcEveJN05_06_0
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: あ、あの、私、ノエル＝ヴァーミリオンといいます。
+msgctxt "ArcEveJN05_06_0"
+msgid "U-Um... My name is Noel Vermillion... A first year."
+msgstr "Е-е-е... Мене звати Ноель Верміліон."
+
+#. Key: ArcEveJN05_06_1
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: 今年士官学校に入学しました１学年です、よろしくお願いします。
+msgctxt "ArcEveJN05_06_1"
+msgid "I joined the Military Academy this year. P-Pleased to meet you."
+msgstr ""
+"Цього року я вступила до Військової академії, на перший\n"
+"курс. Рада знайомству."
+
+#. Key: ArcEveJN05_07
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 僕はジン＝キサラギ、３学年だ、よろしく。
+msgctxt "ArcEveJN05_07"
+msgid "I'm Jin Kisaragi, a third year. Nice to meet you."
+msgstr "Я Джін Кісараґі, третьокурсник. Радий знайомству."
+
+#. Key: ArcEveJN05_08_0
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: で、ヴァーミリオン君だったよね？
+msgctxt "ArcEveJN05_08_0"
+msgid "Um... Miss Vermillion, was it?"
+msgstr "Тебе ж звати Верміліон, так?"
+
+#. Key: ArcEveJN05_08_1
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 顔を上げないで挨拶するのは失礼じゃないかな？
+msgctxt "ArcEveJN05_08_1"
+msgid "Isn't it a little rude to look at the ground when you greet people?"
+msgstr "Хіба не неввічливо вітатися, не підводячи голови?"
+
+#. Key: ArcEveJN05_09
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: あ！すみません、すみません。
+msgctxt "ArcEveJN05_09"
+msgid "Ah! I'm sorry... I'm so sorry!"
+msgstr "А! Перепрошую, перепрошую."
+
+#. Key: ArcEveJN05_10
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+msgctxt "ArcEveJN05_10"
+msgid "!?"
+msgstr "!?"
+
+#. Key: ArcEveJN05_11_0
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: あ、あ、あの、あの、すみませんキサラギ先輩
+msgctxt "ArcEveJN05_11_0"
+msgid "U-U-Umm... I'm very sorry, uh, Jin..."
+msgstr "Е-е-е... В-вибачте, старшокурснику Кісараґі..."
+
+#. Key: ArcEveJN05_11_1
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Jin
+#. JA: それ、返していただけませんか？
+msgctxt "ArcEveJN05_11_1"
+msgid "...but...could you give that back?"
+msgstr "Ви не могли б повернути мені це?"
+
+#. Key: ArcEveJN05_12
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: え？あ、ああ、すまない。
+msgctxt "ArcEveJN05_12"
+msgid "Huh? O-Oh...right. Here you go."
+msgstr "Що? А, так. Вибач."
+
+#. Key: ArcEveJN05_13
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: なんだ？何者だ、あの女。
+msgctxt "ArcEveJN05_13"
+msgid "Who the hell is that girl?"
+msgstr "Що?.. Хто в біса та жінка?"
+
+#. Key: ArcEveJN05_14_0
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: 似てるなどという話ではない、あれはそのままじゃないか。
+msgctxt "ArcEveJN05_14_0"
+msgid "Saying they look like twins would be an understatement..."
+msgstr ""
+"Не можна сказати, що вони просто схожі. Вона —\n"
+"точнісінько та сама."
+
+#. Key: ArcEveJN05_14_1
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: くそっ、せっかく忘れていたのに
+msgctxt "ArcEveJN05_14_1"
+msgid "That girl looks just like her. Damn."
+msgstr "Чорт, я ж нарешті почав забувати..."
+
+#. Key: ArcEveJN05_14_2
+#. Source: system/ArcEveJN_ArcEveJN01 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN02 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN03 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN04 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Source: system/ArcEveJN_ArcEveJN05 (data/ETC/Text_Eng/ArcEveJN.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Jin
+#. JA: イライラする……。
+msgctxt "ArcEveJN05_14_2"
+msgid "Just when I was beginning to forget... How frustrating."
+msgstr "Як же це дратує..."

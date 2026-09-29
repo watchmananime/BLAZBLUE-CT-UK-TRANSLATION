@@ -1,0 +1,1809 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: Win_RG_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Ragna
+#. JA: 物好きな奴もいるこった。
+#. JA:   図書館の奴らにぶっ殺されても俺は知らねぇからな。
+msgctxt "Win_RG_RG"
+msgid ""
+"That's a pretty messed up hobby you got there.\n"
+"Don't blame me if the guys from the Library kick your ass."
+msgstr ""
+"Ну й дивак. Якщо хлопці з Бібліотеки тебе прикінчать, я\n"
+"тут ні до чого."
+
+#. Key: Win_RG_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Jin
+#. JA: ジン……テメェだけは許さねぇ。
+#. JA:   苦しんで死ねといいてぇとこだが黙ってれば一瞬で殺してやる。顔あげろ。
+msgctxt "Win_RG_JN"
+msgid ""
+"I'll never forgive you, you son of a bitch. I was gonna\n"
+"tell you to die a slow, painful death, but I don't got\n"
+"the patience to wait around, so you're dying now."
+msgstr ""
+"Джіне... Кого-кого, а тебе я не пробачу. Я б волів, щоб ти\n"
+"здох у муках, але якщо мовчатимеш, уб'ю миттю.\n"
+"Підніми голову."
+
+#. Key: Win_RG_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Noel
+#. JA: 悪ぃ、アンタの顔、なんかみてられねぇんだよ。
+msgctxt "Win_RG_NO"
+msgid "Sorry. I just can't stand your face."
+msgstr "Пробач, але я просто не можу дивитися на твоє обличчя."
+
+#. Key: Win_RG_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Rachel
+#. JA: なんだ？二階席からのご観覧はもう飽きましたってか？
+msgctxt "Win_RG_RC"
+msgid "What's this? Got tired of watching the fights  from the box seats?"
+msgstr "Що таке? Набридло дивитися з ложі на другому ярусі?"
+
+#. Key: Win_RG_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Taokaka
+#. JA: だから、俺は忙しいの！急いでんの！金もねぇっつってんの！
+#. JA:   だから物欲しそうな目でみるなって。
+msgctxt "Win_RG_TK"
+msgid ""
+"I told you! I'm busy, I'm in a hurry, and I don't have any money!\n"
+"...So stop looking at me with those eyes."
+msgstr ""
+"Кажу ж: я зайнятий! Я поспішаю! І грошей у мене немає!\n"
+"Тож годі дивитися на мене такими жадібними очима."
+
+#. Key: Win_RG_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Tager
+#. JA: テメェみたいなの苦手。パス。
+msgctxt "Win_RG_TG"
+msgid ""
+"You're not really my type, man.\n"
+"Sorry, but I'm gonna have to pass."
+msgstr "Таких, як ти, я не переношу. Пас."
+
+#. Key: Win_RG_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Litchi
+#. JA: ったく、今日はとんだ厄日だな。
+#. JA:   知らねぇ姉ちゃんに棒向けられる覚えなんてさらさらないぞ？
+msgctxt "Win_RG_LC"
+msgid ""
+"Boy, today must really not be my day...\n"
+"What did I do to make a lady want to kill me?"
+msgstr ""
+"От халепа, сьогодні справді не мій день. Не пригадую,\n"
+"щоб давав якійсь незнайомій панянці привід наставляти\n"
+"на мене палицю."
+
+#. Key: Win_RG_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Arakune
+#. JA: あぁぁ、きもちわり～！マジでテンション下がる。もう近寄らないでくれよ。
+msgctxt "Win_RG_AR"
+msgid ""
+"Ugh... Dude, seriously, you're freakin' me out...\n"
+"Don't... Don't get close to me... Please."
+msgstr ""
+"У-у-у, гидота! Аж настрій зіпсувався. Більше до мене не\n"
+"наближайся."
+
+#. Key: Win_RG_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Bang
+#. JA: こんな奴にまで追われるなんて……。かったりぃな、まじで。
+msgctxt "Win_RG_BN"
+msgid ""
+"Even freaks like this guy are after me? \n"
+"What did I do to deserve this...?"
+msgstr "Навіть це чудо за мною женеться... От же морока."
+
+#. Key: Win_RG_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Carl
+#. JA: ガキを殴る趣味はねぇよ、さっさと帰んな。
+msgctxt "Win_RG_CA"
+msgid ""
+"I'm not into beating up kids... \n"
+"Why don't you just run on home?"
+msgstr "Не люблю бити дітей. Забирайся вже додому."
+
+#. Key: Win_RG_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Hakumen
+#. JA: くっ、なんてバケモンだ！ったく、ギリギリもいいところだぜ……！！
+msgctxt "Win_RG_HA"
+msgid ""
+"Guh... This guy's a monster...! \n"
+"Damn, talk about cutting it close...!"
+msgstr "Кх... Оце чудовисько! Чорт, я ледве впорався...!"
+
+#. Key: Win_RG_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Ragna
+#. Context: Victory quote: Ragna defeated Nu
+#. JA: なんだ、この感覚。俺は勝ったのか？
+#. JA:   負けたのか？くそ、意識が……畜生――。
+msgctxt "Win_RG_NY"
+msgid ""
+"What's this strange feeling...? Did I win? Or lose?\n"
+"Goddammit... I feel like...I'm losing it... Shit..."
+msgstr ""
+"Що це за відчуття? Я переміг? Чи програв? Чорт, голова\n"
+"паморочиться... трясця..."
+
+#. Key: Win_JN_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Ragna
+#. JA: 楽しいよ兄さん。さあもっと楽しもうよ……。
+msgctxt "Win_JN_RG"
+msgid "This is so much fun, Brother. Why stop now?"
+msgstr "Як же весело, братику. Нумо, повеселімося ще..."
+
+#. Key: Win_JN_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Jin
+#. JA: 何を考えている？
+#. JA:   その程度で僕の名を、姿を騙れるとでも思っていたのか？浅はかな。
+msgctxt "Win_JN_JN"
+msgid ""
+"What were you thinking!?\n"
+"Did you honestly think you could impersonate me? \n"
+"How pitiful."
+msgstr ""
+"Про що ти думав? Невже гадав, що з такими\n"
+"жалюгідними здібностями зможеш привласнити моє ім'я\n"
+"й подобу? Наївний."
+
+#. Key: Win_JN_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Noel
+#. JA: 屑が、失せろ。
+msgctxt "Win_JN_NO"
+msgid "Scum... Get out of my sight!"
+msgstr "Сміття. Геть із моїх очей."
+
+#. Key: Win_JN_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Rachel
+#. JA: 妙に知った口の利き方だな、生意気な小娘が。
+msgctxt "Win_JN_RC"
+msgid ""
+"What an arrogant little girl.\n"
+"Acting like she knows everything..."
+msgstr "Говориш так, наче все знаєш. Нахабне дівчисько."
+
+#. Key: Win_JN_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Taokaka
+#. JA: 本能だけで戦うということがいかに効率が悪いことか、その身をもって知るがいい。
+msgctxt "Win_JN_TK"
+msgid ""
+"I hope you've learned how ineffective it is\n"
+"to rely on your instincts alone."
+msgstr ""
+"На власній шкурі затям, наскільки неефективно битися,\n"
+"покладаючись лише на інстинкти."
+
+#. Key: Win_JN_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Tager
+#. JA: 力に頼った戦闘スタイルなど、恐るるに足らん。
+#. JA:   これが第七機関の兵器とは笑わせる。
+msgctxt "Win_JN_TG"
+msgid ""
+"A fighting style that relies completely on strength... \n"
+"...Not even worth mentioning. And you are supposed to\n"
+"be Sector Seven's secret weapon? What a joke."
+msgstr ""
+"Стиль бою, що тримається на самій силі, мене не лякає. І\n"
+"це зброя Сектора Сім? Сміхота."
+
+#. Key: Win_JN_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Litchi
+#. JA: 遠隔操作できる武器とは考えたものだが、
+#. JA:   常にどちらかがおざなりになっているようだな。造作もなく崩せるぞ。
+msgctxt "Win_JN_LC"
+msgid ""
+"I see you've put some thought into fighting with a\n"
+"long weapon, but you need to work on your defense.\n"
+"I can take you down without even trying."
+msgstr ""
+"Дистанційно керована зброя — непогана ідея, але ти\n"
+"щоразу забуваєш прикриватися. Таку оборону зламати\n"
+"простіше простого."
+
+#. Key: Win_JN_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Arakune
+#. JA: 貴様などに興味はない。失せろ。
+msgctxt "Win_JN_AR"
+msgid "I'm not interested in you. Out of my way."
+msgstr "Ти мене не цікавиш. Згинь."
+
+#. Key: Win_JN_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Bang
+#. JA: その服はイカルガの民だな。おおかた復讐といったところか。はっ、くだらん。
+msgctxt "Win_JN_BN"
+msgid ""
+"Those strange clothes... You must be from Ikaruga. \n"
+"I'm guessing you're here for revenge... How pitiful."
+msgstr ""
+"Судячи з одягу, ти з народу Ікаруґи. Певно, прийшов\n"
+"мститися. Ха, яка дурня."
+
+#. Key: Win_JN_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Carl
+#. JA: 資質はあったのに残念だ、傀儡に操られた軟弱者に用はない。
+msgctxt "Win_JN_CA"
+msgid ""
+"You had potential at the academy. What a waste...\n"
+"But I have no business with weaklings or puppets."
+msgstr ""
+"Шкода, задатки в тебе були. Мені нема діла до\n"
+"слабкодухого, яким попихає лялька."
+
+#. Key: Win_JN_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Hakumen
+#. JA: 何者だ……貴様。
+msgctxt "Win_JN_HA"
+msgid "Who the hell...are you?"
+msgstr "Хто ти такий...?"
+
+#. Key: Win_JN_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Jin
+#. Context: Victory quote: Jin defeated Nu
+#. JA: 二度と兄さんに近づけないよう、ここで終わりにしてやる。
+msgctxt "Win_JN_NY"
+msgid ""
+"I'll finish you right here, so you can\n"
+"never lay a finger on my brother."
+msgstr ""
+"Я покладу тобі край тут і зараз, щоб ти більше ніколи не\n"
+"наблизилася до братика."
+
+#. Key: Win_NO_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Ragna
+#. JA: なぜ、なぜ手を抜くのですか？私を馬鹿にしているのですか！？
+msgctxt "Win_NO_RG"
+msgid ""
+"Why...? Why are you holding back?\n"
+"Are you mocking me!?"
+msgstr "Чому... чому ви стримуєтеся? Ви з мене глузуєте?!"
+
+#. Key: Win_NO_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Jin
+#. JA: 少佐、統合本部直々の命です。今すぐ帰還してください。
+msgctxt "Win_NO_JN"
+msgid ""
+"Major, this is a direct order from HQ. \n"
+"Please return to your post right now."
+msgstr ""
+"Майоре, це прямий наказ Об'єднаного штабу. Негайно\n"
+"поверніться."
+
+#. Key: Win_NO_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Noel
+#. JA: わ、私の偽者！？少佐の部下ともなると少しは有名になるのかな。
+msgctxt "Win_NO_NO"
+msgid ""
+"A-An imposter!? I guess working under the major\n"
+"has made me a little famous..."
+msgstr ""
+"М-моя двійниця?! Мабуть, служба під командуванням\n"
+"майора принесла мені хоч трохи слави."
+
+#. Key: Win_NO_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Rachel
+#. JA: あなたは誰ですか？どこかであったような気がするんです。
+msgctxt "Win_NO_RC"
+msgid ""
+"Who are you?\n"
+"I don't feel like this is the first time that we've met..."
+msgstr "Хто ви? Мені здається, ніби ми десь уже зустрічалися."
+
+#. Key: Win_NO_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Taokaka
+#. JA: あの、お願いですから舐めまわさないでください！
+#. JA:   わ、私が勝ったはずなのに……。
+msgctxt "Win_NO_TK"
+msgid ""
+"U-Um... Please don't mock me!\n"
+"I-I was supposed to be the winner..."
+msgstr ""
+"Ем... прошу, не облизуйте мене всю! Я ж н-наче\n"
+"перемогла..."
+
+#. Key: Win_NO_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Tager
+#. JA: 第七機関の赤鬼。噂には聞いていましたが恐るべき力ですね。
+msgctxt "Win_NO_TG"
+msgid ""
+"The Red Devil of Sector Seven... \n"
+"I've heard the rumors about you.\n"
+"I see now that they weren't exaggerations."
+msgstr ""
+"Червоний демон Сектора Сім... Я чула про вас. Яка\n"
+"страхітлива сила."
+
+#. Key: Win_NO_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Litchi
+#. JA: あ、あなたは、色々な意味で卑怯です！
+#. JA:   でも、も、もしよろしければお話を聞かせてください！
+#. JA:   あと出来ればパンダさん触らせてください。え、えと……これは命令、です。
+msgctxt "Win_NO_LC"
+msgid ""
+"Y-You're cheating! ...In many ways!\n"
+"B-But, I'd like to sit down and talk sometime.\n"
+"Do you think I could touch your...panda? U-Um, that's an order!"
+msgstr ""
+"В-ви граєте нечесно! Але, я-якщо не заперечуєте, я хотіла\n"
+"б із вами поговорити! І ще, якщо можна, погладити\n"
+"панду. Е-е... це наказ."
+
+#. Key: Win_NO_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Arakune
+#. JA: む、虫！いやああああ！お願いです、これ以上、寄らないで――。（バタッ…）
+msgctxt "Win_NO_AR"
+msgid ""
+"B-B-Bugs! Noooooo! \n"
+"Please...don't come any closer!"
+msgstr ""
+"К-комахи! Ні-і-і-і! Прошу, більше не наближайтеся...\n"
+"(Гуп...)"
+
+#. Key: Win_NO_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Bang
+#. JA: 世の中には色々な人がいるのですね、はじめて見た人種です。
+#. JA:   興奮度が違うというか、暑苦しいというか。
+msgctxt "Win_NO_BN"
+msgid ""
+"I guess there are lots of different people in the  world.\n"
+"I've never seen anyone like you. You're really enthusiastic.\n"
+"Maybe a little too enthusiastic..."
+msgstr ""
+"У світі стільки різних людей... Такого типу я ще не\n"
+"зустрічала. Стільки запалу... але трохи душно."
+
+#. Key: Win_NO_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Carl
+#. JA: カルル君、これも規則なんです。
+#. JA:   あなたも咎追いとしての立場を理解してください。
+msgctxt "Win_NO_CA"
+msgid ""
+"Carl...these are the rules...\n"
+"You have to understand what your position as a vigilante means..."
+msgstr ""
+"Карле, це правила. Ви також повинні розуміти своє\n"
+"становище як мисливця за головами."
+
+#. Key: Win_NO_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Hakumen
+#. JA: 強い、一瞬も気が抜けませんでした。さすがは六英雄ということですか。
+msgctxt "Win_NO_HA"
+msgid ""
+"You're strong... \n"
+"I can't let my guard down around you at all."
+msgstr ""
+"Який сильний... Я ні на мить не могла розслабитися. Ось\n"
+"що означає бути одним із Шістьох Героїв."
+
+#. Key: Win_NO_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Noel
+#. Context: Victory quote: Noel defeated Nu
+#. JA: あなた、一体何者なの？くっ……私、混乱してる。
+msgctxt "Win_NO_NY"
+msgid ""
+"Just...who are you...?\n"
+"Guh... I'm...confused..."
+msgstr "Хто ти взагалі така? Кх... Я вже нічого не розумію."
+
+#. Key: Win_RC_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Ragna
+#. JA: その愚鈍さ呆れ返るわね。いつまでも地面を這い回っているがいいわ。
+msgctxt "Win_RC_RG"
+msgid ""
+"Your stupidity truly boggles the mind.\n"
+"You belong on the ground, worm."
+msgstr "Твоя тупість просто вражає. Так і повзай довіку по землі."
+
+#. Key: Win_RC_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Jin
+#. JA: きれいなお顔が台無しね。でもよく似合ってるからそのままでいたらどうかしら？
+msgctxt "Win_RC_JN"
+msgid ""
+"Oh dear, I seem to have ruined your pretty face.\n"
+"I must say, though, I think you look better this way.\n"
+"Perhaps you should keep it like this."
+msgstr ""
+"Яке гарненьке личко — і так зіпсоване. Хоча тобі\n"
+"личить, тож, може, так і залишишся?"
+
+#. Key: Win_RC_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Noel
+#. JA: 自分に足りないものがあるからって、うじうじしてかわいがられたいのね。
+#. JA:   見てられないわ。
+msgctxt "Win_RC_NO"
+msgid ""
+"You felt like you were lacking something, so you wanted\n"
+"to be loved by others... You've been waiting for someone\n"
+"to take care of you... How pathetic."
+msgstr ""
+"Тобі чогось бракує, тож ти скиглиш і хочеш, щоб тебе\n"
+"пожаліли? Дивитися гидко."
+
+#. Key: Win_RC_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Rachel
+#. JA: 愚かね。
+msgctxt "Win_RC_RC"
+msgid "What a disgrace..."
+msgstr "Яка дурепа."
+
+#. Key: Win_RC_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Taokaka
+#. JA: 随分と元気な子ね、こらナゴ威嚇するのはやめなさい。みっともないわ。
+msgctxt "Win_RC_TK"
+msgid ""
+"What an energetic child.\n"
+"Nago! Stop that! You should be ashamed of yourself."
+msgstr ""
+"Яка ж жвава дитина. Наґо, припини на неї гарчати. Це\n"
+"негідно."
+
+#. Key: Win_RC_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Tager
+#. JA: その大きな体のうち、本当に必要なのって30パーセントくらいじゃないかしら？
+msgctxt "Win_RC_TG"
+msgid ""
+"That is quite a body you've built, but I believe only thirty percent\n"
+"of it is truly necessary. Are you perhaps...compensating?"
+msgstr ""
+"Невже з усього твого величезного тіла справді потрібні\n"
+"лише відсотків тридцять?"
+
+#. Key: Win_RC_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Litchi
+#. JA: 随分と自分の体に自信があるようね。（……ちっ）
+msgctxt "Win_RC_LC"
+msgid "You seem rather confident of that body of yours."
+msgstr "Схоже, ти дуже пишаєшся своїм тілом. (...Тц.)"
+
+#. Key: Win_RC_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Arakune
+#. JA: 不潔。
+msgctxt "Win_RC_AR"
+msgid "How filthy..."
+msgstr "Яка гидота."
+
+#. Key: Win_RC_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Bang
+#. JA: 顔に汗が飛び散ったわ……この愚民、痴れ者、類人猿以下。
+msgctxt "Win_RC_BN"
+msgid ""
+"You have defiled me with your...your sweat!\n"
+"You dirty, inhuman beast!"
+msgstr ""
+"Твій піт бризнув мені в обличчя... Плебею, дурню, ти\n"
+"навіть гірший за мавпу."
+
+#. Key: Win_RC_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Carl
+#. JA: そんなにそのお人形が大事なら、お家に帰って遊びなさい。
+#. JA:   壊されないうちにね。
+msgctxt "Win_RC_CA"
+msgid ""
+"If you really cherish that doll of yours, perhaps you should\n"
+"only play with her at home. It would be such a terrible\n"
+"shame if something bad were to happen to her..."
+msgstr ""
+"Якщо ця лялька тобі така дорога, повертайся додому й\n"
+"грайся з нею там. Поки її не зламали."
+
+#. Key: Win_RC_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Hakumen
+#. JA: 英雄になれた気分はいかがかしら、一度聞いてみたかったの。
+msgctxt "Win_RC_HA"
+msgid ""
+"How does it feel to be a hero? \n"
+"I must admit, I've always wanted to ask you that."
+msgstr "Ну як воно — бути героєм? Я давно хотіла запитати."
+
+#. Key: Win_RC_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Rachel
+#. Context: Victory quote: Rachel defeated Nu
+#. JA: あなたの顔は見飽きたわ、いいかげん片割れにすがるのはやめなさい。
+msgctxt "Win_RC_NY"
+msgid ""
+"I grow tired of your face...\n"
+"Relying on your other half has only weakened you."
+msgstr ""
+"Мені вже остогидло твоє обличчя. Припини нарешті\n"
+"чіплятися за свою другу половину."
+
+#. Key: Win_TK_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Ragna
+#. JA: この辺には「らぐにゃ」っていう危ない人がいるニャ！
+#. JA:   きおつけるニャス！
+msgctxt "Win_TK_RG"
+msgid ""
+"There's a dangerous guy roaming around here named \"Rawrgna\"!\n"
+"You better be careful too, meow!"
+msgstr ""
+"Десь тут ходить небезпечний дядько на ім'я «Раґня»!\n"
+"Стережися його, няв!"
+
+#. Key: Win_TK_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Jin
+#. JA: キシャー！グルルルルル……。
+msgctxt "Win_TK_JN"
+msgid "Grrrrrrr.... Hisssssss..."
+msgstr "Кш-ш-ш! Гр-р-р-р..."
+
+#. Key: Win_TK_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Noel
+#. JA: オマエの乳は寂しいニャ。肉まん食うとイイニャ！乳ふえるニャ。
+msgctxt "Win_TK_NO"
+msgid ""
+"Your boobies are tiny. You should eat steamed buns!\n"
+"They'll make your breasts bigger!"
+msgstr ""
+"У тебе пласкі цицьки, няв. Їж м'ясні булочки — цицьки\n"
+"виростуть, няв!"
+
+#. Key: Win_TK_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Rachel
+#. JA: オマエはウサギみたいだけど、あんましおいしそうじゃないのネ。
+#. JA:   血の気がなくてカサカサニャ。
+msgctxt "Win_TK_RC"
+msgid ""
+"You look like a rabbit, but you don't look very tasty.\n"
+"You smell very dry...no life."
+msgstr ""
+"Ти схожа на кролицю, але не дуже апетитна, няв. Кров'ю\n"
+"не пахнеш і вся суха."
+
+#. Key: Win_TK_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Taokaka
+#. JA: 楽しかったニャ、また遊ぼうなのネ。…でも誰かに似てるニャス。
+msgctxt "Win_TK_TK"
+msgid ""
+"That was really fun. We should play again!\n"
+"...But you really do look like me... Strange..."
+msgstr ""
+"Було весело, няв! Ще пограємося. ...Але ти на когось\n"
+"схожа, няв."
+
+#. Key: Win_TK_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Tager
+#. JA: ………………肉……じゅる。
+msgctxt "Win_TK_TG"
+msgid "Mmmmm... Meat... *slurp*"
+msgstr "...М'ясо... Ням..."
+
+#. Key: Win_TK_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Litchi
+#. JA: おう乳の人！また村に遊びにきてほしいのネ。
+#. JA:   所でどうすればそんなにデカくなるニャ？やっぱ肉まんかニャ？
+msgctxt "Win_TK_LC"
+msgid ""
+"Oh! Boobie lady! You should come over and play again.\n"
+"By the way...how do they get that big? \n"
+"Do you eat steamed buns too?"
+msgstr ""
+"О, Цицькаста Пані! Ще приходь до села гратися, няв. До\n"
+"речі, як вони стали такими великими? Теж через м'ясні\n"
+"булочки?"
+
+#. Key: Win_TK_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Arakune
+#. JA: 今度村にきたらただじゃおかないニャ！
+#. JA:   ばりばりのぎたぎたのめこめこのぼこぼこニャッス！
+msgctxt "Win_TK_AR"
+msgid ""
+"You better not ever come to my village again!\n"
+"I'll break you, slice you, and beat you to a pulp!"
+msgstr ""
+"Ще раз прийдеш до села — Тао тебе не пожаліє, няв!\n"
+"Подряпає, пошматує, розчавить і відлупцює, няв!"
+
+#. Key: Win_TK_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Bang
+#. JA: タオは暑苦しいの嫌なのニャ。アッチ行けニャ。
+msgctxt "Win_TK_BN"
+msgid "Tao doesn't like sweaty things. Go away!"
+msgstr "Тао не любить душних дядьків, няв. Іди геть."
+
+#. Key: Win_TK_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Carl
+#. JA: そっちのおっきいほう、かちんこちんでがっかりニャス。
+msgctxt "Win_TK_CA"
+msgid ""
+"This big one is as hard as a rock! \n"
+"That makes me sad, meooow."
+msgstr "Он та велика — тверда-тверда. Яке розчарування, няв."
+
+#. Key: Win_TK_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Hakumen
+#. JA: ふきゅうぅぅん……。
+msgctxt "Win_TK_HA"
+msgid "Phew..."
+msgstr "Фу-у-ух..."
+
+#. Key: Win_TK_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Taokaka
+#. Context: Victory quote: Taokaka defeated Nu
+#. JA: しょうりっ！これでしぇかいのへいわはまもられたのニャ！タオえらいニャス！
+msgctxt "Win_TK_NY"
+msgid ""
+"Victory! I saved the world from destruction! \n"
+"Good job, Tao!"
+msgstr "Перемога! Тепер світ урятовано, няв! Тао молодець!"
+
+#. Key: Win_TG_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Ragna
+#. JA: これが「蒼」の魔道書の力か？むむ、期待しすぎたか。
+#. JA:   いや、私の肉体が改造されすぎているのかもしれん。ココノエ、恐ろしいやつだ。
+msgctxt "Win_TG_RG"
+msgid ""
+"This is the power of the Azure  Grimoire? I guess I expected too\n"
+"much. Or perhaps my body has been modified too much...\n"
+"Kokonoe... What a terrifying woman."
+msgstr ""
+"То це сила Лазурного гримуара? Хм, певно, я очікував\n"
+"забагато. А може, це моє тіло надто сильно\n"
+"модифіковане. Коконое... страшна жінка."
+
+#. Key: Win_TG_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Jin
+#. JA: 冷酷な性格とは耳にしていたが。
+#. JA:   少佐殿がこのような場所で、無意味とも思える単独行動をするとは何事だ？
+msgctxt "Win_TG_JN"
+msgid ""
+"I heard you had a personality like cold steel...\n"
+"I never thought I would find you out here,\n"
+"acting on your own, Major."
+msgstr ""
+"Я чув про вашу безжальність. Але чому ви, пане майоре,\n"
+"самовільно дієте в такому місці, та ще й без жодної\n"
+"видимої мети?"
+
+#. Key: Win_TG_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Noel
+#. JA: 大丈夫か……む、気を失っている。
+#. JA:   女子供との戦闘はさけたいのだが、任務中なのでな。すまない。
+msgctxt "Win_TG_NO"
+msgid ""
+"Are you OK? ...Hm, she's unconscious.\n"
+"I really don't enjoy fighting with little girls,\n"
+"but I have a mission to carry out. Forgive me."
+msgstr ""
+"Ти ціла? Хм, знепритомніла. Я волів би не битися з\n"
+"жінками й дітьми, але я на завданні. Пробач."
+
+#. Key: Win_TG_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Rachel
+#. JA: しゃべる猫にコウモリか。はじめて見るが興味深い。
+#. JA:   ココノエに持って帰ってやればさぞかし喜ぶだろうな。
+msgctxt "Win_TG_RC"
+msgid ""
+"A talking cat and a bat... I've never seen anything \n"
+"like that before... How interesting. I'll bet Kokonoe \n"
+"would be interested in taking a look at them."
+msgstr ""
+"Кіт, що розмовляє, і кажан... Бачу таке вперше. Цікаво.\n"
+"Коконое зрадіє, якщо я принесу їх їй."
+
+#. Key: Win_TG_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Taokaka
+#. JA: わ、私は遊具ではないぞ。こら、登るな。
+msgctxt "Win_TG_TK"
+msgid "I-I'm not a toy! Hey, get off!"
+msgstr "Я-я не атракціон! Гей, не лізь на мене."
+
+#. Key: Win_TG_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Tager
+#. JA: む！？ココノエ、あいつ、いつの間に2号機をつくっていたのだ？
+msgctxt "Win_TG_TG"
+msgid ""
+"Gah! Kokonoe...that woman... \n"
+"When did she make a second unit?"
+msgstr ""
+"Що?! Коконое... Коли вона встигла створити другу\n"
+"модель?"
+
+#. Key: Win_TG_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Litchi
+#. JA: やめておけ、自ら罪を背負う必要はあるまい。
+msgctxt "Win_TG_LC"
+msgid "Don't do it... There's no need to taint your hands with blood."
+msgstr "Облиш. Не варто добровільно брати на себе гріх."
+
+#. Key: Win_TG_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Arakune
+#. JA: 魔に堕ちてその程度か、自らの愚かさを噛みしめるがいい！
+msgctxt "Win_TG_AR"
+msgid ""
+"You tapped into the power of the Boundary, and that's all\n"
+"you've got? You should contemplate your foolishness."
+msgstr ""
+"Ти занапастив себе заради такої сили? Усвідом нарешті\n"
+"власну дурість!"
+
+#. Key: Win_TG_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Bang
+#. JA: 登場も派手なら散り様も派手だな。
+msgctxt "Win_TG_BN"
+msgid "Hmph. You died as ridiculously as you lived."
+msgstr "Гучно з'явився — гучно й упав."
+
+#. Key: Win_TG_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Carl
+#. JA: ！？それは機神ニルヴァーナ！お前それをどこで手に入れた、おい、まて！
+msgctxt "Win_TG_CA"
+msgid ""
+"That... That's Deus Machina Nirvana!\n"
+"Kid, where did you get that?\n"
+"Hey! Hold on!"
+msgstr ""
+"Це ж механічне божество Нірвана! Де ти її дістав? Гей,\n"
+"стій!"
+
+#. Key: Win_TG_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Hakumen
+#. JA: やめておけ、貴様の解析なら既に完了している。今は何度やっても結果は同じだ。
+msgctxt "Win_TG_HA"
+msgid ""
+"I wouldn't do that if I were you... \n"
+"I've already analyzed your abilities.\n"
+"The result will be the same."
+msgstr ""
+"Облиш. Я вже завершив твій аналіз. Скільки б ти зараз\n"
+"не пробував, результат не зміниться."
+
+#. Key: Win_TG_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Tager
+#. Context: Victory quote: Tager defeated Nu
+#. JA: すまんな、その力の強大さゆえに手加減をしてやれなかった。
+msgctxt "Win_TG_NY"
+msgid ""
+"I apologize, but your strength was too overwhelming.\n"
+"I couldn't hold anything back."
+msgstr ""
+"Пробач. Твоя сила надто велика, тому я не міг\n"
+"стримуватися."
+
+#. Key: Win_LC_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Ragna
+#. JA: ラグナって死神というからどんな化け物かと思っていたら……意外と普通の子？
+#. JA:   いや、ちょっとかっこいいけど。
+msgctxt "Win_LC_RG"
+msgid ""
+"Everyone calls you the Grim Reaper, so I didn't know what\n"
+"kind of monster to expect...but you seem pretty normal.\n"
+"You look pretty cool though."
+msgstr ""
+"Раґну називають Жнецем, тож я чекала якогось\n"
+"чудовиська... А ти напрочуд звичайний хлопець. Хоча\n"
+"доволі вродливий."
+
+#. Key: Win_LC_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Jin
+#. JA: あなた、笑ってみればもっと人気がでるんじゃない？
+#. JA:   う～ん、でも「その冷徹さがいいっ」なんて人も多いかしら？なんちゃって。
+msgctxt "Win_LC_JN"
+msgid ""
+"I think you'd be a lot more popular if you tried smiling\n"
+"a little more. Hmm... Then again, some people might\n"
+"be into that \"as cold as ice\" personality."
+msgstr ""
+"Якби ти частіше усміхався, був би ще популярнішим,\n"
+"правда? Хоча, мабуть, багатьом якраз подобається твоя\n"
+"холодність. Жартую."
+
+#. Key: Win_LC_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Noel
+#. JA: おいたは駄目よ？かわいい顔してるんだから。
+msgctxt "Win_LC_NO"
+msgid ""
+"You shouldn't be naughty, little girl... \n"
+"You're too pretty."
+msgstr "Пустувати не можна, гаразд? У тебе ж таке миле личко."
+
+#. Key: Win_LC_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Rachel
+#. JA: 綺麗なお肌……、お人形さんみたいで羨ましいわ。　お手入れが大変そうだけど。
+msgctxt "Win_LC_RC"
+msgid ""
+"What beautiful skin... \n"
+"You look like a little doll... I'm so jealous. \n"
+"It looks like it must be hard to take care of."
+msgstr ""
+"Яка гарна шкіра... Наче в ляльки, аж заздрю. Хоча\n"
+"доглядати за нею, мабуть, непросто."
+
+#. Key: Win_LC_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Taokaka
+#. JA: もう、何度私の胸は肉まんじゃないといったらわかるの？
+#. JA:   見かけるたびに食いつこうとしないでちょうだい。
+msgctxt "Win_LC_TK"
+msgid ""
+"How many times do I have to tell you?\n"
+"My breasts aren't steamed buns.\n"
+"Stop trying to eat them every time you see me."
+msgstr ""
+"Скільки разів повторювати, що мої груди — не м'ясні\n"
+"булочки? Припини намагатися вкусити їх щоразу, як\n"
+"мене бачиш."
+
+#. Key: Win_LC_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Tager
+#. JA: 久しぶりね、でも相変わらず紳士的とはいいがたかったわ。
+#. JA:   もちろん悪いのは私、でも今これをすべきなのも私だけなの……許して。
+msgctxt "Win_LC_TG"
+msgid ""
+"It's been a while. You're such a gentleman, as always.\n"
+"This time, I'm the one at fault, but there's something\n"
+"I really have to do... Forgive me."
+msgstr ""
+"Давно не бачилися. Але джентльменом тебе й досі важко\n"
+"назвати. Звісно, цього разу винна я. Але я дійсно мушу\n"
+"це зробити... Пробач."
+
+#. Key: Win_LC_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Litchi
+#. JA: 私の姿を真似るのはかまわないけれど、
+#. JA:   オリエントタウンのみんなを混乱させるようなことはしたらめーよ？
+msgctxt "Win_LC_LC"
+msgid ""
+"I don't mind you trying to copy me, just don't do\n"
+"anything to confuse the residents of Orient Town."
+msgstr ""
+"Я не проти, що ти наслідуєш мою зовнішність, але не\n"
+"можна вводити в оману мешканців Орієнт-тауну,\n"
+"гаразд?"
+
+#. Key: Win_LC_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Arakune
+#. JA: どうしてあと一撃を加えられなかったの。なぜ、私……。
+msgctxt "Win_LC_AR"
+msgid ""
+"Why couldn't I finish you off... \n"
+"Just one more hit... Why...?"
+msgstr "Чому я не змогла завдати останнього удару? Чому... я..."
+
+#. Key: Win_LC_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Bang
+#. JA: ご、ごめんなさい！
+#. JA:   突然勢いよく出てくるからてっきり暴漢かと思って本気で殴っちゃった、大丈夫？
+#. JA:   あ～どうしよう、気絶しちゃってる。でも妙に幸せそうな顔だわ。なぜ？
+msgctxt "Win_LC_BN"
+msgid ""
+"I-I'm so sorry! You came out of nowhere, so I thought\n"
+"you were a pervert and smacked you! Are you OK?\n"
+"He's completely out...but he looks really happy. Odd..."
+msgstr ""
+"П-пробачте! Ви так раптово вискочили, що я прийняла\n"
+"вас за нападника й ударила. Ви цілі? Ой, він\n"
+"знепритомнів... Але чому він такий щасливий?"
+
+#. Key: Win_LC_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Carl
+#. JA: あなた、その人形は危険よ、今すぐ離れた方がいいわ！あ、待ちなさい！！
+msgctxt "Win_LC_CA"
+msgid ""
+"That marionette is very dangerous. \n"
+"You need to get away from it right now! \n"
+"Ah! Wait!"
+msgstr ""
+"Ця лялька небезпечна! Негайно відійди від неї! Гей,\n"
+"зачекай!"
+
+#. Key: Win_LC_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Hakumen
+#. JA: 消えてしまった。あの人が私を殺そうと思えばいとも容易かったはず。
+#. JA:   でも殺気は私に向けられていなかった。彼の目的は何？
+msgctxt "Win_LC_HA"
+msgid ""
+"He disappeared... He could have killed me in an \n"
+"instant if he wanted to...but it seemed like he was \n"
+"focused on...something else. What did he want?"
+msgstr ""
+"Зник. Якби він хотів убити мене, зробив би це без\n"
+"жодних зусиль. Але його жага вбивства була спрямована\n"
+"не на мене. Чого він прагне?"
+
+#. Key: Win_LC_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Litchi
+#. Context: Victory quote: Litchi defeated Nu
+#. JA: この女の子は一体、まるで機械のような――。
+msgctxt "Win_LC_NY"
+msgid "What is this girl...? She's like...a machine."
+msgstr "Що це за дівчина? Вона наче машина..."
+
+#. Key: Win_AR_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Ragna
+#. JA: そ　　　真理　してまたひとつ　過程。
+msgctxt "Win_AR_RG"
+msgid "That          truth, and that is   nother piece."
+msgstr "Це іс ина. І  о ин е ап."
+
+#. Key: Win_AR_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Jin
+#. JA: もっと恐れ　　　　愛す　　いい憎　　しまえ！
+#. JA:   こ　狭間の中　永　に感情崩れ去　　し　　　　い永遠に永遠に。
+msgctxt "Win_AR_JN"
+msgid ""
+"Fear more      love          hate       !\n"
+"Let        self crumble away,       pathetic        mediary."
+msgstr ""
+"Бі ся      . Лю и, нена идь усе! У Міжпро торі наві но\n"
+"почуття розпа уться... вічно, вічно."
+
+#. Key: Win_AR_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Noel
+#. JA: キサマ　蒼いの　白いの　よく　からないな　　。
+msgctxt "Win_AR_NO"
+msgid "           if you're Azure          White..."
+msgstr "  Лазу на? Бі а? Ні ого не розу ію..."
+
+#. Key: Win_AR_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Rachel
+#. JA: キサマ　世界　いさ　か広いよう　　。他の　　に　　てはな、キヒヒッ。
+msgctxt "Win_AR_RC"
+msgid "        world seems               large   compared      others, hahaha."
+msgstr "Твій світ     ши ший. Порів яно з ін ими, кі-хі-хі."
+
+#. Key: Win_AR_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Taokaka
+#. JA: おとなしくして　　ば、
+#. JA:   淀　闇　　でゆっくり　　　にも　かされず溶けることがで　　　　。
+msgctxt "Win_AR_TK"
+msgid ""
+"   you            still,          have               \n"
+"     darkness"
+msgstr ""
+"Якщо сиді имеш    , змо еш пові ьно розчини ися в\n"
+"застиглій пітьмі, ні им не потриво ена..."
+
+#. Key: Win_AR_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Tager
+#. JA: キサマ　所詮　あいつの玩弄物。
+msgctxt "Win_AR_TG"
+msgid "          too        just her toy            end."
+msgstr "Ти ли е  ігра ка."
+
+#. Key: Win_AR_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Litchi
+#. JA: な　哀し　　　なぜ哀　む　な　憂う？
+#. JA:   わか　ない　わから　　、　葉が消失して　く　　。
+msgctxt "Win_AR_LC"
+msgid ""
+"Why             sad...?                   grieving?\n"
+"   don't understand,    don't under       ... \n"
+"My words...      losing them..."
+msgstr ""
+"Чо у су но?    ту иш, чому жу ишся? Не розу ію, не розу\n"
+"ію... сло а зни ають..."
+
+#. Key: Win_AR_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Arakune
+#. JA: ワレ　既　ワレ　。捕食　必　などなし。
+msgctxt "Win_AR_AR"
+msgid "        already myself.           no need"
+msgstr "Я   є Я. Пожи ання біль е не потрі не."
+
+#. Key: Win_AR_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Bang
+#. JA: ほう　　それ　神　刃　　か　　し　し早い　。
+msgctxt "Win_AR_BN"
+msgid "Hmm...is                    blade? I          fast         ."
+msgstr "Оце й є боже твенний кли ок? Але  зара о."
+
+#. Key: Win_AR_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Carl
+#. JA: 子供か　　子供　蟲が好き　　　　？食べる　　い、おいしい　　。ほら　さあ。
+msgctxt "Win_AR_CA"
+msgid ""
+"    kid, eh?       like bugs,         ?\n"
+"Eat      .       delicious. Eat up! Hahaha!"
+msgstr "Ди ина?    лю лять ко ах? Їж. Сма но. Ну ж бо."
+
+#. Key: Win_AR_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Hakumen
+#. JA: ああああああ　キサ　など　　
+#. JA:   価値がない価値がない価値がない価値がない価値がない価値がない価値がない
+msgctxt "Win_AR_HA"
+msgid ""
+"Ahhhhh  You'r   worth  ss!\n"
+"Wor  ess! Worthle  !            less!            less! \n"
+"WorthlessW      lessWORTHLESS!"
+msgstr ""
+"А-а-а-а-а! Ти не ма ш цін ості. Цінності\n"
+"немає,        немає, цінності немає. Цінності немає,\n"
+"цінності немає, цінності немає!"
+
+#. Key: Win_AR_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Arakune
+#. Context: Victory quote: Arakune defeated Nu
+#. JA: 蒼　　蒼を　　蒼を　　くだ　い　　どうか　　　は。
+msgctxt "Win_AR_NY"
+msgid ""
+"Azu       Azur     Please   gi    me      Azure... \n"
+"I'm      I'm   ."
+msgstr "Ла ур...     ... Ла ур... дай мені... про у... я..."
+
+#. Key: Win_BN_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Ragna
+#. JA: ぜぇぜぇ、今から引き渡す……いや、待て……。逃げる、な……ぜぇぜぇ。
+msgctxt "Win_BN_RG"
+msgid ""
+"*pant* *pant* I'm going to turn you in right now. \n"
+"Hey, wait... Don't run! You basta— *pant* *pant*"
+msgstr "Хек-хек... Зараз я тебе здам... Ні, стій... Не тікай... хек-хек."
+
+#. Key: Win_BN_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Jin
+#. JA: ここで会ったが100万年！！　お主の顔、忘れはしないぞ！！いざ覚悟！！
+msgctxt "Win_BN_JN"
+msgid ""
+"I finally found you! I'll never forget your face! \n"
+"Prepare yourself!"
+msgstr ""
+"Ось ми й зустрілися через мільйон років!! Твоє обличчя\n"
+"я не забув! Готуйся!!"
+
+#. Key: Win_BN_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Noel
+#. JA: くの一にしては色気が……いや色々足りないでござるな特にム、
+#. JA:   ってま、待て、撃つな、話せば分かるでござる！！
+msgctxt "Win_BN_NO"
+msgid ""
+"Hmm... You seem to be lacking...well, a lot of things \n"
+"to be a kunoichi. Especially around the ches—\n"
+"W-Wait, what are you doing? Don't shoot! We can talk!"
+msgstr ""
+"Як для куноїчі, тобі бракує... ні, багато чого бракує,\n"
+"особливо ци... Г-гей, не стріляй! Домовимося словами!!"
+
+#. Key: Win_BN_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Rachel
+#. JA: 拙者にも忍犬の一匹や二匹。よし、次相まみえる時にお見せいたそう！！
+msgctxt "Win_BN_RC"
+msgid ""
+"Mm... I have a couple of ninja dogs myself. \n"
+"Next time we meet, I shall show them to you."
+msgstr ""
+"У мене теж знайдеться один-другий нінджя-пес. Гаразд,\n"
+"наступного разу я їх тобі покажу!!"
+
+#. Key: Win_BN_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Taokaka
+#. JA: フフフ、それで猫に化けたつもりでござるか？
+#. JA:   世間の目は誤魔化せても、このバングの目は騙されぬ！
+msgctxt "Win_BN_TK"
+msgid ""
+"Heheheh... Do you think you've disguised yourself  as a cat?\n"
+"You may be able to fool everyone else, but nothing escapes\n"
+"the all-seeing eye of Bang Shishigami!"
+msgstr ""
+"Ха-ха-ха, і ти гадаєш, що так замаскувалася під кішку?\n"
+"Інших, може, й обдуриш, але Банґа — ніколи!"
+
+#. Key: Win_BN_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Tager
+#. JA: 魂と魂のぶつかり合い、拙者の方が勝っていたでござるな！
+msgctxt "Win_BN_TG"
+msgid ""
+"The ultimate clash between our souls... \n"
+"But it seems that this time, I am the victor!"
+msgstr "У зіткненні наших душ гору взяла моя!"
+
+#. Key: Win_BN_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Litchi
+#. JA: ハッ！ライチ殿！大丈夫でござるか！？　一体誰がこのような事を！！！
+msgctxt "Win_BN_LC"
+msgid ""
+"Ah! Miss Litchi! Are you OK!? \n"
+"Who the hell would do such a thing!?"
+msgstr "А! Пані Лічі! Ви цілі?! Хто ж це з вами таке зробив?!"
+
+#. Key: Win_BN_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Arakune
+#. JA: お主からは悪の匂いがプンプンするでござる！！
+msgctxt "Win_BN_AR"
+msgid "I can smell the evil inside of you!"
+msgstr "Від тебе аж тхне злом!!"
+
+#. Key: Win_BN_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Bang
+#. JA: くっ、なかなかハンサムで男前なナイスガイであった……！
+#. JA:   拙者もあのようにたくましく精錬された男になりたいでござるな。
+msgctxt "Win_BN_BN"
+msgid ""
+"Damn... What a handsome, manly guy! I hope that \n"
+"someday, I too will be able to train and become\n"
+"as  manly as that incredible man."
+msgstr ""
+"Кх... Який же він був красень, мужній і славний\n"
+"чоловік...! От би й мені стати таким загартованим і\n"
+"досконалим мужем."
+
+#. Key: Win_BN_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Carl
+#. JA: 良い子は寝る時間でござる！！
+msgctxt "Win_BN_CA"
+msgid "Good little boys should be in bed by now!"
+msgstr "Чемним дітям уже час спати!!"
+
+#. Key: Win_BN_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Hakumen
+#. JA: ただ互いに全力をぶつけた結果でござる！　良き修行となった、それでは失礼！！
+msgctxt "Win_BN_HA"
+msgid ""
+"What a great fight! We both gave one hundred percent! \n"
+"I've learned a lot from this battle!\n"
+"Now, if you'll excuse me."
+msgstr ""
+"Ми лише зійшлися в двобої й виклалися на повну! Це\n"
+"було чудове тренування. А тепер прошу мене вибачити!!"
+
+#. Key: Win_BN_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Bang
+#. Context: Victory quote: Bang defeated Nu
+#. JA: 何という力！　今こそ！！　拙者の新必殺技を放つ時！！
+msgctxt "Win_BN_NY"
+msgid ""
+"Such overwhelming power! \n"
+"You've forced me to unleash my sacred techniques!"
+msgstr ""
+"Яка сила! Настав час застосувати мій новий коронний\n"
+"прийом!!"
+
+#. Key: Win_CA_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Ragna
+#. JA: どこに「蒼」の魔道書があるんだろう？
+#. JA:   この人自体が「蒼」の魔道書だったりするのかな、それは帰ってから調べる？
+#. JA:   ねぇ、姉さん。
+msgctxt "Win_CA_RG"
+msgid ""
+"Where could the Azure grimoire be?\n"
+"I wonder if this person could be the grimoire itself...\n"
+"Should I take him home and have a look? Well, Sis?"
+msgstr ""
+"Де ж той Лазурний гримуар? Може, ця людина сама і є\n"
+"ним? Перевіримо, коли повернемося? Як гадаєш, сестро?"
+
+#. Key: Win_CA_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Jin
+#. JA: すみません、しなければいけないことがあるので。姉さん大丈夫？さ、行こう。
+msgctxt "Win_CA_JN"
+msgid ""
+"Excuse me, but there's something I need to do. \n"
+"Are you OK, Sis? Let's go."
+msgstr ""
+"Перепрошую, але я маю дещо зробити. Сестро, ти ціла?\n"
+"Ходімо."
+
+#. Key: Win_CA_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Noel
+#. JA: これでも情報を提供していただけませんか？こちらとしても急ぐのですが。
+msgctxt "Win_CA_NO"
+msgid ""
+"You still don't want to give me information? \n"
+"I'm in a hurry too..."
+msgstr ""
+"Навіть тепер не хочете поділитися інформацією? Я теж\n"
+"поспішаю."
+
+#. Key: Win_CA_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Rachel
+#. JA: 姉さん、どうしたの？……うん、うん。
+#. JA:   すみません、姉さんが怖がっているので退散させていただきます。
+msgctxt "Win_CA_RC"
+msgid ""
+"What's the matter, Sis? Uh-huh... I see...\n"
+"I'm sorry, but my sister is scared for some reason, \n"
+"so we'll have to withdraw for now."
+msgstr ""
+"Сестро, що таке? ...Ага, ага. Перепрошую, але сестра вас\n"
+"боїться, тож ми підемо."
+
+#. Key: Win_CA_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Taokaka
+#. JA: 君は――面白い人だね、いや、猫か。
+msgctxt "Win_CA_TK"
+msgid "You're an...interesting person...I mean...cat?"
+msgstr "Ти... цікава людина. Тобто кішка."
+
+#. Key: Win_CA_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Tager
+#. JA: 無駄だよ、僕と姉さんを引き離そうとしても。だって僕と姉さんは姉弟なんだもの。
+msgctxt "Win_CA_TG"
+msgid ""
+"It's no use. You can't pull my sister and me apart.\n"
+"We're siblings after all."
+msgstr ""
+"Дарма намагаєтеся розлучити мене із сестрою. Адже ми\n"
+"брат і сестра."
+
+#. Key: Win_CA_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Litchi
+#. JA: 姉さんについて知っていることを全て教えて頂けませんか？
+#. JA:   大丈夫です、痛くしませんから。
+msgctxt "Win_CA_LC"
+msgid ""
+"Can you tell me everything you know about my sister?\n"
+"Don't worry, I won't hurt you."
+msgstr ""
+"Чи не могли б ви розповісти все, що знаєте про мою\n"
+"сестру? Не бійтеся, боляче не буде."
+
+#. Key: Win_CA_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Arakune
+#. JA: 汚れちゃったね、姉さん。大丈夫だよ、すぐに僕が綺麗にしてあげるから。
+msgctxt "Win_CA_AR"
+msgid ""
+"Aww, you got dirty, Sis.\n"
+"But don't worry,  I'll clean you right up."
+msgstr ""
+"Ти забруднилася, сестро. Не хвилюйся, я зараз тебе\n"
+"почищу."
+
+#. Key: Win_CA_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Bang
+#. JA: ありがとうございます、色々と勉強になりました。
+#. JA:   それでは先を急ぎますので失礼します。
+msgctxt "Win_CA_BN"
+msgid ""
+"Thank you very much. I learned a lot.\n"
+"Well, I must be on my way, so please excuse me."
+msgstr ""
+"Дуже вам дякую. Я багато чого навчився. А тепер мушу\n"
+"поспішати, тож відкланяюся."
+
+#. Key: Win_CA_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Carl
+#. JA: すみません、姉さんにそっくりな人形があると、
+#. JA:   姉さんが嫌がるので破壊させてもらいますね。
+msgctxt "Win_CA_CA"
+msgid ""
+"I'm sorry, but if there's another marionette that\n"
+"looks like my sister, she might get scared, so I'm \n"
+"gonna have to destroy yours."
+msgstr ""
+"Перепрошую, але сестрі не подобається, коли існує схожа\n"
+"на неї лялька, тож я вашу знищу."
+
+#. Key: Win_CA_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Hakumen
+#. JA: ……姉さんを「ニルヴァーナ」と呼ぶな。
+msgctxt "Win_CA_HA"
+msgid "Don't call my sister Nirvana."
+msgstr "...Не називай мою сестру Нірваною."
+
+#. Key: Win_CA_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Carl
+#. Context: Victory quote: Carl defeated Nu
+#. JA: ちょっとだけ疲れちゃった……。姉さん、少しだけ眠るね。
+msgctxt "Win_CA_NY"
+msgid "I'm kind of tired... I'm going to take a little nap, OK, Sis?"
+msgstr "Я трохи втомився... Сестро, я трішки посплю."
+
+#. Key: Win_HA_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Ragna
+#. JA: 「悪夢」よ、意識に還れ。
+#. JA:   寂寥を感じ乍ら、余燼に飢え乍ら、蒼に泪して、消えろ。
+msgctxt "Win_HA_RG"
+msgid ""
+"Hah! Nightmare... Return to your senses...\n"
+"Feel the solitude... Reminisce about your past...\n"
+"Lament over the Azure, and then just disappear."
+msgstr ""
+"«Кошмаре», повернися до свідомості. Пізнай самотність,\n"
+"жадай останніх жарин, плач за Лазур'ю — і щезни."
+
+#. Key: Win_HA_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Jin
+msgctxt "Win_HA_JN"
+msgid "..."
+msgstr "..."
+
+#. Key: Win_HA_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Noel
+#. JA: 成程……何故と訊ねるのは無粋で有ったな。
+#. JA:   幾星霜の中で歪に生み出されし少女よ。
+msgctxt "Win_HA_NO"
+msgid ""
+"I see... How rude of me to ask \"why\"...\n"
+"What a pitiful girl...you were born in the midst of such turmoil..."
+msgstr ""
+"Зрозуміло... Питати «чому» було нетактовно. Дівчино,\n"
+"спотворена плином незліченних літ."
+
+#. Key: Win_HA_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Rachel
+#. JA: 道化よ、遊びが過ぎるぞ。因幡に倣う心算か。
+msgctxt "Win_HA_RC"
+msgid ""
+"What is this charade...?\n"
+"The puppets are going too far. \n"
+"Be careful, Icarus..."
+msgstr ""
+"Дурепа, твої забави зайшли надто далеко. Надумала\n"
+"наслідувати зайця з Інаби?"
+
+#. Key: Win_HA_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Taokaka
+#. JA: ククク……猫よ、物騒な物を産み出して呉れる。
+msgctxt "Win_HA_TK"
+msgid ""
+"Hehehe... Oh, kitty, you have brought such a\n"
+"dangerous being before us."
+msgstr "Хм-хм... Кішко, небезпечні ж речі ти витворяєш."
+
+#. Key: Win_HA_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Tager
+#. JA: 堰いて呉れるな。之が私の業だ。
+msgctxt "Win_HA_TG"
+msgid "Don't interfere. This is my redemption."
+msgstr "Не стримуй мене. Це моя доля."
+
+#. Key: Win_HA_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Litchi
+#. JA: 贖うな、之も摂理だ。只揺蕩え。
+msgctxt "Win_HA_LC"
+msgid ""
+"Don't fight it. This was meant to be.\n"
+"Let the flow carry you."
+msgstr ""
+"Не пручайся. Це теж закон світобудови. Просто пливи за\n"
+"течією."
+
+#. Key: Win_HA_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Arakune
+#. JA: 堕ちた者を救う術は一つしかない、覚悟しろ。
+msgctxt "Win_HA_AR"
+msgid ""
+"There is only one way to save the fallen.\n"
+"I hope you're prepared."
+msgstr ""
+"Того, хто занепав, можна врятувати лише одним\n"
+"способом. Готуйся."
+
+#. Key: Win_HA_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Bang
+#. JA: 其の筋は正に稲妻が如し。遣って見ろ、好きに世界を翔るが良い。
+msgctxt "Win_HA_BN"
+msgid ""
+"Your determination is unparalleled...\n"
+"I would like to see what you do with it...\n"
+"Roam this world as you desire."
+msgstr ""
+"Твоя стезя воістину подібна до блискавки. Іди нею —\n"
+"ширяй світом, як забажаєш."
+
+#. Key: Win_HA_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Carl
+#. JA: 尤も真理に近づきそして眼を逸らした少年よ、哀れな。
+msgctxt "Win_HA_CA"
+msgid ""
+"Young man, you came the closest to discovering the truth,\n"
+"and then diverted your eyes... How pitiful."
+msgstr ""
+"Хлопче, ти наблизився до істини як ніхто — і відвів\n"
+"погляд. Жалюгідно."
+
+#. Key: Win_HA_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Hakumen
+#. JA: 同種の神器は弐つも要らぬ。為らばどちらかを壊す迄。
+msgctxt "Win_HA_HA"
+msgid ""
+"This world doesn't need two of the same Sacred Treasure.\n"
+"That means one of them must be destroyed."
+msgstr ""
+"Двох однакових божественних знарядь не потрібно.\n"
+"Отже, одне з них має бути знищене."
+
+#. Key: Win_HA_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Hakumen
+#. Context: Victory quote: Hakumen defeated Nu
+#. JA: 貴様の消滅をもって全ての連鎖、ここで断ち切る！
+msgctxt "Win_HA_NY"
+msgid "I will put an end to all of this by killing you right now!"
+msgstr "Я розірву всі ланцюги тут і зараз, знищивши тебе!"
+
+#. Key: Win_NY_RG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Ragna
+#. JA: ラグナやっぱり来てくれたんだね！これで一緒……ひとつになれるね……。
+msgctxt "Win_NY_RG"
+msgid ""
+"Ragna... I knew you would come for me! \n"
+"Now we can finally be...together..."
+msgstr ""
+"Раґно, ти все-таки прийшов! Тепер ми будемо разом...\n"
+"станемо одним цілим..."
+
+#. Key: Win_NY_JN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Jin
+#. JA: 当シーケンスは正常に終了　次のフェイズへ移行する
+msgctxt "Win_NY_JN"
+msgid "Sequence completed. Now proceeding to next phase."
+msgstr ""
+"Цю послідовність успішно завершено. Перехід до\n"
+"наступної фази."
+
+#. Key: Win_NY_NO
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Noel
+#. JA: 内部統制システムにおけるバグフィックスの完了　システムを終了する
+msgctxt "Win_NY_NO"
+msgid "Internal error repaired. Now terminating system."
+msgstr ""
+"Виправлення помилки у внутрішній системі контролю\n"
+"завершено. Завершення роботи системи."
+
+#. Key: Win_NY_RC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Rachel
+#. JA: 内部統制システムにおけるイレギュラー因子の排除を完了　システムを終了する
+msgctxt "Win_NY_RC"
+msgid ""
+"Internal irregularity eliminated. \n"
+"Now terminating system."
+msgstr ""
+"Усунення аномального чинника у внутрішній системі\n"
+"контролю завершено. Завершення роботи системи."
+
+#. Key: Win_NY_TK
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Taokaka
+#. JA: 魔素蓄積体異種の排除を完了　ユニットの起動実験を終了する
+msgctxt "Win_NY_TK"
+msgid ""
+"Elimination of seithr element influences sub-species: confirmed.\n"
+"Now terminating experiment."
+msgstr ""
+"Усунення підвиду організму-накопичувача мани\n"
+"завершено. Випробування активації модуля завершено."
+
+#. Key: Win_NY_TG
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Tager
+#. JA: 模倣事象兵器搭載個体の排除を完了　ユニットの起動実験を終了する
+msgctxt "Win_NY_TG"
+msgid ""
+"Extermination of hybrid biomechanical weapon: complete.\n"
+"Now terminating experiment."
+msgstr ""
+"Усунення особини, оснащеної штучним аналогом\n"
+"Арк-Енемі, завершено. Випробування активації модуля\n"
+"завершено."
+
+#. Key: Win_NY_LC
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Litchi
+#. JA: 魔素増幅生物装着個体の排除を完了　ユニットの起動実験を終了する
+msgctxt "Win_NY_LC"
+msgid ""
+"Elimination of subject utilizing seithr element amp: confirmed.\n"
+"Now terminating experiment."
+msgstr ""
+"Усунення особини, оснащеної організмом-підсилювачем\n"
+"мани, завершено. Випробування активації модуля\n"
+"завершено."
+
+#. Key: Win_NY_AR
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Arakune
+#. JA: 魔素流体の排除を完了　ユニットの起動実験を終了する
+msgctxt "Win_NY_AR"
+msgid ""
+"Elimination of quasi-solid seithr element manifestation: complete. \n"
+"Now terminating experiment."
+msgstr ""
+"Усунення рідкої форми мани завершено. Випробування\n"
+"активації модуля завершено."
+
+#. Key: Win_NY_BN
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Bang
+#. JA: 事象兵器との衝突における対衝撃実験終了　異常なし
+msgctxt "Win_NY_BN"
+msgid ""
+"Testing countermeasures for biological confrontation: complete.\n"
+"No abnormalities."
+msgstr ""
+"Випробування ударостійкості під час зіткнення з\n"
+"Арк-Енемі завершено. Відхилень немає."
+
+#. Key: Win_NY_CA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Carl
+#. JA: 事象兵器との衝突における対衝撃実験終了　異常なし
+msgctxt "Win_NY_CA"
+msgid ""
+"Testing countermeasures for biological confrontation: complete.\n"
+"No abnormalities."
+msgstr ""
+"Випробування ударостійкості під час зіткнення з\n"
+"Арк-Енемі завершено. Відхилень немає."
+
+#. Key: Win_NY_HA
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Hakumen
+#. JA: 対参輝神戦闘終了　破損微細　全エネルギーラインは正常に稼働中
+msgctxt "Win_NY_HA"
+msgid ""
+"Anti-Sankishin mode: terminating. Damage inflicted: critical.\n"
+"All energy-lines working normally."
+msgstr ""
+"Бій проти Санкішін завершено. Пошкодження незначні.\n"
+"Усі енергетичні лінії працюють нормально."
+
+#. Key: Win_NY_NY
+#. Source: system/WinMsg (data/ETC/Text_Eng/WinMsg.pac)
+#. Speaker: Nu
+#. Context: Victory quote: Nu defeated Nu
+#. JA: データ採取完了　旧データを破棄する
+msgctxt "Win_NY_NY"
+msgid "Data collection: complete. Now formatting old data."
+msgstr "Збирання даних завершено. Старі дані видалено."

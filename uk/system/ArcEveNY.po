@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveNY01_00
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: 対象・認識・解析――不明・不明……
+#. JA:   内部コードに不備を発見
+msgctxt "ArcEveNY01_00"
+msgid ""
+"Target...identify...analyze...\n"
+"Unknown...unknown...\n"
+"A defect in the system code has occurred..."
+msgstr ""
+"Ціль. Ідентифікація. Аналіз... Невідомо. Невідомо...\n"
+"Виявлено помилку у внутрішньому коді."
+
+#. Key: ArcEveNY01_01
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: あなた……だれ？
+msgctxt "ArcEveNY01_01"
+msgid "Who...are you?"
+msgstr "Ти... хто?"
+
+#. Key: ArcEveNY01_02
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Taokaka
+#. Context: Arcade event: Nu
+#. JA: ？タオはタオだぞ、ひらひらなオマエはひらひらか？
+#. JA:   タオにニャんか用ニャスか？
+msgctxt "ArcEveNY01_02"
+msgid ""
+"Tao is Tao. Are you flappy-flap?\n"
+"What do you want from meow?"
+msgstr ""
+"Тао — це Тао. А ти, що вся тріпочеш, — Тріпотуха? Тобі\n"
+"щось від Тао треба, няв?"
+
+#. Key: ArcEveNY01_03
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: 状況・不明
+#. JA:   回答・存在、ニュー
+msgctxt "ArcEveNY01_03"
+msgid ""
+"Status: unknown.\n"
+"Answer: existence, Nu."
+msgstr "Стан: невідомо. Відповідь. Сутність: Ню."
+
+#. Key: ArcEveNY01_04
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Taokaka
+#. Context: Arcade event: Nu
+#. JA: ニャにいってるかわからニャいニャ。
+#. JA:   でもタオと遊んでほしいなら相手にニャるッス！
+#. JA:   シッシッ……
+msgctxt "ArcEveNY01_04"
+msgid ""
+"I don't understand a word you're saying, meow.\n"
+"But you wanna play with me!? I'm ready!\n"
+"*whoosh* *whoosh*"
+msgstr ""
+"Нічого не розумію, няв. Але якщо хочеш погратися з Тао,\n"
+"Тао складе тобі компанію! Шух-шух..."
+
+#. Key: ArcEveNY01_05
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: 対象・戦闘・状況・対応
+#. JA:   対象を敵対生物と判明……エラー
+msgctxt "ArcEveNY01_05"
+msgid ""
+"Target...battle...status...response...\n"
+"Target has been recognized as a hostile organism...\n"
+"Error..."
+msgstr ""
+"Ціль. Бій. Стан. Реакція. Ціль визначено як вороже\n"
+"створіння... Помилка."
+
+#. Key: ArcEveNY01_06
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: 自律行動による適正対応を開始します。
+msgctxt "ArcEveNY01_06"
+msgid ""
+"Appropriate action based on autonomous behavior has\n"
+"been activated. "
+msgstr "Розпочинаю належні дії в автономному режимі."
+
+#. Key: ArcEveNY01_07
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: 対象の消滅を確認・不明・状況・不明……
+msgctxt "ArcEveNY01_07"
+msgid ""
+"Elimination of the target has been confirmed.\n"
+"Unknown... Status: unknown..."
+msgstr "Зникнення цілі підтверджено. Невідомо. Стан: невідомо..."
+
+#. Key: ArcEveNY02_00
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Nu
+#. JA: あらお人形さん、お茶の香りに誘われて来たのかしら？
+#. JA:   ギィ、来客よ。お茶の準備を。
+msgctxt "ArcEveNY02_00"
+msgid ""
+"Were you lured here by the aroma of tea?\n"
+"Gii, we have a guest. She will require a cup of tea."
+msgstr ""
+"О, лялечко, невже тебе сюди привів аромат чаю? Ґі, у нас\n"
+"гостя. Приготуй чай."
+
+#. Key: ArcEveNY02_01
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: 状況・不明・存在・不明
+#. JA:   現状・重度の障害が発生していると認識
+#. JA:   回復行動に移行――不可……
+msgctxt "ArcEveNY02_01"
+msgid ""
+"Status: unknown... Existence: unknown...\n"
+"Current condition: obstacle identified.\n"
+"Shifting to recovery mode...failed..."
+msgstr ""
+"Стан: невідомо. Існування: невідомо. Поточний стан:\n"
+"виявлено серйозний збій. Перехід до відновлення...\n"
+"неможливо."
+
+#. Key: ArcEveNY02_02
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Nu
+#. JA: そう、これがあなたの望みなのね。
+msgctxt "ArcEveNY02_02"
+msgid "So, this is your wish..."
+msgstr "Отже, це твоє бажання."
+
+#. Key: ArcEveNY02_03
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Nu
+#. JA: 自由な猫と戯れたり、青空の下を散歩する。
+#. JA:   叶わぬ望みを持つ哀れな人形。
+msgctxt "ArcEveNY02_03"
+msgid ""
+"...playing with a free-spirited cat and taking a walk under\n"
+"the clear sky. A pathetic doll with dreams that will never\n"
+"come true."
+msgstr ""
+"Бавитися з безтурботною кішкою й гуляти під блакитним\n"
+"небом. Жалюгідна лялька, що плекає нездійсненне\n"
+"бажання."
+
+#. Key: ArcEveNY02_04
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: 状況・不明・不明……
+msgctxt "ArcEveNY02_04"
+msgid "Status: unknown...unknown..."
+msgstr "Стан: невідомо. Невідомо..."
+
+#. Key: ArcEveNY02_05
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Nu
+#. JA: 不明？違うわ。それは不安よ。
+msgctxt "ArcEveNY02_05"
+msgid "Unknown? Oh dear me no. Try \"worry\"."
+msgstr "Невідомо? Ні. Це тривога."
+
+#. Key: ArcEveNY02_06
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+#. JA: 返答・検索・「不安」
+#. JA:   該当――無し……
+msgctxt "ArcEveNY02_06"
+msgid ""
+"Response...search: \"worry\".\n"
+"0 results returned..."
+msgstr "Відповідь. Пошук: «тривога». Збігів немає..."
+
+#. Key: ArcEveNY02_07
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Nu
+#. JA: これは夢というものよ。
+#. JA:   あなたの中に存在する願望の具現化。
+msgctxt "ArcEveNY02_07"
+msgid ""
+"This is called a \"dream\": a manifestation of your deepest\n"
+"desires."
+msgstr ""
+"Це називається сном. Втілення бажання, що живе\n"
+"всередині тебе."
+
+#. Key: ArcEveNY02_08
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Nu
+#. JA: でもね、ここはあなたの迷い込んでいい夢ではないの。
+msgctxt "ArcEveNY02_08"
+msgid ""
+"But I'm afraid this is not the sort of dream where you are\n"
+"permitted to wander."
+msgstr "Але це сон, у якому тобі не місце."
+
+#. Key: ArcEveNY02_09
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Nu
+#. JA: さあ、お人形さん。夢から覚めなさい。
+msgctxt "ArcEveNY02_09"
+msgid "It is time to wake up, little doll."
+msgstr "Ну ж бо, лялечко. Прокинься."
+
+#. Key: ArcEveNY02_10
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Nu
+#. JA: さすがあなたの夢の中。でもね、これで終わり――
+msgctxt "ArcEveNY02_10"
+msgid "This was your dream, but now it has ended."
+msgstr "Усе-таки це твій сон. Але на цьому все..."
+
+#. Key: ArcEveNY03_00_0
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+msgctxt "ArcEveNY03_00_0"
+msgid "...Ragna..."
+msgstr "...Раґно..."
+
+#. Key: ArcEveNY03_00_1
+#. Source: system/ArcEveNY_ArcEveNY01 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY02 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY03 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY04 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Source: system/ArcEveNY_ArcEveNY05 (data/ETC/Text_Eng/ArcEveNY.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Nu
+msgctxt "ArcEveNY03_00_1"
+msgid "Where are you?"
+msgstr "Де ти?"

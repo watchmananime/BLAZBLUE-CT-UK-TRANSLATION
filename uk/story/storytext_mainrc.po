@@ -1,0 +1,5648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: RCL0_001
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 中庭を照らす清らかな月光。
+#. JA:   あたりを覆うのは薔薇の香。
+#. JA:   そこに混じった紅茶の匂い。
+msgctxt "RCL0_001"
+msgid ""
+"Moonlight shines gently on the courtyard.\n"
+"The air is heavy with the scent of roses and black tea."
+msgstr ""
+"Чисте місячне сяйво освітлює внутрішній дворик. Довкола пахнуть\n"
+"троянди, а до їхнього аромату домішується запах чаю."
+
+#. Key: RCL0_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   草木を撫で、揺らしていく優しい風。
+#. JA:   聞こえてくる規則的な寝息。
+#. JA:   
+msgctxt "RCL0_002"
+msgid ""
+"\n"
+"The wind gently caresses the leaves, and I can vaguely hear the almost systematic\n"
+"breaths of people sleeping.\n"
+msgstr ""
+"\n"
+"Лагідний вітер колише листя й трави. Чути рівне дихання тих, хто\n"
+"спить.\n"
+
+#. Key: RCL0_003
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いつもと変わらない平穏な日々。
+#. JA:   “また”始まってしまった日常。
+#. JA:   長<ruby>　の</ruby>閑<ruby>どか　</ruby>で、穏やかで、けれど―――
+msgctxt "RCL0_003"
+msgid ""
+"A dreadfully normal day has begun.\n"
+"The <DQ>routine<DQ> has started once again.\n"
+"It's nice...and peaceful. But still..."
+msgstr ""
+"Такі самі, як завжди, мирні дні. Буденність, що почалася «знову».\n"
+"Тривала, спокійна, безтурботна, але..."
+
+#. Key: RCL0_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……退屈ね。
+msgctxt "RCL0_004"
+msgid "...I'm bored."
+msgstr "...Нудно."
+
+#. Key: RCL0_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: お疲れですか……？　レイチェル様。
+msgctxt "RCL0_006"
+msgid "Do you feel tired, madam?"
+msgstr "Ви стомилися, пані Рейчел?"
+
+#. Key: RCL0_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いえ、そんなことはないわ。
+msgctxt "RCL0_007"
+msgid "No, not really."
+msgstr "Ні, анітрохи."
+
+#. Key: RCL0_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: でしたら宜しいのですが……。
+msgctxt "RCL0_008"
+msgid "I do hope that is the truth..."
+msgstr "Тоді я спокійний..."
+
+#. Key: RCL0_009
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL0_009"
+msgid "Thank you... Today's tea is exquisite."
+msgstr "Дякую... Сьогодні чай напрочуд добрий."
+
+#. Key: RCL0_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 本日の紅茶はアマルガから取り寄せましたもので……。
+#. JA:   芳醇な香りを楽しんで頂ければと。
+msgctxt "RCL0_011"
+msgid ""
+"You are too kind, madam.\n"
+"Today's tea has been imported from Amaruga. I thought perhaps you would\n"
+"appreciate its rich aroma."
+msgstr ""
+"Сьогоднішній чай привезли з Амалґи... Я сподівався, що його насичений\n"
+"аромат вам сподобається."
+
+#. Key: RCL0_012
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そう……。通りで、いつものものより―――。
+msgctxt "RCL0_012"
+msgid "I see... I do detect a subtle difference in flavor..."
+msgstr "Он як... То ось чому він не такий, як зазвичай..."
+
+#. Key: RCL0_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL0_014"
+msgid "!?"
+msgstr "?!"
+
+#. Key: RCL0_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL0_016"
+msgid "...!"
+msgstr "...!"
+
+#. Key: RCL0_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 今のは……！
+msgctxt "RCL0_017"
+msgid "What the deuce...?"
+msgstr "Що це було...?!"
+
+#. Key: RCL0_019
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: レイチェル様、いかがなされました？
+msgctxt "RCL0_019"
+msgid "Madam Rachel, is something amiss?"
+msgstr "Пані Рейчел, щось трапилося?"
+
+#. Key: RCL0_021
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……あ。
+#. JA:   ええ、大丈夫よ……少し、驚いただけ。
+msgctxt "RCL0_021"
+msgid "...Ah. N-No, I'm fine... My nerves, you see."
+msgstr "...А. Так, усе гаразд... Я лише трохи здивувалася."
+
+#. Key: RCL0_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: お休みになられるのなら寝所の準備を致しますが……。
+msgctxt "RCL0_022"
+msgid ""
+"If you wish to rest, I will see to it that the bedchamber is made ready for you\n"
+"straightaway..."
+msgstr "Якщо бажаєте відпочити, я підготую спальню..."
+
+#. Key: RCL0_024
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いえ、それよりもう一杯お茶を。
+msgctxt "RCL0_024"
+msgid "I appreciate the concern, Valkenhayn, but all that I require is more tea."
+msgstr "Ні, краще налий мені ще чаю."
+
+#. Key: RCL0_025
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 畏まりました。
+#. JA:   それではすぐに淹れて参ります。
+#. JA:   少々、お待ち下さいませ。
+msgctxt "RCL0_025"
+msgid "Of course, madam. I shall prepare a second pot posthaste."
+msgstr "Як накажете. Зараз заварю свіжий. Прошу зачекати хвилинку."
+
+#. Key: RCL0_027
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ふう……。
+msgctxt "RCL0_027"
+msgid "*sigh*"
+msgstr "Фух..."
+
+#. Key: RCL0_028
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 空を見上げると、月は相変わらず清らかな光を放っていた。
+msgctxt "RCL0_028"
+msgid ""
+"I look up at the sky, at the moon shining like a lustrous pearl in the heavens,\n"
+"surrounded by its retinue of shimmering stars..."
+msgstr "Я підводжу погляд до неба. Місяць, як і раніше, сяє чистим світлом."
+
+#. Key: RCL0_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そしてそれを取り巻く無数の星達。
+#. JA:   その星のひとつを、私は見つめていた。
+msgctxt "RCL0_029"
+msgid "...but it is one of those stars that interests me, not their lord the moon."
+msgstr "Навколо нього мерехтять незліченні зорі. Я дивлюся на одну з них."
+
+#. Key: RCL0_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それは凶星。
+msgctxt "RCL0_030"
+msgid "A star of ill omen."
+msgstr "Це лиховісна зоря."
+
+#. Key: RCL0_031
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 世界が乱れる時にひときわ輝くとされる星。
+#. JA:   その凶星が、数分前に空を見上げた時に比べ、
+#. JA:   微かに位置を変えているのに私は気付いた。
+msgctxt "RCL0_031"
+msgid ""
+"A star that shines its brightest when the earth is on the brink of destruction.\n"
+"As I look at that star, I realize...it has moved, but only ever so slightly..."
+msgstr ""
+"Кажуть, вона сяє найяскравіше, коли у світі настає безлад. Я помітила:\n"
+"відтоді як кілька хвилин тому глянула на небо, ця зоря ледь змінила\n"
+"своє положення."
+
+#. Key: RCL0_032
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 星が……。
+msgctxt "RCL0_032"
+msgid "The stars..."
+msgstr "Зоря..."
+
+#. Key: RCL0_033
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それが何を意味するのかを、私は知っていた。
+msgctxt "RCL0_033"
+msgid "I know what it means."
+msgstr "Я знаю, що це означає."
+
+#. Key: RCL0_034
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私は思う。
+#. JA:   ついに現われたのだと。
+msgctxt "RCL0_034"
+msgid "I know that, once again, the time has come."
+msgstr "Я подумала: нарешті він з'явився."
+
+#. Key: RCL0_035
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私は思う。
+#. JA:   ついにその時が来たのだと。
+msgctxt "RCL0_035"
+msgid "I know that, once again, that terrible thing will make its debut."
+msgstr "Я подумала: нарешті настав той час."
+
+#. Key: RCL0_036
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私は思う。
+#. JA:   ついに世界が終るのだと。
+msgctxt "RCL0_036"
+msgid "I know that, once again, the world is about to end."
+msgstr "Я подумала: нарешті світу настане кінець."
+
+#. Key: RCL0_037
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私は立ち上がった。
+#. JA:   そして、かたわらで眠るナゴとギィを蹴り飛ばす。
+msgctxt "RCL0_037"
+msgid "I stand and delicately prod Nago and Gii with my foot."
+msgstr "Я підвелася й копнула Наґо та Ґі, що спали поруч."
+
+#. Key: RCL0_039
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ウニャッ!?
+msgctxt "RCL0_039"
+msgid "Ow!"
+msgstr "Няв?!"
+
+#. Key: RCL0_040
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: い、痛いッス、姫様！
+msgctxt "RCL0_040"
+msgid "O-Owwww, that hurt, Princess!"
+msgstr "Б-боляче, принцесо!"
+
+#. Key: RCL0_042
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いつまで寝ているの、出かけるわよ！
+msgctxt "RCL0_042"
+msgid ""
+"Do you do anything but sleep?\n"
+"Come. We are going out."
+msgstr "Скільки ще спатимете? Ми вирушаємо!"
+
+#. Key: RCL0_043
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 出かけるって……。
+#. JA:   さっき帰ってきたばっかりっス！
+#. JA:   いつも帰ってきたらしばらくはのんびりタイムっス！
+msgctxt "RCL0_043"
+msgid ""
+"G-Going out... But we just got back!\n"
+"We usually get some time to relax before we have to go out again..."
+msgstr ""
+"Вирушаємо?.. Ми ж щойно повернулися! Зазвичай після повернення нам\n"
+"дають трохи відпочити!"
+
+#. Key: RCL0_044
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 事情が変わったのよ。さ、準備なさい。
+msgctxt "RCL0_044"
+msgid ""
+"The situation has changed.\n"
+"Get ready. Now."
+msgstr "Обставини змінилися. Готуйтеся."
+
+#. Key: RCL0_045
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 事情はよく分からないけど……。
+#. JA:   何かやるべき時が来たんだね、姫様？
+msgctxt "RCL0_045"
+msgid ""
+"I'm not sure what you're talking about, but...the time has come for us to act, right?\n"
+"Oh my goodness!"
+msgstr ""
+"Не дуже розумію, що відбувається... Але настав час щось зробити,\n"
+"принцесо?"
+
+#. Key: RCL0_046
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: さあ、どうかしらね……。
+#. JA:   それを確かめに行くのよ。
+msgctxt "RCL0_046"
+msgid "I am not sure myself... But that is what I intend to find out."
+msgstr "Хтозна... Саме це ми й перевіримо."
+
+#. Key: RCL0_047
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ふふ……久しぶりだわ。
+#. JA:   こんなに胸が躍るのは……。
+msgctxt "RCL0_047"
+msgid "Hehe... It has been a while since I felt this kind of excitement."
+msgstr "Хі-хі... Давно я не відчувала такого хвилювання..."
+
+#. Key: RCL0_050
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: レイチェル様、新しくお茶を―――。
+msgctxt "RCL0_050"
+msgid "Your tea, madam—"
+msgstr "Пані Рейчел, я приніс свіжий чай..."
+
+#. Key: RCL0_052
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: おや、もう行ってしまわれたか……。
+msgctxt "RCL0_052"
+msgid "Ah... Gone already? They grow up so fast..."
+msgstr "Он як, уже пішла..."
+
+#. Key: RCL0_054
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 仕方がないですな。
+#. JA:   後片付けをすると致しましょうか。
+msgctxt "RCL0_054"
+msgid ""
+"A shame this tea shall go to waste...\n"
+"Ah well, a good house is a tidy house..."
+msgstr "Нічого не вдієш. Час усе прибрати."
+
+#. Key: RCL0_056
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL0_056"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL0_058
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: む……。
+msgctxt "RCL0_058"
+msgid "Hm?"
+msgstr "Гм..."
+
+#. Key: RCL0_061
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL0_061"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL0_062
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 久しぶりだな、オッサン。
+msgctxt "RCL0_062"
+msgid "Long time, no see, old man."
+msgstr "Давно не бачилися, старий."
+
+#. Key: RCL0_063
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 相変わらず、品性の欠片もない物言いだな。
+msgctxt "RCL0_063"
+msgid "You have changed little, I see. No sense of propriety whatsoever."
+msgstr "Твої манери, як завжди, залишають бажати кращого."
+
+#. Key: RCL0_064
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ここは貴様のような者が足を踏み入れてよい場所ではない。
+#. JA:   早々に立ち去るがいい。
+msgctxt "RCL0_064"
+msgid ""
+"A man such as you is not welcome in a place such as this. I would humbly request\n"
+"that you leave. Immediately."
+msgstr "Таким, як ти, тут не місце. Забирайся негайно."
+
+#. Key: RCL0_066
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: おいおい、つめてーなぁ。
+#. JA:   昔の仲間だろ？
+msgctxt "RCL0_066"
+msgid "Hey now, don't be so cold. Don't we go way back?"
+msgstr "Та годі тобі, чого такий холодний? Ми ж давні товариші."
+
+#. Key: RCL0_067
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: こっちはこんな花くせぇところでさんざ待ってたんだぜ。
+#. JA:   あのクソ吸血鬼にゃ、会いたくもねぇからよ。
+msgctxt "RCL0_067"
+msgid ""
+"I've had to spend hours surrounded by the stench of these flowers because\n"
+"I don't wanna see that damn vampire."
+msgstr ""
+"Я тут добряче прочекав серед цих смердючих квітів. І все тому, що не\n"
+"хотів бачитися з тією клятою вампіркою."
+
+#. Key: RCL0_068
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……聞こえなかったか？　去れと言ったはずだ！
+msgctxt "RCL0_068"
+msgid "...I'm terribly sorry. Perhaps you did not hear me. I believe I asked you to leave."
+msgstr "...Ти не почув? Я наказав тобі піти!"
+
+#. Key: RCL0_069
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 声の威圧とともに、鋭いハイキックを放つヴァルケンハイン。
+#. JA:   しかし、その攻撃は虚しく空気をかき分け、相手に届くことはなかった。
+msgctxt "RCL0_069"
+msgid ""
+"With a grunt, Valkenhayn throws all in strength into a kick, but it comes up short,\n"
+"merely grazing his target."
+msgstr ""
+"Із погрозливим вигуком Валькенгайн завдає різкого удару ногою. Та\n"
+"удар лише розтинає повітря й не дістає супротивника."
+
+#. Key: RCL0_070
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ムダムダ、ムダだってーの。
+#. JA:   分かってるくせに。
+msgctxt "RCL0_070"
+msgid "Hahaha, just forget it, man! There's no use. You should know that."
+msgstr "Марно, марно. Сам знаєш."
+
+#. Key: RCL0_071
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それともそんなことも理解できないくらい
+#. JA:   カッカきちゃってるわけ？
+msgctxt "RCL0_071"
+msgid "Don't tell me you're going senile."
+msgstr "Чи ти так розлютився, що вже не здатен цього збагнути?"
+
+#. Key: RCL0_072
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 俺なんか気に障ること言った？
+#. JA:   クソをクソと呼んだのが悪いってか？
+#. JA:   ひゃひゃひゃ……。そりゃ無茶な道理だぜ。
+msgctxt "RCL0_072"
+msgid ""
+"Aww, did I hit a nerve? Hahaha, you're mad at me for telling the truth?\n"
+"Hahaha! What kind of logic is that?"
+msgstr ""
+"Я сказав щось образливе? Не можна називати лайно лайном? Хі-хі-хі...\n"
+"Безглузде правило."
+
+#. Key: RCL0_073
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL0_073"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL0_075
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: お？　まだやるか？
+msgctxt "RCL0_075"
+msgid "Oh? You wanna keep goin'?"
+msgstr "О? Хочеш продовжити?"
+
+#. Key: RCL0_077
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 冷静になったと思ったら、お片付けかよ。
+#. JA:   マメだねぇ、相変わらず。
+msgctxt "RCL0_077"
+msgid ""
+"Just when I thought you had calmed down, you start cleaning...As square as always,\n"
+"eh?"
+msgstr ""
+"Тільки-но, гадав, ти заспокоївся — вже прибираєш. Такий самий\n"
+"хазяйновитий, як завжди."
+
+#. Key: RCL0_078
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……何をしに来た。
+msgctxt "RCL0_078"
+msgid "...Enough. What do you want?"
+msgstr "...Навіщо ти прийшов?"
+
+#. Key: RCL0_079
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 別に。
+#. JA:   ただ、あんたは気付いてるのかなーと思ってね。
+msgctxt "RCL0_079"
+msgid "Nothing really. I was just wondering if you've realized yet."
+msgstr "Та так. Просто хотів дізнатися, чи ти помітив."
+
+#. Key: RCL0_081
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 何のことだ？
+msgctxt "RCL0_081"
+msgid "What on earth are you talking about?"
+msgstr "Що саме?"
+
+#. Key: RCL0_082
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……星が動いてるぜ？
+msgctxt "RCL0_082"
+msgid "...The stars are moving."
+msgstr "...Зоря рухається."
+
+#. Key: RCL0_084
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: これは……私としたことが！
+msgctxt "RCL0_084"
+msgid "P-Poppycock!"
+msgstr "Це... Як же я не помітив?!"
+
+#. Key: RCL0_085
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 大事なお嬢ちゃんが無事だといいな。
+#. JA:   ま、言いたかったのはそれだけさ。じゃな～。
+msgctxt "RCL0_085"
+msgid ""
+"I hope your precious little lady is all right. Well, that's all I really wanted to say.\n"
+"See ya around."
+msgstr ""
+"Сподіваюся, з твоєю любою дівчинкою все гаразд. Це все, що я хотів\n"
+"сказати. Ну бувай."
+
+#. Key: RCL0_087
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL0_087"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL0_089
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もう歳ですかね、私も。
+msgctxt "RCL0_089"
+msgid "Oh, dear... Perhaps old age is getting the better of me."
+msgstr "Мабуть, і я вже старію."
+
+#. Key: RCL0_090
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: “アレ”に気付かなかったとは失態だ……。
+msgctxt "RCL0_090"
+msgid "I did not notice..."
+msgstr "Не помітити цього — неабиякий промах..."
+
+#. Key: RCL0_091
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: レイチェル様、すぐに参ります。
+#. JA:   どうかご無事で……。
+msgctxt "RCL0_091"
+msgid "I am on my way, Madam Rachel. I pray for your safety..."
+msgstr "Пані Рейчел, я вже йду до вас. Прошу, бережіть себе..."
+
+#. Key: RCL1_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……何もないところね。
+#. JA:   なぜこんなところに転移してしまったのかしら……？
+msgctxt "RCL1_002"
+msgid "...How barren. How did we end up here...?"
+msgstr "...Геть порожнє місце. Як ми сюди перенеслися...?"
+
+#. Key: RCL1_003
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あらら、姫様でも失敗する時があるんだねぇ。
+msgctxt "RCL1_003"
+msgid "I guess even you can make some mistakes, Princess..."
+msgstr "Ого, навіть принцеса часом помиляється."
+
+#. Key: RCL1_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_004"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はぐっ！
+msgctxt "RCL1_006"
+msgid "Hargh!"
+msgstr "Угх!"
+
+#. Key: RCL1_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ひ、姫様！
+#. JA:   誰か来るッス！
+msgctxt "RCL1_007"
+msgid "...P-Princess...! Someone's coming!"
+msgstr "П-принцесо! Сюди хтось іде!"
+
+#. Key: RCL1_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 言われなくても気付いているわ。
+#. JA:   少しその口を閉じてなさい……。
+msgctxt "RCL1_008"
+msgid "I have eyes, Gii. Now shut your ugly mouth before I remove it from your face."
+msgstr "Я й без тебе помітила. Помовчи трохи..."
+
+#. Key: RCL1_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_010"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あら坊や、ごきげんよう。
+msgctxt "RCL1_011"
+msgid "Hello there, child. How do you do?"
+msgstr "Добридень, хлопчику."
+
+#. Key: RCL1_012
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 君は……魔女？
+#. JA:   何もないところから突然現れたけど……。
+msgctxt "RCL1_012"
+msgid "Are you...a witch? You came out of nowhere..."
+msgstr "Ти... відьма? Ти щойно виникла з нічого..."
+
+#. Key: RCL1_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 見間違えじゃないかしら？
+#. JA:   その大きなメガネはお飾り？
+#. JA:   もう一度視力を検査した方が良いのでなくて？
+msgctxt "RCL1_013"
+msgid ""
+"I beg your pardon? Clearly those ostentatious eyeglasses do your eyes no good.\n"
+"Perhaps they would serve you better forcibly inserted into your mouth."
+msgstr ""
+"Може, тобі здалося? Ці величезні окуляри — просто прикраса? Раджу ще\n"
+"раз перевірити зір."
+
+#. Key: RCL1_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姉さん、どう思う……？
+#. JA:   この人のこと……。
+msgctxt "RCL1_014"
+msgid "What do you think, Sis...? About this person..."
+msgstr "Сестро, що ти думаєш... про цю особу?"
+
+#. Key: RCL1_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: !?
+#. JA:   姉さん？　どうしたのっ!?
+msgctxt "RCL1_016"
+msgid ""
+"!?\n"
+"Sis? What's the matter!?"
+msgstr "?! Сестро? Що з тобою?!"
+
+#. Key: RCL1_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あいつ、ずっと人形に話しかけてるよ、姫様……。
+#. JA:   関わらない方が良くない？
+msgctxt "RCL1_017"
+msgid "Milady, that guy's talking to a puppet... I think we should keep on walking."
+msgstr ""
+"Принцесо, він увесь час розмовляє з лялькою... Може, не варто з ним\n"
+"зв'язуватися?"
+
+#. Key: RCL1_018
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 相変わらず姉離れのできていない坊やね……。
+#. JA:   見ていて少し苛々するわ。
+msgctxt "RCL1_018"
+msgid ""
+"Still depending on your sister at your age? How pitifully sad. How dreadfully\n"
+"irritating."
+msgstr "Ти, як завжди, не можеш відірватися від сестри. Дратує."
+
+#. Key: RCL1_019
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: “危険”？　あの人が危険だって言うのかい？
+msgctxt "RCL1_019"
+msgid "<DQ>Dangerous<DQ>? You're saying that person is dangerous?"
+msgstr "«Небезпечна»? Ти кажеш, що вона небезпечна?"
+
+#. Key: RCL1_020
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 小柄な身の丈からは想像もつかないほどの威圧感を
+#. JA:   レイチェルから感じ取ったカルルが素早く身構える。
+msgctxt "RCL1_020"
+msgid ""
+"Carl, realizing how dangerous Rachel truly is, quickly steps back and readies himself\n"
+"for a fight."
+msgstr ""
+"Карл відчуває від Рейчел такий тиск, якого не чекав від маленької\n"
+"дівчини, й миттю стає в бойову стійку."
+
+#. Key: RCL1_021
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 君は一体……。
+#. JA:   こんなこと、今までなかったのに……。
+#. JA:   姉さんが僕以外の人間に反応するなんて……。
+msgctxt "RCL1_021"
+msgid ""
+"Who in the world are you...? This has never happened before...\n"
+"Sis is reacting to someone other than myself...?"
+msgstr ""
+"Хто ти така...? Ніколи такого не було... Сестра реагує на когось, крім\n"
+"мене..."
+
+#. Key: RCL1_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方はマナーという言葉を知っているかしら？
+#. JA:   初対面のレディに対して“危険”だなんて、随分と教養がないのね。
+msgctxt "RCL1_022"
+msgid ""
+"Have you ever heard of the word <DQ>manners<DQ>? Inquiring about a lady's nature is not\n"
+"only rude, it is the very height of impropriety!"
+msgstr ""
+"Чи знаєш ти слово «манери»? Називати пані, яку щойно зустрів,\n"
+"«небезпечною» — це неабияке невігластво."
+
+#. Key: RCL1_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 危険だ……。分からないけど、君は危険な存在だ。
+#. JA:   姉さんがそう言ってる！
+msgctxt "RCL1_023"
+msgid ""
+"You're dangerous... I'm not really sure why, but you're a dangerous individual.\n"
+"My sister said so!"
+msgstr ""
+"Ти небезпечна... Не знаю чому, але ти становиш загрозу. Так каже\n"
+"сестра!"
+
+#. Key: RCL1_028
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 意外とやるのね……。
+#. JA:   これも“ズレ”の一部なのかしら……。
+msgctxt "RCL1_028"
+msgid "Not bad... Might this be a consequence of the shift?"
+msgstr "Неочікувано вправний... Може, це теж наслідок зсуву...?"
+
+#. Key: RCL1_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そういうの、負け惜しみというんですよ。
+#. JA:   それよりも、君はなにか知っているみたいだ。
+#. JA:   話してもらいますよ、色々とね……。
+msgctxt "RCL1_029"
+msgid ""
+"It's called <DQ>being a sore loser<DQ>. Or perhaps you know something I don't...\n"
+"If that's the case, I'll have you answer my questions."
+msgstr ""
+"Це називається «виправданням поразки». До того ж ти, схоже, щось\n"
+"знаєш. Тож розкажеш мені все..."
+
+#. Key: RCL1_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ひ、姫様……やばいよ……。
+msgctxt "RCL1_030"
+msgid "P-Princess, this doesn't look good..."
+msgstr "П-принцесо... Справи кепські..."
+
+#. Key: RCL1_032
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 執事さんっ！！
+msgctxt "RCL1_032"
+msgid "Valkenhayn!"
+msgstr "Дворецький!!"
+
+#. Key: RCL1_033
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: やれやれ、何とか間に合いましたか……。
+msgctxt "RCL1_033"
+msgid "Oh, my... I see I was only just in time."
+msgstr "Отакої. Здається, я ледве встиг..."
+
+#. Key: RCL1_034
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_034"
+msgid "...?"
+msgstr "...?"
+
+#. Key: RCL1_036
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: うっ……！
+msgctxt "RCL1_036"
+msgid "Ugh...!"
+msgstr "Ух...!"
+
+#. Key: RCL1_037
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: どうやらまだ時期ではないようですな。
+#. JA:   さ、帰りましょう、レイチェル様。
+msgctxt "RCL1_037"
+msgid ""
+"It would seem the time is not yet right.\n"
+"Let us retire to the castle, milady."
+msgstr "Схоже, час ще не настав. Ходімо додому, пані Рейчел."
+
+#. Key: RCL1_038
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: どうやらそのようね……。
+#. JA:   口惜しいけど、仕方がないわ……。
+msgctxt "RCL1_038"
+msgid "So it would seem. A shame, but I suppose I have done my utmost."
+msgstr "Схоже на те... Шкода, але нічого не вдієш..."
+
+#. Key: RCL1_040
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: また、待たねばならないのね。
+#. JA:   未来永劫続く、この世<ruby>オ</ruby>界<ruby>リ</ruby>の中で……。
+msgctxt "RCL1_040"
+msgid "It is back to waiting, then. Waiting, in this cage where time never ends."
+msgstr "Доведеться знову чекати. У цьому світі-клітці, що триває вічно..."
+
+#. Key: RCL1_045
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ううっ……姉さん……。
+msgctxt "RCL1_045"
+msgid "Ungh...Sis..."
+msgstr "У-у... Сестро..."
+
+#. Key: RCL1_046
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: まったく……。
+#. JA:   ガキンチョの分際で姫様に楯突こうなんて、
+#. JA:   五億年くらい早いってんだよ！
+msgctxt "RCL1_046"
+msgid "Hah! You mean you thought you stood a chance against the princess?"
+msgstr ""
+"Подумати лишень... Таке мале, а вже насмілилося перечити принцесі!\n"
+"Тобі до цього ще п'ятсот мільйонів років рости!"
+
+#. Key: RCL1_047
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: で、姫様？　コイツどうするッスか？
+msgctxt "RCL1_047"
+msgid "What should we do with this boy, milady?"
+msgstr "Принцесо, що робити з цим хлопцем?"
+
+#. Key: RCL1_048
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そうね……。
+msgctxt "RCL1_048"
+msgid "Let's see..."
+msgstr "Подумаю..."
+
+#. Key: RCL1_049
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 放っておきましょう。
+msgctxt "RCL1_049"
+msgid "Let us leave him."
+msgstr "Залишімо його."
+
+#. Key: RCL1_050
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もう少し躾が必要かしら？
+msgctxt "RCL1_050"
+msgid "I believe he requires a lesson in manners."
+msgstr "Може, його ще трохи провчити?"
+
+#. Key: RCL1_054
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 放っておきましょう。
+#. JA:   充分、反省はしたでしょうから……。
+msgctxt "RCL1_054"
+msgid "I would rather leave him, that he may live to regret his actions."
+msgstr "Залишімо його. Гадаю, він уже збагнув свою помилку..."
+
+#. Key: RCL1_055
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様が見逃すなんて……。
+msgctxt "RCL1_055"
+msgid "The princess letting someone go...?"
+msgstr "Принцеса когось відпускає...?"
+
+#. Key: RCL1_056
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そういうことだから、姫様に感謝しな、ガキンチョっ！
+msgctxt "RCL1_056"
+msgid "You have no idea how lucky you are."
+msgstr "Отож дякуй принцесі, малий!"
+
+#. Key: RCL1_057
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: では、ごきげんよう、坊や……。
+msgctxt "RCL1_057"
+msgid "I shall see you around, child. Good day."
+msgstr "Що ж, бувай, хлопчику..."
+
+#. Key: RCL1_059
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: くっ……。ぼ、僕は……っ！！
+msgctxt "RCL1_059"
+msgid "G-Guh... I...I'm...!"
+msgstr "Кх... Я... Я...!"
+
+#. Key: RCL1_061
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nirvana
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_061"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_063
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: む……？
+#. JA:   間に合いませんでしたか。
+msgctxt "RCL1_063"
+msgid "Eh? Oh dear... It would seem I have arrived too late."
+msgstr "Гм...? Не встиг."
+
+#. Key: RCL1_064
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: レイチェル様は先に進まれたようですな。
+msgctxt "RCL1_064"
+msgid "Madam Rachel is still on the move."
+msgstr "Схоже, пані Рейчел уже рушила далі."
+
+#. Key: RCL1_065
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nirvana
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_065"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_066
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: おや……お前は……？
+msgctxt "RCL1_066"
+msgid "Ah, I'm terribly sorry... You are...?"
+msgstr "О... А ти...?"
+
+#. Key: RCL1_068
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nirvana
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_068"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_069
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 久しいですな……。彼が今の君の主かね？
+msgctxt "RCL1_069"
+msgid "It has been some time... I take it this young gentlemen is your new master?"
+msgstr "Давно не бачилися... Це він тепер твій господар?"
+
+#. Key: RCL1_070
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nirvana
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_070"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_071
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: お互いに主を持つ身は大変だ……。どれ、手を貸そう。
+msgctxt "RCL1_071"
+msgid ""
+"Having a master is rather difficult, wouldn't you agree?\n"
+"Here, allow me to—"
+msgstr "Нелегко нам обом служити господарям... Дозволь допомогти."
+
+#. Key: RCL1_072
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nirvana
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_072"
+msgid "...!"
+msgstr "...!"
+
+#. Key: RCL1_074
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 相変わらず心配症だ……。今の私は敵ではないよ。
+msgctxt "RCL1_074"
+msgid "As cautious as ever, I see. But I am no longer your enemy."
+msgstr "Ти, як завжди, надто пильнуєш. Тепер я тобі не ворог."
+
+#. Key: RCL1_075
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nirvana
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_075"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_076
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: なに、分かってくれればいいのだ。
+msgctxt "RCL1_076"
+msgid "Do not concern yourself. All that matters is that we can understand one another."
+msgstr "Головне, що ти зрозуміла."
+
+#. Key: RCL1_078
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: どれ……。確かオリエントタウンという所に腕の良い医者がいると
+#. JA:   聞いたことがある。そこまで連れて行ってやろう。
+msgctxt "RCL1_078"
+msgid ""
+"Let me see... Ah, I believe there is a rather skilled doctor in Orient Town.\n"
+"I believe that will be my next stop."
+msgstr "Здається, в Орієнт-тауні є вправна лікарка. Я віднесу його туди."
+
+#. Key: RCL1_079
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 君も来るがいい。
+msgctxt "RCL1_079"
+msgid "Would you care to join me?"
+msgstr "Ти теж ходімо."
+
+#. Key: RCL1_080
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nirvana
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_080"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_084
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もう少し躾が必要かしら……。
+msgctxt "RCL1_084"
+msgid "You are still in rather dire need of manners."
+msgstr "Може, тебе ще трохи повчити манер..."
+
+#. Key: RCL1_085
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それとも助けてほしい？　甘えん坊さん。
+msgctxt "RCL1_085"
+msgid ""
+"Perhaps you would like to beg for mercy. Is that what you would like to do,\n"
+"you spoiled brat?"
+msgstr "Чи ти хочеш, щоб я тебе врятувала, розпещений хлопчику?"
+
+#. Key: RCL1_086
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Carl
+#. Context: Rachel story route (POV: Rachel)
+#. JA: う、うっ……！
+msgctxt "RCL1_086"
+msgid "Ugh... U-Ugh...!"
+msgstr "У-у...!"
+
+#. Key: RCL1_087
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: さて、どうしてあげようかしら……。
+msgctxt "RCL1_087"
+msgid "How shall I punish you...?"
+msgstr "І що мені з тобою робити...?"
+
+#. Key: RCL1_089
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ふっふっふっ……。姫様のお仕置きは怖いよぉ。
+msgctxt "RCL1_089"
+msgid "Hehehe...you have no idea what the princess is capable of..."
+msgstr "Хі-хі-хі... Покарання принцеси страшне."
+
+#. Key: RCL1_090
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen; internally Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 待てーい！
+msgctxt "RCL1_090"
+msgid "Halt right there!"
+msgstr "Стій!"
+
+#. Key: RCL1_092
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 愛と正義の男、シシガミ＝バング、見参！
+msgctxt "RCL1_092"
+msgid "A man of love and justice, Bang Shishigami arrives!"
+msgstr "Банґ Шішіґамі, борець за любов і справедливість, прибув!"
+
+#. Key: RCL1_093
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 様子をうかがい、手出しは無用と見守っていたが……。
+#. JA:   敗者に鞭打つなど不届き千万！
+#. JA:   武士にあるまじき行為でござる！！
+msgctxt "RCL1_093"
+msgid ""
+"I have been watching from afar... But how could you lay a finger on a man who is\n"
+"already down...!? And you call yourself a warrior!"
+msgstr ""
+"Я спостерігав здалеку й не втручався, та знущатися з переможеного —\n"
+"це нечуване лиходійство! Воїну не личить така поведінка!"
+
+#. Key: RCL1_094
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それにそこの少年は拙者の可愛い後輩！
+#. JA:   このシシガミ＝バング、義によって助太刀いたす！
+msgctxt "RCL1_094"
+msgid "That young man is my cute little disciple! I, Bang Shishigami, cannot overlook this!"
+msgstr ""
+"До того ж цей хлопчина — мій любий молодший поплічник! Я, Банґ\n"
+"Шішіґамі, мушу допомогти йому заради справедливості!"
+
+#. Key: RCL1_095
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……誰？
+msgctxt "RCL1_095"
+msgid "...Who?"
+msgstr "...Хто ти?"
+
+#. Key: RCL1_096
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: シシガミ＝バングと名乗ったであろうが！
+msgctxt "RCL1_096"
+msgid "I just said, I'm Bang Shishigami!"
+msgstr "Я ж щойно назвався Банґом Шішіґамі!"
+
+#. Key: RCL1_097
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……暑苦しいわね。
+#. JA:   貴方には関係のないことだわ。お下がりなさい。
+msgctxt "RCL1_097"
+msgid ""
+"...\n"
+"This matter does not concern you. I suggest you leave."
+msgstr "...Який же ти галасливий. Це тебе не стосується. Відійди."
+
+#. Key: RCL1_098
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: だからその少年は拙者の後輩だと言っているではないか！
+msgctxt "RCL1_098"
+msgid "But I just told you! That boy is my apprentice!"
+msgstr "Я ж сказав: цей хлопчина — мій молодший поплічник!"
+
+#. Key: RCL1_099
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: その可愛らしい坊やと、貴方のような暑苦しい人間との間に
+#. JA:   先輩後輩といった関わりがあるとは到底思えないけれど。
+msgctxt "RCL1_099"
+msgid ""
+"You will excuse me if I find it difficult to believe this unsullied child would associate\n"
+"with a...man...such as yourself."
+msgstr ""
+"Важко повірити, що цей милий хлопчик може бути поплічником такого\n"
+"галасливого чоловіка, як ти."
+
+#. Key: RCL1_100
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そのようなことはない！
+#. JA:   その少年は拙者と同じ「咎追い」でござってな……。
+msgctxt "RCL1_100"
+msgid "That's not true! He's also a vigilante like myself."
+msgstr "Ще й як може! Він теж мисливець за головами, як і я..."
+
+#. Key: RCL1_101
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それに咎追いが戦う相手と言えば罪人と相場が決まっておる！
+#. JA:   いかに少女のような容姿といえど、拙者は騙されぬぞ！
+#. JA:   人を見かけで判断するほど、拙者は甘くはないのでござる！
+msgctxt "RCL1_101"
+msgid ""
+"Besides, the kinds of fights vigilantes get involved in are very limited...which leads\n"
+"me to believe that you have done something terrible. You cannot fool me with your\n"
+"appearance!"
+msgstr ""
+"А мисливці за головами зазвичай б'ються зі злочинцями! Хоч ти й маєш\n"
+"вигляд дівчинки, мене не обдуриш! Я не з тих, хто судить лише за\n"
+"зовнішністю!"
+
+#. Key: RCL1_102
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: さあ、尋常に立ち合えい！
+msgctxt "RCL1_102"
+msgid "Now, fight fair and square!"
+msgstr "Ну ж бо, бийся чесно!"
+
+#. Key: RCL1_103
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL1_103"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL1_105
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ナゴ、ギィ、行くわよ。
+msgctxt "RCL1_105"
+msgid "Nago, Gii, let's go."
+msgstr "Наґо, Ґі, ходімо."
+
+#. Key: RCL1_106
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はいよ！
+msgctxt "RCL1_106"
+msgid "All righty!"
+msgstr "Авжеж!"
+
+#. Key: RCL1_107
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様、あいつは放っておくッスか？
+msgctxt "RCL1_107"
+msgid "Milady, are we just leaving him?"
+msgstr "Принцесо, просто залишимо його?"
+
+#. Key: RCL1_108
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 興が覚めたわ……。
+#. JA:   あんなむさ苦しい男は好みではないの。
+msgctxt "RCL1_108"
+msgid "You have failed to pique my curiosity, and I do not much care for sweaty men."
+msgstr "Мені вже не цікаво... Такі смердючі чоловіки не в моєму смаку."
+
+#. Key: RCL1_109
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: むうっ！
+#. JA:   逃げる気か！腰ぬけめ！
+msgctxt "RCL1_109"
+msgid "Hm!? So you choose to run? You coward!"
+msgstr "Гм! Надумала тікати? Боягузко!"
+
+#. Key: RCL1_111
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 転移するわよ。
+#. JA:   ここからなら直接「窯」のところまで行けるでしょう。
+msgctxt "RCL1_111"
+msgid ""
+"This conversation is over. Now, we're going to jump from here straight to the\n"
+"Cauldron."
+msgstr "Перенесемося звідси. Здається, звідси можна потрапити просто до Котла."
+
+#. Key: RCL1_112
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: させるかっ！
+msgctxt "RCL1_112"
+msgid "I won't let you!"
+msgstr "Не дозволю!"
+
+#. Key: RCL1_113
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……あっ！
+msgctxt "RCL1_113"
+msgid "...Ah!"
+msgstr "...А!"
+
+#. Key: RCL2_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Jin
+#. Context: Rachel story route (POV: Rachel)
+#. JA: くそっ……お前……なんなんだ……！
+#. JA:   ノエル＝ヴァーミリオン！　お前はっ……！
+msgctxt "RCL2_002"
+msgid "Dammit...who...are you...? Noel Vermillion! Are you...!"
+msgstr "Чорт... Хто ж... ти така...?! Ноель Верміліон! Ти...!"
+
+#. Key: RCL2_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: キ、キサラギ少佐！
+#. JA:   しっかりして下さい！
+#. JA:   今、医療班を呼びますから！
+msgctxt "RCL2_004"
+msgid "M-Major Kisaragi! Please hang in there! I'm calling a doctor right now!"
+msgstr "М-майоре Кісараґі! Тримайтеся! Я зараз викличу медиків!"
+
+#. Key: RCL2_005
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Jin
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL2_005"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL2_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: どうして少佐は私を……。
+#. JA:   ひどく混乱なさっていたみたいだし……。
+#. JA:   私……どうしたら……。
+msgctxt "RCL2_006"
+msgid ""
+"Why did the Major attack me...? He seemed really disoriented...\n"
+"What should I—"
+msgstr ""
+"Чому майор напав на мене...? Він здавався таким розгубленим... Що ж\n"
+"мені робити...?"
+
+#. Key: RCL2_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: わっ……!?
+msgctxt "RCL2_008"
+msgid "Eek...!"
+msgstr "Ой...?!"
+
+#. Key: RCL2_009
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あら？　今日は起きているのね？
+msgctxt "RCL2_009"
+msgid "Oh? Awake already, are you?"
+msgstr "О? Сьогодні ти не спиш?"
+
+#. Key: RCL2_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: え……？
+msgctxt "RCL2_010"
+msgid "Eh...?"
+msgstr "Що...?"
+
+#. Key: RCL2_012
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あ、私、のことですか？
+msgctxt "RCL2_012"
+msgid "A-Are you talking to me?"
+msgstr "В-ви до мене звертаєтеся?"
+
+#. Key: RCL2_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ここに私が話しかけるような相手が他にいて？
+msgctxt "RCL2_013"
+msgid "I see no one else here."
+msgstr "Тут є ще хтось, до кого я могла б звернутися?"
+
+#. Key: RCL2_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL2_014"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL2_015
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL2_015"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL2_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: な、なんか怖いッス……。
+msgctxt "RCL2_016"
+msgid "Sh-She's scary..."
+msgstr "Якось страшно..."
+
+#. Key: RCL2_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 黙ってな！
+#. JA:   女の喧嘩は眼力がモノを云うのさ！
+msgctxt "RCL2_017"
+msgid ""
+"Shh!\n"
+"I've heard women can fight with just their eyes..."
+msgstr "Мовчи! У жіночій сварці все вирішують погляди!"
+
+#. Key: RCL2_018
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私、貴方の眼、嫌いだわ。
+msgctxt "RCL2_018"
+msgid "I don't like your eyes."
+msgstr "Мені не подобаються твої очі."
+
+#. Key: RCL2_019
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: い、いきなり何を……？
+msgctxt "RCL2_019"
+msgid "H-Huh...?"
+msgstr "З-чого це раптом...?"
+
+#. Key: RCL2_020
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それに……、
+#. JA:   そんなモノに頼らないと
+#. JA:   何もできないというのも情けない話ね……。
+msgctxt "RCL2_020"
+msgid "Don't you think it's rather pathetic to rely on those...things?"
+msgstr "До того ж жалюгідно, що без оцих речей ти ні на що не здатна..."
+
+#. Key: RCL2_021
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: な、何の話ですか！
+msgctxt "RCL2_021"
+msgid "Wh-What are you talking about?"
+msgstr "П-про що ви?!"
+
+#. Key: RCL2_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方が大事そうに抱えているオモチャよ。
+#. JA:   それがないと貴方、まともに会話もできないんじゃなくて？
+msgctxt "RCL2_022"
+msgid "Those...little toys you insist on carrying with you. Can't even talk without it, can you?"
+msgstr ""
+"Про іграшки, які ти так дбайливо тримаєш. Без них ти, мабуть, і\n"
+"розмовляти нормально не здатна?"
+
+#. Key: RCL2_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そ、それは……。
+msgctxt "RCL2_023"
+msgid "Th-That's because..."
+msgstr "А-але ж..."
+
+#. Key: RCL2_024
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そのオドオドした態度もおやめなさい。
+#. JA:   まったく、イライラさせるばかりね、貴方。
+msgctxt "RCL2_024"
+msgid ""
+"Oh for goodness sake, child, make up your mind! Your behavior sickens me,\n"
+"although I can't say I expected much."
+msgstr "І припини так тремтіти. Ти тільки дратуєш мене."
+
+#. Key: RCL2_025
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あ、あなたに一体私の何が分かるんですか！
+msgctxt "RCL2_025"
+msgid "Wh-What do you know about me!?"
+msgstr "Щ-що ви взагалі про мене знаєте?!"
+
+#. Key: RCL2_026
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL2_026"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL2_028
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: “何が分かるか”ですって？
+#. JA:   そう……。いいわ。それが知りたいなら教えてあげる。
+msgctxt "RCL2_028"
+msgid ""
+"What do -I- know about -you-? So you really want to know?\n"
+"OK... I shall indulge you."
+msgstr "Що я знаю? Гаразд. Якщо хочеш знати, скажу."
+
+#. Key: RCL2_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ぜんぶよ。
+msgctxt "RCL2_029"
+msgid "...Everything."
+msgstr "...Усе."
+
+#. Key: RCL2_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ぜ……!?
+msgctxt "RCL2_030"
+msgid "Ev—!?"
+msgstr "У-усе?!"
+
+#. Key: RCL2_031
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 無駄話は止しましょう。
+#. JA:   私は貴方を見極めなくてはならないの。
+msgctxt "RCL2_031"
+msgid ""
+"Enough of this. I have not come here to experience your lamentable attempts\n"
+"at conversation."
+msgstr "Годі теревенів. Я мушу з'ясувати, чого ти варта."
+
+#. Key: RCL2_032
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 本当に貴方に“変える力”があるのかどうかをね。
+msgctxt "RCL2_032"
+msgid "I am here to determine if you possess the power to change this world."
+msgstr "Чи маєш ти справді силу змінити все."
+
+#. Key: RCL2_037
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL2_037"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL2_038
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: お、大人しくしていて下さい……。
+#. JA:   それ以上抵抗するなら、もう命の保証はできません……。
+msgctxt "RCL2_038"
+msgid "C-Calm down...! If you resist any more, I can't guarantee your safety!"
+msgstr ""
+"Б-будь ласка, не рухайтеся... Якщо й далі чинитимете опір, я не\n"
+"гарантую вам життя..."
+
+#. Key: RCL2_039
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……馬鹿。
+msgctxt "RCL2_039"
+msgid "...Idiot..."
+msgstr "...Дурненька."
+
+#. Key: RCL2_040
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: え？
+msgctxt "RCL2_040"
+msgid "Huh?"
+msgstr "Що?"
+
+#. Key: RCL2_041
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: なにを勝った気でいるのかしら？
+#. JA:   調子に乗らないで欲しいわね。
+msgctxt "RCL2_041"
+msgid "You think you've won, child? You would do well to temper your enthusiasm!"
+msgstr "Чому ти вирішила, що перемогла? Не зазнавайся."
+
+#. Key: RCL2_042
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方に少しくらい力があるといっても
+#. JA:   命令されたことしか出来ないのでしょう？
+msgctxt "RCL2_042"
+msgid ""
+"You may have a few tricks up your...sleeve, but that is all they are.\n"
+"Simple parlor tricks, not real power! And all you know is to obey orders that\n"
+"were given to you..."
+msgstr ""
+"Навіть маючи трохи сили, ти здатна лише виконувати чужі накази, чи\n"
+"не так?"
+
+#. Key: RCL2_043
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: え、いや、あの、私は……。
+msgctxt "RCL2_043"
+msgid "No, um, I was..."
+msgstr "Ні, я... е-е..."
+
+#. Key: RCL2_044
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 気分が悪いわ。
+#. JA:   何、ぼんやりした顔をしているの？　さっさと去りなさい。
+msgctxt "RCL2_044"
+msgid "You disgust me. I say good day!"
+msgstr ""
+"Мене вже нудить від тебе. Чого стоїш із таким порожнім обличчям?\n"
+"Забирайся."
+
+#. Key: RCL2_045
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あ、あの、ちょっと……！
+msgctxt "RCL2_045"
+msgid "U-Um, wait...!"
+msgstr "З-зачекайте...!"
+
+#. Key: RCL2_046
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ、ナゴ！
+#. JA:   早く準備なさい。
+#. JA:   何をボーッとしているの！
+msgctxt "RCL2_046"
+msgid ""
+"Gii! Nago! We must depart at once!\n"
+"Cease your dawdling!"
+msgstr "Ґі, Наґо! Готуйтеся. Швидше! Чого завмерли?!"
+
+#. Key: RCL2_048
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: い、痛いッス、姫様！
+#. JA:   八つ当たりは良くない―――。
+msgctxt "RCL2_048"
+msgid "O-Oww, that hurt, Princess! Don't take your anger out on me—"
+msgstr "Б-боляче, принцесо! Не треба зривати на мені злість..."
+
+#. Key: RCL2_050
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: スゥッ！
+msgctxt "RCL2_050"
+msgid "Ow!"
+msgstr "Уй!"
+
+#. Key: RCL2_051
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ナゴ！
+#. JA:   早く飛ぶのよ！
+msgctxt "RCL2_051"
+msgid "Nago! Shut up and fly!"
+msgstr "Наґо! Лети негайно!"
+
+#. Key: RCL2_052
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 分かってるよ、もう……。
+msgctxt "RCL2_052"
+msgid "OK, OK..."
+msgstr "Та знаю вже..."
+
+#. Key: RCL2_054
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: な、なんでそこまで言われなきゃいけないの、私……。
+msgctxt "RCL2_054"
+msgid "Wh-Why do I have to be on the receiving end...?"
+msgstr "З-за що вона так зі мною...?"
+
+#. Key: RCL2_059
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: さ、オモチャは取り上げなきゃね。
+msgctxt "RCL2_059"
+msgid "I believe I will be taking those toys of yours now."
+msgstr "Ну що ж, заберу твої іграшки."
+
+#. Key: RCL2_062
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あ、あ……かえして！
+#. JA:   かえしなさい！
+msgctxt "RCL2_062"
+msgid "A-Ah...give it back, please!"
+msgstr "А-а... Віддай! Віддай мені!"
+
+#. Key: RCL2_063
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それだいじなの！
+#. JA:   ノエルのだいじなものなの！
+#. JA:   だからかえして……かえしてください！
+msgctxt "RCL2_063"
+msgid ""
+"Those are important. They're really important to me!\n"
+"So please...give them back!"
+msgstr "Вони мені дорогі! Дуже дорогі Ноель! Тому віддай... будь ласка, віддай!"
+
+#. Key: RCL2_064
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……嫌。
+msgctxt "RCL2_064"
+msgid "...No."
+msgstr "...Не хочу."
+
+#. Key: RCL2_066
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あっ！！
+msgctxt "RCL2_066"
+msgid "Ah!"
+msgstr "А!!"
+
+#. Key: RCL2_068
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL2_068"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL2_070
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ああ、あああああ……。
+msgctxt "RCL2_070"
+msgid "*cry*"
+msgstr "А-а, а-а-а-а..."
+
+#. Key: RCL2_071
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ひ、ひどいよ……どうして……。
+#. JA:   どうしてノエルのこといじめるの……。
+#. JA:   どうして……。
+msgctxt "RCL2_071"
+msgid ""
+"Why...Why do you have to be so mean to me?\n"
+"Why...?"
+msgstr "Т-ти така жорстока... Чому...? Чому ти кривдиш Ноель...? Чому...?"
+
+#. Key: RCL2_072
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Noel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL2_072"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL2_073
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……絶望して放心？
+msgctxt "RCL2_073"
+msgid "...Is that all you can do?"
+msgstr "...Зневірилася й заціпеніла?"
+
+#. Key: RCL2_074
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: やっぱり駄目ね。
+#. JA:   あんなモノがないと何もできないような存在では、
+#. JA:   この世界を変えることなんて出来はしないわ……。
+msgctxt "RCL2_074"
+msgid ""
+"How disappointing. Without your toys, you are nothing more than a hysterical child.\n"
+"To think I thought you might change the world..."
+msgstr ""
+"Отже, я не помилилася. Якщо ти без оцих речей нічого не можеш, тобі\n"
+"нізащо не змінити цей світ..."
+
+#. Key: RCL2_075
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ナゴ、ギィ！
+#. JA:   行くわよ。
+msgctxt "RCL2_075"
+msgid "Nago! Gii! Let us depart."
+msgstr "Наґо, Ґі! Ми йдемо."
+
+#. Key: RCL2_076
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago & Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はい！
+msgctxt "RCL2_076"
+msgid ""
+"All righty!\n"
+"Roger!"
+msgstr "Так!"
+
+#. Key: RCL3_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL3_002"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL3_003
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……貴方も懲りないわね、アルルカン。
+msgctxt "RCL3_003"
+msgid "How terribly persistent of you, Harlequin."
+msgstr "...Ти теж ніяк не вгамуєшся, Арлекіне."
+
+#. Key: RCL3_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 何故、此処に来た。
+#. JA:   貴様、今更干渉する気か？
+msgctxt "RCL3_004"
+msgid "Why have you come here? Do you intend to intervene now?"
+msgstr "Навіщо ти сюди прийшла? Невже тепер надумала втрутитися?"
+
+#. Key: RCL3_005
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL3_005"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL3_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 何かが妙だった。
+msgctxt "RCL3_006"
+msgid "Something is strange..."
+msgstr "Щось було не так."
+
+#. Key: RCL3_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 目の前にいる「ハクメン」と呼ばれる男―――遠い過去に
+#. JA:   英雄と呼ばれたこの者は、自らの信念に従いここに立っている。
+#. JA:   決して変わることのない運命の輪を断ち切る為に……。
+msgctxt "RCL3_007"
+msgid ""
+"There he is, standing before me—the man once known as Hakumen, a hero.\n"
+"But now he fights for his own beliefs, his own form of justice, to escape this\n"
+"never-ending cycle of cursed fate."
+msgstr ""
+"Чоловік переді мною — Хакумен, герой далекого минулого. Він стоїть\n"
+"тут, вірний власним переконанням, щоб розірвати колесо долі, яке,\n"
+"здавалося, ніколи не зміниться..."
+
+#. Key: RCL3_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: でも……。
+#. JA:   
+msgctxt "RCL3_008"
+msgid "Still..."
+msgstr "Та все ж..."
+
+#. Key: RCL3_009
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 何かがおかしい。
+#. JA:   ズレているのだ。
+msgctxt "RCL3_009"
+msgid "Something is not right... Something has shifted."
+msgstr "Щось не так. Щось змістилося."
+
+#. Key: RCL3_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あの星がズレているのと同様に、
+#. JA:   ここで起こるべき事象もまたズレている。
+msgctxt "RCL3_010"
+msgid "Just as the star has shifted, so has the course of the world."
+msgstr "Як змістилася та зоря, так змістилися й події, що мали тут відбутися."
+
+#. Key: RCL3_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私は最初、それがココノエの手によるものだと考えていた。
+#. JA:   彼女が全てを知るがゆえに、この世界を変えようともがいていることを私は知っていたから。
+msgctxt "RCL3_011"
+msgid ""
+"At first, I thought perhaps Kokonoe was responsible. After all, she is the closest to\n"
+"uncovering the truth, and she knows of my efforts to change this cursed world."
+msgstr ""
+"Спершу я подумала, що це справа Коконое. Адже я знала: вона\n"
+"намагається змінити цей світ, бо знає всю правду."
+
+#. Key: RCL3_012
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私はココノエならばそれを為し得るかもしれないと思っていた。
+#. JA:   けれど、違う。
+msgctxt "RCL3_012"
+msgid "I thought perhaps she would attempt...something. But this?"
+msgstr "Я гадала, що Коконое, можливо, здатна це зробити. Та помилилася."
+
+#. Key: RCL3_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: これはココノエの業<ruby>わざ</ruby>ではない。
+#. JA:   彼女には、ここまで大きなズレを生み出す事はできない。
+msgctxt "RCL3_013"
+msgid "This is not Kokonoe's doing. She could never cause a shift of this magnitude."
+msgstr "Це не її рук справа. Їй не під силу спричинити такий великий зсув."
+
+#. Key: RCL3_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: だとしたら―――。
+#. JA:   
+msgctxt "RCL3_014"
+msgid "Then, that would mean..."
+msgstr "Якщо так..."
+
+#. Key: RCL3_015
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: フフッ……。
+msgctxt "RCL3_015"
+msgid "Hehe..."
+msgstr "Хі-хі..."
+
+#. Key: RCL3_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 何故に嗤う？
+msgctxt "RCL3_016"
+msgid "You smile...why?"
+msgstr "Чому смієшся?"
+
+#. Key: RCL3_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いえ、少し遊んであげようかという気になっただけよ。
+msgctxt "RCL3_017"
+msgid "Well, I thought that, since I am here and so are you, perhaps we could play a little?"
+msgstr "Просто подумала, що можна трохи з тобою погратися."
+
+#. Key: RCL3_018
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……戯れ言を。
+#. JA:   貴様は所詮“傍観者”。
+#. JA:   何処となり、去るが良い。
+msgctxt "RCL3_018"
+msgid ""
+"...Surely you jest. You are nothing more than a spectator.\n"
+"You would be wise to take your leave."
+msgstr "...Дурниці. Ти лише спостерігачка. Іди собі геть."
+
+#. Key: RCL3_019
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方の方こそ、“観客”あっての“道化”だということが
+#. JA:   理解できていないのではなくて？
+msgctxt "RCL3_019"
+msgid "Big words from a clown with no audience."
+msgstr "А ти, здається, не розумієш, що блазень існує лише завдяки глядачам."
+
+#. Key: RCL3_020
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: クククッ、道化とはな……。
+msgctxt "RCL3_020"
+msgid "Hahaha... A clown, eh?"
+msgstr "Ха-ха-ха... Блазень, кажеш..."
+
+#. Key: RCL3_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ならば、どちらが道化か……。
+msgctxt "RCL3_022"
+msgid "Let us see who between us is truly a clown."
+msgstr "Тоді з'ясуймо, хто з нас блазень."
+
+#. Key: RCL3_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ええ、すぐに分かることよ。
+#. JA:   すぐにね。
+msgctxt "RCL3_023"
+msgid "Oh yes. Yes, let's do. I believe I would like that very much."
+msgstr "Так, незабаром дізнаємося. Дуже скоро."
+
+#. Key: RCL3_028
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様！　姫様！
+#. JA:   しっかりするッス！
+msgctxt "RCL3_028"
+msgid ""
+"Princess! Princess!\n"
+"Get a grip!"
+msgstr "Принцесо! Принцесо! Тримайтеся!"
+
+#. Key: RCL3_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様ぁっ！
+#. JA:   あんな奴さっさとやっちまってよ！
+msgctxt "RCL3_029"
+msgid "Princess! H-Hurry up and finish that guy off!"
+msgstr "Принцесо! Мерщій розправтеся з ним!"
+
+#. Key: RCL3_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……やはり道化は貴様であったな。
+msgctxt "RCL3_030"
+msgid "Hah! You show your true colors, jester!"
+msgstr "...Тож блазень тут таки ти."
+
+#. Key: RCL3_031
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: まさか……これも……“ズレ”だというの……？
+msgctxt "RCL3_031"
+msgid "Of all the— Is this, too, a shift?"
+msgstr "Невже... це теж... зсув...?"
+
+#. Key: RCL3_033
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……また会おう、彼の時代にて。
+msgctxt "RCL3_033"
+msgid "...Let us meet again, in -his- era."
+msgstr "...Зустрінемося знову в його часі."
+
+#. Key: RCL3_038
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 消えなさい。
+#. JA:   貴方の出番はもうなくてよ。
+msgctxt "RCL3_038"
+msgid ""
+"Begone, Harlequin! The stage grows tired of your wooden performance,\n"
+"and your audience has long since departed."
+msgstr "Зникни. Твоя роль уже скінчилася."
+
+#. Key: RCL3_039
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Hakumen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: クゥっ、事象干渉か……！
+#. JA:   貴様……！
+msgctxt "RCL3_039"
+msgid "Damnable intervention! A curse upon you, harlot!"
+msgstr "Кх... Втручання у причинність...! Ти...!"
+
+#. Key: RCL3_041
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL3_041"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL3_043
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL3_043"
+msgid "...!"
+msgstr "...!"
+
+#. Key: RCL3_044
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 見守るしかないのね、また……。
+msgctxt "RCL3_044"
+msgid "It would seem that once again, all we can do is watch..."
+msgstr "Мені знову лишається тільки спостерігати..."
+
+#. Key: RCL3_045
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ひうっ……！
+msgctxt "RCL3_045"
+msgid "Aaah!"
+msgstr "Гі-і!"
+
+#. Key: RCL3_046
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ！
+#. JA:   いきなり変な声出すんじゃないよ！
+msgctxt "RCL3_046"
+msgid "Gii! You scared the living crap out of me!"
+msgstr "Ґі! Не верещи раптом, я аж злякався!"
+
+#. Key: RCL3_047
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: だだだだって……。
+msgctxt "RCL3_047"
+msgid "B-B-B-B-But...!"
+msgstr "А-а-але ж..."
+
+#. Key: RCL3_049
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: よう、「吸血鬼」。
+msgctxt "RCL3_049"
+msgid "Hey there, vampire."
+msgstr "Здоров, вампірко."
+
+#. Key: RCL3_050
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……なるほどね。
+#. JA:   やっと理解できたわ。
+msgctxt "RCL3_050"
+msgid ""
+"...Ah. I suppose I should have known. I never had much use for Mr. Occam, but\n"
+"perhaps I was wrong..."
+msgstr "...Зрозуміло. Тепер я нарешті збагнула."
+
+#. Key: RCL3_051
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方がこんな表層に出てきているのだもの。
+#. JA:   “ズレ”も生まれるわけね。
+msgctxt "RCL3_051"
+msgid ""
+"If -you- are here, the shifts I've been forced to endure begin to make a modicum of\n"
+"sense."
+msgstr "Якщо ти вийшов аж сюди, на поверхню, не дивно, що виник зсув."
+
+#. Key: RCL3_052
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: クソ吸血鬼にしちゃ理解が早いな。
+#. JA:   ちっとはオベンキョーしたか？
+msgctxt "RCL3_052"
+msgid "You're pretty sharp for a shitty vampire, haha. Been doin' a little studying?"
+msgstr "Як на кляту вампірку, ти швидко догнала. Трохи підучилася?"
+
+#. Key: RCL3_053
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方の方は一度死んで少しはマシになるかと
+#. JA:   思っていたのだけれど、その蛆虫面は変わらないのね。
+msgctxt "RCL3_053"
+msgid ""
+"I thought perhaps death would humble you somewhat, but I now see that was a\n"
+"foolish hope. You still have the complexion of a maggot and the face of a worm,\n"
+"I see."
+msgstr ""
+"Я думала, що після смерті ти станеш хоч трохи кращим. Та твоє\n"
+"хробачине обличчя так і не змінилося."
+
+#. Key: RCL3_054
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ま、こんなナリでもいろいろ楽しみ方はあるもんでね……。
+msgctxt "RCL3_054"
+msgid "Well, there are lots of things I can do -because- I look like this..."
+msgstr "Ну, навіть із такою зовнішністю можна знайти чимало розваг..."
+
+#. Key: RCL3_055
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いっそのこと、虫ケラにでも転生したらどうなの？
+#. JA:   その方がお似合いだと思うわ。
+#. JA:   すぐに踏み潰してあげるけど。
+msgctxt "RCL3_055"
+msgid ""
+"Perhaps you would enjoy being a bug? I don't mean to presume, but such an\n"
+"appearance would suit you. I could take pleasure in stomping you!"
+msgstr ""
+"То може, вже переродишся на справжню комаху? Це тобі більше\n"
+"личитиме. Я одразу тебе розчавлю."
+
+#. Key: RCL3_056
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: おめーの悪口は単純すぎてムカつく気にもならねえよ……。
+#. JA:   今度はそっちのオベンキョーもしといた方がいんじゃねーか？
+msgctxt "RCL3_056"
+msgid ""
+"Your insults are so dull. I couldn't even get angry if I tried...\n"
+"Maybe you should study up on how to insult your opponent?"
+msgstr ""
+"Твої образи такі примітивні, що навіть злості не викликають.\n"
+"Наступного разу підучи й це."
+
+#. Key: RCL3_057
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ぐっ……！
+msgctxt "RCL3_057"
+msgid "Ugh..."
+msgstr "Кх...!"
+
+#. Key: RCL3_058
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: クソ吸血鬼はのんびり“お紅茶”でも飲んでろってこった。
+#. JA:   な？　分かる？　分かってる？　分かんねーよな、アホだから。
+msgctxt "RCL3_058"
+msgid ""
+"You should just sit back and drink your little tea, stupid vampire.\n"
+"Huh? Get it? Understand me? Haha. Probably not. You're a dumbass after all."
+msgstr ""
+"А тобі, клята вампірко, лишається спокійно пити свій чайочок.\n"
+"Зрозуміла? Та де тобі, дурепі."
+
+#. Key: RCL3_059
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: なっ……！
+msgctxt "RCL3_059"
+msgid "How dare you—"
+msgstr "Що...!"
+
+#. Key: RCL3_060
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen
+#. Context: Rachel story route (POV: Rachel)
+#. JA: さーて、と……。
+#. JA:   吸血鬼いじりにも飽きたし、別のとこ行くわ。
+#. JA:   んじゃな。
+msgctxt "RCL3_060"
+msgid ""
+"Oh man...I'm gettin' tired of picking on vampires, so I'm gonna head out.\n"
+"See ya."
+msgstr "Ну, гаразд... Набридло вже знущатися з вампірки. Піду деінде. Бувай."
+
+#. Key: RCL3_062
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL3_062"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL3_063
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ひ、姫様……？
+msgctxt "RCL3_063"
+msgid "P-Princess?"
+msgstr "П-принцесо...?"
+
+#. Key: RCL3_064
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: だいじょうぶ、ッス、か……？
+msgctxt "RCL3_064"
+msgid "A-Are you OK...?"
+msgstr "В-ви в порядку...?"
+
+#. Key: RCL3_066
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はうっ！
+msgctxt "RCL3_066"
+msgid "Haouuu!"
+msgstr "А-а!"
+
+#. Key: RCL3_067
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL3_067"
+msgid "Kuh!"
+msgstr "Кх!"
+
+#. Key: RCL3_068
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: この私に向かって……忌々しい！
+msgctxt "RCL3_068"
+msgid ""
+"He would dare speak to me, to -me-, in such a way!?\n"
+"Why, if I could get my hands around his vicious little neck—"
+msgstr "Він насмілився так говорити зі мною... Яка зухвалість!"
+
+#. Key: RCL3_070
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いぎぃっ!?
+msgctxt "RCL3_070"
+msgid "Eeeek!"
+msgstr "Ґі-і?!"
+
+#. Key: RCL3_071
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様！
+#. JA:   落ち着くんだよ！
+#. JA:   落ち着いて！
+msgctxt "RCL3_071"
+msgid "M-Milady! Calm down, please! Calm down!"
+msgstr "Принцесо! Заспокойтеся! Спокійно!"
+
+#. Key: RCL3_073
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そうッス……さすがにこれ以上は、おいら……。
+msgctxt "RCL3_073"
+msgid "I-I don't think I can take much more..."
+msgstr "Так... Я більше не витримаю..."
+
+#. Key: RCL3_074
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ハァ、ハァ、ハァ……。
+msgctxt "RCL3_074"
+msgid "Haah, haah, haah..."
+msgstr "Ха... ха... ха..."
+
+#. Key: RCL3_077
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ふうっ。
+msgctxt "RCL3_077"
+msgid "Hahh..."
+msgstr "...Фух."
+
+#. Key: RCL3_078
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様、あいつ放っておいていいのかい？
+#. JA:   またよからぬこと企んでるんじゃ……。
+msgctxt "RCL3_078"
+msgid "You sure you wanna leave that guy alone? He might be up to no good again..."
+msgstr ""
+"Принцесо, невже ти залишиш його в спокої? Він знову щось недобре\n"
+"замислив..."
+
+#. Key: RCL3_079
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL3_079"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL3_080
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あんな馬鹿に関わるだけ無駄ね。
+msgctxt "RCL3_080"
+msgid "Why should I waste my time on a charlatan like him?"
+msgstr "Не варто марнувати час на такого дурня."
+
+#. Key: RCL3_081
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 許しを乞わせてやるわ……。
+msgctxt "RCL3_081"
+msgid "Oh, I shall see that he receives his just desserts... But in due time."
+msgstr "Я змушу його благати про прощення..."
+
+#. Key: RCL3_085
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あんな馬鹿に関わるだけ無駄ね。
+msgctxt "RCL3_085"
+msgid "Why should I waste my time on a charlatan like him?"
+msgstr "Не варто марнувати час на такого дурня."
+
+#. Key: RCL3_086
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: だ、だったらそれでもいいんだけど……。
+msgctxt "RCL3_086"
+msgid "I-If that's the case, then I suppose it's OK..."
+msgstr "Я-якщо ти так вважаєш, то гаразд..."
+
+#. Key: RCL3_087
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いい？
+#. JA:   私の前で二度とあいつの話をしないでちょうだい！
+msgctxt "RCL3_087"
+msgid ""
+"I will say this only once. Do not speak of him in my presence, again. Ever.\n"
+"There will be consequences."
+msgstr "Слухайте уважно: більше ніколи не згадуйте його в моїй присутності!"
+
+#. Key: RCL3_088
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: しないッス、絶対！
+msgctxt "RCL3_088"
+msgid "I won't... Ever..."
+msgstr "Нізащо, обіцяю!"
+
+#. Key: RCL3_089
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……姫様、誰か来るよ？
+msgctxt "RCL3_089"
+msgid "...Princess, somebody's coming!"
+msgstr "...Принцесо, сюди хтось іде."
+
+#. Key: RCL3_091
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 今度は、誰？
+msgctxt "RCL3_091"
+msgid "I grow tired of this. Who approaches?"
+msgstr "Хто цього разу?"
+
+#. Key: RCL3_093
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……あン？
+msgctxt "RCL3_093"
+msgid "...Huh?"
+msgstr "...Га?"
+
+#. Key: RCL3_097
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 許しを乞わせてやるわ……。
+msgctxt "RCL3_097"
+msgid "Oh, the pain I will visit upon that man... I will see him beg for death."
+msgstr "Я змушу його благати про прощення..."
+
+#. Key: RCL3_098
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: でもあいつどこに行ったか分からないッスよ……？
+msgctxt "RCL3_098"
+msgid "But, we don't even know where he went..."
+msgstr "Але ж ми не знаємо, куди він пішов..."
+
+#. Key: RCL3_099
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ココノエのところに行くわ。
+#. JA:   あいつは絶対にココノエに接触する。
+msgctxt "RCL3_099"
+msgid "We will find him with Kokonoe. I am loathe to admit it, but I know him."
+msgstr "Підемо до Коконое. Він неодмінно зв'яжеться з нею."
+
+#. Key: RCL3_100
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: じゃあ「第七機関」だね？
+msgctxt "RCL3_100"
+msgid "Then, we're going to Sector Seven, right?"
+msgstr "Отже, до Сектору Сім?"
+
+#. Key: RCL3_101
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ええ。
+msgctxt "RCL3_101"
+msgid "That is correct."
+msgstr "Так."
+
+#. Key: RCL3_102
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もし、あいつがココノエのところに行かなかったとしても、
+#. JA:   報せておかなくてはならないわ……。
+msgctxt "RCL3_102"
+msgid "If he has not yet gone to Kokonoe, then she must know of his imminent arrival."
+msgstr "А навіть якщо він до Коконое не прийде, її треба попередити..."
+
+#. Key: RCL4_001
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……なんでテメェがいるんだよ。
+msgctxt "RCL4_001"
+msgid "...Why the hell are you here?"
+msgstr "...Якого біса ти тут робиш?"
+
+#. Key: RCL4_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL4_002"
+msgid "*giggle*"
+msgstr "Хі-хі..."
+
+#. Key: RCL4_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……てめっ！
+msgctxt "RCL4_004"
+msgid "...Damn you!"
+msgstr "...Ах ти ж!"
+
+#. Key: RCL4_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 相変わらず愚鈍の化身のような男ね。
+msgctxt "RCL4_006"
+msgid ""
+"Is that all? Hah! Plato may have believed the Forms were incorporeal and atemporal,\n"
+"but here you are before me: the Form of a fool!"
+msgstr "Ти, як завжди, наче саме втілення тупості."
+
+#. Key: RCL4_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: うるせえっ！
+#. JA:   高みの見物決め込んでるテメェに言われたかねえ！
+msgctxt "RCL4_007"
+msgid "Shut up! I won't be insulted by someone kickin' back in the box seats!"
+msgstr "Замовкни! Не тобі мене судити: ти лише збоку дивишся!"
+
+#. Key: RCL4_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……およしなさいな。
+#. JA:   貴方の目的は私じゃないのでしょう？
+msgctxt "RCL4_008"
+msgid ""
+"...Such vicious accusations! Why the venom, Grim Reaper? I don't believe you're\n"
+"after me."
+msgstr "...Облиш. Твоя мета ж не я, хіба ні?"
+
+#. Key: RCL4_009
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: テメェはマジで一回痛い目見ないと分かんねーみたいだな……！
+msgctxt "RCL4_009"
+msgid "Now you're just askin' for it...!"
+msgstr "Схоже, ти не зрозумієш, поки сама не дістанеш прочухана!"
+
+#. Key: RCL4_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……愚鈍。
+msgctxt "RCL4_011"
+msgid "...Fool."
+msgstr "...Ідіот."
+
+#. Key: RCL4_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ハァ、ハァ。
+msgctxt "RCL4_016"
+msgid "*pant* *pant*"
+msgstr "...Ха... ха..."
+
+#. Key: RCL4_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あら、もう終り？
+#. JA:   “痛い目”っていうものを見せてくれるのではなくて？
+msgctxt "RCL4_017"
+msgid "Oh my, finished so soon? Hmm... What was it I was <DQ>asking for<DQ> again?"
+msgstr "О, це вже все? Ти ж обіцяв завдати мені «прочухана»."
+
+#. Key: RCL4_018
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: うるせぇ馬鹿！
+msgctxt "RCL4_018"
+msgid "Shut up, stupid!"
+msgstr "Замовкни, дурепо!"
+
+#. Key: RCL4_020
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 駄目ね、貴方がこんな調子じゃ……。
+msgctxt "RCL4_020"
+msgid "This is pointless... In this state, you cannot possibly..."
+msgstr "Кепсько. Якщо ти й далі такий..."
+
+#. Key: RCL4_021
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ナゴ、ギィ。
+#. JA:   帰るわよ……。
+msgctxt "RCL4_021"
+msgid "Nago, Gii, it's time we took our leave."
+msgstr "Наґо, Ґі. Повертаємося додому..."
+
+#. Key: RCL4_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もういいのかい、姫様？
+msgctxt "RCL4_022"
+msgid "Are you sure, milady?"
+msgstr "Уже все, принцесо?"
+
+#. Key: RCL4_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ええ。少し疲れたわ。
+msgctxt "RCL4_023"
+msgid "Yes. Our petites vacances has exhausted me. I wish to return home."
+msgstr "Так. Я трохи втомилася."
+
+#. Key: RCL4_024
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ、帰ったらお茶の準備をお願いね。
+#. JA:   お茶受けも忘れないで。
+msgctxt "RCL4_024"
+msgid "Gii, I will be expecting hot tea soon after we return."
+msgstr "Ґі, коли повернемося, приготуй чай. І не забудь чогось до чаю."
+
+#. Key: RCL4_025
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 分かってるッス！
+msgctxt "RCL4_025"
+msgid "Got it!"
+msgstr "Зрозумів!"
+
+#. Key: RCL4_026
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もう来るんじゃねーぞこのウサギが！
+msgctxt "RCL4_026"
+msgid "Don't ever come back, stupid rabbit!"
+msgstr "І не повертайся більше, клята кролице!"
+
+#. Key: RCL4_028
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL4_028"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL4_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……な、なんだよ？
+msgctxt "RCL4_029"
+msgid "...Wh-What?"
+msgstr "...Щ-що?"
+
+#. Key: RCL4_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 愚鈍。
+msgctxt "RCL4_030"
+msgid "Fool."
+msgstr "Ідіот."
+
+#. Key: RCL4_031
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: てめ、このっ……！
+msgctxt "RCL4_031"
+msgid "Why you...!"
+msgstr "Ах ти ж...!"
+
+#. Key: RCL4_033
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はあ……。無駄足だったわ……。
+msgctxt "RCL4_033"
+msgid "Hmph... What a waste of time..."
+msgstr "Ха-а... Даремно сюди йшла..."
+
+#. Key: RCL4_039
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: くそ……っ！
+msgctxt "RCL4_039"
+msgid "Dammit...!"
+msgstr "Чорт...!"
+
+#. Key: RCL4_040
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL4_040"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL4_042
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……なんだよ？
+msgctxt "RCL4_042"
+msgid "...What?"
+msgstr "...Що?"
+
+#. Key: RCL4_044
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いでっ！
+msgctxt "RCL4_044"
+msgid "Ow!"
+msgstr "Ай!"
+
+#. Key: RCL4_045
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ひ、姫様が……。
+msgctxt "RCL4_045"
+msgid "T-The princess..."
+msgstr "П-принцеса..."
+
+#. Key: RCL4_046
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: グーで殴った、ッス……。
+msgctxt "RCL4_046"
+msgid "Hit him with a fist..."
+msgstr "Вдарила його кулаком..."
+
+#. Key: RCL4_047
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: てめえっ！
+#. JA:   何しやが―――
+msgctxt "RCL4_047"
+msgid ""
+"Why you...!\n"
+"What the hell was—"
+msgstr "Ах ти ж! Що ти..."
+
+#. Key: RCL4_049
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL4_049"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL4_050
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: なぜ手加減なんかするの。
+msgctxt "RCL4_050"
+msgid "Why do you hold back?"
+msgstr "Чому ти стримуєшся?"
+
+#. Key: RCL4_051
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……あ？
+msgctxt "RCL4_051"
+msgid "...Huh?"
+msgstr "...Га?"
+
+#. Key: RCL4_052
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: まだ分からないの？
+#. JA:   こんなにも繰り返しておきながら！
+msgctxt "RCL4_052"
+msgid "You still don't understand? Even after so many repetitions!?"
+msgstr "Ти досі не зрозумів? Після стількох повторень?!"
+
+#. Key: RCL4_053
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方のその中途半端な甘さが
+#. JA:   この世界を最悪の方向へと導いていることに、
+#. JA:   どうして気付かないの？
+msgctxt "RCL4_053"
+msgid "Don't you see that your lack of conviction dooms this world to oblivion!?"
+msgstr ""
+"Чому ти не бачиш, що твоя половинчаста м'якість веде цей світ до\n"
+"найгіршого кінця?"
+
+#. Key: RCL4_054
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: お、おい、何言ってんだよ……。
+#. JA:   ワケ分かんねーよ……。
+msgctxt "RCL4_054"
+msgid "H-Hey...what the heck are you talkin' about? I have no clue what's going on..."
+msgstr "Е-ей, про що ти...? Нічого не розумію..."
+
+#. Key: RCL4_055
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方は何のために戦っているの？
+#. JA:   貴方は何のために生きているの？
+#. JA:   貴方は何のために産まれ出たの？
+msgctxt "RCL4_055"
+msgid "Why are you fighting? Why are you living... Why were you born!?"
+msgstr "Заради чого ти б'єшся? Заради чого живеш? Заради чого народився?"
+
+#. Key: RCL4_056
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: この世界を壊すためなのでしょう？
+#. JA:   この世界を止めるためなのでしょう？
+msgctxt "RCL4_056"
+msgid "You're here only to destroy the world, aren't you!? To end it all!?"
+msgstr "Хіба не для того, щоб знищити цей світ? Щоб зупинити його?"
+
+#. Key: RCL4_057
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 俺は、ただ……。
+msgctxt "RCL4_057"
+msgid "I was...just..."
+msgstr "Я лише..."
+
+#. Key: RCL4_059
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL4_059"
+msgid "!?"
+msgstr "?!"
+
+#. Key: RCL4_060
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 時間ね、もう……。
+msgctxt "RCL4_060"
+msgid "*sigh* The time has already come..."
+msgstr "Уже час..."
+
+#. Key: RCL4_062
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ねえ……？
+msgctxt "RCL4_062"
+msgid "You..."
+msgstr "Послухай..."
+
+#. Key: RCL4_063
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: な、なんだよ急に。
+#. JA:   気持ちわりぃぞ、ウサ―――
+msgctxt "RCL4_063"
+msgid "Wh-What's with you? You're creepin' me out, rabb—"
+msgstr "Ч-що з тобою раптом? Аж моторошно, кро..."
+
+#. Key: RCL4_064
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 茶化さないで聞いて……。
+msgctxt "RCL4_064"
+msgid "Not now. Listen to me."
+msgstr "Не жартуй. Вислухай мене..."
+
+#. Key: RCL4_065
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 絶対に諦めないで……！
+#. JA:   最後の最後まで人として、ただの“人間”として足掻きなさい。
+#. JA:   醜くてもいい、みっともなくてもいいから。
+msgctxt "RCL4_065"
+msgid ""
+"Never admit defeat. Endure whatever pain you may face, and fight until your last\n"
+"breath, as a human being. Even if you are ugly, and pathetic, and broken..."
+msgstr ""
+"Ніколи не здавайся...! До останнього чини опір як людина — просто\n"
+"людина. Нехай це буде потворно й жалюгідно."
+
+#. Key: RCL4_066
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: レイ……チェル……
+msgctxt "RCL4_066"
+msgid "Rachel..."
+msgstr "Рей... чел..."
+
+#. Key: RCL4_067
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 頑張って、ラグナ。
+msgctxt "RCL4_067"
+msgid "Please, Ragna."
+msgstr "Тримайся, Раґно."
+
+#. Key: RCL4_069
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL4_069"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL4_071
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 言われなくてもそうするっつーの。
+msgctxt "RCL4_071"
+msgid "That's what I was planning to do anyway."
+msgstr "І без тебе так збирався."
+
+#. Key: RCL4_073
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ちっ、精錬終了ってか……。
+msgctxt "RCL4_073"
+msgid "Tch, so this is the climax, huh...?"
+msgstr "Тьху, виплавлення вже завершилося, чи що...?"
+
+#. Key: RCL4_075
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: おら、かかってこいよ！！
+msgctxt "RCL4_075"
+msgid "All right, bring it on!"
+msgstr "Ану, нападай!!"
+
+#. Key: RCL5_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL5_002"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL5_003
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   私は、夢を見ている。
+msgctxt "RCL5_003"
+msgid ""
+"\n"
+"I am...dreaming."
+msgstr ""
+"\n"
+"Я бачу сон."
+
+#. Key: RCL5_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   ずっと続く、長い長い夢。
+#. JA:   終わりのない夢。
+msgctxt "RCL5_004"
+msgid ""
+"\n"
+"A terribly long dream...one with no end."
+msgstr ""
+"\n"
+"Довгий-довгий сон, що триває без кінця."
+
+#. Key: RCL5_005
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   夢から醒めようと必死で足掻いても、抜け出せない。
+#. JA:   私はもはや諦めかけていた。
+msgctxt "RCL5_005"
+msgid ""
+"\n"
+"It matters not how I struggle to wake myself from the dream. It is futile.\n"
+"Perhaps...it is time to give up..."
+msgstr ""
+"\n"
+"Хоч як відчайдушно намагаюся прокинутися, з цього сну не вирватися.\n"
+"Я вже майже здалася."
+
+#. Key: RCL5_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   この終わりのない夢からの脱出を。
+msgctxt "RCL5_006"
+msgid ""
+"\n"
+"Give up, and forget about life outside this dream..."
+msgstr ""
+"\n"
+"Майже відмовилася від думки покинути цей нескінченний сон."
+
+#. Key: RCL5_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 「……また、駄目だったのね」
+msgctxt "RCL5_008"
+msgid "It would appear I have failed, once again."
+msgstr "...Знову не вийшло."
+
+#. Key: RCL5_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   「何度目かしら……ここを歩くのは」
+msgctxt "RCL5_010"
+msgid ""
+"\n"
+"How many times have I been here...in this very spot."
+msgstr ""
+"\n"
+"Скільки разів я вже йшла цим місцем...?"
+
+#. Key: RCL5_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   そう……ここは覚める事のない夢の入り口。
+#. JA:   果てのない回廊への扉。
+msgctxt "RCL5_011"
+msgid ""
+"\n"
+"The entrance to the dream from which I can never wake...\n"
+"The doors of the abyss..."
+msgstr ""
+"\n"
+"Так... Це початок сну, з якого не прокинутися. Двері до безкінечного\n"
+"коридору."
+
+#. Key: RCL5_012
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   私はまた、この場所に戻ってきた。
+#. JA:   いつものように……。
+msgctxt "RCL5_012"
+msgid ""
+"\n"
+"And here I am. Again.\n"
+"Everything the way it was..."
+msgstr ""
+"\n"
+"Я знову повернулася сюди. Як завжди..."
+
+#. Key: RCL5_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen; internally Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 「―――チェル」
+msgctxt "RCL5_013"
+msgid "...chel..."
+msgstr "...йчел."
+
+#. Key: RCL5_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 「声……？」
+msgctxt "RCL5_014"
+msgid "...A voice!?"
+msgstr "Голос...?"
+
+#. Key: RCL5_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   この声は……。
+msgctxt "RCL5_016"
+msgid ""
+"\n"
+"This...this voice..."
+msgstr ""
+"\n"
+"Цей голос..."
+
+#. Key: RCL5_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen; internally Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 「レイチェル……」
+msgctxt "RCL5_017"
+msgid "Rachel..."
+msgstr "Рейчел..."
+
+#. Key: RCL5_018
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Unknown on screen; internally Ragna
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   
+#. JA:   「わりぃな……ありがとよ……」
+msgctxt "RCL5_018"
+msgid ""
+"\n"
+"\n"
+"Sorry...and thanks..."
+msgstr ""
+"\n"
+"\n"
+"Пробач... і дякую..."
+
+#. Key: RCL5_020
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 「う、ん……」
+msgctxt "RCL5_020"
+msgid "Yes..."
+msgstr "Так..."
+
+#. Key: RCL5_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: お目覚めでございますか、レイチェル様。
+msgctxt "RCL5_022"
+msgid "Are you awake, milady?"
+msgstr "Ви вже прокинулися, пані Рейчел?"
+
+#. Key: RCL5_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ええ。
+#. JA:   今日はなんだか、寝覚めが良いわ。
+msgctxt "RCL5_023"
+msgid "...Yes. In fact, I feel quite refreshed. "
+msgstr "...Так. Сьогодні я чомусь прокинулася з гарним настроєм."
+
+#. Key: RCL5_024
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 左様でございますか。
+msgctxt "RCL5_024"
+msgid "Do you indeed?"
+msgstr "Справді?"
+
+#. Key: RCL5_025
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それでは、そのご機嫌を損なわぬよう、
+#. JA:   最高の紅茶をお淹れ致しましょう。
+msgctxt "RCL5_025"
+msgid ""
+"In that case, I shall prepare the most exquisite tea before you have returned to your\n"
+"customary foul temper."
+msgstr "Тоді заварю найкращий чай, щоб цей настрій не зіпсувався."
+
+#. Key: RCL5_026
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……そうね。だったら中庭で頂くわ。
+#. JA:   先に行くから持って来てちょうだい。
+msgctxt "RCL5_026"
+msgid ""
+"...An excellent idea, Valkenhayn. Would you be so kind as to bring it to me in the\n"
+"courtyard? I shall be waiting."
+msgstr "...Добре. Я вип'ю його у дворі. Принеси туди, я піду першою."
+
+#. Key: RCL5_027
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 畏まりました。
+msgctxt "RCL5_027"
+msgid "Of course, madam."
+msgstr "Як накажете."
+
+#. Key: RCL5_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 今夜は、月が綺麗ね……。
+msgctxt "RCL5_030"
+msgid "The moon...is quite beautiful tonight."
+msgstr "Сьогодні місяць такий гарний..."
+
+#. Key: RCL6_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: キャッ！
+msgctxt "RCL6_002"
+msgid "Kyah!"
+msgstr "Ай!"
+
+#. Key: RCL6_003
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: おうっ！
+msgctxt "RCL6_003"
+msgid "Oogh!"
+msgstr "Ух!"
+
+#. Key: RCL6_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: なに、ここは……？
+msgctxt "RCL6_004"
+msgid "Oh dear... What is this place?"
+msgstr "Що це за місце...?"
+
+#. Key: RCL6_005
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 転移失敗ッスね……。
+msgctxt "RCL6_005"
+msgid "Looks like we messed up..."
+msgstr "Перенесення не вдалося..."
+
+#. Key: RCL6_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: まったく……。余計なモノがくっ付いてきたからだわ。
+#. JA:   だからガサツな男は嫌いなのよ……。
+msgctxt "RCL6_006"
+msgid ""
+"Oh dear... it would seem we are not where we should be...\n"
+"You disgust me."
+msgstr ""
+"І все через те, що до нас причепилося щось зайве. Тому я й не люблю\n"
+"грубих чоловіків..."
+
+#. Key: RCL6_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ホント、嫌になるわっ！
+msgctxt "RCL6_007"
+msgid "Oh, puhlease!"
+msgstr "Ото вже правда!"
+
+#. Key: RCL6_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ん？
+#. JA:   拙者はなぜにこのような場所に……？
+msgctxt "RCL6_008"
+msgid "Hm? What am I doing here...?"
+msgstr "Га? Чому я тут опинився...?"
+
+#. Key: RCL6_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もしや……これが噂に聞く「わーぷ」でござるか！
+msgctxt "RCL6_010"
+msgid "Could this be...the <DQ>warp<DQ> I've heard about!?"
+msgstr "Невже це той самий «телепорт», про який я чув?!"
+
+#. Key: RCL6_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 拙者が厳しい修行の末に身に付けた空<ruby>うつ</ruby>蝉<ruby>せみ</ruby>とは違う……。
+#. JA:   よもや本当の空間移動を体感できようとは、
+#. JA:   いやはや、正直感服せざるを得ぬ……。
+msgctxt "RCL6_011"
+msgid ""
+"In my years of rigorous training, I never would've imagined I would get to see this\n"
+"day... To experience a space-time jump with my very own eyes..."
+msgstr ""
+"Це не схоже на підміну тіла, якої я навчився за роки суворих тренувань...\n"
+"Подумати лишень: мені довелося відчути справжнє перенесення в\n"
+"просторі! Не можу не захоплюватися..."
+
+#. Key: RCL6_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はわっ!?
+msgctxt "RCL6_013"
+msgid "Huwah!?"
+msgstr "А?!"
+
+#. Key: RCL6_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ま、まさかこのように高等な術を使いこなすお主は
+#. JA:   最高クラスの「咎追い」ではッ!?
+msgctxt "RCL6_014"
+msgid "D-Don't tell me...are you the one who did this!? Could you be...a top-class vigilante!?"
+msgstr ""
+"Н-невже ти, здатна на таке складне мистецтво, — мисливиця за\n"
+"головами найвищого класу?!"
+
+#. Key: RCL6_015
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いやしかしこのような子供が達人などとは
+#. JA:   ちとあり得ぬ話……。いやいやしかし、
+#. JA:   見かけで物事を判断してはいかんと殿も常々……
+msgctxt "RCL6_015"
+msgid ""
+"It is almost unbelievable that a small child, such as yourself, can be a true master\n"
+"of the art... However, the saying does go, don't judge a book by its cover..."
+msgstr ""
+"Але ж дитина не може бути такою майстринею... Хоча мій володар\n"
+"завжди казав: не суди за зовнішністю..."
+
+#. Key: RCL6_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ではまさか達人の御子息かッ!?
+msgctxt "RCL6_016"
+msgid "Then...could she be the descendant of a master!?"
+msgstr "То, може, ти дитина справжнього майстра?!"
+
+#. Key: RCL6_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あり得る！
+#. JA:   英才教育を施された「えりーと」ならば高度な術を使えても
+#. JA:   不思議はないッ！
+msgctxt "RCL6_017"
+msgid ""
+"It's possible! If she's been trained by masters from a young age,\n"
+"then it's entirely possible!"
+msgstr ""
+"Цілком можливо! Якщо змалку дістала належний вишкіл, не дивно, що\n"
+"володіє таким високим мистецтвом!"
+
+#. Key: RCL6_019
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あー、コホン。
+msgctxt "RCL6_019"
+msgid "Uhh... *ahem*"
+msgstr "Е-е... Кхе-кхе."
+
+#. Key: RCL6_021
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……あら、まだいたの？
+msgctxt "RCL6_021"
+msgid "...Oh. I suppose your departure was too much to hope for."
+msgstr "...О, ти ще тут?"
+
+#. Key: RCL6_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いやいや、先ほどは失礼つかまつった。
+#. JA:   拙者、まさかお主が斯様にやんごとなきお方とは
+#. JA:   思わなかったゆえ……。
+msgctxt "RCL6_022"
+msgid ""
+"I humbly apologize for my impudence earlier. Although I was unaware of who you\n"
+"were, my attitude was inexcusable..."
+msgstr ""
+"Пробач за мою попередню грубість. Я й гадки не мав, що ти така\n"
+"поважна особа..."
+
+#. Key: RCL6_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ、おかわりを。
+msgctxt "RCL6_023"
+msgid "Gii, I require more crumpets."
+msgstr "Ґі, налий мені ще."
+
+#. Key: RCL6_024
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はいッス。
+msgctxt "RCL6_024"
+msgid "Roger that!"
+msgstr "Так!"
+
+#. Key: RCL6_025
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: んー……。絶好の昼寝日和だねぇ……。
+msgctxt "RCL6_025"
+msgid "Hmm... The perfect atmosphere for a nap, no?"
+msgstr "О-о... Ідеальна днина для дрімоти..."
+
+#. Key: RCL6_026
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: しかしながらお主が拙者の後輩にしようとしていた仕打ちは
+#. JA:   如何なものか、と思う次第でござる。
+msgctxt "RCL6_026"
+msgid "But I must question what you were doing to my cute little disciple."
+msgstr ""
+"І все ж я маю сказати: з моїм молодшим поплічником ти повелася\n"
+"негідно."
+
+#. Key: RCL6_027
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 確かに、お主の気に障るようなことをしたかもしれぬ！
+#. JA:   しかしそれは未熟ゆえであって邪心からではない！
+#. JA:   拙者はそう信じたい！
+msgctxt "RCL6_027"
+msgid ""
+"Perhaps he insulted you in some manner? Nonetheless, that could be a youthful\n"
+"mistake, and it was by no means his true intent... That is what I would like to believe."
+msgstr ""
+"Може, він і зробив щось тобі неприємне. Але то від незрілості, а не зі\n"
+"злого наміру! Принаймні я хочу в це вірити!"
+
+#. Key: RCL6_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ、もうちょっと鏡を上に向けて。
+msgctxt "RCL6_029"
+msgid "Gii, would you be so kind as to adjust the mirror upward?"
+msgstr "Ґі, підніми дзеркало трохи вище."
+
+#. Key: RCL6_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はいッス。
+msgctxt "RCL6_030"
+msgid "You said it."
+msgstr "Так."
+
+#. Key: RCL6_031
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……上げすぎ。
+msgctxt "RCL6_031"
+msgid "...Too high."
+msgstr "...Занадто високо."
+
+#. Key: RCL6_032
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: す、すみませんッス。
+msgctxt "RCL6_032"
+msgid "S-Sorry..."
+msgstr "В-вибачте."
+
+#. Key: RCL6_033
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 後でお仕置きよ。
+msgctxt "RCL6_033"
+msgid "I'm afraid that is insufficient. Your punishment will be forthcoming."
+msgstr "Потім покараю тебе."
+
+#. Key: RCL6_034
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: き、厳しいッス……。
+msgctxt "RCL6_034"
+msgid "Th-That's too much..."
+msgstr "Я-як суворо..."
+
+#. Key: RCL6_035
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: で、あるからして、いかに高貴な家に生まれ落ちようとも、
+#. JA:   いかに英才教育を受けようとも、
+#. JA:   それで人を見下してはならんわけでござる。
+msgctxt "RCL6_035"
+msgid ""
+"Which is why, no matter how good of an education you receive, or how well off your\n"
+"family is, you cannot look down on others."
+msgstr ""
+"Отже, хоч би яким знатним було твоє походження і хоч би яким добрим\n"
+"був твій вишкіл, це не дає права дивитися на інших згори."
+
+#. Key: RCL6_036
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ましてお主もカルル殿も子供同士ではないか。
+#. JA:   であれば、そこに身分の上下などなく、気に入らぬことが
+#. JA:   あったとしても喧嘩で済ませば良いのでござる。
+msgctxt "RCL6_036"
+msgid ""
+"Not to mention, both you and Carl are but children.\n"
+"You must not resolve your differences with your fists."
+msgstr ""
+"До того ж ви обоє з Карлом — діти. Тут не має бути вищих і нижчих за\n"
+"станом. Якщо щось не до вподоби, посваріться й розберіться між собою."
+
+#. Key: RCL6_038
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様！　痛いッス！
+#. JA:   それ以上は駄目ッス！　無理ッス～！
+msgctxt "RCL6_038"
+msgid "Milady, it hurts! It hurts! No more, please... Aaaahhh!"
+msgstr "Принцесо! Боляче! Більше не треба, не витримаю!"
+
+#. Key: RCL6_039
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL6_039"
+msgid "Zzz..."
+msgstr "Хр-р..."
+
+#. Key: RCL6_040
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: というわけでござる。
+#. JA:   ……分かってくれたでござるか。
+msgctxt "RCL6_040"
+msgid ""
+"And that's the case.\n"
+"...Do you understand now?"
+msgstr "Отак воно й є. ...Ти зрозуміла?"
+
+#. Key: RCL6_041
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL6_041"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL6_042
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私は考えていた。
+msgctxt "RCL6_042"
+msgid "I take a moment to consider what the creature has said."
+msgstr "Я замислилася."
+
+#. Key: RCL6_043
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: この男もまたアークエネミーを所有していたはず……。
+msgctxt "RCL6_043"
+msgid "If I remember correctly, this man too carries a Nox Nyctores."
+msgstr "Здається, цей чоловік теж володіє Арк-Енемі..."
+
+#. Key: RCL6_044
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: どうでもいい男と思い、話も聞き流していたのだけれど、
+#. JA:   仮にもアークエネミーに選ばれた者である以上、
+#. JA:   この男もまた“出演者”なのだ。
+msgctxt "RCL6_044"
+msgid ""
+"I would very much like to simply ignore the pestilent creature in front of me\n"
+"and attend to other, more important, matters, but if he was chosen by a Nox-class\n"
+"weapon... Then, he too, must have an important role in this play."
+msgstr ""
+"Я вважала його неважливим і не слухала, що він верзе. Але якщо\n"
+"Арк-Енемі обрала його, значить, і він — один з учасників вистави."
+
+#. Key: RCL6_045
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……貴方。
+msgctxt "RCL6_045"
+msgid "...You."
+msgstr "...Ти."
+
+#. Key: RCL6_046
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……なんでござるか。
+msgctxt "RCL6_046"
+msgid "...What is it?"
+msgstr "...Що?"
+
+#. Key: RCL6_047
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: やっぱり少し試させてもらうわ。
+msgctxt "RCL6_047"
+msgid "Then again..."
+msgstr "Усе-таки я трохи тебе випробую."
+
+#. Key: RCL6_048
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ハァ？
+msgctxt "RCL6_048"
+msgid "...Huh?"
+msgstr "...Га?"
+
+#. Key: RCL6_052
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 見たか！
+#. JA:   これぞ、「シシガミ忍法」！
+msgctxt "RCL6_052"
+msgid ""
+"Did you see that!?\n"
+"Now, this is the <DQ>Shishigami Ninpo<DQ>!"
+msgstr "Бачила?! Ось воно — «мистецтво нінджя Шішіґамі»!"
+
+#. Key: RCL6_053
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: こ、こんな知性の欠片もなさそうなむさい男に……。
+#. JA:   この私が……。
+msgctxt "RCL6_053"
+msgid "To think I could be defeated by this...this...oaf! Of all the—"
+msgstr "Мене... переміг цей незграбний чолов'яга без крихти розуму..."
+
+#. Key: RCL6_054
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ナゴ、ギィ！
+#. JA:   帰るわよ。
+msgctxt "RCL6_054"
+msgid "Nago, Gii, it is far past time we left!"
+msgstr "Наґо, Ґі! Повертаємося."
+
+#. Key: RCL6_055
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はいよ！
+msgctxt "RCL6_055"
+msgid "Roger that!"
+msgstr "Так!"
+
+#. Key: RCL6_056
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ、帰ったらすぐにお風呂の準備をして頂戴。
+#. JA:   全部洗い流したいわ。
+msgctxt "RCL6_056"
+msgid ""
+"Gii! Prepare a bath! That filthy man touched me, and I fear he may have left\n"
+"something of himself behind. I feel unclean!"
+msgstr "Ґі, щойно повернемося, приготуй мені ванну. Хочу все змити."
+
+#. Key: RCL6_057
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: は、はいッス！
+msgctxt "RCL6_057"
+msgid "O-Of course, milady."
+msgstr "Т-так!"
+
+#. Key: RCL6_059
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……さすが達人の御子息よ。
+#. JA:   移動にもあのような乗り物を用いるとはのう……。
+msgctxt "RCL6_059"
+msgid ""
+"...Nothing less from the heir to a master.\n"
+"To be using such a strange technique... "
+msgstr ""
+"...Гідна спадкоємиця великого майстра. Навіть для пересування\n"
+"використовує такий незвичайний засіб..."
+
+#. Key: RCL6_063
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: むうっ……無念……っ！
+msgctxt "RCL6_063"
+msgid "Oogh... I have...no regrets...!"
+msgstr "Кх... Яка прикрість...!"
+
+#. Key: RCL6_065
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ま、こんな知性の欠片もないむさい男じゃ
+#. JA:   こんなものでしょうね。
+#. JA:   期待した私が馬鹿だったわ。
+msgctxt "RCL6_065"
+msgid ""
+"The only dangerous thing about you is your prodigious stench. Any fool armed with\n"
+"so much as a clothespin would have little trouble defeating you."
+msgstr ""
+"...Ну, від такого неотесаного чолов'яги без крихти розуму годі було\n"
+"чекати більшого. Даремно я на нього сподівалася."
+
+#. Key: RCL6_066
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ナゴ、ギィ、行きましょう。
+msgctxt "RCL6_066"
+msgid "Nago, Gii, let us take our leave of this disgusting spectacle."
+msgstr "Наґо, Ґі, ходімо."
+
+#. Key: RCL6_067
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はーい、っと。
+msgctxt "RCL6_067"
+msgid "You got it."
+msgstr "Добре."
+
+#. Key: RCL6_068
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様、次はどこに行くッスか？
+msgctxt "RCL6_068"
+msgid "Milady, where are you goin'!?"
+msgstr "Принцесо, куди тепер?"
+
+#. Key: RCL6_069
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そうね、今度は―――
+msgctxt "RCL6_069"
+msgid "Let's see..."
+msgstr "Що ж, цього разу..."
+
+#. Key: RCL6_072
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Bang
+#. Context: Rachel story route (POV: Rachel)
+#. JA: う……ん。
+#. JA:   ライチ殿……ここは、拙者が……。
+msgctxt "RCL6_072"
+msgid ""
+"Oogh...ugh...\n"
+"Miss Litchi...let me...handle this one..."
+msgstr "У-у... Пані Лічі... Тут я сам..."
+
+#. Key: RCL7_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……転移先が安定しないわ。
+#. JA:   どうも“ズレ”が大きすぎるみたいね……。
+msgctxt "RCL7_002"
+msgid ""
+"...Oh dear. It would seem we are not where we should be.\n"
+"Perhaps it is due to this strange interference..."
+msgstr "...Місце перенесення нестабільне. Схоже, зсув завеликий..."
+
+#. Key: RCL7_003
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様、どうするんだい？
+msgctxt "RCL7_003"
+msgid "Princess, what are we gonna do?"
+msgstr "Принцесо, що робитимемо?"
+
+#. Key: RCL7_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: こうなると急いでも仕方がないわ。
+#. JA:   お茶にしましょう。
+msgctxt "RCL7_004"
+msgid ""
+"For the moment, I'm afraid there is little we can do, except take this opportunity\n"
+"to enjoy a cup of tea."
+msgstr "Тепер поспіх нічого не дасть. Вип'ємо чаю."
+
+#. Key: RCL7_005
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はいよ！　ギィ！
+#. JA:   姫様がお茶をご所望だよ！
+msgctxt "RCL7_005"
+msgid ""
+"Sounds good!\n"
+"Gii! The princess has requested a cup of tea."
+msgstr "Добре! Ґі! Принцеса хоче чаю!"
+
+#. Key: RCL7_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL7_006"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL7_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ？
+msgctxt "RCL7_007"
+msgid "Gii?"
+msgstr "Ґі?"
+
+#. Key: RCL7_009
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ここッス……ここッス～！
+msgctxt "RCL7_009"
+msgid "Here! Right here!"
+msgstr "Я тут... Тут я!"
+
+#. Key: RCL7_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL7_010"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL7_012
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: な、なんだいアイツ！
+msgctxt "RCL7_012"
+msgid "Wh-What is that thing!?"
+msgstr "Щ-що це за потвора?!"
+
+#. Key: RCL7_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……低俗な物の怪よ。
+#. JA:   不潔だからあまり近付かないようにしていたのだけれど……。
+msgctxt "RCL7_013"
+msgid "...A vulgar creature of lower orders. It is rather filthy. Take care not to touch it."
+msgstr "...Ниций нечистий дух. Я уникала його через бруд..."
+
+#. Key: RCL7_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様ッ！
+#. JA:   助けてッス！
+#. JA:   食べられ―――。
+msgctxt "RCL7_014"
+msgid ""
+"Princess!\n"
+"Help me, please!\n"
+"I'm getting eaten—"
+msgstr "Принцесо! Допоможіть! Мене їдять..."
+
+#. Key: RCL7_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: た、食べた!?
+msgctxt "RCL7_016"
+msgid "H-He ate 'im?"
+msgstr "Він його з-з'їв?!"
+
+#. Key: RCL7_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あ　りうまく　ない　。
+#. JA:   捕食　　なら　はり主の　か。
+msgctxt "RCL7_017"
+msgid "Does    tas      all.   shou   eat     master  nstead..."
+msgstr "Не ду е сма но. Краще   з'їсти його госпо арку."
+
+#. Key: RCL7_017a
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あまりうまくはないな。
+#. JA:   捕食するならやはり主の方か。
+msgctxt "RCL7_017a"
+msgid "Doesn't taste at all. I should eat the master instead..."
+msgstr "Не дуже смачно. Краще вже з'їсти його господарку."
+
+#. Key: RCL7_019
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: びめざまっ！
+#. JA:   ぐらいッス！
+#. JA:   ごばいッス！
+msgctxt "RCL7_019"
+msgid ""
+"Princess!\n"
+"It's dark in here!\n"
+"I'm scared!"
+msgstr "Принцесо! Тут темно! Страшно!"
+
+#. Key: RCL7_021
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……仕方がないわね。
+#. JA:   お茶が飲めないのも困りものだし……。
+msgctxt "RCL7_021"
+msgid ""
+"...It would appear I have little choice.\n"
+"I require my tea slave. You will return him to me."
+msgstr "...Нічого не вдієш. Без нього я не зможу пити чай..."
+
+#. Key: RCL7_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 奪い　け　ば戦　がい　。
+#. JA:   ワ　は貴様　　には負け　が　。
+msgctxt "RCL7_022"
+msgid ""
+"If  ou wan     back, then you      figh .\n"
+"Thou  ,   doubt     stand   chance  gain   me."
+msgstr "Хочеш    забра и — бийся. Але мені  не супер ик."
+
+#. Key: RCL7_022a
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 奪いたければ戦うがいい。
+#. JA:   ワレは貴様などには負けぬがね。
+msgctxt "RCL7_022a"
+msgid ""
+"If you want it back, then you must fight.\n"
+"Though, I doubt you stand a chance against me."
+msgstr "Хочеш його забрати — бийся. Але мені ти не суперник."
+
+#. Key: RCL7_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: まずはその耳障りな口から黙らせましょうか。
+msgctxt "RCL7_023"
+msgid "Oh dear. We <I>will</I> have to do something about that insolent tone of yours."
+msgstr "Я <I>таки</I> змушу замовкнути твій огидний рот."
+
+#. Key: RCL7_028
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……転移先が安定しないわ。
+#. JA:   どうも“ズレ”が大きすぎるみたいね……。
+msgctxt "RCL7_028"
+msgid ""
+"...Oh dear. It would seem we are not where we should be.\n"
+"Perhaps it is due to this strange interference..."
+msgstr "...Місце перенесення нестабільне. Схоже, зсув завеликий..."
+
+#. Key: RCL7_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様、どうするんだい？
+msgctxt "RCL7_029"
+msgid "Princess, what are we gonna do?"
+msgstr "Принцесо, що робитимемо?"
+
+#. Key: RCL7_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: こうなると急いでも仕方がないわ。
+#. JA:   お茶にしましょう。
+msgctxt "RCL7_030"
+msgid ""
+"For the moment, I'm afraid there is little we can do, except take this opportunity\n"
+"to enjoy a cup of tea."
+msgstr "Тепер поспіх нічого не дасть. Вип'ємо чаю."
+
+#. Key: RCL7_031
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: はいよ！　ギィ！
+#. JA:   姫様がお茶をご所望だよ！
+msgctxt "RCL7_031"
+msgid ""
+"Sounds good!\n"
+"Gii! The princess has requested a cup of tea."
+msgstr "Добре! Ґі! Принцеса хоче чаю!"
+
+#. Key: RCL7_032
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL7_032"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL7_033
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ？
+msgctxt "RCL7_033"
+msgid "Gii?"
+msgstr "Ґі?"
+
+#. Key: RCL7_035
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ここッス……ここッス～！
+msgctxt "RCL7_035"
+msgid ""
+"Here! \n"
+"I'm right here!"
+msgstr "Я тут... Тут я!"
+
+#. Key: RCL7_036
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL7_036"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL7_038
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: な、なんだいアイツ！
+msgctxt "RCL7_038"
+msgid "Wh-What is that thing!?"
+msgstr "Щ-що це за потвора?!"
+
+#. Key: RCL7_039
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……低俗な物の怪よ。
+#. JA:   不潔だからあまり近付かないようにしていたのだけれど……。
+msgctxt "RCL7_039"
+msgid "...A vulgar creature of lower orders. It is rather filthy. Take care not to touch it."
+msgstr "...Ниций нечистий дух. Я уникала його через бруд..."
+
+#. Key: RCL7_040
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 姫様ッ！
+#. JA:   助けてッス！
+#. JA:   食べられ―――。
+msgctxt "RCL7_040"
+msgid ""
+"Princess!\n"
+"Help me, please!\n"
+"I'm getting eaten—"
+msgstr "Принцесо! Допоможіть! Мене їдять..."
+
+#. Key: RCL7_042
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: た、食べた!?
+msgctxt "RCL7_042"
+msgid "H-he ate 'im?"
+msgstr "Він його з-з'їв?!"
+
+#. Key: RCL7_043
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あ　りうまく　ない　。
+#. JA:   捕食　　なら　はり主の　か。
+msgctxt "RCL7_043"
+msgid "Does    tas   at    .   shou   eat     master  nstead..."
+msgstr "Не ду е сма но. Краще   з'їсти його госпо арку."
+
+#. Key: RCL7_043a
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: あまりうまくはないな。
+#. JA:   捕食するならやはり主の方か。
+msgctxt "RCL7_043a"
+msgid "Doesn't taste at all. I should eat the master instead..."
+msgstr "Не дуже смачно. Краще вже з'їсти його господарку."
+
+#. Key: RCL7_045
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: うう……べたべたッス……。
+msgctxt "RCL7_045"
+msgid "Uhh...I'm all sticky..."
+msgstr "У-у... Я весь липкий..."
+
+#. Key: RCL7_047
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 汚らわしい蟲ね。
+#. JA:   私の使い魔を汚すとは……非礼にもほどがあるわ。
+msgctxt "RCL7_047"
+msgid ""
+"What a filthy insect. You have defiled my familiar. Must I show you your proper\n"
+"place?"
+msgstr ""
+"Мерзенна комахо. Ти забруднила мого фамільяра... Оце вже нечувана\n"
+"зухвалість."
+
+#. Key: RCL7_049
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 　レは貴様　と　を恐れ　。
+#. JA:   ワ　　気に　　ぬと　うなら　かってくれ　いい。
+msgctxt "RCL7_049"
+msgid "I do no  fear    , bu     you ha     prob    wi     ,    n I sha   indul   you."
+msgstr "Я    не боюся. Не подо ається — напа ай."
+
+#. Key: RCL7_049a
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ワレは貴様ごときを恐れぬ。
+#. JA:   ワレが気に入らぬというならかかってくればいい。
+msgctxt "RCL7_049a"
+msgid "I do not fear you, but if you have a problem with me, then I shall indulge you."
+msgstr "Я тебе не боюся. Не подобається — нападай."
+
+#. Key: RCL7_050
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 蟲に躾をするほど無意味な事もないけれど……。
+msgctxt "RCL7_050"
+msgid "Your hubris suggests a resistance to discipline, insect..."
+msgstr "Немає нічого безглуздішого, ніж виховувати комаху..."
+
+#. Key: RCL7_051
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 少しその口を閉じさせるくらいはいいかもしれないわね。
+msgctxt "RCL7_051"
+msgid "Nevertheless, perhaps I will manage to teach you some manners..."
+msgstr "Але, можливо, варто змусити тебе трохи помовчати."
+
+#. Key: RCL7_056
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: この力……。
+#. JA:   まさかここにも“ズレ”が……!?
+msgctxt "RCL7_056"
+msgid "This power...! Has there been a shift here as well!?"
+msgstr "Ця сила... Невже й тут стався зсув?!"
+
+#. Key: RCL7_057
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いた　き　す。
+msgctxt "RCL7_057"
+msgid "Bon a   étit."
+msgstr "Сма ного."
+
+#. Key: RCL7_057a
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いただきます。
+msgctxt "RCL7_057a"
+msgid "Bon appétit."
+msgstr "Смачного."
+
+#. Key: RCL7_064
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 嫌だ嫌　嫌　　だ死　のは嫌　蒼　　に入れ　まで死　た　　い
+#. JA:   蒼　　しい蒼　　す蒼が必　な　だ僕　は……。
+msgctxt "RCL7_064"
+msgid ""
+"No n  no   !   don   wan     die...!   need     pow       th  zure...!   need i ...\n"
+"  need it,   need it...!"
+msgstr ""
+"Ні, ні,  ! Не хочу помирати! Не хочу поми ати, поки не здобуду Лаз р!\n"
+"Я    Лазур, шукаю Лазур, Лазур мені потрі на..."
+
+#. Key: RCL7_064a
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Arakune
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 嫌だ嫌だ嫌だ嫌だ死ぬのは嫌だ蒼を手に入れるまで死にたくない
+#. JA:   蒼が欲しい蒼を探す蒼が必要なんだ僕には……。
+msgctxt "RCL7_064a"
+msgid ""
+"No no no no! I don't want to die...! I need the power of the Azure...! I need it...\n"
+"I need it, I need it...!"
+msgstr ""
+"Ні, ні, ні! Не хочу помирати! Не хочу помирати, поки не здобуду Лазур! Я\n"
+"хочу Лазур, шукаю Лазур, Лазур мені потрібна..."
+
+#. Key: RCL7_065
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 逃げるつもりみたいだよ。
+#. JA:   姫様、放っておいていいのかい？
+msgctxt "RCL7_065"
+msgid "Looks like he's trying to run. Princess, are you just gonna let him go?"
+msgstr "Схоже, він збирається втекти. Принцесо, відпустимо?"
+
+#. Key: RCL7_066
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 構わないわ。
+#. JA:   あんな蟲とこれ以上関わりたくないもの。
+msgctxt "RCL7_066"
+msgid ""
+"I care not. I do not wish to be in the company of that...thing any longer than is\n"
+"absolutely necessary."
+msgstr "Так. Не хочу більше мати справу з цією комахою."
+
+#. Key: RCL7_067
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: オイラももうべとべとはゴメンッス……。
+msgctxt "RCL7_067"
+msgid "I'm still trying to overcome my trauma..."
+msgstr "І я більше не хочу бути липким..."
+
+#. Key: RCL7_068
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ギィ、私から５メートル以上離れなさい。
+#. JA:   ちゃんと身体を洗うまで私に近付かないで。
+msgctxt "RCL7_068"
+msgid ""
+"Gii, you will remain at least five yards from me at all times until you have been\n"
+"cleansed of that filth. Perhaps you should remain downwind as well. Should I catch\n"
+"a whiff of your odious coating...I believe you know what will follow."
+msgstr ""
+"Ґі, тримайся від мене щонайменше за п'ять метрів. Не наближайся, поки\n"
+"не помиєшся."
+
+#. Key: RCL7_069
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: うっ……。
+msgctxt "RCL7_069"
+msgid "Uh..."
+msgstr "Ух..."
+
+#. Key: RCL7_070
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Nago
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もちろんあたいにもね！
+msgctxt "RCL7_070"
+msgid "And that goes for me too!"
+msgstr "І від мене теж!"
+
+#. Key: RCL7_071
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Gii
+#. Context: Rachel story route (POV: Rachel)
+#. JA: みんな、冷たいッス……。
+msgctxt "RCL7_071"
+msgid "Everyone's so...cold..."
+msgstr "Ви всі такі жорстокі..."
+
+#. Key: RCL7_072
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL7_072"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL7_073
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: これ以上先へと進む事に、私は気後れしていた。
+msgctxt "RCL7_073"
+msgid "I have developed reservations in regards to pressing forward."
+msgstr "Я вагалася, чи варто йти далі."
+
+#. Key: RCL7_074
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もはや生み出された“ズレ”はあまりに大きく、
+#. JA:   この世界は私が望む崩壊を得る事はないだろう。
+#. JA:   
+msgctxt "RCL7_074"
+msgid ""
+"The shifts I have seen are far too great, and I fear it is too late for the resolution\n"
+"I hoped for to come to fruition."
+msgstr ""
+"Зсув, що вже виник, надто великий. Цей світ, мабуть, не зазнає бажаного\n"
+"мені руйнування."
+
+#. Key: RCL7_075
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私は思う。
+#. JA:   今一度この世界を見守ろう、と。
+#. JA:   
+msgctxt "RCL7_075"
+msgid "Therefore, I believe that this time, I will merely watch..."
+msgstr "Я вирішила цього разу просто спостерігати за світом."
+
+#. Key: RCL7_076
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Narrator
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そしてもし、また新たなズレが生まれたとしたら、
+#. JA:   その時は私の持てる力全てを使い
+#. JA:   この世界を崩壊へと導く手助けをしよう、と。
+msgctxt "RCL7_076"
+msgid ""
+"...and if, by chance, a new shift comes into being, I will use every ounce of power\n"
+"under my command to help this world collapse."
+msgstr ""
+"І якщо виникне новий зсув, я використаю всю свою силу, щоб\n"
+"допомогти цьому світу прийти до краху."
+
+#. Key: RCL7_078
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ふぅ。ようやく追い着きましたな。
+msgctxt "RCL7_078"
+msgid "My goodness... Ah, it would seem I have at least caught up with you."
+msgstr "Фух... Нарешті наздогнав вас."
+
+#. Key: RCL7_079
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……あら、ヴァルケンハイン。
+msgctxt "RCL7_079"
+msgid "Ah, Valkenhayn."
+msgstr "...А, Валькенгайне."
+
+#. Key: RCL7_080
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: “今回は”もう、お帰りになられた方がよろしいかと……。
+msgctxt "RCL7_080"
+msgid "I think perhaps it is time the young madam called it a night... This time around..."
+msgstr "Цього разу вам уже, мабуть, варто повернутися додому..."
+
+#. Key: RCL7_081
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……そうね。
+#. JA:   私もそう考えていたわ。
+msgctxt "RCL7_081"
+msgid "...An excellent suggestion. It would be best if we were to retire."
+msgstr "...Так. Я й сама про це думала."
+
+#. Key: RCL7_082
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 左様でございましたか……。
+msgctxt "RCL7_082"
+msgid "Very well..."
+msgstr "Он як..."
+
+#. Key: RCL7_083
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 帰ったら紅茶を淹れてちょうだい。
+#. JA:   そして、ゆっくりと待ちましょう。
+#. JA:   時間はまだたっぷりとあるのだもの……。
+msgctxt "RCL7_083"
+msgid ""
+"I shall desire tea when we return. You will prepare it.\n"
+"And then, we shall wait. After all, we have all the time in the world..."
+msgstr ""
+"Повернемося — завари мені чаю. І спокійно почекаємо. Адже часу в нас\n"
+"іще вдосталь..."
+
+#. Key: RCL8_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 疲れたけれど、たまにはあんなことがあるのもいいわ。
+#. JA:   同じ芝居ばかりを見せられ続けるのにも、
+#. JA:   飽き飽きしていたところだったから……。
+msgctxt "RCL8_002"
+msgid ""
+"I'm rather tired, but I suppose this time away from the drudgery of the castle has\n"
+"done me good. No play retains its drama in repetition."
+msgstr ""
+"Я втомилася, та час від часу й такі пригоди не завадять. Мені вже\n"
+"набридло дивитися ту саму виставу знов і знов..."
+
+#. Key: RCL8_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL8_004"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL8_005
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……ねえ、ヴァルケンハイン。
+#. JA:   もしもお父様がこの世界を観たら、何てお思いになるかしら？
+msgctxt "RCL8_005"
+msgid ""
+"...Valkenhayn.\n"
+"If father could see the world as it is now, what would he think?"
+msgstr ""
+"...Валькенгайне. Як гадаєш, що подумав би батько, якби побачив цей\n"
+"світ?"
+
+#. Key: RCL8_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それは唐突かつ難しいご質問ですな。
+msgctxt "RCL8_006"
+msgid "I do not quite know how I should answer that question, madam."
+msgstr "Це несподіване й непросте запитання, пані."
+
+#. Key: RCL8_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 最近、思うことがあるのよ。
+#. JA:   私はこの城の当主として真に相応しいのか、と……。
+msgctxt "RCL8_007"
+msgid ""
+"I have been plagued by doubt of late, Valkenhayn. Do you...do you think I belong\n"
+"at the head of this family? As the inheritor of this mansion?"
+msgstr ""
+"Останнім часом я замислююся... Чи справді я гідна бути господинею\n"
+"цього замку?"
+
+#. Key: RCL8_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……レイチェル様らしからぬお言葉で。
+msgctxt "RCL8_008"
+msgid ""
+"You will forgive my impertinence, milady, but such a question seems...out of\n"
+"character."
+msgstr "...На вас це не схоже, пані Рейчел."
+
+#. Key: RCL8_009
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そうかしら？
+msgctxt "RCL8_009"
+msgid "Is that so?"
+msgstr "Невже?"
+
+#. Key: RCL8_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: いえ……そうね。
+#. JA:   少し疲れているのかもしれないわ。
+msgctxt "RCL8_010"
+msgid "No, I suppose you are right. Perhaps I am simply tired."
+msgstr "Ні... Ти маєш рацію. Мабуть, я трохи втомилася."
+
+#. Key: RCL8_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……今日はもう、お休みになられますか？
+msgctxt "RCL8_011"
+msgid "Do you with to retire to the bedchamber? I shall have it made up—"
+msgstr "...Може, вам уже час відпочити?"
+
+#. Key: RCL8_012
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: もう少しここにいさせて。
+#. JA:   眠ってしまったとしても、もう少しだけ……。
+msgctxt "RCL8_012"
+msgid ""
+"Let me stay here a little longer.\n"
+"Even if I fall asleep...I should like to stay here a little longer."
+msgstr ""
+"Дозволь мені ще трохи побути тут. Навіть якщо засну — ще зовсім\n"
+"трохи..."
+
+#. Key: RCL8_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 畏まりました。
+#. JA:   それでは膝かけをお持ちいたします。
+msgctxt "RCL8_013"
+msgid "Very well then, madam. I shall bring you a blanket."
+msgstr "Слухаюся. Тоді я принесу вам коцика."
+
+#. Key: RCL8_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ええ……お願い……。
+msgctxt "RCL8_014"
+msgid "Yes...please..."
+msgstr "Так... будь ласка..."
+
+#. Key: RCL8_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL8_016"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL8_018
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Valkenhayn
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 先代……貴方様が“生み出した”レイチェル様は、
+#. JA:   立派に成長されておりますよ……。
+msgctxt "RCL8_018"
+msgid "Ah, sir... If you could only see your daughter now... Your Rachel has grown so much..."
+msgstr ""
+"Господарю... Якби ви могли бачити вашу доньку, Рейчел виросла на\n"
+"славу..."
+
+#. Key: RCL9_001
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そこの貴方。
+msgctxt "RCL9_001"
+msgid "You there."
+msgstr "Агов, ти."
+
+#. Key: RCL9_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL9_002"
+msgid "Hm!?"
+msgstr "Гм?!"
+
+#. Key: RCL9_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: なッ！　この私が接近を感知できなかっただと!?
+msgctxt "RCL9_004"
+msgid "Wha-!? How did I not detect you closing in!?"
+msgstr "Що?! Я не відчув, як ти наблизилася?!"
+
+#. Key: RCL9_005
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ココノエに会いたいの。
+#. JA:   協力してもらえるかしら？
+msgctxt "RCL9_005"
+msgid "I need to speak with Kokonoe. You will assist me."
+msgstr "Я хочу побачитися з Коконое. Допоможеш мені?"
+
+#. Key: RCL9_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ココノエに、だと……？　貴様、何者だ？
+msgctxt "RCL9_006"
+msgid "Speak with Kokonoe...? Who the hell are you!?"
+msgstr "З Коконое...? Ти хто така?"
+
+#. Key: RCL9_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方が知る必要はないわ。いいから早く準備なさい。
+msgctxt "RCL9_007"
+msgid "That is none of your concern. Why have you not begun preparations?"
+msgstr "Тобі це знати не обов'язково. Краще мерщій готуйся."
+
+#. Key: RCL9_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 準備、だと……？
+msgctxt "RCL9_008"
+msgid "Preparations...?"
+msgstr "Готуватися, кажеш...?"
+
+#. Key: RCL9_009
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そこの「転移装置」のことよ。
+msgctxt "RCL9_009"
+msgid "I am referring to your matter transference device. "
+msgstr "Я про той «пристрій перенесення»."
+
+#. Key: RCL9_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……私が“はいそうですか”と従うように見えるのか？
+msgctxt "RCL9_010"
+msgid "...Hah! Give me one reason why I should listen to you!"
+msgstr "...Думаєш, я отак просто погоджуся й виконуватиму твої накази?"
+
+#. Key: RCL9_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: その転移装置はココノエのところに繋がっている。
+#. JA:   そしてココノエ側からしか起動はできない……。
+msgctxt "RCL9_011"
+msgid ""
+"I know that it leads to wherever Kokonoe has hidden herself, and I know that\n"
+"only she can activate it."
+msgstr ""
+"Цей пристрій з'єднаний із місцем, де перебуває Коконое. І запустити його\n"
+"може лише вона зі свого боку..."
+
+#. Key: RCL9_012
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: !?　なぜそれを……!?
+msgctxt "RCL9_012"
+msgid "Wha-!? How do you know that!?"
+msgstr "?! Звідки ти це знаєш?!"
+
+#. Key: RCL9_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方は何も知らないのね。
+#. JA:   自分が転移装置の鍵になっているなんて
+#. JA:   想像したことものないのだろうけれど……。
+msgctxt "RCL9_013"
+msgid ""
+"Must I explain everything? Have you never considered that you are the key which\n"
+"activates the device?"
+msgstr ""
+"Ти зовсім нічого не знаєш. Певно, навіть не здогадуєшся, що сам є\n"
+"ключем до цього пристрою..."
+
+#. Key: RCL9_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私が……鍵……？　貴様は一体……。
+msgctxt "RCL9_014"
+msgid "I'm...the key...? Just how much do you know...!?"
+msgstr "Я... ключ...? Хто ж ти така...?"
+
+#. Key: RCL9_015
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ああ、もう……時間が惜しいわ。
+#. JA:   拒むのなら、いいからさっさと戦いなさい。
+msgctxt "RCL9_015"
+msgid ""
+"Oh dear... This is going nowhere.\n"
+"If you find me a nuisance, why not simply attack me?"
+msgstr "Ох, годі... Часу обмаль. Якщо відмовляєшся, просто напади на мене."
+
+#. Key: RCL9_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方のモード変換が、
+#. JA:   “こちら側”から転移装置を起動させるための鍵なのよ。
+msgctxt "RCL9_016"
+msgid "When you change modes, you will activate the key on this end!"
+msgstr "Зміна твого режиму — ключ до запуску пристрою з «цього боку»."
+
+#. Key: RCL9_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……何!?
+msgctxt "RCL9_017"
+msgid "...What!?"
+msgstr "...Що?!"
+
+#. Key: RCL9_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……故障かしら。
+msgctxt "RCL9_023"
+msgid "...Is something wrong?"
+msgstr "...Зламався?"
+
+#. Key: RCL9_024
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: さも全てを知っているような口を利いておいて……この結果か。
+#. JA:   貴様が何者かなどどうでも良くなった。
+#. JA:   私の気が変わらぬうちに消えるがいい。
+msgctxt "RCL9_024"
+msgid ""
+"So you speak as if you know it all... And this happens?\n"
+"I don't even care who you are anymore.\n"
+"You'd better get out of my sight before I change my mind..."
+msgstr ""
+"Говорила так, ніби знаєш усе... І ось результат. Мені вже байдуже, хто\n"
+"ти. Забирайся, поки я не передумав."
+
+#. Key: RCL9_025
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ココノエは起動の鍵を変えたのね。
+#. JA:   これも“ズレ”ということかしら……。
+msgctxt "RCL9_025"
+msgid "It would appear Kokonoe has altered the activation key. Perhaps this is a shift? Hm..."
+msgstr "Коконое змінила ключ запуску. Мабуть, і це наслідок «зсуву»..."
+
+#. Key: RCL9_026
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 何をしている。
+#. JA:   早く立ち去れ！
+msgctxt "RCL9_026"
+msgid "What are you doing!? Leave!"
+msgstr "Чого стоїш? Іди звідси!"
+
+#. Key: RCL9_027
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 分かったわよ。
+#. JA:   “今回は”あきらめてあげるわ。それでいいんでしょう？
+msgctxt "RCL9_027"
+msgid ""
+"Very well. I will take my leave of you for this performance. That is what you desire,\n"
+"correct?"
+msgstr "Зрозуміла. «Цього разу» я відступлю. Тебе це влаштує?"
+
+#. Key: RCL9_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 不可解な娘だ……。
+msgctxt "RCL9_029"
+msgid "I don't think I will ever understand that girl..."
+msgstr "Дивна дівчина..."
+
+#. Key: RCL9_034
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: この力……貴様、一体……？
+msgctxt "RCL9_034"
+msgid "This power... What on earth...are you!?"
+msgstr "Така сила... Хто ж ти така...?"
+
+#. Key: RCL9_035
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 貴方がなかなか本気を出さないから悪いのよ。
+#. JA:   すんなりとやってくれていれば傷付かずにすんだのに……。
+msgctxt "RCL9_035"
+msgid ""
+"Perhaps you shouldn't have held back, mechanical man. If you'd only obeyed me\n"
+"when I first requested your assistance..."
+msgstr ""
+"Сам винен, що не поспішав битися на повну силу. Одразу зробив би, як я\n"
+"просила, — не довелося б терпіти рани..."
+
+#. Key: RCL9_037
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 何っ!?　起動した、だと……。
+msgctxt "RCL9_037"
+msgid "It...activated!?"
+msgstr "Що?! Він запустився...?"
+
+#. Key: RCL9_038
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: だから、さっき説明したでしょう？
+#. JA:   “あの子”らしい面倒で巧妙な仕掛けよね。
+#. JA:   外側からはそう簡単には入れないわ……。
+msgctxt "RCL9_038"
+msgid ""
+"Have we not been over this? This dreadful mess makes it difficult to access her\n"
+"from the outside. How like her..."
+msgstr ""
+"Я ж тобі пояснювала. Клопіткий і хитромудрий механізм — саме в дусі\n"
+"«тієї дівчини». Ззовні сюди так просто не потрапити..."
+
+#. Key: RCL9_039
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: そうそう、協力には感謝しているわ。
+#. JA:   それではごきげんよう、「赤鬼」さん。
+msgctxt "RCL9_039"
+msgid ""
+"Thank you for your assistance.\n"
+"Until we meet again, Mr. Red Devil."
+msgstr "І ще: дякую за допомогу. Бувай, «Червоний демоне»."
+
+#. Key: RCL9_041
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Tager
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 何者なのだ……。
+#. JA:   ココノエ……大丈夫なのか……？
+msgctxt "RCL9_041"
+msgid ""
+"Who the hell is she...?\n"
+"Kokonoe...are you gonna be OK...?"
+msgstr "Хто вона така...? Коконое... з нею все буде гаразд...?"
+
+#. Key: RCL10_002
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 本当に、面倒な仕掛けね。
+msgctxt "RCL10_002"
+msgid "Goodness gracious, how terribly bothersome..."
+msgstr "Який же клопіткий пристрій."
+
+#. Key: RCL10_003
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……レイチェル？
+#. JA:   どうやってここに来た？
+msgctxt "RCL10_003"
+msgid "...Rachel? How did you get in here?"
+msgstr "...Рейчел? Як ти сюди потрапила?"
+
+#. Key: RCL10_004
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 「鍵」を使って、よ。
+msgctxt "RCL10_004"
+msgid "Why, with the key, of course."
+msgstr "Скористалася «ключем»."
+
+#. Key: RCL10_005
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ああ、そうか……。
+#. JA:   お前は全て“観てる”んだっけな……
+msgctxt "RCL10_005"
+msgid "Ah, that's right... You can see everything, can't you?"
+msgstr "А, точно... Ти ж усе «бачиш»..."
+
+#. Key: RCL10_006
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: それを理解しているということは、
+#. JA:   もう“気付いて”いるのね？
+msgctxt "RCL10_006"
+msgid "If you know that much, surely you've noticed..."
+msgstr "Якщо ти це розумієш, то вже й «помітила», так?"
+
+#. Key: RCL10_007
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: まあな……。
+#. JA:   それで色々とやってはみたんだが……。
+#. JA:   どうやら失敗に終わったようだ。
+msgctxt "RCL10_007"
+msgid "Yeah, I have, and I've tried about a million things, but none of 'em work. All failures."
+msgstr "Ну так... Спробувала дещо зробити, але, схоже, усе скінчилося невдачею."
+
+#. Key: RCL10_008
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 確かに……成功とは言い難いわね。
+#. JA:   でも、今回は気付くのが以<ruby>ま</ruby>前<ruby>え</ruby>よりも遙かに早かったわ。
+msgctxt "RCL10_008"
+msgid ""
+"Indeed... Success comes rarely and never easily. I must congratulate you. You did\n"
+"discover it much faster this time."
+msgstr ""
+"Так... Успіхом це важко назвати. Але цього разу ти помітила все\n"
+"набагато раніше, ніж колись."
+
+#. Key: RCL10_009
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……そうか。
+#. JA:   それならこの先、幾ばくかの望みはある、か。
+msgctxt "RCL10_009"
+msgid "...I see. Then there might be hope for us yet..."
+msgstr "...Он як. Значить, надалі в нас іще є певна надія."
+
+#. Key: RCL10_010
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: さあ、どうでしょうね……。
+#. JA:   貴方次第だとは思うけれど……。
+msgctxt "RCL10_010"
+msgid "One can only hope. I believe, however, that task is yours."
+msgstr "Хтозна... Гадаю, усе залежить від тебе."
+
+#. Key: RCL10_011
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 私であって私でない私次第だからな……。
+#. JA:   責任を感じるような感じないような……不思議な気持ちだよ。
+msgctxt "RCL10_011"
+msgid ""
+"So it's up to me...who isn't really me... I kind of feel responsible, but at the same\n"
+"time, I don't... Weird."
+msgstr ""
+"Від мене, яка водночас є мною і не є... Дивне відчуття: наче й\n"
+"відповідальність моя, а наче й ні."
+
+#. Key: RCL10_013
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……と、折角来てくれたところ悪いんだが、
+#. JA:   これからあちこち飛び回らなくてはいけないんだ。
+msgctxt "RCL10_013"
+msgid ""
+"Well, I'd love to stick around and shoot the shit, but I've got places to be, things to\n"
+"do..."
+msgstr ""
+"...Та хоч ти й завітала, мушу бігти у справах. Мені треба побувати ще в\n"
+"багатьох місцях."
+
+#. Key: RCL10_014
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 構わないわ。
+#. JA:   ただ、ひとつだけ、いいかしら？
+msgctxt "RCL10_014"
+msgid ""
+"Oh, I wouldn't dream of keeping you from your important work, but there is one thing\n"
+"I thought you should know."
+msgstr "Не заперечую. Але можна спершу сказати тобі дещо?"
+
+#. Key: RCL10_015
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: なんだ？
+msgctxt "RCL10_015"
+msgid "What's that?"
+msgstr "Що саме?"
+
+#. Key: RCL10_016
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 「テルミ」が現れたわよ。
+msgctxt "RCL10_016"
+msgid "Your old friend Terumi has returned."
+msgstr "З'явився «Терумі»."
+
+#. Key: RCL10_017
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: なん、だと……？
+msgctxt "RCL10_017"
+msgid "What did you say...?"
+msgstr "Що... ти сказала?"
+
+#. Key: RCL10_018
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: かなり浅いところにまでね。
+msgctxt "RCL10_018"
+msgid "He's rather close now, I would say."
+msgstr "І вже досить близько до поверхні."
+
+#. Key: RCL10_019
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+msgctxt "RCL10_019"
+msgid "..."
+msgstr "..."
+
+#. Key: RCL10_021
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: レイチェル……。
+msgctxt "RCL10_021"
+msgid "Rachel..."
+msgstr "Рейчел..."
+
+#. Key: RCL10_022
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……分かっているわ。
+#. JA:   手を出すな、と言うのでしょう？
+msgctxt "RCL10_022"
+msgid "...Oh, you needn't tell me. You would rather I stayed out of this, wouldn't you?"
+msgstr "...Я знаю. Ти хочеш, щоб я не втручалася, так?"
+
+#. Key: RCL10_023
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: フン……、やっぱりお見通しなんだな、なんでも……。
+msgctxt "RCL10_023"
+msgid "Well, I guess you just know it all, don't you?"
+msgstr "Хм... Від тебе, як завжди, нічого не приховаєш..."
+
+#. Key: RCL10_024
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Kokonoe
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ヤツは私が必ず消滅させる。
+#. JA:   ヤツの存在を……私は認めない！！！
+msgctxt "RCL10_024"
+msgid "I'm gonna take him down, you just watch. I can't let a bastard like that exist!"
+msgstr "Я неодмінно зітру його з лиця землі. Я не дозволю йому існувати!!!"
+
+#. Key: RCL10_025
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: ……だったら、頑張りなさい。
+#. JA:   “今回”、私が言いたいのはそれだけよ。
+msgctxt "RCL10_025"
+msgid ""
+"Then I wish you the best of luck. Perhaps this time around, you will achieve that\n"
+"which you desire."
+msgstr "...Тоді постарайся. «Цього разу» це все, що я хотіла тобі сказати."
+
+#. Key: RCL10_027
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 今の私にできる事は、本当にそれだけだった。
+msgctxt "RCL10_027"
+msgid "...That was all I could do."
+msgstr "Це й справді було все, що я тоді могла зробити."
+
+#. Key: RCL10_028
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   私はこの舞台に降りる事を許された役者ではないから。
+#. JA:   私にできるのは、観客として役者達を励ますことだけだ。
+msgctxt "RCL10_028"
+msgid ""
+"\n"
+"I am a patron of this play, however unwilling, not an actor.\n"
+"I may cheer the cast, the stage itself is forbidden to me."
+msgstr ""
+"\n"
+"Мені не дозволено бути акторкою, що виходить на цю сцену. Я можу\n"
+"лише підбадьорювати акторів як глядачка."
+
+#. Key: RCL10_029
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   それを哀しんだこともあった。
+#. JA:   それを受け入れたこともあった。
+msgctxt "RCL10_029"
+msgid ""
+"\n"
+"At times, I have regretted it.\n"
+"At other times, I have welcomed and accepted my place."
+msgstr ""
+"\n"
+"Бувало, я сумувала через це. Бувало, приймала це як належне."
+
+#. Key: RCL10_030
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   けれど今の私はまた、違う心を持っている。
+msgctxt "RCL10_030"
+msgid ""
+"\n"
+"But this time...I feel a change of heart."
+msgstr ""
+"\n"
+"Та зараз я відчуваю щось інше."
+
+#. Key: RCL10_031
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   それは微かな希望。
+msgctxt "RCL10_031"
+msgid ""
+"\n"
+"There is hope—the finest of threads—but it is there."
+msgstr ""
+"\n"
+"Це — слабка надія."
+
+#. Key: RCL10_032
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   私という小さな存在が
+#. JA:   この舞台を大きく変えるかもしれない―――そういう期待。
+msgctxt "RCL10_032"
+msgid ""
+"\n"
+"Perhaps even I, a simple member of the audience, can change the play,\n"
+"if only in a small way."
+msgstr ""
+"\n"
+"Надія на те, що навіть така мала істота, як я, може докорінно змінити\n"
+"цю виставу."
+
+#. Key: RCL10_033
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   希望を胸に、私は家路へと着く。
+msgctxt "RCL10_033"
+msgid ""
+"\n"
+"I begin my long walk home with hopes high."
+msgstr ""
+"\n"
+"Із цією надією в серці я вирушаю додому."
+
+#. Key: RCL10_034
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   　　　　　　　　　やがてこの世界は終わり、また始まるだろう。
+msgctxt "RCL10_034"
+msgid ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"　　　　　　Before long, the world will end again and begin anew."
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"　　　　　　Невдовзі цей світ скінчиться і почнеться знову."
+
+#. Key: RCL10_035
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   　　　そして私の投げ掛けた言葉の種が、どう育ち行くのかを私は見守る。
+msgctxt "RCL10_035"
+msgid ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"　　　　　　I will sit, and I will watch the seeds I have planted, and perhaps\n"
+"　　　　　　their growth will bring the change my play so desperately needs."
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"　　　　　　А я спостерігатиму, як проростуть зерна слів, посіяні мною."
+
+#. Key: RCL10_036
+#. Source: story/storytext_mainrc (data/Story/Text/eng/storytext_mainrc.pac)
+#. Speaker: Rachel
+#. Context: Rachel story route (POV: Rachel)
+#. JA: 
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   
+#. JA:   　　　　　　　　それが観客である私の、最上の愉しみ方なのだ―――。
+msgctxt "RCL10_036"
+msgid ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"　　　　　　After all, what more could a grateful audience ask for?"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"　　　　　　Для мене, глядачки, це найкраща розвага..."

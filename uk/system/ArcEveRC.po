@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveRC01_00
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Rachel
+#. JA: あの、そこの君。少しお話いいですか？
+msgctxt "ArcEveRC01_00"
+msgid "Um, excuse me. You there. May I ask you a question?"
+msgstr "Перепрошую, ти там. Можна дещо запитати?"
+
+#. Key: ArcEveRC01_01
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Gii
+#. Context: Arcade event: Rachel
+#. JA: あ～ら乳臭いガキンチョのくせに、
+#. JA:   姫様をナンパするなんてなんて命しらずぐっ！
+msgctxt "ArcEveRC01_01"
+msgid ""
+"Oh, my. You look like you just got potty trained, and \n"
+"you're already trying to hit on the princess?\n"
+"You're really asking for it!"
+msgstr ""
+"Овва, молоко на губах іще не обсохло, а вже до принцеси\n"
+"залицяєшся? Оце ти безстрашний... Ґх!"
+
+#. Key: ArcEveRC01_02
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: で、私に何の用かしら？
+msgctxt "ArcEveRC01_02"
+msgid "Is there something you wish to ask of me?"
+msgstr "То що тобі від мене потрібно?"
+
+#. Key: ArcEveRC01_03
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Rachel
+#. JA: あの、君の横を通り過ぎた瞬間、
+#. JA:   姉さんの様子がおかしくなって……君、姉さんに何かした？
+msgctxt "ArcEveRC01_03"
+msgid ""
+"Um, right after we passed you, my sister started to act\n"
+"weird... Did you do something to her?"
+msgstr ""
+"Щойно ми пройшли повз тебе, сестра почала поводитися\n"
+"дивно... Ти щось із нею зробила?"
+
+#. Key: ArcEveRC01_04
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: さあ。お姉さん、コウモリが苦手なのではなくて？
+msgctxt "ArcEveRC01_04"
+msgid "No? Perhaps your sister is afraid of bats?"
+msgstr "Хтозна. Може, твоя сестра боїться кажанів?"
+
+#. Key: ArcEveRC01_05
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Gii
+#. Context: Arcade event: Rachel
+#. JA: ひいぃぃっ！！！姫様、なんでオイラに振るッスか！？
+msgctxt "ArcEveRC01_05"
+msgid "Aaaah! Princess, why do you put the blame on me!?"
+msgstr "А-а-а!!! Принцесо, чому ви переводите стрілки на мене?!"
+
+#. Key: ArcEveRC01_06
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Rachel
+#. JA: 巨大なコウモリに黒猫。魔女かと思ったけど違う。
+msgctxt "ArcEveRC01_06"
+msgid ""
+"A huge bat and a black cat...\n"
+"I thought you were a witch, but I guess I was wrong."
+msgstr ""
+"Величезний кажан і чорний кіт... Я подумав, що ти відьма,\n"
+"але, схоже, помилився."
+
+#. Key: ArcEveRC01_07
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Rachel
+#. JA: 姉さんが僕以外の人に反応することは今までなかったんだ。
+#. JA:   やっぱりおかしいよ。君は誰なの？
+msgctxt "ArcEveRC01_07"
+msgid ""
+"My sister has never reacted to anyone but me.\n"
+"Something is definitely wrong. Who are you?"
+msgstr ""
+"Досі сестра не реагувала ні на кого, крім мене. Щось тут\n"
+"таки не так. Хто ти така?"
+
+#. Key: ArcEveRC01_08
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: レディに対して詮索するのは紳士的とはいいがたいわ。
+#. JA:   礼儀知らずな坊や、マナーというものを教えてあげる。
+msgctxt "ArcEveRC01_08"
+msgid ""
+"A gentleman should not pry into a lady's affairs.\n"
+"Perhaps I should take this opportunity to teach you\n"
+"some manners."
+msgstr ""
+"Розпитувати про особисті справи пані — не надто\n"
+"шляхетно. Нечемний хлопчику, я навчу тебе гарних манер."
+
+#. Key: ArcEveRC01_09
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Rachel
+#. JA: 姉さん、この人危険すぎる――。
+#. JA:   申し訳ありませんが、ここは一旦引かせていただきます……！
+msgctxt "ArcEveRC01_09"
+msgid ""
+"This person is too dangerous, Sis.\n"
+"I'm sorry, but we're going to have to retreat for now...!"
+msgstr ""
+"Сестро, вона надто небезпечна... Перепрошую, але цього\n"
+"разу нам доведеться відступити...!"
+
+#. Key: ArcEveRC01_10
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: 自分自身も演じきれないなんて、役者としては三流以下ね。
+#. JA:   そうね、五順後くらいに出直してきなさい。
+msgctxt "ArcEveRC01_10"
+msgid ""
+"He cannot even play himself.\n"
+"Even soap opera stars are better than that.\n"
+"Perhaps with some training...a few years of training..."
+msgstr ""
+"Навіть себе самого не здатен зіграти до кінця — як актор\n"
+"ти нижчий за третьосортного. Повертайся десь через пʼять\n"
+"циклів."
+
+#. Key: ArcEveRC02_00
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: あら、えいゆうさん、お久しぶり。
+msgctxt "ArcEveRC02_00"
+msgid "Oh my! It has been too long, Mr. Hero."
+msgstr "О, пане герою, давно не бачилися."
+
+#. Key: ArcEveRC02_01
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Rachel
+#. JA: 何だ、貴様は。
+#. JA:   ここは子供が来るような場所ではない、早々に去るがいい。
+msgctxt "ArcEveRC02_01"
+msgid ""
+"Who the hell are you?\n"
+"This isn't a place for children. Just run along."
+msgstr ""
+"Ти ще хто така? Дітям тут не місце. Забирайся звідси, і\n"
+"негайно."
+
+#. Key: ArcEveRC02_02
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: ふぅん、こういう答え方をするの。
+#. JA:   面白いわ、色々と狂い始めているのね。
+msgctxt "ArcEveRC02_02"
+msgid ""
+"Oh, I see. So this is how you talk to me now?\n"
+"Interesting. I see things have begun to change."
+msgstr ""
+"Овва, ось як ти мені відповідаєш. Цікаво... Все довкола\n"
+"починає йти шкереберть."
+
+#. Key: ArcEveRC02_03
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Rachel
+#. JA: 聞いてるのか？
+msgctxt "ArcEveRC02_03"
+msgid "Are you listening to me?"
+msgstr "Ти мене слухаєш?"
+
+#. Key: ArcEveRC02_04
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: この事象は私の干渉によるものではないようね。
+#. JA:   私以外に干渉している者がいると見て間違いなさそう。
+msgctxt "ArcEveRC02_04"
+msgid ""
+"This is not my doing. There can be no other conclusion...\n"
+"Someone else is interfering."
+msgstr ""
+"Схоже, це явище спричинило не моє втручання. Поза\n"
+"сумнівом, тут втручається хтось іще."
+
+#. Key: ArcEveRC02_05
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: ギィ、ノドが渇いたわ。お茶をいれなさい。
+#. JA:   お茶請けはスコーンがいいわ、クロテッドクリームを添えてね。
+msgctxt "ArcEveRC02_05"
+msgid ""
+"Gii, I feel parched. I require tea. And a scone as well.\n"
+"Do not forget to put the Devonshire cream on the side."
+msgstr ""
+"Ґі, мене мучить спрага. Завари чаю. А до нього подай скон\n"
+"із топленими вершками."
+
+#. Key: ArcEveRC02_06
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Gii
+#. Context: Arcade event: Rachel
+#. JA: あいッス！！
+msgctxt "ArcEveRC02_06"
+msgid "Of course!"
+msgstr "Слухаюсь!!"
+
+#. Key: ArcEveRC02_07
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Rachel
+#. JA: 使い魔！？貴様、何者だ？
+msgctxt "ArcEveRC02_07"
+msgid "Who the hell are you?"
+msgstr "Фамільяр?! Хто ти така?"
+
+#. Key: ArcEveRC02_08
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: うるさい狗だこと。躾がなってないわね。
+#. JA:   いいわ。お茶の準備が出来るまで構ってあげるから、いらっしゃい。
+msgctxt "ArcEveRC02_08"
+msgid ""
+"Ugh. You are little more than an angry dog.\n"
+"It would appear your training was inadequate.\n"
+"Come. I will play with you until my tea is prepared."
+msgstr ""
+"Який галасливий пес. Зовсім невихований. Гаразд, я\n"
+"розважу тебе, доки готують чай. Підходь."
+
+#. Key: ArcEveRC02_09
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Jin
+#. Context: Arcade event: Rachel
+#. JA: くそっ、ただものではないな、貴様……ぐはっ。
+msgctxt "ArcEveRC02_09"
+msgid "Damn it! You're not just an ordinary girl... *cough*"
+msgstr "Клята... Ти не проста дівчина... Ґах."
+
+#. Key: ArcEveRC02_10
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: 飼われた英雄の割には、なかなか上出来だったわ。
+msgctxt "ArcEveRC02_10"
+msgid "Not bad for a lap dog."
+msgstr "Як для прирученого песика-героя, зовсім непогано."
+
+#. Key: ArcEveRC03_00
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: ここは静かでいいわ。
+#. JA:   でもお茶を楽しむには少し寂しすぎる場所ね。
+msgctxt "ArcEveRC03_00"
+msgid ""
+"It is rather quiet here.\n"
+"Perhaps a little too quiet to enjoy a cup of tea..."
+msgstr ""
+"Тут тихо, і це добре. Але для чаювання місце трохи надто\n"
+"самотнє."
+
+#. Key: ArcEveRC03_01
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Rachel
+#. JA: 誰かと思えば意外な客だな。
+#. JA:   如何した、時間には未だ早いぞ。
+msgctxt "ArcEveRC03_01"
+msgid ""
+"Well, this is quite a surprise.\n"
+"What brings you here? Seems a bit early."
+msgstr ""
+"Неочікуваний гість. Що сталося? Твій час іще не настав."
+
+#. Key: ArcEveRC03_02
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: あら、私の時計では時間ぴったりだけど？
+#. JA:   そちらの時計が遅れているんじゃなくて。
+msgctxt "ArcEveRC03_02"
+msgid ""
+"Oh? My watch begs to differ.\n"
+"Perhaps yours is simply slow?"
+msgstr ""
+"Справді? За моїм годинником час настав точнісінько.\n"
+"Може, це твій відстає?"
+
+#. Key: ArcEveRC03_03
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Rachel
+#. JA: よもや貴様が干渉して来るとはな。
+#. JA:   ――私の前に立つ意味、無論解って居るな？
+msgctxt "ArcEveRC03_03"
+msgid ""
+"I never thought you would intrude.\n"
+"You do know what your presence before me means,\n"
+"correct?"
+msgstr ""
+"Не думав, що ти втрутишся. Ти ж розумієш, що означає\n"
+"стати переді мною?"
+
+#. Key: ArcEveRC03_04
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: ええ、それを笑いに来てあげたのよ。アルルカン？
+msgctxt "ArcEveRC03_04"
+msgid "Of course. I am here to laugh in your face, harlequin."
+msgstr "Авжеж. Я саме й прийшла з тебе посміятися, арлекіне."
+
+#. Key: ArcEveRC03_05
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Rachel
+#. JA: くくく、貴様に道化呼ばわりされるとは思わなかったな。
+msgctxt "ArcEveRC03_05"
+msgid ""
+"Hmhmhm, I never thought I'd see the day where you\n"
+"would try to make a fool of me."
+msgstr "Хм-хм-хм... Не думав, що саме ти назвеш мене блазнем."
+
+#. Key: ArcEveRC03_06
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Rachel
+#. JA: では反逆の為に、貴様で時の歯車を進める。
+msgctxt "ArcEveRC03_06"
+msgid "In return, I shall sever the threads of your fate."
+msgstr "Тоді я використаю тебе, щоб зрушити шестерні часу."
+
+#. Key: ArcEveRC03_07
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Rachel
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ArcEveRC03_07"
+msgid ""
+"I am the white void I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveRC03_08
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Rachel
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveRC03_08"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveRC03_09
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Rachel
+#. JA: クッ、事象干渉か！邪魔をするな化け猫め！！！
+msgctxt "ArcEveRC03_09"
+msgid "Gah, how dare you interrupt me, Grimalkin!"
+msgstr ""
+"Кх, втручання у причинність! Не заважай, клята\n"
+"відьомська кицько!!!"
+
+#. Key: ArcEveRC03_10
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: なるほど、あの子のしわざだったのね。
+msgctxt "ArcEveRC03_10"
+msgid "How interesting... Then she was behind all of this."
+msgstr "Он воно що. То це була її робота."
+
+#. Key: ArcEveRC04_00
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Rachel
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveRC04_00"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveRC04_01
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Gii
+#. Context: Arcade event: Rachel
+#. JA: ひひひ姫様、オイラ怖いッス！
+#. JA:   なんだかヤバイ香りがぷんぷんするッス～～！！
+msgctxt "ArcEveRC04_01"
+msgid ""
+"P-P-P-Princess, I...I'm scared!\n"
+"I have a really bad feeling about this!"
+msgstr ""
+"П-п-принцесо, мені страшно! Від неї аж тхне небезпекою!!"
+
+#. Key: ArcEveRC04_02
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Rachel
+#. JA: 対象・認識・自律モード・起動
+msgctxt "ArcEveRC04_02"
+msgid "Scanning: complete. Auto-mode: confirmed."
+msgstr "Ціль ідентифіковано. Автономний режим активовано."
+
+#. Key: ArcEveRC04_03
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Nago
+#. Context: Arcade event: Rachel
+#. JA: 姫様、アイツ攻撃する気満々だよ！！大丈夫なのかい？
+msgctxt "ArcEveRC04_03"
+msgid ""
+"Princess, she's going to attack us!\n"
+"Are we going to be OK?"
+msgstr "Принцесо, вона явно збирається напасти! Ми впораємося?"
+
+#. Key: ArcEveRC04_04
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: ギィ、ナゴ、よく聞きなさい。
+msgctxt "ArcEveRC04_04"
+msgid "Gii, Nago, listen carefully."
+msgstr "Ґі, Наґо, слухайте уважно."
+
+#. Key: ArcEveRC04_05
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: ここはたくさんの物語が交差する場所。
+#. JA:   この場所で悲劇が始まり、そして終焉を迎える。
+msgctxt "ArcEveRC04_05"
+msgid ""
+"This is the moment where alternate histories intersect.\n"
+"This is where the tragedy began...and this is where it shall\n"
+"meet its end."
+msgstr ""
+"Тут перетинається безліч історій. У цьому місці трагедія\n"
+"починається — і тут само завершується."
+
+#. Key: ArcEveRC04_06
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: でもそれももうすぐ終わり。
+msgctxt "ArcEveRC04_06"
+msgid "But soon...all of that will be over."
+msgstr "Але й цьому скоро настане край."
+
+#. Key: ArcEveRC04_07
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Rachel
+#. JA: 対象・認識・障害・認識・排除・容認……
+#. JA:   対象を「外周因子」と認識　因子の排除を開始します
+msgctxt "ArcEveRC04_07"
+msgid ""
+"Scanning: complete. IFF determined. Processing...\n"
+"Subject in class: peripheral elements...\n"
+"Begin termination of peripheral element."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"схвалено... Ціль визначено як «периферійний чинник».\n"
+"Розпочинаю усунення чинника."
+
+#. Key: ArcEveRC04_08
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: さあ、かわいそうなお人形さん。用意はいいかしら？
+msgctxt "ArcEveRC04_08"
+msgid "Come, you poor doll. Are you ready?"
+msgstr "Ну ж бо, бідолашна лялечко. Ти готова?"
+
+#. Key: ArcEveRC04_09
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Rachel
+#. JA: あの子のおかげで今回は少しだけ楽しめたわ。
+#. JA:   ”また”、会いましょう。今度は少し違った形で……ね。
+msgctxt "ArcEveRC04_09"
+msgid ""
+"I am glad she was able to provide me with an evening's\n"
+"entertainment. We should play again, but perhaps in a\n"
+"different form..."
+msgstr ""
+"Завдяки їй цього разу я хоч трохи розважилася.\n"
+"Зустріньмося «знову». Наступного разу — в дещо іншій\n"
+"подобі..."
+
+#. Key: ArcEveRC05_00
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: ゆっくりとまぶたをあける
+msgctxt "ArcEveRC05_00"
+msgid "I slowly open my eyes."
+msgstr "Я повільно розплющую очі."
+
+#. Key: ArcEveRC05_01
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: また　ここにきてしまった
+msgctxt "ArcEveRC05_01"
+msgid "Here I am, yet again."
+msgstr "Я знову опинилася тут."
+
+#. Key: ArcEveRC05_02
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: ふと　後ろを振り向くと
+msgctxt "ArcEveRC05_02"
+msgid "I turn my head to look back,"
+msgstr "Я раптом озираюся назад."
+
+#. Key: ArcEveRC05_03
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: そこには一人の少女が立っていた
+msgctxt "ArcEveRC05_03"
+msgid "and a lone girl is standing there."
+msgstr "Там стоїть самотня дівчина."
+
+#. Key: ArcEveRC05_04
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: 翡翠の瞳を持つ少女が私を見つめている
+msgctxt "ArcEveRC05_04"
+msgid "With eyes like jade, she stares at me."
+msgstr "Дівчина з нефритовими очима дивиться на мене."
+
+#. Key: ArcEveRC05_05
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: その瞳は私の原罪を思い出させる
+msgctxt "ArcEveRC05_05"
+msgid "Her eyes remind me of my sins..."
+msgstr "Її очі нагадують мені про мій первородний гріх."
+
+#. Key: ArcEveRC05_06
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: 遠い遠い過去
+msgctxt "ArcEveRC05_06"
+msgid "...of a far, distant past."
+msgstr "Про далеке-далеке минуле."
+
+#. Key: ArcEveRC05_07
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: 生涯唯一その血を吸った少年のことを
+msgctxt "ArcEveRC05_07"
+msgid "The boy whose blood I drank...the only one..."
+msgstr "Про хлопця — єдиного за все моє життя, чию кров я пила."
+
+#. Key: ArcEveRC05_08
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: 私の至高の牙をただの人間に捧げたあの日のことを
+msgctxt "ArcEveRC05_08"
+msgid "The day I sunk my fangs into an innocent, helpless human."
+msgstr ""
+"Про той день, коли я встромила свої величні ікла у\n"
+"звичайну людину."
+
+#. Key: ArcEveRC05_09
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: 吸血鬼であるが故に吸血鬼でいられなくなったあの時のことを
+msgctxt "ArcEveRC05_09"
+msgid "The day I had no choice but to act as the vampire I am."
+msgstr ""
+"Про мить, коли саме через те, що я була вампіркою, я\n"
+"більше не могла нею лишатися."
+
+#. Key: ArcEveRC05_10
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: 最初でそして最後の
+msgctxt "ArcEveRC05_10"
+msgid "My first and last..."
+msgstr "Мій перший і водночас останній..."
+
+#. Key: ArcEveRC05_11
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: 甘い甘い罪
+msgctxt "ArcEveRC05_11"
+msgid "...sweet, sweet sin..."
+msgstr "солодкий-солодкий гріх."
+
+#. Key: ArcEveRC05_12
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: そして私はまた繰り返す
+msgctxt "ArcEveRC05_12"
+msgid "And so, once again..."
+msgstr "І я знову повторюю..."
+
+#. Key: ArcEveRC05_13
+#. Source: system/ArcEveRC_ArcEveRC01 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC02 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC03 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC04 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Source: system/ArcEveRC_ArcEveRC05 (data/ETC/Text_Eng/ArcEveRC.pac)
+#. Speaker: Narrator (Rachel)
+#. Context: Arcade event: Rachel
+#. JA: 気が遠くなるほどの果てしない物語を
+msgctxt "ArcEveRC05_13"
+msgid "...my aimless, endless story begins anew."
+msgstr "цю запаморочливо нескінченну історію."

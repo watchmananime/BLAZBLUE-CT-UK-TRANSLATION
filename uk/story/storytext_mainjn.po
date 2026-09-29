@@ -1,0 +1,4802 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: JIN0_001
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 何も、ない。
+msgctxt "JIN0_001"
+msgid "There's...nothing."
+msgstr "Нічого... немає."
+
+#. Key: JIN0_002
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: ある日。
+msgctxt "JIN0_002"
+msgid "One day..."
+msgstr "Одного дня..."
+
+#. Key: JIN0_003
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 気がつくと、僕はキサラギ家にいた。
+#. JA:   キサラギ家には多くの“兄弟”がいて、当主がいた。
+msgctxt "JIN0_003"
+msgid ""
+"Before I realized it, I had joined the Kisaragi family.\n"
+"A family with many <DQ>siblings<DQ> and one head."
+msgstr ""
+"Коли я отямився, то вже був у родині Кісараґі. У ній було багато «братів\n"
+"і сестер» та голова роду."
+
+#. Key: JIN0_004
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   その日から。
+#. JA:   
+#. JA:   当主は僕に何か言い、僕はそれに従った。
+msgctxt "JIN0_004"
+msgid ""
+"\n"
+"From that day on, when the family head gave me orders, I obeyed them.\n"
+msgstr ""
+"\n"
+"Відтоді голова роду щось мені наказував, а я корився.\n"
+
+#. Key: JIN0_005
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そして僕は、いつのまにか次期当主の最有力候補として、
+#. JA:   士官学校へと入学していた。
+msgctxt "JIN0_005"
+msgid ""
+"It wasn't long before I was considered first in line to inherit the Kisaragi house and\n"
+"sent to the Military Academy."
+msgstr ""
+"Невдовзі я став головним претендентом на місце наступного голови роду\n"
+"Кісараґі й вступив до Військової академії."
+
+#. Key: JIN0_006
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 全てが意識の外側にあり、何もかもが無為に過ぎていく。
+#. JA:   そこには何も生まれない。
+msgctxt "JIN0_006"
+msgid ""
+"\n"
+"I didn't have a choice about any of it.\n"
+"My life rushed past; my course decided upon by other people. "
+msgstr ""
+"\n"
+"Усе відбувалося поза моєю свідомістю, а дні безцільно минали. Ніщо не\n"
+"мало сенсу."
+
+#. Key: JIN0_007
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: ただ、周りの人間が僕を指差して悦んだり、憎んだりしていた。
+#. JA:   僕は厚い、厚い氷の中からその様だけ見ていた。
+msgctxt "JIN0_007"
+msgid "I knew there were people out there who had it in for me, but all I could do was watch."
+msgstr ""
+"Люди довкола показували на мене пальцями: одні захоплювалися, інші\n"
+"ненавиділи. А я лише спостерігав за ними крізь товсту, непробивну\n"
+"кригу."
+
+#. Key: JIN0_008
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   あの日から僕の眼は何も映してなどいなかった。
+msgctxt "JIN0_008"
+msgid ""
+"\n"
+"Ever since that day, I haven't really seen anything."
+msgstr ""
+"\n"
+"Відтоді мої очі вже нічого не бачили."
+
+#. Key: JIN0_009
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Brother-in-law
+#. Context: Jin story route (POV: Jin)
+#. JA: ほう、お前が新しい弟か……。
+msgctxt "JIN0_009"
+msgid "So you're the new little brother..."
+msgstr "О, то це ти мій новий молодший брат..."
+
+#. Key: JIN0_010
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Household Head
+#. Context: Jin story route (POV: Jin)
+#. JA: お前には才能がある。
+#. JA:   故に私はお前をキサラギ家に迎えた。
+msgctxt "JIN0_010"
+msgid "You have talent. That's why I welcomed you into the Kisaragi household."
+msgstr "Ти маєш талант. Саме тому я прийняв тебе до роду Кісараґі."
+
+#. Key: JIN0_011
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Young Man
+#. Context: Jin story route (POV: Jin)
+#. JA: 気に入らねえ目つきだな。
+msgctxt "JIN0_011"
+msgid "What are you looking at? You got a death wish?"
+msgstr "Мені не подобається твій погляд."
+
+#. Key: JIN0_012
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Colleague
+#. Context: Jin story route (POV: Jin)
+#. JA: いいよなあ、家柄だけで中尉になれりゃ。
+msgctxt "JIN0_012"
+msgid ""
+"Aren't you lucky?\n"
+"You know, the only reason you got promoted is because of your family name."
+msgstr "Добре тобі: став лейтенантом лише завдяки знатному роду."
+
+#. Key: JIN0_013
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN0_013"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN0_014
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 何かを言っていた。
+#. JA:   皆が僕を見て何かを言っていた。
+msgctxt "JIN0_014"
+msgid ""
+"They were talking.\n"
+"They were always talking about me."
+msgstr "Вони щось говорили. Усі дивилися на мене й щось говорили."
+
+#. Key: JIN0_015
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   ただ、僕はそうか、と思う。
+#. JA:   
+msgctxt "JIN0_015"
+msgid ""
+"\n"
+"But I could never bring myself to think anything more than <DQ>oh, really<DQ>...\n"
+msgstr ""
+"\n"
+"А я лише думав: «Он як»...\n"
+
+#. Key: JIN0_016
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   そして右手を見つめる。
+#. JA:   
+msgctxt "JIN0_016"
+msgid ""
+"...and look at my right hand.\n"
+msgstr ""
+"\n"
+"І дивився на свою праву руку.\n"
+
+#. Key: JIN0_017
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 階級を与えられ、勲章を贈られ、称賛され―――。
+#. JA:   他人が羨む幾多のものを僕は次々と手に入れた。
+#. JA:   そしていつしか僕は“英雄”と呼ばれるようになっていた。
+msgctxt "JIN0_017"
+msgid ""
+"I was given a rank. Medals. Admiration.\n"
+"Things others would fight and die for were heaped upon me.\n"
+"One day I noticed people had started to call me <DQ>Hero<DQ>."
+msgstr ""
+"Мені давали звання, вручали нагороди, мене вихваляли... Одне за одним\n"
+"я отримував те, чому заздрили інші. І зрештою мене почали називати\n"
+"«героєм»."
+
+#. Key: JIN0_018
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   けれど、そんなものは僕にとって何の意味もない……。
+#. JA:   無味乾燥で色褪せた日々を送るだけの生活に辟易していた。
+msgctxt "JIN0_018"
+msgid ""
+"\n"
+"But try as I might, I felt nothing. None of it mattered to me.\n"
+"After a while, I started to worry that my whole life would be like that."
+msgstr ""
+"\n"
+"Та для мене все це нічого не важило... Мене нудило від безбарвних і\n"
+"прісних буднів."
+
+#. Key: JIN0_019
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そう、カグツチに「死神」が現れたという話を聞くまでは―――。
+#. JA:   
+msgctxt "JIN0_019"
+msgid "That is, until the day the Reaper arrived in Kagutsuchi..."
+msgstr "Так було, доки я не почув, що в Каґуцучі з’явився «Жнець»..."
+
+#. Key: JIN1_002
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: こんな場所に街があるとは……。
+#. JA:   それにしても薄汚い街だ。
+msgctxt "JIN1_002"
+msgid ""
+"Who would've thought there'd be a town here...\n"
+"Hmph. More like a pathetic excuse for a town."
+msgstr "Не думав, що тут є місто... Та яке ж воно брудне."
+
+#. Key: JIN1_003
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 第十三階層都市「カグツチ」。
+msgctxt "JIN1_003"
+msgid "Kagutsuchi, the 13th Hierarchical City."
+msgstr "Тринадцяте ієрархічне місто «Каґуцучі»."
+
+#. Key: JIN1_004
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   命令違反を犯してでも、僕はこの地を訪れねばならなかった。
+#. JA:   この階層都市に現れた「死神」に会うために。
+msgctxt "JIN1_004"
+msgid ""
+"\n"
+"Had I disobeyed an order? So what. I had to go to Kagutsuchi.\n"
+"I have to meet this...Reaper."
+msgstr ""
+"\n"
+"Навіть порушивши наказ, я мусив сюди прибути. Щоб зустрітися зі\n"
+"«Женцем», який з’явився в цьому ієрархічному місті."
+
+#. Key: JIN1_005
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 自分の居場所を本部に悟られないようにするため、
+#. JA:   移動は自然と魔操船ではなく、徒歩に頼ることになった。
+#. JA:   まあ、元々魔操船を使う気もなかったが……。
+msgctxt "JIN1_005"
+msgid ""
+"\n"
+"Headquarters could track me if I went by airship, so I decided to travel on foot.\n"
+"...Of course, I would have walked anyway."
+msgstr ""
+"\n"
+"Щоб штаб не виявив мого місцеперебування, довелося йти пішки, а не\n"
+"летіти магічним кораблем. Хоча я від початку й не збирався ним\n"
+"користуватися..."
+
+#. Key: JIN1_006
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   地表に近いところは、舗装された道などないに等しく、
+#. JA:   わざわざ迂回ルートを通っていかねばならなかった。
+#. JA:   この街を訪れる羽目になったのもつまり、そういう理由だ。
+msgctxt "JIN1_006"
+msgid ""
+"\n"
+"The closer one is to the base of the mountain, the fewer roads are actually paved.\n"
+"I've been forced to take many detours."
+msgstr ""
+"\n"
+"Ближче до поверхні мощених доріг майже немає, тож мені доводилося\n"
+"йти в обхід. Саме тому я й опинився в цьому місті."
+
+#. Key: JIN1_008
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……妙だな。
+msgctxt "JIN1_008"
+msgid "...That's odd..."
+msgstr "...Дивно."
+
+#. Key: JIN1_009
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN1_009"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN1_010
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 街には先ほどまで人が居た気配があるのに、その影が見えない。
+msgctxt "JIN1_010"
+msgid "I...feel people here...but I see nothing."
+msgstr "Ще недавно тут були люди, але тепер не видно жодної душі."
+
+#. Key: JIN1_011
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 家の戸は開け放たれたまま、
+#. JA:   そこら中に吊るされた布が、風にあおられて揺れている。
+msgctxt "JIN1_011"
+msgid "This door has been left open, and a scrap of cloth flutters in the wind."
+msgstr ""
+"Двері будинків відкриті навстіж, а розвішаний всюди одяг колихається\n"
+"на вітрі."
+
+#. Key: JIN1_012
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……ん？
+msgctxt "JIN1_012"
+msgid "...Hm?"
+msgstr "...Гм?"
+
+#. Key: JIN1_013
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 街に足を踏み入れた瞬間からなんとなく嫌な感じはしていたが、
+#. JA:   それは段々と明確になってきた。
+#. JA:   執拗に僕の後を追い続けている無数の気配……。
+msgctxt "JIN1_013"
+msgid ""
+"I knew something was amiss the moment I entered town, but now...\n"
+"I can sense several people approaching me from behind."
+msgstr ""
+"Щойно я ступив до міста, то відчув щось недобре. Тепер це відчуття\n"
+"стало виразним. За мною невідступно тягнуться численні присутності..."
+
+#. Key: JIN1_015
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 邪魔だった。
+#. JA:   理由など知れたことではない。
+#. JA:   疎ましいその干渉に、僕は苛立った。
+msgctxt "JIN1_015"
+msgid ""
+"Their reasons do not interest me, but I have a feeling they do not intend to let me\n"
+"pass, and I cannot abide any impediment just now. They're beginning to irritate me..."
+msgstr ""
+"Вони заважали. Причини мене не цікавили. Їхнє настирливе втручання\n"
+"дратувало."
+
+#. Key: JIN1_016
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Unknown on screen; internally Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: とうっ！
+msgctxt "JIN1_016"
+msgid "Toh!"
+msgstr "То-о!"
+
+#. Key: JIN1_018
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: 統制機構のジン＝キサラギ！
+#. JA:   ついに見つけたでござるぅぅぅ！
+msgctxt "JIN1_018"
+msgid "Jin Kisaragi of the NOL! I have finally found you!"
+msgstr "Джіне Кісараґі з Організації Контролю! Нарешті я тебе знайшов-о-ов!"
+
+#. Key: JIN1_019
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……何の用だ。
+msgctxt "JIN1_019"
+msgid "...What do you want?"
+msgstr "...Що тобі треба?"
+
+#. Key: JIN1_020
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: 何の用だとぉっ!?
+#. JA:   よもやこの顔の傷、忘れたとは言わせぬぞ！
+msgctxt "JIN1_020"
+msgid "What do I want!? Perhaps this scar on my face will refresh your memory!"
+msgstr "Що мені треба?! Тільки не кажи, що забув цей шрам на моєму обличчі!"
+
+#. Key: JIN1_021
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……覚えてないな。
+msgctxt "JIN1_021"
+msgid "Heh... Not really..."
+msgstr "...Не пам’ятаю."
+
+#. Key: JIN1_022
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: お頭に向かって暴言をっ！　貴様ぁ！！
+msgctxt "JIN1_022"
+msgid "You bastard! How dare you insult the boss!"
+msgstr "Як ти смієш ображати боса, мерзотнику?!"
+
+#. Key: JIN1_024
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: ここは拙者に任せるでござる！
+msgctxt "JIN1_024"
+msgid "Leave this one to me!"
+msgstr "Залиште його мені!"
+
+#. Key: JIN1_025
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: はっ、お頭！　失礼しました！
+msgctxt "JIN1_025"
+msgid "Sir! Please, forgive me!"
+msgstr "Так, босе! Пробачте!"
+
+#. Key: JIN1_026
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: 二つ名に我が故郷の名を冠しながら、よくもぬけぬけと。
+msgctxt "JIN1_026"
+msgid "How dare you crown yourself with the name of my hometown!"
+msgstr ""
+"Як ти смієш безсоромно носити ім’я моєї батьківщини у своєму\n"
+"прізвиську!"
+
+#. Key: JIN1_027
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 故郷……？　なるほど、イカルガか。
+#. JA:   確か「ニンジャ」とかいったか。あの中の一人というわけだ。
+msgctxt "JIN1_027"
+msgid ""
+"Hometown...? Ah, of course... Ikaruga.\n"
+"You're one of those...what was it...<DQ>ninja<DQ>? "
+msgstr ""
+"Батьківщини...? Зрозуміло, Ікаруґа. Здається, вас називали «нінджя».\n"
+"Отже, ти один із них."
+
+#. Key: JIN1_028
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: なぜここへやってきた。
+#. JA:   殿を……イカルガを滅ぼすだけでは飽き足らぬでござるか！！
+msgctxt "JIN1_028"
+msgid "What do you want here? Wasn't the destruction of Ikaruga enough for you!?"
+msgstr ""
+"Навіщо ти сюди прийшов? Тобі мало було знищити нашого володаря...\n"
+"знищити Ікаруґу?!"
+
+#. Key: JIN1_029
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: はじめから貴様らなどに興味はない。
+#. JA:   邪魔な障害ならば排除するだけのこと。
+#. JA:   それに、ここを通ったのはただの偶然だ。
+msgctxt "JIN1_029"
+msgid ""
+"Hmph. You have absolutely nothing that interests me. But if you stand in my way, I\n"
+"-will- remove you. Besides, it was only a coincidence I picked this path."
+msgstr ""
+"Ви ніколи мене не цікавили. Якщо перешкода стає на моєму шляху — я\n"
+"її усуваю. А тут я опинився лише випадково."
+
+#. Key: JIN1_030
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: ……も、もはや勘弁ならぬ！
+msgctxt "JIN1_030"
+msgid "Th-That was the last straw..."
+msgstr "...Н-ні, цього я вже не стерплю!"
+
+#. Key: JIN1_031
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: しかと心に刻み付けよ！
+#. JA:   拙者こそはカグツチの愛と勇気と友情を守る勇士！
+#. JA:   その名も「シシガミ＝バング」！
+msgctxt "JIN1_031"
+msgid ""
+"Never forget, what you are about to see...\n"
+"I am the man who fights for Kagutsuchi in the name of love and courage!\n"
+"I am...Bang Shishigami!"
+msgstr ""
+"Закарбуй це у своєму серці! Я — звитяжець, що боронить любов, відвагу\n"
+"та дружбу Каґуцучі! Ім’я мені — Шішіґамі Банґ!"
+
+#. Key: JIN1_032
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: 殿の教えには背けども、我が祖国イカルガと殿の仇！
+#. JA:   今ここで果たしてみせようぞ！
+msgctxt "JIN1_032"
+msgid ""
+"Even if I have to break my master's teachings right here...!\n"
+"I -will- make someone pay for all the blood that was spilled in Ikaruga!"
+msgstr ""
+"Навіть якщо цим я піду проти настанов володаря, тут і зараз я помщуся\n"
+"за нього та за рідну Ікаруґу!"
+
+#. Key: JIN1_034
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: これは拙者一人の戦い！
+#. JA:   お主達、ゆめゆめ手を出すでないぞ！
+msgctxt "JIN1_034"
+msgid "This is my battle! You guys had better stay out of it!"
+msgstr "Це моя битва! А ви навіть не думайте втручатися!"
+
+#. Key: JIN1_035
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: お頭、頑張って下さい！！
+msgctxt "JIN1_035"
+msgid "Godspeed..."
+msgstr "Уперед, босе!!"
+
+#. Key: JIN1_036
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN1_036"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN1_037
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: いざ、参る！
+msgctxt "JIN1_037"
+msgid "En guarde!"
+msgstr "До бою!"
+
+#. Key: JIN1_038
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 塵<ruby>ごみ</ruby>が……。
+msgctxt "JIN1_038"
+msgid "Worthless trash..."
+msgstr "Сміття..."
+
+#. Key: JIN1_043
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: うっ、馬鹿な……。
+msgctxt "JIN1_043"
+msgid "Ugh...Impossible..."
+msgstr "Кх... Не може бути..."
+
+#. Key: JIN1_044
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: ふははははっ！
+#. JA:   見たか、修練を積んだ我が忍の力！
+msgctxt "JIN1_044"
+msgid "Hahahaha! You see that!? This is the result of all my training!"
+msgstr ""
+"Фу-ха-ха-ха! Бачив силу нінджя, загартовану невпинними\n"
+"тренуваннями?!"
+
+#. Key: JIN1_045
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: さすがお頭！
+#. JA:   見事に仇討を果たされて……。
+#. JA:   散っていった同胞たちも本望でしょう！
+msgctxt "JIN1_045"
+msgid ""
+"Sir, that was awesome! You got your revenge...\n"
+"I'm sure all of our brothers that lost their lives would be satisfied."
+msgstr ""
+"Як і слід було чекати від боса! Ви блискуче помстилися... Тепер полеглі\n"
+"товариші можуть спочивати з миром!"
+
+#. Key: JIN1_046
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: うむ、拙者は拳の思うままに従った。
+#. JA:   だが、殿は教えに背いた拙者を許しては下さらぬでござろう。
+msgctxt "JIN1_046"
+msgid "Hm... But, our master will never forgive me for what I've done..."
+msgstr ""
+"Так, я послухався свого кулака. Та володар, мабуть, не пробачить, що я\n"
+"порушив його настанови."
+
+#. Key: JIN1_048
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: ジン＝キサラギ！
+#. JA:   命まではとらぬ、余生は罪の償いにあてるでござる！！
+msgctxt "JIN1_048"
+msgid ""
+"Jin Kisaragi! I will not take your life...but I will make sure you spend the rest of it\n"
+"repenting for your sins!"
+msgstr ""
+"Джіне Кісараґі! Я не заберу твого життя — решту днів присвяти спокуті\n"
+"своїх гріхів!!"
+
+#. Key: JIN1_049
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: お、お頭……！
+msgctxt "JIN1_049"
+msgid "S...Sir!"
+msgstr "Б-босе...!"
+
+#. Key: JIN1_050
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: くそっ……なぜ、こんな奴らに……。
+msgctxt "JIN1_050"
+msgid "Damn it... How did I lose to them...?"
+msgstr "Чорт... Чому я програв таким, як вони...?"
+
+#. Key: JIN1_057
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: ぐはっ……不覚……！
+msgctxt "JIN1_057"
+msgid "*cough* ...I...Inconceivable..."
+msgstr "Ґах... Я схибив...!"
+
+#. Key: JIN1_058
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 不覚も何も……。
+#. JA:   最初から決定的な差があっただけのことだ。
+msgctxt "JIN1_058"
+msgid "<DQ>Inconceivable<DQ>...? Don't tell me you expected to win...?"
+msgstr "До чого тут «схибив»... Між нами від початку була нездоланна прірва."
+
+#. Key: JIN1_059
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: 何を……！！
+msgctxt "JIN1_059"
+msgid "Whaaat...!?"
+msgstr "Що ти сказав?!"
+
+#. Key: JIN1_060
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: お頭ァ！！
+msgctxt "JIN1_060"
+msgid "Boss!"
+msgstr "Босе!!"
+
+#. Key: JIN1_061
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate B
+#. Context: Jin story route (POV: Jin)
+#. JA: ジン＝キサラギ、貴様よくも！
+msgctxt "JIN1_061"
+msgid "Damn you, Jin Kisaragi!"
+msgstr "Джіне Кісараґі, як ти посмів?!"
+
+#. Key: JIN1_062
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: お主たちは下がっているでござる！！
+msgctxt "JIN1_062"
+msgid "You guys stay out of this!"
+msgstr "Не втручайтеся!!"
+
+#. Key: JIN1_063
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: く……民のためにも、
+#. JA:   今ここでやられるわけにはいかないでござる。
+msgctxt "JIN1_063"
+msgid "Kuh... But for everyone's sake...I cannot be defeated here!"
+msgstr "Кх... Заради народу я не можу дозволити собі загинути тут."
+
+#. Key: JIN1_064
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 目の前の男は、荒く息を吐きながら再び立ち上がろうとしていた。
+#. JA:   敗北を認めず強がる様は鬱陶しいことこの上ない。
+msgctxt "JIN1_064"
+msgid ""
+"The man before me is breathing heavily.\n"
+"He does not seem to understand that he has lost... Pitiful fool.\n"
+"There was never any other possible outcome."
+msgstr ""
+"Чоловік переді мною важко дихав, але знову намагався підвестися. Його\n"
+"вперте небажання визнати поразку дратувало понад усяку міру."
+
+#. Key: JIN1_065
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: つまらないな……。
+msgctxt "JIN1_065"
+msgid "What a waste of time..."
+msgstr "Як нудно..."
+
+#. Key: JIN1_066
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 興が醒めた……。
+msgctxt "JIN1_066"
+msgid "I'm done here."
+msgstr "Мені це набридло..."
+
+#. Key: JIN1_067
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 障害は排除しなければ。
+msgctxt "JIN1_067"
+msgid "But first, I must rid myself of any obstructions."
+msgstr "Перешкоду треба усунути."
+
+#. Key: JIN1_072
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……屑め……消え失せろ。
+msgctxt "JIN1_072"
+msgid "Get out of my sight!"
+msgstr "...Покидьку... Щезни."
+
+#. Key: JIN1_074
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: ぐぅっ！！
+msgctxt "JIN1_074"
+msgid "Guagh!"
+msgstr "Ґуах!!"
+
+#. Key: JIN1_075
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: お頭！！　やめろ、ジン＝キサラギ！！
+msgctxt "JIN1_075"
+msgid ""
+"BOSS!\n"
+"Jin, STOP IT!"
+msgstr "Босе!! Припини, Джіне Кісараґі!!"
+
+#. Key: JIN1_076
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: 来るな！　これは、拙者、一人の、たた、か……。
+msgctxt "JIN1_076"
+msgid "Stay out of this! This...battle is mine...and mine only..."
+msgstr "Не підходьте! Це... моя... бит... ва..."
+
+#. Key: JIN1_078
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate B
+#. Context: Jin story route (POV: Jin)
+#. JA: お頭！！　くっ……誰かお頭の介抱を！
+#. JA:   
+#. JA:   申し訳ありません―――手を出すことをお許しください。
+#. JA:   今、お頭を失うわけにはっ！
+msgctxt "JIN1_078"
+msgid ""
+"Boss! Damn it...can I get some help over here!?\n"
+"I'm sorry, sir...please forgive me for butting in.\n"
+"But...we can't afford to lose you right now!"
+msgstr ""
+"Босе!! Чорт... хтось, допоможіть йому! Пробачте, що втручаюся без\n"
+"дозволу. Ми не можемо зараз вас втратити!"
+
+#. Key: JIN1_082
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: 一斉攻撃だ！　お頭に指一本触れさせるな！！
+msgctxt "JIN1_082"
+msgid "Everyone attack! Don't let him get to the boss!"
+msgstr "Усі разом! Не дайте йому й пальцем торкнутися боса!!"
+
+#. Key: JIN1_083
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang's Subordinates
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   うぉぉおおー！！
+msgctxt "JIN1_083"
+msgid "AAAAAAAAAAAAAAAAAAARRRRRRRRRRRRGGGGGGGGGH!"
+msgstr ""
+"\n"
+"У-у-у-у-у-у!!"
+
+#. Key: JIN1_086
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕にとってこいつらを一掃するのはいとも容易いことだ。
+#. JA:   だが、予想以上に数が多い。処理には手間と時間が掛かりそうだ。
+#. JA:   群れてしか行動できない屑どもに嫌気がさした。
+msgctxt "JIN1_086"
+msgid ""
+"Killing these insects would be simple, but there are more than I expected...\n"
+"The...mess would take some time to clean up, and my cover would almost certainly\n"
+"be blown. I cannot afford that."
+msgstr ""
+"Змести їх усіх було б надзвичайно легко. Але їх більше, ніж я очікував.\n"
+"Це забере чимало часу й зусиль. Мене нудило від покидьків, здатних\n"
+"діяти лише зграєю."
+
+#. Key: JIN1_087
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 勝手に踊っていろ、三下ども……。
+msgctxt "JIN1_087"
+msgid "Keep dancing around... You pathetic scum."
+msgstr "Танцюйте собі далі, нікчеми..."
+
+#. Key: JIN1_089
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: あいつを野放しにするのは危険だ！　追え！！
+msgctxt "JIN1_089"
+msgid "Don't let him go! After him!"
+msgstr "Не впустіть його! За ним!!"
+
+#. Key: JIN1_092
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 鬱陶しい……。
+msgctxt "JIN1_092"
+msgid "How irritating... "
+msgstr "Як дратує..."
+
+#. Key: JIN1_095
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: 道を氷塊で封じるとは……貴様、卑怯な！！
+msgctxt "JIN1_095"
+msgid "He sealed the road with ice... You bastard! Fight fair!"
+msgstr "Загородив дорогу брилою льоду... Підлий боягузе!!"
+
+#. Key: JIN1_098
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……くだらん。
+msgctxt "JIN1_098"
+msgid "Ridiculous..."
+msgstr "...Безглуздя."
+
+#. Key: JIN1_103
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: いつまでもこんな奴らに構っている暇はなかった。
+#. JA:   
+#. JA:   一刻も早くカグツチの頂上へと向かわねばならない。
+msgctxt "JIN1_103"
+msgid ""
+"I have neither the time nor the inclination to deal with these men just now.\n"
+"I must reach the peak of Kagutsuchi."
+msgstr ""
+"Я не мав часу й далі возитися з ними. Треба якнайшвидше дістатися\n"
+"вершини Каґуцучі."
+
+#. Key: JIN1_104
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 一生そこで地を舐めていろ。それがお似合いだ。
+msgctxt "JIN1_104"
+msgid "Just stay on the ground... It suits you."
+msgstr "До скону лижи там землю. Саме там тобі й місце."
+
+#. Key: JIN1_105
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Bang
+#. Context: Jin story route (POV: Jin)
+#. JA: ……くっ、殿……申し訳ありませぬ。
+msgctxt "JIN1_105"
+msgid "D...Damn it... Master...I'm sorry..."
+msgstr "...Кх, володарю... пробачте мені."
+
+#. Key: JIN1_106
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate B
+#. Context: Jin story route (POV: Jin)
+#. JA: お頭っ！！
+msgctxt "JIN1_106"
+msgid "Boss!"
+msgstr "Босе!!"
+
+#. Key: JIN1_107
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Subordinate A
+#. Context: Jin story route (POV: Jin)
+#. JA: おのれ、ジン＝キサラギ……！！
+msgctxt "JIN1_107"
+msgid "Damn you, Jin!"
+msgstr "Проклятий Джіне Кісараґі...!!"
+
+#. Key: JIN1_108
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: そのセリフは聞き飽きた……。
+msgctxt "JIN1_108"
+msgid "I'm tired of hearing that... Can't you come up with something more...creative?"
+msgstr "Мені вже набридли ці слова..."
+
+#. Key: JIN2_002
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: カグツチのはずれから歩き続け、人ごみで溢れかえる街へと出た。
+msgctxt "JIN2_002"
+msgid ""
+"I continue inward, toward the center of Kagutsuchi.\n"
+"The city overflows with ignorant, filthy human bodies, all of them polluting the air\n"
+"around me."
+msgstr ""
+"Я йшов від околиці Каґуцучі, доки не опинився в місті, переповненому\n"
+"людьми."
+
+#. Key: JIN2_003
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 無秩序な場所だ。
+#. JA:   元来人間で溢れかえる場所を好かない僕にとっては、最悪な街だった。
+msgctxt "JIN2_003"
+msgid ""
+"\n"
+"This city is chaos, and its people disgust me.\n"
+"Although, to be fair, people in general disgust me."
+msgstr ""
+"Безладне місце. Я й так не люблю людних місць, а це місто було просто\n"
+"огидним."
+
+#. Key: JIN2_004
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   下層部というのは予想以上に掃き溜めのようだ。
+#. JA:   こんな街に用はない、僕は歩を速めた。
+msgctxt "JIN2_004"
+msgid ""
+"\n"
+"The lower layers are even worse than I feared.\n"
+"I have no business here."
+msgstr ""
+"\n"
+"Нижні рівні виявилися ще більшим смітником, ніж я очікував. Мені тут\n"
+"нічого не потрібно, тож я прискорив крок."
+
+#. Key: JIN2_006
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 人がざわついている。
+#. JA:   
+#. JA:   どうせ面倒ごとが起きているのだろう。
+msgctxt "JIN2_006"
+msgid ""
+"I notice a cluster of excited troglodytes, hooting and jeering. \n"
+"Someone seems to have started a fight, and apparently that passes for\n"
+"entertainment in this...place."
+msgstr "Люди навколо галасували. Безперечно, назріває якась халепа."
+
+#. Key: JIN2_007
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕はその場を通り過ぎようとしたが、
+#. JA:   それは嫌でも目に入ってくるほど大きかった。
+msgctxt "JIN2_007"
+msgid ""
+"\n"
+"I have every intention of walking past that knot of crass humanity, but the thing they\n"
+"are so excited about is impossible to ignore."
+msgstr ""
+"Я хотів пройти повз, але він був таким великим, що не помітити його\n"
+"було неможливо."
+
+#. Key: JIN2_010
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 「あれは、『第七機関』の……」
+#. JA:   
+msgctxt "JIN2_010"
+msgid "(That's...Sector Seven's... )"
+msgstr ""
+"(Це ж із Сектору Сім...)\n"
+
+#. Key: JIN2_011
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: その巨体は人ごみの中で一際目立っていた。
+#. JA:   
+#. JA:   僕はそいつのことを知っていた。
+#. JA:   
+msgctxt "JIN2_011"
+msgid ""
+"A giant stands head and shoulders above the crowd.\n"
+"I know him."
+msgstr ""
+"Його велетенська постать особливо вирізнялася в натовпі. Я знав, хто\n"
+"це."
+
+#. Key: JIN2_012
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   第七機関の赤鬼、テイガー。
+#. JA:   
+msgctxt "JIN2_012"
+msgid ""
+"\n"
+"Tager from Sector Seven.\n"
+msgstr ""
+"\n"
+"Червоний демон Сектору Сім — Тейґер.\n"
+
+#. Key: JIN2_013
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 本来カグツチにいるような人物ではない。
+#. JA:   赤鬼と目が合う。そちらも僕に気づいたようだった。
+msgctxt "JIN2_013"
+msgid ""
+"He doesn't belong in Kagutsuchi any more than I do.\n"
+"He catches me looking at him and, in an instant, recognizes me."
+msgstr ""
+"Він не мав би перебувати в Каґуцучі. Наші погляди зустрілися — схоже,\n"
+"він теж мене впізнав."
+
+#. Key: JIN2_014
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tager
+#. Context: Jin story route (POV: Jin)
+#. JA: イカルガの英雄がこんなところで何をしている？
+msgctxt "JIN2_014"
+msgid "What is the Hero of Ikaruga doing here?"
+msgstr "Що Герой Ікаруґи робить у такому місці?"
+
+#. Key: JIN2_015
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……貴様に答える義理などない。
+msgctxt "JIN2_015"
+msgid "...I'm under no obligation to answer you."
+msgstr "...Я не зобов’язаний тобі відповідати."
+
+#. Key: JIN2_016
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tager
+#. Context: Jin story route (POV: Jin)
+#. JA: 貴様の興味を引くようなものなど、
+#. JA:   この街には何一つ存在しないぞ。
+msgctxt "JIN2_016"
+msgid "There is absolutely nothing in this city that is of interest to you."
+msgstr "У цьому місті немає нічого, що могло б тебе зацікавити."
+
+#. Key: JIN2_017
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: いわれずとも、このような街に長居する気など毛頭ない。
+msgctxt "JIN2_017"
+msgid "I didn't need you to tell me that. Besides, I have no intention of extending my stay."
+msgstr "Міг би й не казати. Я й не думав затримуватися в такому місті."
+
+#. Key: JIN2_018
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tager
+#. Context: Jin story route (POV: Jin)
+#. JA: ほう……。
+msgctxt "JIN2_018"
+msgid "Is that so...?"
+msgstr "Он як..."
+
+#. Key: JIN2_019
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: カグツチには、既に統制機構による
+#. JA:   Lv.D警戒警報が発令されているはずだが。
+#. JA:   それが“他機関介入不可”を意味しているのを知らないのか？
+msgctxt "JIN2_019"
+msgid ""
+"The NOL has already issued a Level D alert for Kagutsuchi. I'm sure you're aware...\n"
+"That means all organizations must suspend activity until further notice..."
+msgstr ""
+"Організація Контролю вже мала оголосити в Каґуцучі тривогу рівня D.\n"
+"Хіба ти не знаєш, що це означає «заборону втручання інших\n"
+"організацій»?"
+
+#. Key: JIN2_021
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tager
+#. Context: Jin story route (POV: Jin)
+#. JA: 生憎だが、我々第七機関は貴様ら「図書館」の指図など受けん
+msgctxt "JIN2_021"
+msgid "Sorry, but Sector Seven doesn't take orders from the Library."
+msgstr "На жаль для тебе, Сектор Сім не виконує наказів вашої «Бібліотеки»."
+
+#. Key: JIN2_022
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: ……奴らがこの階層都市へやってきたのは、
+msgctxt "JIN2_022"
+msgid "...Why has Sector Seven come to Kagutsuchi?"
+msgstr "...Вони прибули до цього ієрархічного міста..."
+
+#. Key: JIN2_023
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: おそらく、奴らの目的も「死神」だからだ。
+#. JA:   統制機構の支部を潰して回っている「死神」の力を知る―――
+#. JA:   もしくは得るためか。
+msgctxt "JIN2_023"
+msgid ""
+"Perhaps for the same reason I have: in search of the Grim Reaper.\n"
+"I imagine they wish to discover the source of his power—or quite possibly\n"
+"harness it."
+msgstr ""
+"Мабуть, їхньою ціллю теж був «Жнець». Вони хотіли дізнатися про силу\n"
+"«Женця», який трощить відділення Організації Контролю... Або ж\n"
+"заволодіти нею."
+
+#. Key: JIN2_024
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   そういう意味では、こいつらもまた―――。
+#. JA:   
+msgctxt "JIN2_024"
+msgid "Whatever his explanation, I see him for what he is..."
+msgstr ""
+"\n"
+"У такому разі вони теж...\n"
+
+#. Key: JIN2_025
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……“障害”か。
+msgctxt "JIN2_025"
+msgid "...an obstacle."
+msgstr "...«Перешкода»."
+
+#. Key: JIN2_026
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tager
+#. Context: Jin story route (POV: Jin)
+#. JA: ……む？
+msgctxt "JIN2_026"
+msgid "...Hm?"
+msgstr "...Гм?"
+
+#. Key: JIN2_033
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……どうやら、撒いたようだな。
+#. JA:   まるで蛆虫のような奴らだった。
+msgctxt "JIN2_033"
+msgid "...I finally got rid of them... They were like maggots on a carcass."
+msgstr "...Схоже, я відірвався. Брудні хробаки."
+
+#. Key: JIN2_034
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: それにしても、余計な回り道をさせられた。
+#. JA:   僕には時間がなかった。
+msgctxt "JIN2_034"
+msgid ""
+"Another unnecessary detour...\n"
+"I'm running out of time."
+msgstr "Знову змусили мене марнувати час. А часу в мене не було."
+
+#. Key: JIN2_035
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 奴を狙っているのは僕だけではない。
+#. JA:   
+#. JA:   他の統制機構員、
+msgctxt "JIN2_035"
+msgid ""
+"I'm not the only person after him.\n"
+"\n"
+"The Librarium must have sent others..."
+msgstr ""
+"Не лише я полював на нього.\n"
+"\n"
+"За ним ішли й інші солдати Організації Контролю,"
+
+#. Key: JIN2_036
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 奴に懸けられた賞金目当ての「咎追い」、
+#. JA:   そしてもっと別の目的をもった何かが。
+msgctxt "JIN2_036"
+msgid ""
+"...and with the bounty on his head, I'm sure a fair share of vigilantes have targeted\n"
+"him, as well as people with...other motives."
+msgstr ""
+"мисливці за головами, яких привабила винагорода, та ще хтось із зовсім\n"
+"іншими намірами."
+
+#. Key: JIN2_038
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: 見てよ姉さん。
+#. JA:   本当にいたよ、「イカルガの英雄」さんが。
+msgctxt "JIN2_038"
+msgid "Look, Sis. That really is the <DQ>Hero of Ikaruga<DQ>."
+msgstr "Поглянь, сестричко. Він і справді тут — сам «Герой Ікаруґи»."
+
+#. Key: JIN2_039
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……何者だ、貴様？
+msgctxt "JIN2_039"
+msgid "Who the hell are you...?"
+msgstr "...Ти ще хто такий?"
+
+#. Key: JIN2_040
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: 失礼しました。僕は怪しい者ではありません。
+#. JA:   ただの咎追いです。
+msgctxt "JIN2_040"
+msgid "Pardon me. I'm not one to be cautious of. Just a vigilante."
+msgstr "Перепрошую. Я не якийсь підозрілий тип. Лише мисливець за головами."
+
+#. Key: JIN2_041
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 咎追い……？
+#. JA:   なら貴様の目的は―――
+msgctxt "JIN2_041"
+msgid "A vigilante...? Then, you must be—"
+msgstr "Мисливець за головами...? Тоді твоя мета..."
+
+#. Key: JIN2_042
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: ……お察しの通りだと思います。
+msgctxt "JIN2_042"
+msgid "...That's exactly right."
+msgstr "...Гадаю, ви вже здогадалися."
+
+#. Key: JIN2_043
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: こういっては失礼かと思いますが、
+#. JA:   あなたに「死神」を倒されては都合が悪いんです。
+msgctxt "JIN2_043"
+msgid ""
+"I know this may sound rude, but if you happen to kill the <DQ>Grim Reaper<DQ> before I get\n"
+"to him, it would be a terrible inconvenience."
+msgstr ""
+"Не хочу здатися нечемним, але мені буде дуже незручно, якщо ви\n"
+"здолаєте «Женця» раніше за мене."
+
+#. Key: JIN2_044
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: はっ……貴様程度の咎追いが大層な自信だな。
+msgctxt "JIN2_044"
+msgid "Hah! That's a lot of confidence coming from a wannabe."
+msgstr "Ха... Як багато впевненості для нікчемного мисливця за головами."
+
+#. Key: JIN2_045
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: 大層な自信かどうかは―――
+msgctxt "JIN2_045"
+msgid "Why don't you talk about my confidence..."
+msgstr "Забагато це впевненості чи ні..."
+
+#. Key: JIN2_047
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: 闘ってから決めていただけますか？
+msgctxt "JIN2_047"
+msgid "...after you fight me?"
+msgstr "...вирішіть після бою зі мною."
+
+#. Key: JIN2_048
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: どいつもこいつも―――。
+msgctxt "JIN2_048"
+msgid "The child is pathetic..."
+msgstr "Усі вони однакові..."
+
+#. Key: JIN2_049
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ちっ……。
+msgctxt "JIN2_049"
+msgid "Tch."
+msgstr "Ц..."
+
+#. Key: JIN2_051
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 消え失せろ……。
+msgctxt "JIN2_051"
+msgid "Get out of my way... "
+msgstr "Щезни..."
+
+#. Key: JIN2_056
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ぐっ……こんな……！
+msgctxt "JIN2_056"
+msgid "Argh... How did—"
+msgstr "Кх... Не може бути...!"
+
+#. Key: JIN2_057
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tager
+#. Context: Jin story route (POV: Jin)
+#. JA: そこで眠っていろ。
+#. JA:   命を奪うようなことまではしない。
+msgctxt "JIN2_057"
+msgid "Stay down. I won't take your life."
+msgstr "Лежи тут. Життя я тебе не позбавлятиму."
+
+#. Key: JIN2_058
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: く……待て……貴様！
+msgctxt "JIN2_058"
+msgid "Damn... Wait...you bastard!"
+msgstr "Кх... Стій... мерзотнику!"
+
+#. Key: JIN2_064
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tager
+#. Context: Jin story route (POV: Jin)
+#. JA: ぬっ……さすがは「イカルガの英雄」。
+msgctxt "JIN2_064"
+msgid "Ugh... I guess I underestimated the <DQ>Hero of Ikaruga<DQ>."
+msgstr "Нгх... Недарма тебе називають «Героєм Ікаруґи»."
+
+#. Key: JIN2_065
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 屑が……くそっ……僕には、時間が……。
+msgctxt "JIN2_065"
+msgid ""
+"You scum...\n"
+"Damn it... I'm running out of time..."
+msgstr "Покидьку... Чорт... У мене немає часу..."
+
+#. Key: JIN2_067
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tager
+#. Context: Jin story route (POV: Jin)
+#. JA: 行ってしまったか……。
+#. JA:   しかし、あの様子は一体―――。
+msgctxt "JIN2_067"
+msgid "He's gone... But what was wrong with him?"
+msgstr "Утік... Та що з ним узагалі відбувалося...?"
+
+#. Key: JIN2_072
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: この力……何なんだ、こいつは……！
+msgctxt "JIN2_072"
+msgid "Th-This power... Wh-What the heck...are you...!?"
+msgstr "Що це за сила... Хто ти в біса такий...?!"
+
+#. Key: JIN2_073
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: あれ……？　思ったよりずっと簡単に勝てたね、姉さん。
+#. JA:   ふふ、よかった。どこも怪我してない？
+msgctxt "JIN2_073"
+msgid ""
+"Hmm...we won more easily than we thought, huh, Sis? *giggle* Thank goodness.\n"
+"Are you hurt?"
+msgstr ""
+"Га...? Ми перемогли значно легше, ніж я думав, сестричко. Хе-хе, добре.\n"
+"Ти ніде не поранилася?"
+
+#. Key: JIN2_074
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: く……たかが“障害”ごときが……！！
+msgctxt "JIN2_074"
+msgid "Dammit... You're...nothing!"
+msgstr "Кх... Якась жалюгідна «перешкода»...!!"
+
+#. Key: JIN2_075
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: あれ、まだ意識があったんですね。
+#. JA:   ごめんなさい。残念ですけれど、これでお終いです。
+#. JA:   さようなら、“先輩”……。
+msgctxt "JIN2_075"
+msgid ""
+"Oh, you're still conscious.\n"
+"I'm sorry. It's unfortunate, but it's over. Good-bye, <DQ>cadet<DQ>..."
+msgstr ""
+"О, ви ще при тямі. Пробачте. Прикро, але на цьому все. Прощавайте,\n"
+"«старшокурснику»..."
+
+#. Key: JIN2_076
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: !?
+#. JA:   き、貴様は……くそっ……。
+msgctxt "JIN2_076"
+msgid ""
+"!?\n"
+"Y...You're... Damn it..."
+msgstr "!? Т-ти... Чорт..."
+
+#. Key: JIN2_082
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: ……さすがですね、「キサラギ先輩」。
+msgctxt "JIN2_082"
+msgid "...Well done...Cadet Kisaragi."
+msgstr "...Як і слід було чекати, «старшокурснику Кісараґі»."
+
+#. Key: JIN2_083
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 先輩……？
+msgctxt "JIN2_083"
+msgid "Do I know you...?"
+msgstr "Старшокурснику...?"
+
+#. Key: JIN2_084
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: 覚えてないのも無理はないです。
+#. JA:   直接会ったのも数えるほどでしたから……。
+msgctxt "JIN2_084"
+msgid "I don't blame you for not remembering. I've only met you a couple of times..."
+msgstr ""
+"Не дивно, що ви мене не пам’ятаєте. Ми зустрічалися лише кілька\n"
+"разів..."
+
+#. Key: JIN2_085
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ―――士官学校、か……。
+#. JA:   なぜ咎追いなんぞに成り下がった？
+msgctxt "JIN2_085"
+msgid ""
+"The Military Academy...\n"
+"Hmph! I didn't think you would stoop so low as to become a vigilante..."
+msgstr ""
+"...Військова академія. Як ти докотився до того, щоб стати мисливцем за\n"
+"головами?"
+
+#. Key: JIN2_086
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Carl
+#. Context: Jin story route (POV: Jin)
+#. JA: 姉さん、ごめんね……負けちゃった……。
+#. JA:   許して、くれ、る……？
+msgctxt "JIN2_086"
+msgid "Sorry, Sis... I lost... Will...you...forgive me...?"
+msgstr "Сестричко, пробач... Я програв... Ти... пробачиш мене...?"
+
+#. Key: JIN2_087
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……哀れだな。
+msgctxt "JIN2_087"
+msgid "...Pitiful."
+msgstr "...Жалюгідний."
+
+#. Key: JIN2_088
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: まあいい。
+#. JA:   先を急ごう。
+msgctxt "JIN2_088"
+msgid "Whatever. I've wasted too much time."
+msgstr "Та байдуже. Треба поспішати."
+
+#. Key: JIN3_002
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: ようやく支部には辿り着いた。
+#. JA:   だが様子がおかしい。
+msgctxt "JIN3_002"
+msgid ""
+"I've finally arrived at the branch office.\n"
+"But something is wrong."
+msgstr "Нарешті я дістався відділення. Але тут щось не так."
+
+#. Key: JIN3_003
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 警備の人間が見当たらないどころか、
+#. JA:   全体から人気が感じられない。
+msgctxt "JIN3_003"
+msgid ""
+"There are no guards.\n"
+"No people at all."
+msgstr ""
+"Не лише охоронців ніде не видно — у всій будівлі не відчувається жодної\n"
+"присутності."
+
+#. Key: JIN3_004
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   耳をそばだてて辺りをうかがう。
+#. JA:   やはり無人のようだ。
+msgctxt "JIN3_004"
+msgid ""
+"\n"
+"I listen, carefully, but I hear nothing."
+msgstr ""
+"\n"
+"Я прислухався й оглянувся довкола. Схоже, тут справді нікого не було."
+
+#. Key: JIN3_005
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   おかしい―――。
+msgctxt "JIN3_005"
+msgid ""
+"\n"
+"How strange..."
+msgstr ""
+"\n"
+"Дивно..."
+
+#. Key: JIN3_006
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: なぜだ……？
+msgctxt "JIN3_006"
+msgid "Why is it...?"
+msgstr "Чому...?"
+
+#. Key: JIN3_007
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 意識を研ぎ澄ます。
+#. JA:   かすかな瘴気を感じた。
+msgctxt "JIN3_007"
+msgid ""
+"I try harder, search every corner for a hint of a presence... \n"
+"I find something. It's faint, but it's there."
+msgstr "Я загострив чуття й відчув ледь помітну згубну ауру."
+
+#. Key: JIN3_008
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 誰かがここを通っていった―――。
+msgctxt "JIN3_008"
+msgid "Someone passed through here..."
+msgstr "Хтось тут був..."
+
+#. Key: JIN3_009
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: もう、「死神」はここへたどりついている？
+msgctxt "JIN3_009"
+msgid "Has the Grim Reaper already arrived?"
+msgstr "Невже «Жнець» уже сюди дістався?"
+
+#. Key: JIN3_011
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: キサラギ少佐！
+msgctxt "JIN3_011"
+msgid "Major Kisaragi!"
+msgstr "Майоре Кісараґі!"
+
+#. Key: JIN3_012
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……ヴァーミリオン少尉。
+msgctxt "JIN3_012"
+msgid "...Lieutenant Vermillion."
+msgstr "...Лейтенантко Верміліон."
+
+#. Key: JIN3_013
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: 少佐……。統合本部からの“勅命”を口頭でお伝えします。
+#. JA:   ジン＝キサラギ少佐は至急統合本部に出頭するように……
+#. JA:   との事です……。
+msgctxt "JIN3_013"
+msgid ""
+"Sir...I bring an <DQ>Imperial Command<DQ> from the NOL:\n"
+"Major Jin Kisaragi must report to the headquarters immediately."
+msgstr ""
+"Пане майоре... Я маю передати «імператорський наказ» зі штабу. Майор\n"
+"Джін Кісараґі повинен негайно з’явитися до штабу... Так у ньому\n"
+"сказано..."
+
+#. Key: JIN3_014
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN3_014"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN3_015
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 眩暈がした。
+msgctxt "JIN3_015"
+msgid "For a moment, I feel dizzy."
+msgstr "У мене запаморочилося в голові."
+
+#. Key: JIN3_016
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 大方、統制機構から命をうけて僕を追ってきたのだろうが……。
+#. JA:   そんな事はどうでもいい。
+msgctxt "JIN3_016"
+msgid "So the Librarium has already seen through my ruse and sent this child after me."
+msgstr ""
+"Напевно, Організація Контролю наказала їй переслідувати мене... Та це\n"
+"не мало значення."
+
+#. Key: JIN3_017
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: ただただ不愉快だ。
+#. JA:   この女の声が、この女の顔が。
+msgctxt "JIN3_017"
+msgid ""
+"How very irritating.\n"
+"This girl's voice... This girl's face..."
+msgstr "Вона просто була огидна. Її голос. Її обличчя."
+
+#. Key: JIN3_018
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 何故こいつは「あの女」と同じ顔をしている？
+msgctxt "JIN3_018"
+msgid "Why does she have -her- face?"
+msgstr "Чому в неї те саме обличчя, що й у «тієї дівки»?"
+
+#. Key: JIN3_019
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: 少佐……この命令書には……
+#. JA:   その……「帝」の印が押されています……。
+msgctxt "JIN3_019"
+msgid "Major...this directive...um...has the seal of the Imperator..."
+msgstr "Пане майоре... на цьому наказі... Ем... стоїть печатка «Імператора»..."
+
+#. Key: JIN3_020
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN3_020"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN3_021
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: あの、差し出がましいことを言わせて頂くかもしれませんが……
+msgctxt "JIN3_021"
+msgid "Um...I know I may be intruding, but..."
+msgstr "Ем... Можливо, я скажу дещо недоречне, але..."
+
+#. Key: JIN3_022
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: ツバキが悲しみます。ですから、至急本部にお戻りください。
+#. JA:   今なら不問に付すとも言われていますし……。
+msgctxt "JIN3_022"
+msgid ""
+"Tsubaki hasn't been the same since you left.\n"
+"So please, return to headquarters as soon as possible. They'll strike everything from\n"
+"the record if you return now."
+msgstr ""
+"Цубакі сумує. Тому, будь ласка, негайно поверніться до штабу. Кажуть,\n"
+"якщо повернетеся зараз, вас навіть не каратимуть..."
+
+#. Key: JIN3_023
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: この女は―――！
+#. JA:   この女は―――――！！
+msgctxt "JIN3_023"
+msgid ""
+"This girl...\n"
+"This girl...!"
+msgstr "Ця дівка...! Ця дівка...!!"
+
+#. Key: JIN3_024
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 再び僕から奪うつもりだ。
+#. JA:   何かの力に押され、いつのまにか。
+msgctxt "JIN3_024"
+msgid ""
+"She's trying to take it all away again.\n"
+"She's going to take everything from me."
+msgstr ""
+"Вона знову хоче все в мене забрати. Якась сила штовхала мене вперед, і\n"
+"я не помітив, як..."
+
+#. Key: JIN3_025
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: こいつはなんなんだ？
+msgctxt "JIN3_025"
+msgid "Who the hell is she?"
+msgstr "Що вона таке?"
+
+#. Key: JIN3_026
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: どこか具合が優れないのですか？
+#. JA:   顔色が―――
+msgctxt "JIN3_026"
+msgid "Are you not feeling well? You look a little—"
+msgstr "Ви погано почуваєтеся? Ви зблідли..."
+
+#. Key: JIN3_027
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 触るな！
+msgctxt "JIN3_027"
+msgid "Don't touch me!"
+msgstr "Не торкайся мене!"
+
+#. Key: JIN3_029
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 黙っていろ、“障害”め……。
+msgctxt "JIN3_029"
+msgid "Shut up, you...<DQ>impediment<DQ>..."
+msgstr "Замовкни, «перешкодо»..."
+
+#. Key: JIN3_030
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: し、少佐……何を……？
+msgctxt "JIN3_030"
+msgid "M-Major...what are you...?"
+msgstr "П-пане майоре... Що ви...?"
+
+#. Key: JIN3_031
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 貴様はなんだ……貴様は、貴様はなんだ？
+msgctxt "JIN3_031"
+msgid "Who the hell are you...? Who...who are you?"
+msgstr "Що ти таке...? Ти... ти що таке?"
+
+#. Key: JIN3_032
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 貴様はなんなんだ！！
+msgctxt "JIN3_032"
+msgid "WHO THE HELL ARE YOU!?"
+msgstr "ЩО ТИ, БЛЯТЬ, ТАКЕ?!"
+
+#. Key: JIN3_033
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: 少佐……私は……。
+msgctxt "JIN3_033"
+msgid "Major...I..."
+msgstr "Пане майоре... Я..."
+
+#. Key: JIN3_035
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: おまえ、しね……。
+msgctxt "JIN3_035"
+msgid "Die..."
+msgstr "Помри..."
+
+#. Key: JIN3_041
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: 少佐……どうか落ち着いてください。
+#. JA:   今、医療班を呼びますから……！
+msgctxt "JIN3_041"
+msgid "Please calm down, Major. I'll call a medical team right away...!"
+msgstr "Пане майоре... Будь ласка, заспокойтеся. Я зараз викличу медиків...!"
+
+#. Key: JIN3_042
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: なぜだ……なぜ……お前は……。
+msgctxt "JIN3_042"
+msgid "Why...why...why are you always...! Ugh!"
+msgstr "Чому... Чому... ти...?"
+
+#. Key: JIN3_044
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN3_044"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN3_051
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……はっ！
+msgctxt "JIN3_051"
+msgid "...Hah!"
+msgstr "...Ха!"
+
+#. Key: JIN3_052
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 気が付くとノエル＝ヴァーミリオンの姿は消えていた。
+msgctxt "JIN3_052"
+msgid "When I come to, Noel Vermillion is nowhere to be seen."
+msgstr "Коли я отямився, Ноель Верміліон уже зникла."
+
+#. Key: JIN3_053
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 人の気配はない。
+#. JA:   しかし僕の眼前には、ぼんやりしたひとつの影が浮かんでいた。
+msgctxt "JIN3_053"
+msgid ""
+"It's quiet.\n"
+"There is a shadow standing in front of me."
+msgstr ""
+"Нічиєї присутності не відчувалося. Та просто переді мною виднівся\n"
+"нечіткий силует."
+
+#. Key: JIN3_054
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: それは誰かに似ている。
+#. JA:   僕の知っている誰かに―――でも、思い出せない。
+msgctxt "JIN3_054"
+msgid ""
+"It looks familiar...\n"
+"Like...someone I used to know."
+msgstr "Він когось нагадував. Когось, кого я знав... але не міг згадати."
+
+#. Key: JIN3_055
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: お前は……？
+msgctxt "JIN3_055"
+msgid "You're...?"
+msgstr "Ти...?"
+
+#. Key: JIN3_057
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: うっ……！
+msgctxt "JIN3_057"
+msgid "Ugh...!"
+msgstr "Кх...!"
+
+#. Key: JIN3_059
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: な、なんだったんだ、今のは……？
+msgctxt "JIN3_059"
+msgid "Wh...What was that...just now...?"
+msgstr "Щ-що це щойно було...?"
+
+#. Key: JIN3_060
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: それにこれは……。
+msgctxt "JIN3_060"
+msgid "And this..."
+msgstr "І це ще що...?"
+
+#. Key: JIN3_062
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 右手は、赤く染まっていた。
+msgctxt "JIN3_062"
+msgid "My right hand is drenched in something...red."
+msgstr "Моя права рука була червоною."
+
+#. Key: JIN3_063
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: ひどく真新しい、生温かい液体。
+#. JA:   ぬるりとした感触。
+msgctxt "JIN3_063"
+msgid "It's awfully warm to the touch."
+msgstr "Зовсім свіжа, теплувата рідина. Слизька на дотик."
+
+#. Key: JIN3_064
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕は、殺したのか……あの女を。
+msgctxt "JIN3_064"
+msgid "Did I kill...that girl?"
+msgstr "Невже я... вбив ту дівку?"
+
+#. Key: JIN3_066
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN3_066"
+msgid "!"
+msgstr "!"
+
+#. Key: JIN3_067
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: いる……この奥に……！
+msgctxt "JIN3_067"
+msgid "He's...here...!"
+msgstr "Він тут... далі всередині...!"
+
+#. Key: JIN3_072
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……はっ！
+msgctxt "JIN3_072"
+msgid "*gasp*"
+msgstr "...Ха!"
+
+#. Key: JIN3_073
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 気が付くと彼女の姿は消えていた。
+msgctxt "JIN3_073"
+msgid "When I come to, the girl is gone."
+msgstr "Коли я отямився, вона вже зникла."
+
+#. Key: JIN3_074
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 人の気配はない。
+#. JA:   しかし僕の眼前には、ぼんやりしたひとつの影が浮かんでいた。
+msgctxt "JIN3_074"
+msgid ""
+"It's quiet.\n"
+"There's a shadow standing in front of me."
+msgstr ""
+"Нічиєї присутності не відчувалося. Та просто переді мною виднівся\n"
+"нечіткий силует."
+
+#. Key: JIN3_075
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: それは誰かに似ている。
+#. JA:   僕の知っている誰かに。
+#. JA:   けれど、それが誰なのか、思い出せない。
+msgctxt "JIN3_075"
+msgid ""
+"It looks familiar...\n"
+"Like...someone I used to know."
+msgstr "Він когось нагадував. Когось, кого я знав. Та я не міг згадати, кого саме."
+
+#. Key: JIN3_076
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: お前は……？
+msgctxt "JIN3_076"
+msgid "You're...?"
+msgstr "Ти...?"
+
+#. Key: JIN3_078
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: うっ……！
+msgctxt "JIN3_078"
+msgid "Ugh...!"
+msgstr "Кх...!"
+
+#. Key: JIN3_080
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: な、なんだったんだ、今のは……？
+msgctxt "JIN3_080"
+msgid "Wh— What was that...just now...?"
+msgstr "Щ-що це щойно було...?"
+
+#. Key: JIN3_082
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN3_082"
+msgid "!"
+msgstr "!"
+
+#. Key: JIN3_083
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: いる……この奥に……！
+msgctxt "JIN3_083"
+msgid "He's...here...!"
+msgstr "Він тут... далі всередині...!"
+
+#. Key: JIN3_090
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……ここは？
+msgctxt "JIN3_090"
+msgid "...! Where am I...?"
+msgstr "...Де я?"
+
+#. Key: JIN3_092
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: お目覚めかしら？
+#. JA:   ずいぶんお寝坊なのね、えいゆうさん。
+msgctxt "JIN3_092"
+msgid "Awake already? You're quite lethargic for a hero."
+msgstr "Прокинувся? Оце ти заспався, пане герою."
+
+#. Key: JIN3_093
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 貴様が……僕をここに？
+msgctxt "JIN3_093"
+msgid "You...brought me here?"
+msgstr "Це ти... принесла мене сюди?"
+
+#. Key: JIN3_094
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: まさか。私は力仕事なんてしないわ。
+msgctxt "JIN3_094"
+msgid "Goodness, no! You think -I- would stoop to physical labor?"
+msgstr "Ще чого. Я не займаюся фізичною працею."
+
+#. Key: JIN3_095
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Gii
+#. Context: Jin story route (POV: Jin)
+#. JA: オイラとおねぇがやったッス！
+msgctxt "JIN3_095"
+msgid "Nago 'n I did that..."
+msgstr "Це ми з Наґо принесли!"
+
+#. Key: JIN3_096
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nago
+#. Context: Jin story route (POV: Jin)
+#. JA: そゆこと。
+msgctxt "JIN3_096"
+msgid "That's right."
+msgstr "Атож."
+
+#. Key: JIN3_097
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……そんなことなど聞いていない。
+msgctxt "JIN3_097"
+msgid "...I wasn't asking you."
+msgstr "...Я не вас питав."
+
+#. Key: JIN3_099
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Gii
+#. Context: Jin story route (POV: Jin)
+#. JA: ひぃぃ！
+msgctxt "JIN3_099"
+msgid "Aaah!"
+msgstr "А-а-ай!"
+
+#. Key: JIN3_101
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: 貴方をここに運んだ理由？
+#. JA:   なぜって、無様だったのがあまりに哀れで。
+msgctxt "JIN3_101"
+msgid "You're wondering why? You looked so sad, I simply couldn't leave you to your fate..."
+msgstr ""
+"Навіщо я наказала принести тебе сюди? Твій жалюгідний вигляд\n"
+"викликав у мене жаль."
+
+#. Key: JIN3_103
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: だってあんな男に負けてしまうほど弱いのだもの。
+#. JA:   介抱してあげるのが優しさではなくて？
+msgctxt "JIN3_103"
+msgid "You're far too weak to beat him, and you know it. Isn't it kind of me to look after you?"
+msgstr ""
+"Ти ж такий слабкий, що програв тому чоловікові. Хіба не люб’язно з\n"
+"мого боку було про тебе подбати?"
+
+#. Key: JIN3_105
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……何がおかしい。
+msgctxt "JIN3_105"
+msgid "...What's so funny?"
+msgstr "...Що тут смішного?"
+
+#. Key: JIN3_106
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: あら、頭も弱いのかしら？
+msgctxt "JIN3_106"
+msgid "Ah well, it -is- rare to have looks -and- brains."
+msgstr "О, невже ти ще й розумом слабкий?"
+
+#. Key: JIN3_107
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: ふふっ、歯を剥いて吠えてごらんなさい。
+#. JA:   その幼稚なお遊戯で、どれくらい楽しませてくれるか見物だわ。
+msgctxt "JIN3_107"
+msgid ""
+"*giggle* Perhaps you would like to scream for me? I know it sounds rather childish,\n"
+"but I believe I might find it entertaining."
+msgstr ""
+"Хи-хи, ану вишкір зуби й загавкай. Поглянемо, наскільки мене\n"
+"розважить ця дитяча вистава."
+
+#. Key: JIN3_113
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: グッ……！
+msgctxt "JIN3_113"
+msgid "Argh...Gugh!"
+msgstr "Кх...!"
+
+#. Key: JIN3_114
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: 所詮はこの程度なのね。
+#. JA:   つまらない男……。
+msgctxt "JIN3_114"
+msgid ""
+"Hmph. This is it, I suppose? A shame... I'd expected somewhat more of a man\n"
+"like yourself."
+msgstr "Отже, це все, на що ти здатен. Нудний чоловік..."
+
+#. Key: JIN3_115
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: う、う……。
+msgctxt "JIN3_115"
+msgid "Ugh...ugh..."
+msgstr "Ух... у-у..."
+
+#. Key: JIN3_117
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: 出直していらっしゃいな……英雄さん。
+msgctxt "JIN3_117"
+msgid "You are welcome to come visit me again when you're more...prepared, Little Hero."
+msgstr "Повертайся, коли станеш сильнішим... пане герою."
+
+#. Key: JIN4_002
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN4_002"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN4_003
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: やっと会えたね……“兄さん”。
+#. JA:   やっぱり、「ラグナ＝ザ＝ブラッドエッジ」は兄さんだったんだ。
+msgctxt "JIN4_003"
+msgid ""
+"We finally meet again...<DQ>Brother<DQ>.\n"
+"Just as I thought... You WERE <DQ>Ragna the Bloodedge<DQ>."
+msgstr ""
+"Нарешті ми зустрілися... «братику». Я так і знав, що «Раґна Бладедж» —\n"
+"це ти."
+
+#. Key: JIN4_004
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: ジン！
+#. JA:   お前……どうしてここに……。
+msgctxt "JIN4_004"
+msgid "Jin! Why are you here...?"
+msgstr "Джіне! Ти... чому ти тут...?"
+
+#. Key: JIN4_005
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: “どうして”？
+#. JA:   決まってるだろう？
+#. JA:   兄さんに会うために来たんだよ。
+msgctxt "JIN4_005"
+msgid "<DQ>Why<DQ>? Heh, I thought that was obvious... I came to see you, Ragna."
+msgstr "«Чому»? Хіба не зрозуміло? Я прийшов побачитися з тобою, братику."
+
+#. Key: JIN4_007
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 寄るんじゃねぇ！
+#. JA:   俺はテメェに会うために来たじゃねぇんだよ。
+msgctxt "JIN4_007"
+msgid "Go away! I didn't come here for you, asshole."
+msgstr "Не підходь! Я прийшов не до тебе."
+
+#. Key: JIN4_008
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: どうして……？　どうしてさ？
+#. JA:   またこうやって会えたっていうのに。クククッ。
+msgctxt "JIN4_008"
+msgid "Why...Why not? You're not happy to see me? Hehehe."
+msgstr "Чому...? Ну чому? Ми ж нарешті знову зустрілися. Хе-хе-хе."
+
+#. Key: JIN4_009
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 何言ってやがる……。
+msgctxt "JIN4_009"
+msgid "What are you talking about...?"
+msgstr "Що ти верзеш...?"
+
+#. Key: JIN4_010
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 忘れちゃったの？　昔のことを……。
+msgctxt "JIN4_010"
+msgid "Did you forget? About our past?"
+msgstr "Невже ти забув? Наше минуле..."
+
+#. Key: JIN4_011
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: あの場所のことさ。
+#. JA:   僕達3人がいたあの―――
+msgctxt "JIN4_011"
+msgid "You know what I'm talking about... Where all three of us used to—"
+msgstr "Те місце. Те, де ми жили втрьох..."
+
+#. Key: JIN4_012
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 黙れよ、ジン。
+#. JA:   お前との決着は、後でどうとでもつけてやる。
+msgctxt "JIN4_012"
+msgid "Shut the hell up, Jin. I'll deal with you some other day."
+msgstr "Замовкни, Джіне. З тобою я ще встигну розібратися."
+
+#. Key: JIN4_013
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: そんな冷たいこといわないでよ、兄さん。
+msgctxt "JIN4_013"
+msgid "Don't be so cold...Brother."
+msgstr "Не будь таким холодним, братику."
+
+#. Key: JIN4_017
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   あの家。
+msgctxt "JIN4_017"
+msgid "The house..."
+msgstr ""
+"\n"
+"Той дім."
+
+#. Key: JIN4_019
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   そこにいた僕ら。
+msgctxt "JIN4_019"
+msgid "The house where we lived..."
+msgstr ""
+"\n"
+"Ми, що жили там."
+
+#. Key: JIN4_021
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   燃えて崩れ落ちる家。
+msgctxt "JIN4_021"
+msgid "Burning, crumbling..."
+msgstr ""
+"\n"
+"Дім, що палав і руйнувався."
+
+#. Key: JIN4_024
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ククク……。
+msgctxt "JIN4_024"
+msgid "Hehehe..."
+msgstr "Хе-хе-хе..."
+
+#. Key: JIN4_026
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   そしてあいつを、僕が。
+msgctxt "JIN4_026"
+msgid "And then...I..."
+msgstr ""
+"\n"
+"А потім я... її..."
+
+#. Key: JIN4_029
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: アハハハハハハハ！！
+msgctxt "JIN4_029"
+msgid "AHAHAHAHAHAHAA!"
+msgstr "А-ХА-ХА-ХА-ХА-ХА!!"
+
+#. Key: JIN4_031
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: ……ジン、てめぇ……。
+msgctxt "JIN4_031"
+msgid "...Jin...you bastard..."
+msgstr "...Джіне, покидьку..."
+
+#. Key: JIN4_032
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ねぇ、兄さん？
+msgctxt "JIN4_032"
+msgid "Hey... Brother..."
+msgstr "Слухай, братику."
+
+#. Key: JIN4_033
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: さっき、あいつに似た女を殺してきたよ。
+msgctxt "JIN4_033"
+msgid "I just killed a girl who looked exactly like her..."
+msgstr "Щойно я вбив жінку, дуже схожу на неї."
+
+#. Key: JIN4_034
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: !?　どういう……意味だ……？
+msgctxt "JIN4_034"
+msgid "!? What do you mean...?"
+msgstr "!? Що... ти маєш на увазі...?"
+
+#. Key: JIN4_036
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 嬉しいなぁ……。
+#. JA:   兄さんを―――兄さんをまた“殺せる”だなんて！！
+msgctxt "JIN4_036"
+msgid "But I'm so happy... I get to...I get to <DQ>kill<DQ> you again!"
+msgstr "Я такий щасливий... Я знову... знову зможу «вбити» тебе, братику!!"
+
+#. Key: JIN4_044
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN4_044"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN4_045
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: やっと会えたね……“兄さん”！
+#. JA:   やっぱり、「ラグナ＝ザ＝ブラッドエッジ」は兄さんだったんだ。
+msgctxt "JIN4_045"
+msgid ""
+"We finally meet again...<DQ>Brother<DQ>. Just as I thought...ahahaha...\n"
+"You WERE <DQ>Ragna the Bloodedge<DQ>."
+msgstr ""
+"Нарешті ми зустрілися... «братику»! Я так і знав, що «Раґна Бладедж» —\n"
+"це ти."
+
+#. Key: JIN4_046
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: ジン！
+#. JA:   お前……どうしてここに……。
+msgctxt "JIN4_046"
+msgid "Jin! Why are you here...?"
+msgstr "Джіне! Ти... чому ти тут...?"
+
+#. Key: JIN4_047
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: “どうして”？
+#. JA:   決まってるだろう？
+#. JA:   兄さんに会うために来たんだよ。
+msgctxt "JIN4_047"
+msgid "<DQ>Why<DQ>? *chuckle* I thought that one was obvious... I came to see you, Ragna."
+msgstr "«Чому»? Хіба не зрозуміло? Я прийшов побачитися з тобою, братику."
+
+#. Key: JIN4_049
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 寄るんじゃねぇ！
+#. JA:   俺はテメェに会うために来たじゃねぇんだよ。
+msgctxt "JIN4_049"
+msgid "Go away! I didn't come here for you, asshole."
+msgstr "Не підходь! Я прийшов не до тебе."
+
+#. Key: JIN4_050
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: どうして……どうしてさ？
+#. JA:   またこうやって会えたっていうのに。クククッ。
+msgctxt "JIN4_050"
+msgid "Why...Why not? You're not happy to see me? Hehehe."
+msgstr "Чому...? Ну чому? Ми ж нарешті знову зустрілися. Хе-хе-хе."
+
+#. Key: JIN4_051
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 何言ってやがる……。
+msgctxt "JIN4_051"
+msgid "What are you talking about...?"
+msgstr "Що ти верзеш...?"
+
+#. Key: JIN4_052
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 忘れちゃったの？　昔のことを……。
+msgctxt "JIN4_052"
+msgid "Did you forget? About our past?"
+msgstr "Невже ти забув? Наше минуле..."
+
+#. Key: JIN4_053
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: あの場所のことさ。
+#. JA:   僕達3人がいたあの―――
+msgctxt "JIN4_053"
+msgid "You know what I'm talking about... Where all three of us used to—"
+msgstr "Те місце. Те, де ми жили втрьох..."
+
+#. Key: JIN4_054
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 黙れよ、ジン。
+#. JA:   お前との決着は後でどうとでも付けてやる。
+msgctxt "JIN4_054"
+msgid "Shut the hell up, Jin. I'll deal with you some other day."
+msgstr "Замовкни, Джіне. З тобою я ще встигну розібратися."
+
+#. Key: JIN4_055
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: そんな冷たいこといわないでよ、兄さん。
+msgctxt "JIN4_055"
+msgid "Don't be so cold...Brother."
+msgstr "Не будь таким холодним, братику."
+
+#. Key: JIN4_059
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: あの家。
+msgctxt "JIN4_059"
+msgid "The house..."
+msgstr "Той дім."
+
+#. Key: JIN4_061
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そこにいた僕ら。
+msgctxt "JIN4_061"
+msgid "The house where we lived..."
+msgstr "Ми, що жили там."
+
+#. Key: JIN4_063
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 燃えて崩れ落ちる家。
+msgctxt "JIN4_063"
+msgid "Burning, crumbling..."
+msgstr "Дім, що палав і руйнувався."
+
+#. Key: JIN4_066
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ククク……。
+msgctxt "JIN4_066"
+msgid "Hehehe..."
+msgstr "Хе-хе-хе..."
+
+#. Key: JIN4_068
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そしてあいつを、僕が。
+msgctxt "JIN4_068"
+msgid "And then... I..."
+msgstr "А потім я... її..."
+
+#. Key: JIN4_071
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: アハハハハハハハ！！
+msgctxt "JIN4_071"
+msgid "AHAHAHAHAHAHAA!"
+msgstr "А-ХА-ХА-ХА-ХА-ХА!!"
+
+#. Key: JIN4_073
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: ……ジン、てめぇ……。
+msgctxt "JIN4_073"
+msgid "Damn you, Jin..."
+msgstr "...Джіне, покидьку..."
+
+#. Key: JIN4_075
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 嬉しいなぁ……。
+#. JA:   兄さんを―――兄さんをまた“殺せる”だなんて！！
+msgctxt "JIN4_075"
+msgid "But I'm so happy... I get to...I get to <DQ>kill<DQ> you again!"
+msgstr "Я такий щасливий... Я знову... знову зможу «вбити» тебе, братику!!"
+
+#. Key: JIN4_079
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: くそ……！
+#. JA:   もう時間がねえ！
+msgctxt "JIN4_079"
+msgid "Damn it...! There's no more time!"
+msgstr "Чорт...! Часу більше немає!"
+
+#. Key: JIN4_080
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: どうしたの、兄さん？
+#. JA:   もっと……もっと続けようよ。
+msgctxt "JIN4_080"
+msgid "What's wrong...Ragna...? Let's...let's continue...!"
+msgstr "Що таке, братику? Нумо... нумо продовжимо."
+
+#. Key: JIN4_081
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 一人で勝手にやってろ！
+msgctxt "JIN4_081"
+msgid "Do it by yourself!"
+msgstr "Розважайся сам!"
+
+#. Key: JIN4_083
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: あ、兄さん！
+#. JA:   そっちに、そっちにいっちゃ駄目だ！！
+msgctxt "JIN4_083"
+msgid "Brother! Don't... don't go over there!"
+msgstr "Б-братику! Не ходи... не ходи туди!!"
+
+#. Key: JIN4_089
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: ジン……テメェッ！
+msgctxt "JIN4_089"
+msgid "Jin...you bastard!"
+msgstr "Джіне... Покидьку!"
+
+#. Key: JIN4_090
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: アハハハハハ、楽しい！　……楽しいね！！
+#. JA:   ずっと、夢見てたんだよ！！
+#. JA:   こうしてまた、兄さんを殺してあげることを。
+msgctxt "JIN4_090"
+msgid ""
+"Ahahahaha! Fun...! Isn't this so fun!?\n"
+"I've been dreaming of this day...the day I get to kill you again!"
+msgstr ""
+"А-ха-ха-ха-ха, як весело! ...Як же весело!! Я весь час про це мріяв!! Про\n"
+"те, як знову вб’ю тебе, братику."
+
+#. Key: JIN4_091
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: クッ……！
+msgctxt "JIN4_091"
+msgid "Guh...!"
+msgstr "Кх...!"
+
+#. Key: JIN4_092
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: さようなら、兄さん。
+#. JA:   もっとこの時間を楽しみたかったけど―――
+msgctxt "JIN4_092"
+msgid "Ahahahaha... Good-bye, Brother. I wish it didn't have to end here..."
+msgstr "Прощавай, братику. Я хотів би ще насолодитися цією миттю, але..."
+
+#. Key: JIN4_095
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: !?
+#. JA:   これは……！
+msgctxt "JIN4_095"
+msgid ""
+"!?\n"
+"This is...!"
+msgstr "!? Це...!"
+
+#. Key: JIN4_097
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: うっ……！
+msgctxt "JIN4_097"
+msgid "Ugh...!"
+msgstr "Кх...!"
+
+#. Key: JIN4_102
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ぐっ……。あれ、おかしいな。
+#. JA:   兄さんは僕が殺すはずなのに……。
+msgctxt "JIN4_102"
+msgid "Guh... Huh...this is weird. I'm supposed to be the one killing you..."
+msgstr "Кх... Дивно. Це ж я мав убити тебе, братику..."
+
+#. Key: JIN4_103
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: るせぇよ、テメェなんかに殺されてたまるか。
+msgctxt "JIN4_103"
+msgid "Shut the hell up... Like I'd let you kill me."
+msgstr "Замовкни. Не дам я такому покидьку себе вбити."
+
+#. Key: JIN4_104
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: やだなぁ、楽しめないじゃないか。
+#. JA:   ねぇ……兄さん……僕が……。
+msgctxt "JIN4_104"
+msgid "C'mon, Brother... This isn't fun at all! Don't you agree...? Ragna...! I'll...!"
+msgstr "Ну от, так зовсім не весело. Слухай... братику... я..."
+
+#. Key: JIN4_105
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: テメェはそこでおとなしくしてな。
+#. JA:   あとでどーとでもしてやるよ。
+msgctxt "JIN4_105"
+msgid "You just sit there. I'll deal with you later."
+msgstr "Лежи тут тихенько. Потім я з тобою розберуся."
+
+#. Key: JIN4_106
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: くっ……兄さん……。
+msgctxt "JIN4_106"
+msgid "Guh...! Ah...! B...Brother..."
+msgstr "Кх... братику..."
+
+#. Key: JIN4_113
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: ……ハァ、ハァ……手間取らせやがって……。
+#. JA:   テメェはそこでねんねしてな。
+msgctxt "JIN4_113"
+msgid "*pant* *pant* You just had to get in my way... Say your good-byes...for now."
+msgstr "...Ха, ха... Наморочився я з тобою... А тепер лежи тут і спи."
+
+#. Key: JIN4_114
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: いやだ……兄さんを殺すのは僕なんだ。
+#. JA:   兄さんを殺していいのは僕だけなんだ……！
+#. JA:   兄さんを殺してあげられるのは僕だけなんだよぉ！！！
+msgctxt "JIN4_114"
+msgid ""
+"No...I'm the one who's supposed to kill you. Only I...can kill you...! No one else\n"
+"can kill you!"
+msgstr ""
+"Ні... Це я маю вбити тебе, братику. Лише я маю право тебе вбити...!\n"
+"Лише я можу вбити тебе, братику!!!"
+
+#. Key: JIN4_115
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 俺のことは俺が決める。
+#. JA:   テメェが干渉する権利なんざねぇよ。
+msgctxt "JIN4_115"
+msgid "I'll decide my own future! You have no right to butt in."
+msgstr "Я сам вирішую свою долю. Ти не маєш права втручатися."
+
+#. Key: JIN4_116
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……いやだ……僕が……。
+msgctxt "JIN4_116"
+msgid "...No...I'm...!"
+msgstr "...Ні... Я..."
+
+#. Key: JIN4_117
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: 話なら後でいくらでもしてやるよ。
+#. JA:   俺からも聞かなきゃなんねぇことが死ぬほどあるからな。
+#. JA:   だが、その前にやることがあるんだよ。
+msgctxt "JIN4_117"
+msgid ""
+"I'll listen to your crap later. I have a lot to ask you myself, but I have something I\n"
+"need to take care of first."
+msgstr ""
+"Потім поговоримо скільки захочеш. Я й сам маю до тебе до біса\n"
+"запитань. Але спершу мені треба дещо зробити."
+
+#. Key: JIN4_118
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 駄目だ！　兄さん！！
+msgctxt "JIN4_118"
+msgid "No! Brother!"
+msgstr "Не можна! Братику!!"
+
+#. Key: JIN4_119
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕は思わず兄さんの足をつかんだ。
+#. JA:   すさまじい悪寒がしたからだ。
+msgctxt "JIN4_119"
+msgid ""
+"Without thinking, I grab his hand.\n"
+"A chill runs down my spine."
+msgstr ""
+"Я мимоволі вчепився братові в ногу. Мене пронизало моторошним\n"
+"холодом."
+
+#. Key: JIN4_120
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さんが、
+#. JA:   “ここにいる何か”と闘っては駄目だ……という気がして。
+msgctxt "JIN4_120"
+msgid ""
+"I know that I can't let him fight...something...\n"
+"...Something here..."
+msgstr "Я відчував: братику не можна битися з «чимось, що перебуває тут»..."
+
+#. Key: JIN4_121
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: くそッ！！　ジン、邪魔すんじゃねぇよ！
+#. JA:   これ以上俺の邪魔をするってんなら容赦しねぇぞ！
+#. JA:   放しやがれっ！
+msgctxt "JIN4_121"
+msgid ""
+"Damn it! Stop getting in my way, Jin! Don't make me beat the shit out of you!\n"
+"Now, get off me!"
+msgstr ""
+"Чорт!! Джіне, не заважай! Якщо й далі ставатимеш мені на заваді — я\n"
+"тебе не пожалію! Відпусти!"
+
+#. Key: JIN4_123
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 駄目だ……兄さん……それと闘っては。
+#. JA:   ……駄目なんだ……兄さん。
+msgctxt "JIN4_123"
+msgid "No... Brother... You can't fight that... You can't! Ragna!"
+msgstr "Не можна... братику... Не бийся з цим. ...Не можна... братику."
+
+#. Key: JIN4_124
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さん……。
+msgctxt "JIN4_124"
+msgid "Ragna..."
+msgstr "Братику..."
+
+#. Key: JIN4_125
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕は悪寒が全身を蝕んでいくのを。
+#. JA:   そして、段々と意識が遠くなっていくのを感じた―――。
+msgctxt "JIN4_125"
+msgid ""
+"The chill pushes its icy fingers out from my spine and through the rest of my body.\n"
+"I feel myself lose consciousness..."
+msgstr ""
+"Моторошний холод розповзався всім моїм тілом. Я відчував, як\n"
+"свідомість поступово згасає..."
+
+#. Key: JIN4_132
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN4_132"
+msgid "AD 2196"
+msgstr "2196 рік"
+
+#. Key: JIN4_134
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: ごめんなさい、ジン兄様……。荷物を持ってもらって。
+msgctxt "JIN4_134"
+msgid "Thank you for holding my luggage, Jin."
+msgstr "Пробач, брате Джіне... що змусила тебе нести мої речі."
+
+#. Key: JIN4_135
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: いや、平気だよ。
+#. JA:   こういうのは慣れてる。
+msgctxt "JIN4_135"
+msgid "It's quite all right... I'm used to this kind of thing."
+msgstr "Нічого, мені не важко. Я до такого звик."
+
+#. Key: JIN4_136
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: え、それはどういう―――？
+msgctxt "JIN4_136"
+msgid "Huh? Wait...you don't mean..."
+msgstr "Га? Що ти маєш на увазі...?"
+
+#. Key: JIN4_137
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ツバキ……。何か勘違いしてないかい？
+#. JA:   生徒会の仕事上、よく色々なものを運んだりするだろう。
+#. JA:   それのことだよ。
+msgctxt "JIN4_137"
+msgid ""
+"I think you have the wrong idea, Tsubaki... I was talking about all the errands I run\n"
+"for the student council."
+msgstr ""
+"Цубакі... Ти часом нічого не надумала? Через роботу в учнівській раді\n"
+"мені часто доводиться носити різні речі. Я саме про це."
+
+#. Key: JIN4_138
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: あっ……。そうね、そうよね。
+#. JA:   わ、私も早く生徒会でジン兄様のような役職につきたいな。
+msgctxt "JIN4_138"
+msgid ""
+"Oh... I see. Of course. You know... I want to be on the student council and earn my\n"
+"stripes one day just like you, Jin."
+msgstr ""
+"А... Авжеж, звісно. Я теж хочу якнайшвидше обійняти в учнівській раді\n"
+"таку посаду, як у тебе, брате Джіне."
+
+#. Key: JIN4_139
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: いや、ツバキはしっかりしているから、
+#. JA:   将来的には会長になってもおかしくないかもな。
+msgctxt "JIN4_139"
+msgid ""
+"I don't think you need to worry about that...\n"
+"You're intelligent and responsible. I can see you becoming the next student council\n"
+"president."
+msgstr ""
+"Ти дуже відповідальна, Цубакі. Не здивуюся, якщо колись станеш\n"
+"головою ради."
+
+#. Key: JIN4_140
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: ジン兄様……。ありがとう。
+msgctxt "JIN4_140"
+msgid "Thanks, Jin."
+msgstr "Брате Джіне... Дякую."
+
+#. Key: JIN4_142
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: ……あら？
+msgctxt "JIN4_142"
+msgid "...Huh?"
+msgstr "...Га?"
+
+#. Key: JIN4_144
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Makoto
+#. Context: Jin story route (POV: Jin)
+#. JA: あ、キサラギ先輩！
+#. JA:   おはようございます！
+msgctxt "JIN4_144"
+msgid "Oh, Jin! Good morning!"
+msgstr "А, старшокурснику Кісараґі! Доброго ранку!"
+
+#. Key: JIN4_145
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Makoto
+#. Context: Jin story route (POV: Jin)
+#. JA: ツバキもおっはよ！
+msgctxt "JIN4_145"
+msgid "Good morning, Tsubaki!"
+msgstr "Цубакі, і тобі доброго ранку!"
+
+#. Key: JIN4_146
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: おはよう。
+msgctxt "JIN4_146"
+msgid "Good morning!"
+msgstr "Доброго ранку."
+
+#. Key: JIN4_147
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: お、おはよう、ございます……。
+msgctxt "JIN4_147"
+msgid "G-Good morning..."
+msgstr "Д-доброго ранку..."
+
+#. Key: JIN4_148
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 君達、廊下を走ってはならないという規則は知っているね。
+#. JA:   以後、気を付けて。
+msgctxt "JIN4_148"
+msgid ""
+"Guys! No running in the hallways! But you already knew that, right? Just be more\n"
+"careful."
+msgstr ""
+"Ви ж знаєте правило, яке забороняє бігати коридорами. Надалі будьте\n"
+"обережнішими."
+
+#. Key: JIN4_149
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Makoto
+#. Context: Jin story route (POV: Jin)
+#. JA: はーい、
+#. JA:   すみません。
+msgctxt "JIN4_149"
+msgid "Yes... My apologies."
+msgstr "Гаразд. Перепрошуємо."
+
+#. Key: JIN4_150
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN4_150"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN4_151
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: ノエル、どうしたの？
+#. JA:   具合でも悪いの？
+msgctxt "JIN4_151"
+msgid "What's wrong, Noel? Are you sick?"
+msgstr "Ноель, що сталося? Ти погано почуваєшся?"
+
+#. Key: JIN4_152
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: う、ううん……。
+#. JA:   そういうわけじゃ、ないんだけど……。
+msgctxt "JIN4_152"
+msgid "N-No... It's not that..."
+msgstr "Н-ні... Річ не в цьому, але..."
+
+#. Key: JIN4_153
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN4_153"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN4_155
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN4_155"
+msgid "...!"
+msgstr "...!"
+
+#. Key: JIN4_157
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: ジン兄様まで……どうしたの？
+msgctxt "JIN4_157"
+msgid "Jin...you too... What's wrong?"
+msgstr "Брате Джіне, і ти теж... Що сталося?"
+
+#. Key: JIN4_158
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: い、いや……何でもない。
+#. JA:   それよりツバキ、ちょっと急用を思い出した。
+#. JA:   荷物、ここまででいいかい？
+msgctxt "JIN4_158"
+msgid ""
+"I-It's nothing...! I just remembered something...\n"
+"Tsubaki, I'm sorry but I need to give this back to you."
+msgstr ""
+"Н-ні... Нічого. До речі, Цубакі, я щойно згадав про термінову справу. Далі\n"
+"понесеш речі сама?"
+
+#. Key: JIN4_159
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: ええ、ありがとう。
+#. JA:   ジン兄様、本当に大丈夫？
+msgctxt "JIN4_159"
+msgid "Sure. Thank you for helping me. Are you really sure you're OK, Jin?"
+msgstr "Так, дякую. Брате Джіне, з тобою точно все гаразд?"
+
+#. Key: JIN4_160
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 心配してくれてありがとう。大丈夫だよ。
+#. JA:   じゃあまたあとで。
+msgctxt "JIN4_160"
+msgid "I appreciate the concern, but...I'm quite all right. I'll see you later."
+msgstr "Дякую, що хвилюєшся. Усе гаразд. Тоді побачимося пізніше."
+
+#. Key: JIN4_162
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Makoto
+#. Context: Jin story route (POV: Jin)
+#. JA: はぁ～。……キサラギ先輩、ステキだなぁ～。
+#. JA:   ツバキはいいな～、キサラギ先輩に名前で呼んでもらえて！
+msgctxt "JIN4_162"
+msgid ""
+"*sigh* Jin is so dreamy... Tsubaki, you're so lucky he actually calls you by your\n"
+"name!"
+msgstr ""
+"Ех... Старшокурсник Кісараґі такий чудовий... Щастить тобі, Цубакі: він\n"
+"називає тебе на ім’я!"
+
+#. Key: JIN4_163
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Tsubaki
+#. Context: Jin story route (POV: Jin)
+#. JA: 一応、親戚同士だもの。
+#. JA:   子供の頃の呼び方が染みついてるだけよ。
+#. JA:   ……ちょっと、マコト、尻尾振りすぎ―――。
+msgctxt "JIN4_163"
+msgid ""
+"Well, we are related. It's not that strange.\n"
+"We've known each other since we were kids...\n"
+"Makoto, stop shaking your tail like that."
+msgstr ""
+"Ми не чужі люди. Він просто звик так називати мене з дитинства.\n"
+"...Макото, припини так сильно махати хвостом..."
+
+#. Key: JIN4_164
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Makoto
+#. Context: Jin story route (POV: Jin)
+#. JA: うらやましいなあ……。
+#. JA:   あたし達が名前で呼ばれることなんか
+#. JA:   どうやっても絶ッッ対ないもんなあ。ね、のえるん？
+msgctxt "JIN4_164"
+msgid "I'm so jealous... I don't think he'll ever take us seriously, eh? Noel?"
+msgstr ""
+"Як же я заздрю... А нас він ні за що й ніколи не назве на ім’я. Правда ж,\n"
+"Ноель?"
+
+#. Key: JIN4_165
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN4_165"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN4_167
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: 白い、戦士……？
+msgctxt "JIN4_167"
+msgid "A white...soldier...?"
+msgstr "Білий... воїн...?"
+
+#. Key: JIN4_168
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Makoto
+#. Context: Jin story route (POV: Jin)
+#. JA: ね～、ノエル聞いてる？
+msgctxt "JIN4_168"
+msgid "Hey, Noel, are you listening?"
+msgstr "Ноель, ти мене слухаєш?"
+
+#. Key: JIN4_169
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: あ、うん……何？
+msgctxt "JIN4_169"
+msgid "Um...uh...yes?"
+msgstr "А, так... Що?"
+
+#. Key: JIN4_170
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Makoto
+#. Context: Jin story route (POV: Jin)
+#. JA: 全然聞いてないし……。
+msgctxt "JIN4_170"
+msgid "You're not listening at all..."
+msgstr "Ти взагалі не слухала..."
+
+#. Key: JIN4_172
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: なんだ、今のは幻覚……？
+#. JA:   なんなんだ、あの女……！！
+msgctxt "JIN4_172"
+msgid ""
+"What was that vision...?\n"
+"Who was that girl...!?"
+msgstr "Що це було — видіння...? Хто в біса та жінка...?!"
+
+#. Key: JIN4_173
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: くそ……！
+msgctxt "JIN4_173"
+msgid "Damn it...!"
+msgstr "Чорт...!"
+
+#. Key: JIN5_002
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: 対象・認識・障害・認識……
+msgctxt "JIN5_002"
+msgid "Target confirmed... Obstructing directive."
+msgstr "Ціль ідентифіковано. Перешкоду ідентифіковано..."
+
+#. Key: JIN5_003
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: なんだ、こいつは……？
+msgctxt "JIN5_003"
+msgid "Who the hell...is this...?"
+msgstr "Що це таке...?"
+
+#. Key: JIN5_004
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: ハァ……ハァ……。ジン、さがれ……！
+#. JA:   そいつはお前の相手じゃねぇんだ！
+msgctxt "JIN5_004"
+msgid ""
+"*pant* *pant* ...Jin...back off...!\n"
+"She's not your enemy!"
+msgstr "Ха... ха... Джіне, відійди...! Вона тобі не суперниця!"
+
+#. Key: JIN5_005
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: こいつは……なんだ？
+#. JA:   僕の―――
+msgctxt "JIN5_005"
+msgid ""
+"Who...is this?\n"
+"My..."
+msgstr "Що... це таке? Моя..."
+
+#. Key: JIN5_007
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ユキ……アネサ……？
+msgctxt "JIN5_007"
+msgid "Yukianesa...?"
+msgstr "Юкі... Анеса...?"
+
+#. Key: JIN5_008
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: ユキアネサから思考が流れ込んでくる。
+#. JA:   意思、記憶。
+msgctxt "JIN5_008"
+msgid ""
+"Something is flowing into me from Yukianesa.\n"
+"These are...memories."
+msgstr "З Юкіанеси в мене ринули думки. Воля, спогади."
+
+#. Key: JIN5_009
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 全ての情報。
+msgctxt "JIN5_009"
+msgid "So much...information..."
+msgstr "Уся інформація."
+
+#. Key: JIN5_010
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ぐっ……なんだこれは！
+#. JA:   あああああ―――
+msgctxt "JIN5_010"
+msgid "Gah...What is this? AAAAAAAAAAHHHHHHHHHH—"
+msgstr "Кх... Що це таке?! А-а-а-а-а-а..."
+
+#. Key: JIN5_011
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 幼い頃から見えていた、ある一点に繋がる線。
+#. JA:   それを見るたびに言い難い感情に支配されてきた。
+msgctxt "JIN5_011"
+msgid ""
+"It all comes down to a single point.\n"
+"Every time I see it, my emotions take over."
+msgstr ""
+"Ще з дитинства я бачив лінії, що сходилися в одній точці. Щоразу, коли\n"
+"я їх бачив, мене охоплювало невимовне почуття."
+
+#. Key: JIN5_012
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そしてその線の集約点が、今、目の前に立っている。
+#. JA:   その時、僕は全てを知った。
+msgctxt "JIN5_012"
+msgid ""
+"And the point, the one that all of my memories lead to.\n"
+"Here it is...right in front of me."
+msgstr ""
+"І тепер точка, у якій сходяться всі ці лінії, стояла переді мною. Тієї миті\n"
+"я все зрозумів."
+
+#. Key: JIN5_013
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ハァ……ハァ……。
+#. JA:   そうか……そうなのか……そうだったのか！
+msgctxt "JIN5_013"
+msgid ""
+"*pant* *pant*\n"
+"I see... I get it... So that's how it is..."
+msgstr "Ха... ха... Он як... Ось воно що... Тепер усе зрозуміло!"
+
+#. Key: JIN5_015
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: ジン……やめろ！！
+msgctxt "JIN5_015"
+msgid "Jin... No...!"
+msgstr "Джіне... припини!!"
+
+#. Key: JIN5_016
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: 排除・容認……
+msgctxt "JIN5_016"
+msgid "Processing..."
+msgstr "Усунення схвалено..."
+
+#. Key: JIN5_017
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 貴様が……敵か！！！
+msgctxt "JIN5_017"
+msgid "You're the...enemy!"
+msgstr "То це ти... ворог!!!"
+
+#. Key: JIN5_018
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: 対象を障害と認識、排除を実行します
+msgctxt "JIN5_018"
+msgid ""
+"Subject determined to be hostile...\n"
+"Now beginning termination."
+msgstr "Ціль ідентифіковано як перешкоду. Розпочинаю усунення."
+
+#. Key: JIN5_023
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……なぜだ、なぜ死なない！
+msgctxt "JIN5_023"
+msgid "...Why? Why won't you die!?"
+msgstr "...Чому? Чому ти не помираєш?!"
+
+#. Key: JIN5_024
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 幾度刀を突き立てようと、氷付けにしようと、
+#. JA:   白い髪の女は何度も起き上がった。
+msgctxt "JIN5_024"
+msgid ""
+"No matter how many times I stab her, or how many times I freeze her...\n"
+"The girl keeps getting up..."
+msgstr ""
+"Скільки б разів я не встромляв у неї меч і не заморожував, біловолоса\n"
+"жінка щоразу підводилася."
+
+#. Key: JIN5_025
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: ……無理
+#. JA:   あなたでは倒せない……
+msgctxt "JIN5_025"
+msgid "... Impossible. You cannot kill me..."
+msgstr "...Марно. Тобі мене не здолати..."
+
+#. Key: JIN5_026
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……なんだと!?
+msgctxt "JIN5_026"
+msgid "...What did you say!?"
+msgstr "...Що ти сказала?!"
+
+#. Key: JIN5_028
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: 放て―――
+msgctxt "JIN5_028"
+msgid "Perish!"
+msgstr "Вогонь..."
+
+#. Key: JIN5_030
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 先ほどとは比べ物にならない量の光の刃が放たれ、
+#. JA:   僕の体を突き刺した。
+msgctxt "JIN5_030"
+msgid "A bolt of light erupts from her body and slams into me."
+msgstr ""
+"Вона випустила незрівнянно більше світлових клинків, ніж досі, і вони\n"
+"прошили моє тіло."
+
+#. Key: JIN5_031
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ぐはぁっ……！！
+msgctxt "JIN5_031"
+msgid "GAAAAAAAAH!"
+msgstr "Ґха-а-а...!!"
+
+#. Key: JIN5_033
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: くそっ、足が……！！
+#. JA:   貴様……！
+msgctxt "JIN5_033"
+msgid "Damn it, my feet...! You bitch...!"
+msgstr "Чорт, ноги...!! Ах ти ж...!"
+
+#. Key: JIN5_034
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: このまま、僕は殺されるのか……。
+#. JA:   そう思ったが、意外なことに女は倒れた僕の横を素通りした。
+msgctxt "JIN5_034"
+msgid ""
+"Am I going to die here...?\n"
+"The girl walks toward me...and keeps going..."
+msgstr ""
+"Невже вона мене зараз уб’є...? Та, на мій подив, жінка просто пройшла\n"
+"повз мене, коли я впав."
+
+#. Key: JIN5_035
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN5_035"
+msgid "!?"
+msgstr "!?"
+
+#. Key: JIN5_037
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: ラグナ……。
+#. JA:   やっと邪魔者がいなくなったよ。
+#. JA:   これで一緒だね！
+msgctxt "JIN5_037"
+msgid "Ragna...Finally the hindrance is gone. We're together, at last!"
+msgstr "Раґно... Нарешті перешкоди немає. Тепер ми будемо разом!"
+
+#. Key: JIN5_038
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そう兄さんに語りかけると、女は兄さんをその手に抱いた。
+msgctxt "JIN5_038"
+msgid "She reaches for my brother..."
+msgstr "Сказавши це братикові, жінка обійняла його."
+
+#. Key: JIN5_039
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さん―――!?
+msgctxt "JIN5_039"
+msgid "Brother!?"
+msgstr "Братику...?!"
+
+#. Key: JIN5_040
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: やめ……ろ、俺は……！
+msgctxt "JIN5_040"
+msgid "Stop it... I..."
+msgstr "Припи... ни, я...!"
+
+#. Key: JIN5_041
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: やっと、ひとつになれるね……。
+msgctxt "JIN5_041"
+msgid "Finally...we can be one..."
+msgstr "Нарешті ми станемо одним цілим..."
+
+#. Key: JIN5_042
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: やめろ！！　兄さん、兄さん―――！！
+msgctxt "JIN5_042"
+msgid "Stop it! Brother, BROTHER—!"
+msgstr "Припини!! Братику, братику...!!"
+
+#. Key: JIN5_043
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: いくら叫んでも体が動かない。
+msgctxt "JIN5_043"
+msgid "I scream and scream, but still my body refuses to move."
+msgstr "Скільки б я не кричав, тіло не рухалося."
+
+#. Key: JIN5_044
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕が見ている目の前で、
+#. JA:   女が窯のようなものに兄さんと共に飛び込む。
+msgctxt "JIN5_044"
+msgid "I can only watch as that girl leaps into the Cauldron, my brother in her arms."
+msgstr ""
+"Просто в мене на очах жінка разом із братиком стрибнула в щось схоже\n"
+"на Котел."
+
+#. Key: JIN5_045
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さん―――――！！
+msgctxt "JIN5_045"
+msgid "Ragnaaaaaa!"
+msgstr "Братику...!!"
+
+#. Key: JIN5_046
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕は見た。
+#. JA:   兄さんとそいつが溶け合い、ひとつになるのを。
+msgctxt "JIN5_046"
+msgid ""
+"They melt together, my brother and that girl.\n"
+"They turn into something else..."
+msgstr ""
+"Я бачив, як братик і вона розчинилися одне в одному й стали єдиним\n"
+"цілим."
+
+#. Key: JIN5_047
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そして、まっくろななにかになるのを。
+msgctxt "JIN5_047"
+msgid "...something...very dark."
+msgstr "А потім перетворилися на щось цілковито чорне."
+
+#. Key: JIN5_056
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……なぜだ、なぜ死なない！
+msgctxt "JIN5_056"
+msgid "...Why? Why won't you die!?"
+msgstr "...Чому? Чому ти не помираєш?!"
+
+#. Key: JIN5_057
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 幾度刀を突き立てようと、氷付けにしようと、
+#. JA:   白い髪の女は何度も起き上がった。
+msgctxt "JIN5_057"
+msgid ""
+"No matter how many times I stab her, or how many times I freeze her...\n"
+"The girl keeps getting up..."
+msgstr ""
+"Скільки б разів я не встромляв у неї меч і не заморожував, біловолоса\n"
+"жінка щоразу підводилася."
+
+#. Key: JIN5_058
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: ……無理
+#. JA:   あなたでは倒せない……
+msgctxt "JIN5_058"
+msgid "... Impossible. You cannot kill me..."
+msgstr "...Марно. Тобі мене не здолати..."
+
+#. Key: JIN5_059
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……なんだと!?
+msgctxt "JIN5_059"
+msgid "...What did you say!?"
+msgstr "...Що ти сказала?!"
+
+#. Key: JIN5_061
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: 放て―――
+msgctxt "JIN5_061"
+msgid "Perish."
+msgstr "Вогонь..."
+
+#. Key: JIN5_063
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 先ほどとは比べ物にならない量の光の刃が放たれ、
+#. JA:   僕の体を突き刺した。
+msgctxt "JIN5_063"
+msgid "A bolt of light erupts from her body and slams into me."
+msgstr ""
+"Вона випустила незрівнянно більше світлових клинків, ніж досі, і вони\n"
+"прошили моє тіло."
+
+#. Key: JIN5_064
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ぐはぁっ……！！
+msgctxt "JIN5_064"
+msgid "GAAAAAAAAH!"
+msgstr "Ґха-а-а...!!"
+
+#. Key: JIN5_066
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: くそっ、足が……！！
+#. JA:   貴様……！
+msgctxt "JIN5_066"
+msgid "Damn it, my feet...! You bitch...!"
+msgstr "Чорт, ноги...!! Ах ти ж...!"
+
+#. Key: JIN5_067
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: このまま、僕は殺されるのか？
+#. JA:   そう思ったが、意外なことに女は倒れた僕の横を素通りした。
+msgctxt "JIN5_067"
+msgid ""
+"Am I going to die here...?\n"
+"The girl walks toward me...and keeps going..."
+msgstr ""
+"Невже вона мене зараз уб’є? Та, на мій подив, жінка просто пройшла\n"
+"повз мене, коли я впав."
+
+#. Key: JIN5_068
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN5_068"
+msgid "!?"
+msgstr "!?"
+
+#. Key: JIN5_070
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: ラグナ……やっと邪魔者がいなくなったよ。
+#. JA:   これで一緒だね！
+msgctxt "JIN5_070"
+msgid "Ragna... Finally the hindrance is gone. We're together, at last!"
+msgstr "Раґно... Нарешті перешкоди немає. Тепер ми будемо разом!"
+
+#. Key: JIN5_071
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そう兄さんに語りかけると、女は兄さんをその手に抱いた。
+msgctxt "JIN5_071"
+msgid "She reaches for my brother..."
+msgstr "Сказавши це братикові, жінка обійняла його."
+
+#. Key: JIN5_072
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さん―――!?
+msgctxt "JIN5_072"
+msgid "Brother!?"
+msgstr "Братику...?!"
+
+#. Key: JIN5_073
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: やめ……ろ、俺は……！
+msgctxt "JIN5_073"
+msgid "Stop it... I..."
+msgstr "Припи... ни, я...!"
+
+#. Key: JIN5_074
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: やっと、ひとつになれるね……。
+msgctxt "JIN5_074"
+msgid "Finally...we can be one..."
+msgstr "Нарешті ми станемо одним цілим..."
+
+#. Key: JIN5_075
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: やめろ！！　兄さん、兄さん―――！！
+msgctxt "JIN5_075"
+msgid "Stop it! Brother, BROTHER—!"
+msgstr "Припини!! Братику, братику...!!"
+
+#. Key: JIN5_076
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕の声に反応し、そいつはゆっくりと僕の方を向いた。
+#. JA:   白い髪に赤い目……。
+msgctxt "JIN5_076"
+msgid "She hears my voice and slowly turns to look at me."
+msgstr ""
+"Почувши мій голос, вона повільно повернулася до мене. Біле волосся,\n"
+"червоні очі..."
+
+#. Key: JIN5_077
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   先ほどまでは気づかなかったが、
+#. JA:   この女は“あいつ”と同じ顔をしていた。
+msgctxt "JIN5_077"
+msgid ""
+"\n"
+"Only now do I realize...\n"
+"She...She has her face..."
+msgstr ""
+"\n"
+"Досі я цього не помічав, але в цієї жінки було те саме обличчя, що й у\n"
+"«неї»."
+
+#. Key: JIN5_078
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: な、なんだと……？
+#. JA:   お前の顔……畜生、なぜだ！　なぜだ!?
+#. JA:   さっきも殺したのに！　さっきも、殺したのに！！
+msgctxt "JIN5_078"
+msgid ""
+"Wh...What...?\n"
+"Your...face...Damn it. Why! WHY!?\n"
+"I just killed you! I just killed you!"
+msgstr ""
+"Щ-що...? Твоє обличчя... Чорт, чому?! Чому?! Я ж щойно тебе вбив!\n"
+"Щойно вбив!!"
+
+#. Key: JIN5_079
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN5_079"
+msgid "Hmph..."
+msgstr "Гм..."
+
+#. Key: JIN5_080
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕に一瞥をくれると、
+#. JA:   女は兄さんを抱いたまま広間の中央へと向かった。
+msgctxt "JIN5_080"
+msgid "She turns back toward my brother and starts to carry him toward the pit."
+msgstr ""
+"Кинувши на мене короткий погляд, жінка з братиком на руках рушила\n"
+"до центру зали."
+
+#. Key: JIN5_081
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 待て！！　兄さんを離せ！！
+#. JA:   貴様、貴様ァァァァ！！
+msgctxt "JIN5_081"
+msgid "Wait! Let go of my brother! You bitch! You biiiiiiitch!"
+msgstr "Стій!! Відпусти братика!! Ах ти... Ах ти-и-и-и!!"
+
+#. Key: JIN5_083
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 去っていく女の後を、僕は力を振り絞って這うようにして追う。
+msgctxt "JIN5_083"
+msgid "I gather what strength I have left and drag myself after her."
+msgstr "Зібравши останні сили, я поповз услід за жінкою."
+
+#. Key: JIN5_084
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: また、あいつに……。
+#. JA:   あいつと同じような顔をしたやつに、
+#. JA:   兄さんを奪われてたまるか！！
+msgctxt "JIN5_084"
+msgid ""
+"No... Not again... I'm not gonna let you... I'm not gonna let YOU take my brother\n"
+"away from me again!"
+msgstr ""
+"Я не дозволю, щоб це знову зробила вона... Щоб хтось із таким самим\n"
+"обличчям забрав у мене братика!!"
+
+#. Key: JIN5_085
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: だが追いつくことなど到底出来ず、
+#. JA:   女は僕の目の前で、抵抗できない兄さんに深く剣を突き刺した。
+msgctxt "JIN5_085"
+msgid ""
+"...But I can't catch up.\n"
+"That bitch stabs my brother, right in front of me...over and over..."
+msgstr ""
+"Та наздогнати її я не міг, і просто в мене на очах жінка глибоко\n"
+"встромила меч у безпорадного братика."
+
+#. Key: JIN5_086
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Ragna
+#. Context: Jin story route (POV: Jin)
+#. JA: グハッ！
+msgctxt "JIN5_086"
+msgid "Guh!"
+msgstr "Ґхах!"
+
+#. Key: JIN5_087
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さん！
+msgctxt "JIN5_087"
+msgid "Ragna!"
+msgstr "Братику!"
+
+#. Key: JIN5_088
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Nu
+#. Context: Jin story route (POV: Jin)
+#. JA: さぁ、ラグナ。……これでひとつだよ。
+msgctxt "JIN5_088"
+msgid "Now Ragna...we can become one!"
+msgstr "Ну ж бо, Раґно... Тепер ми одне ціле."
+
+#. Key: JIN5_090
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 待て……！！
+msgctxt "JIN5_090"
+msgid "Ugh! ...Wait...!"
+msgstr "Стій...!!"
+
+#. Key: JIN5_092
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さんっ！！
+msgctxt "JIN5_092"
+msgid "Brother!"
+msgstr "Братику!!"
+
+#. Key: JIN5_094
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: くっ、あああああっ―――――
+msgctxt "JIN5_094"
+msgid "Gah...Ugh...AAAAAAAAAAAAAAAAAAHHHHHHHHHHHHH!"
+msgstr "Кх, а-а-а-а-а-а-а..."
+
+#. Key: JIN5_095
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕はその瞬間、一人の少女を見た。
+msgctxt "JIN5_095"
+msgid "Suddenly, I see a girl."
+msgstr "Тієї миті я побачив дівчину."
+
+#. Key: JIN5_096
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   彼女は何かを見守るようにそこにいた。
+#. JA:   窯の中に落ち行く僕を見て、彼女は言った。
+#. JA:   
+#. JA:   声など聞こえるはずがない。
+msgctxt "JIN5_096"
+msgid ""
+"\n"
+"She stands, quietly, like she's only watching.\n"
+"She says something as I fall into the Cauldron, but she's too far away.\n"
+"\n"
+"I can't possibly hear her."
+msgstr ""
+"\n"
+"Вона стояла там, наче за чимось спостерігала. Дивлячись, як я падаю в\n"
+"Котел, вона щось сказала.\n"
+"\n"
+"Я не міг почути її голосу."
+
+#. Key: JIN5_097
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   けれど何故か、はっきりと、僕の耳にはこう聞こえた。
+msgctxt "JIN5_097"
+msgid ""
+"\n"
+"But even so, before she disappears, I swear I hear something."
+msgstr ""
+"\n"
+"Та чомусь виразно почув ось що:"
+
+#. Key: JIN5_099
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: また、繰り返すのね……。
+#. JA:   いえ……繰り返される……のかしら。
+msgctxt "JIN5_099"
+msgid ""
+"It will happen again, won't it?\n"
+"Perhaps I was expecting a little too much..."
+msgstr "Усе знову повториться... Ні... його змусять повторитися... мабуть."
+
+#. Key: JIN6_001
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_001"
+msgid "AD 2196/05/04"
+msgstr "04.05.2196"
+
+#. Key: JIN6_004
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ふぅ……。
+msgctxt "JIN6_004"
+msgid "*sigh*"
+msgstr "*зітхає*"
+
+#. Key: JIN6_005
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……つまらないな。
+msgctxt "JIN6_005"
+msgid "...boring..."
+msgstr "...Як нудно."
+
+#. Key: JIN6_006
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ねぇ、兄さん。
+#. JA:   僕は他の人が苦手だよ……。
+msgctxt "JIN6_006"
+msgid ""
+"Brother...\n"
+"I'm just not good with other people..."
+msgstr "Знаєш, братику... Мені важко з іншими людьми..."
+
+#. Key: JIN6_007
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 言葉は雑音。
+#. JA:   耳のなかをうごめいて、頭の中を引っ掻く。
+msgctxt "JIN6_007"
+msgid ""
+"All I can hear is static.\n"
+"It forces its way in through my ears and drills into my brain."
+msgstr "Слова — лише шум. Вони звиваються у вухах і шкребуть мозок."
+
+#. Key: JIN6_008
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   何もかもが冷たく、温かさを感じるのは右手だけ。
+#. JA:   
+msgctxt "JIN6_008"
+msgid "Everything is cold. Everything, at least, except for my right hand."
+msgstr ""
+"\n"
+"Усе довкола було холодним, і лише в правій руці я відчував тепло.\n"
+
+#. Key: JIN6_009
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 疲れたな……色々……。
+msgctxt "JIN6_009"
+msgid "*sigh* I'm tired...in so many ways..."
+msgstr "Я втомився... від усього..."
+
+#. Key: JIN6_011
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: はぁっ、はぁっ……。
+msgctxt "JIN6_011"
+msgid "*pant* *pant*"
+msgstr "Ха... ха..."
+
+#. Key: JIN6_013
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ん……なんだ……紙？
+msgctxt "JIN6_013"
+msgid "Hm... What's this...?"
+msgstr "Гм... Що це... папір?"
+
+#. Key: JIN6_015
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: あ、あの、すみません。
+#. JA:   それ私のです。ごめんなさい。
+msgctxt "JIN6_015"
+msgid ""
+"Uh...um...excuse me.\n"
+"That's mine. Sorry for the trouble."
+msgstr "Ем, перепрошую. Це моє. Вибачте."
+
+#. Key: JIN6_016
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 飛んできた紙を追いかけてきたらしい女に声をかけられる。
+msgctxt "JIN6_016"
+msgid "A girl chases after a piece of paper fluttering in the wind..."
+msgstr ""
+"До мене звернулася дівчина, яка, схоже, бігла за підхопленим вітром\n"
+"аркушем."
+
+#. Key: JIN6_017
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: （……ここに人がくるなんて珍しいな）
+msgctxt "JIN6_017"
+msgid "Hmph... How rare for someone to actually come here..."
+msgstr "(...Дивно, що сюди хтось прийшов.)"
+
+#. Key: JIN6_018
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 慌てなくていい。紙は拾ったから。
+msgctxt "JIN6_018"
+msgid "Don't worry. I caught your paper."
+msgstr "Не поспішай. Я вже підняв аркуш."
+
+#. Key: JIN6_019
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: す、すみません。ありがとうございます。
+msgctxt "JIN6_019"
+msgid "S-Sorry. Thank you."
+msgstr "П-перепрошую. Дякую."
+
+#. Key: JIN6_020
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: ……はぁ、はぁ……ごめんなさい。
+#. JA:   書き物をしていたのですが、急に風で飛ばされてしまって……。
+msgctxt "JIN6_020"
+msgid ""
+"*pant* *pant*\n"
+"I was writing something, but the wind suddenly blew it away..."
+msgstr "...Ха, ха... Вибачте. Я дещо писала, аж раптом вітер підхопив аркуш..."
+
+#. Key: JIN6_021
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: はは……。ここは急に風が吹くことがあるからね。
+#. JA:   気をつけて―――。
+msgctxt "JIN6_021"
+msgid ""
+"Hahaha...It can get really windy around here...\n"
+"So you should be caref—"
+msgstr "Ха-ха... Тут іноді раптово здіймається вітер. Будь обережна..."
+
+#. Key: JIN6_022
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_022"
+msgid "...!?"
+msgstr "...!?"
+
+#. Key: JIN6_023
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……君は、ツバキの友達の―――。
+#. JA:   確かノエル＝ヴァーミリオン君だっけ？
+msgctxt "JIN6_023"
+msgid "...You're Tsubaki's friend—Miss Noel Vermillion, was it?"
+msgstr "...Ти подруга Цубакі... Здається, Ноель Верміліон?"
+
+#. Key: JIN6_024
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: ……えっ!?　あっ、はい、そうです……。
+#. JA:   あっ、キサラギ、先輩……!?　失礼しました。
+msgctxt "JIN6_024"
+msgid "...Huh? Y-Yes, that's right... Ah! Cadet Kisaragi...! M-My apologies."
+msgstr "...Га?! А, так, це я... Ой, старшокурснику Кісараґі...! Перепрошую."
+
+#. Key: JIN6_025
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 君の事はツバキから時折聞いているよ。
+#. JA:   なんでも、入学試験では素晴らしい術式適正―――
+#. JA:   歴代1位の数値だったとか。
+msgctxt "JIN6_025"
+msgid ""
+"I've heard a lot about you from Tsubaki. During your entrance exam, you had\n"
+"amazing synchronization rates with the Armagus, right? The highest record ever,\n"
+"I was told."
+msgstr ""
+"Цубакі іноді розповідає мені про тебе. Кажуть, на вступному іспиті ти\n"
+"показала надзвичайний хист до магічних формул... Найвищий результат\n"
+"за всю історію."
+
+#. Key: JIN6_026
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: えっ……えっと、はい……。
+#. JA:   でも、私全く活かせてなくて……。
+#. JA:   勉強も運動も大したことがなくて……キサラギ先輩のようには。
+msgctxt "JIN6_026"
+msgid ""
+"Uh...um...yes...but, I wasn't able to use it well...\n"
+"I'm not that great academically or physically... Not like you."
+msgstr ""
+"Ем... так... Але я зовсім не вмію цим користуватися... Та й у навчанні й\n"
+"фізичній підготовці я посередня... Не така, як ви."
+
+#. Key: JIN6_027
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: いつか急に伸びるという可能性もある。
+#. JA:   もう少し自分に自信をもつといい。
+msgctxt "JIN6_027"
+msgid ""
+"You never know what can happen...\n"
+"You should have more confidence in yourself."
+msgstr ""
+"Можливо, колись твій талант раптово розкриється. Тобі варто трохи\n"
+"більше вірити в себе."
+
+#. Key: JIN6_028
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: は、はい……ありがとうございます。
+msgctxt "JIN6_028"
+msgid "I-I'll do my best... Thank you."
+msgstr "Т-так... Дякую."
+
+#. Key: JIN6_029
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: では、僕はこれで。
+#. JA:   あぁ、そうだ……紙を……。
+msgctxt "JIN6_029"
+msgid ""
+"Well, if you'll excuse me...\n"
+"Oh, and your paper..."
+msgstr "Що ж, я піду. А, точно... твій аркуш..."
+
+#. Key: JIN6_031
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: すみません、ありがとうございます。
+msgctxt "JIN6_031"
+msgid "I'm sorry. Thank you again."
+msgstr "Перепрошую. Дуже дякую."
+
+#. Key: JIN6_033
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_033"
+msgid "!?"
+msgstr "!?"
+
+#. Key: JIN6_034
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Noel
+#. Context: Jin story route (POV: Jin)
+#. JA: ……先輩？
+msgctxt "JIN6_034"
+msgid "...Sir?"
+msgstr "...Старшокурснику?"
+
+#. Key: JIN6_035
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: いや、なんでもない。
+#. JA:   それじゃあ。
+msgctxt "JIN6_035"
+msgid ""
+"It's nothing...\n"
+"I'll see you around."
+msgstr "Ні, нічого. До зустрічі."
+
+#. Key: JIN6_037
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_037"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN6_038
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: なんなんだ、あの女。
+msgctxt "JIN6_038"
+msgid "Who is that girl?"
+msgstr "Що з цією жінкою?"
+
+#. Key: JIN6_039
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: そうなのか……？
+#. JA:   いや、そんなわけがあるはずがない。
+msgctxt "JIN6_039"
+msgid "Is that...? No...it can't be."
+msgstr "Невже це...? Ні, такого не може бути."
+
+#. Key: JIN6_040
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: でも……。まるで……。
+#. JA:   まるで、生き写しだ！
+msgctxt "JIN6_040"
+msgid "She...she looks identical."
+msgstr "Але... Вона наче... наче точна її копія!"
+
+#. Key: JIN6_042
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: あの幻覚は―……一体なんだ？
+#. JA:   兄さん……。
+msgctxt "JIN6_042"
+msgid "What was that hallucination...? Brother..."
+msgstr "Що це було за видіння...? Братику..."
+
+#. Key: JIN6_043
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: くそっ……苛々する……！！
+msgctxt "JIN6_043"
+msgid "Damn it...what is all this...?"
+msgstr "Чорт... Як же це дратує...!!"
+
+#. Key: JIN6_051
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_051"
+msgid "AD 2099/12/31"
+msgstr "31.12.2099"
+
+#. Key: JIN6_053
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 気が付けば、僕は何処かへと飛ばされていた。
+msgctxt "JIN6_053"
+msgid "When I come to, I realize I'm...flying somewhere."
+msgstr "Коли я отямився, мене закинуло кудись далеко."
+
+#. Key: JIN6_054
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   体中の感覚がない。
+#. JA:   動かせるのは右腕だけだ。
+#. JA:   その右腕も、本当に僅かしか動かせない。
+msgctxt "JIN6_054"
+msgid ""
+"\n"
+"I can't feel anything anymore.\n"
+"I can move my right hand...but just barely."
+msgstr ""
+"\n"
+"Я не відчував усього тіла. Рухалася лише права рука. Та й нею я ледве\n"
+"міг ворухнути."
+
+#. Key: JIN6_055
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 星が……綺麗だ……。
+msgctxt "JIN6_055"
+msgid "The stars...are lovely..."
+msgstr "Які... гарні зорі..."
+
+#. Key: JIN6_056
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: そんな事をしみじみ思う程、確かに、綺麗な星空だった。
+msgctxt "JIN6_056"
+msgid "The night sky is so beautiful, I can't help but think about it."
+msgstr ""
+"Зоряне небо й справді було настільки гарним, що я мимоволі про це\n"
+"подумав."
+
+#. Key: JIN6_057
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   けれど月があまりに眩しくて、
+#. JA:   僕はもうそれ以上空を見上げ続けることが出来なかった。
+msgctxt "JIN6_057"
+msgid ""
+"\n"
+"But the moon...the moon is too bright for my eyes."
+msgstr ""
+"\n"
+"Та місяць світив надто яскраво, і я більше не міг дивитися в небо."
+
+#. Key: JIN6_058
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   微かに動く右腕でどうにか月明かりを遮ると、
+#. JA:   僕はそのまま涙を流した。
+msgctxt "JIN6_058"
+msgid ""
+"\n"
+"I try to block out its light with my right hand.\n"
+"Tears begin to roll down my cheeks."
+msgstr ""
+"\n"
+"Ледь рухаючи правою рукою, я сяк-так затулив місячне світло й\n"
+"заплакав."
+
+#. Key: JIN6_059
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さん……。
+msgctxt "JIN6_059"
+msgid "Brother..."
+msgstr "Братику..."
+
+#. Key: JIN6_060
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 兄さん。
+msgctxt "JIN6_060"
+msgid "My brother."
+msgstr "Мій братику."
+
+#. Key: JIN6_061
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   僕は兄さんを殺さなくてはならない。
+#. JA:   兄さんもそれを望んでいるはずだ。
+msgctxt "JIN6_061"
+msgid ""
+"\n"
+"I have to kill my brother.\n"
+"He must know why; he must understand."
+msgstr ""
+"\n"
+"Я мушу вбити братика. Він теж напевно цього хоче."
+
+#. Key: JIN6_062
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 
+#. JA:   そう信じようとして、けれど悲しくて、僕は泣いた。
+msgctxt "JIN6_062"
+msgid ""
+"\n"
+"I keep telling myself he does, but it doesn't help.\n"
+"The tears start again."
+msgstr ""
+"\n"
+"Я намагався в це повірити, та мені було так сумно, що я плакав."
+
+#. Key: JIN6_064
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……誰だ？
+msgctxt "JIN6_064"
+msgid "...Who's there?"
+msgstr "...Хто там?"
+
+#. Key: JIN6_066
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 貴様は……。
+msgctxt "JIN6_066"
+msgid "You're..."
+msgstr "Ти..."
+
+#. Key: JIN6_068
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_068"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN6_069
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕はこの女を知っている。
+msgctxt "JIN6_069"
+msgid "I know this woman."
+msgstr "Я знав цю жінку."
+
+#. Key: JIN6_070
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 窯の中に落ち行く僕を見つめていた女。
+#. JA:   つまらなさそうに僕を見下ろしていた女だ。
+msgctxt "JIN6_070"
+msgid ""
+"She is the one who watched me fall into the Cauldron.\n"
+"The same woman who looks down on me with a bored look on her face."
+msgstr ""
+"Жінка, яка дивилася, як я падаю в Котел. Жінка, яка нудьгуючи\n"
+"дивилася на мене згори."
+
+#. Key: JIN6_071
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: どうしてこんなところに？
+#. JA:   そう尋ねようと思ったが、もう声は出なかった。
+#. JA:   僕はただ、女を見つめている事しかできなかった。
+msgctxt "JIN6_071"
+msgid ""
+"I want to ask her what she's doing here, but I can no longer speak.\n"
+"All I can do is stare at her."
+msgstr ""
+"Що вона тут робить? Я хотів запитати, але вже не міг говорити. Мені\n"
+"залишалося лише дивитися на неї."
+
+#. Key: JIN6_072
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: ……そろそろ、生まれるわね。
+msgctxt "JIN6_072"
+msgid "Soon, it will be born..."
+msgstr "...Незабаром воно народиться."
+
+#. Key: JIN6_073
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕は、何が生まれるのかを知っていた。
+msgctxt "JIN6_073"
+msgid "I already know what's going to happen—what's going to be born here."
+msgstr "Я знав, що саме народиться."
+
+#. Key: JIN6_074
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: 僕はそれを―――それを、倒さなくてはならない。
+msgctxt "JIN6_074"
+msgid "...The very thing I was born to destroy."
+msgstr "Я мушу... мушу його здолати."
+
+#. Key: JIN6_075
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Narrator
+#. Context: Jin story route (POV: Jin)
+#. JA: けれど、もはや今の僕には、そんな力がない。
+#. JA:   体ひとつ満足に動かせない今の僕では……。
+msgctxt "JIN6_075"
+msgid ""
+"But I have no strength left.\n"
+"I can barely move..."
+msgstr ""
+"Та в мене вже не залишилося на це сил. Не тепер, коли я навіть тілом не\n"
+"можу поворухнути..."
+
+#. Key: JIN6_077
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Rachel
+#. Context: Jin story route (POV: Jin)
+#. JA: ねえ、えいゆうさん。
+#. JA:   本当の英雄になりたくなくて？
+msgctxt "JIN6_077"
+msgid "Mr. Hero, how would you like to become a -real- hero?"
+msgstr "Скажи, пане герою. Не хочеш стати справжнім героєм?"
+
+#. Key: JIN6_085
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: ……ここは。
+msgctxt "JIN6_085"
+msgid "...This place is..."
+msgstr "...Це місце..."
+
+#. Key: JIN6_087
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Hakumen
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_087"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN6_088
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+#. JA: 貴様は……。
+msgctxt "JIN6_088"
+msgid "You're...?"
+msgstr "Ти..."
+
+#. Key: JIN6_089
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Hakumen
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_089"
+msgid "..."
+msgstr "..."
+
+#. Key: JIN6_091
+#. Source: story/storytext_mainjn (data/Story/Text/eng/storytext_mainjn.pac)
+#. Speaker: Jin
+#. Context: Jin story route (POV: Jin)
+msgctxt "JIN6_091"
+msgid "..."
+msgstr "..."

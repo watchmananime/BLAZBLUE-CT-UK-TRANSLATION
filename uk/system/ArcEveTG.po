@@ -1,0 +1,987 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveTG01_00
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: む、やはり通じんな。だが急な故障とも思えない。
+#. JA:   結界か？やはりカグツチには何か不穏なものを感じるな。
+msgctxt "ArcEveTG01_00"
+msgid ""
+"Hm. I can't get a hold of them. I don't think this is just a\n"
+"malfunction. Is there a barrier of some sort? I feel\n"
+"something threatening in Kagutsuchi."
+msgstr ""
+"Хм, звʼязку досі немає. На раптову несправність не схоже.\n"
+"Барʼєр? У Каґуцучі таки відчувається щось лихе."
+
+#. Key: ArcEveTG01_01
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Tager
+#. JA: そこの方、
+#. JA:   第七機関のテイガー殿とお見受けしますが、相違ありませんか？
+msgctxt "ArcEveTG01_01"
+msgid ""
+"Excuse me!\n"
+"I believe you are Sir Tager from Sector Seven, correct?"
+msgstr ""
+"Перепрошую. Якщо не помиляюся, ви пан Тейґер із\n"
+"Сектора Сім?"
+
+#. Key: ArcEveTG01_02
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: そうだが、何か。
+msgctxt "ArcEveTG01_02"
+msgid "Yes, I am. Can I help you?"
+msgstr "Так. А що?"
+
+#. Key: ArcEveTG01_03
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Tager
+#. JA: 現在ここ第十三階層都市「カグツチ」は統制機構の管理の下、
+#. JA:   LvDの警戒警告が発令されています。
+msgctxt "ArcEveTG01_03"
+msgid ""
+"Currently the 13th Hierarchical City, \"Kagutsuchi\", is\n"
+"under control of the Library, and they have issued a Level\n"
+"D warning."
+msgstr ""
+"Наразі тринадцяте ієрархічне місто Каґуцучі перебуває під\n"
+"контролем Організації контролю, і тут оголошено тривогу\n"
+"рівня D."
+
+#. Key: ArcEveTG01_04
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Tager
+#. JA: 「他機関介入不可」を示しているのはご存知かと思いますが。
+msgctxt "ArcEveTG01_04"
+msgid ""
+"I'm sure you know of the \"Inter-Organization Interference\n"
+"Prevention Act\", right?"
+msgstr ""
+"Ви, певно, знаєте, що це означає: «втручання інших\n"
+"організацій заборонено»."
+
+#. Key: ArcEveTG01_05
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 無論。だがそういうわけにもいかなくてな。
+msgctxt "ArcEveTG01_05"
+msgid ""
+"Of course, I do.\n"
+"Unfortunately, I can't defer to you right now."
+msgstr "Авжеж. Але обставини не дозволяють мені зважати на це."
+
+#. Key: ArcEveTG01_06
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Tager
+#. JA: ば、場合によっては武力行使も免れませんよ！
+msgctxt "ArcEveTG01_06"
+msgid ""
+"I-In the worst case scenario, we may have to  use\n"
+"military force!"
+msgstr "Я-якщо доведеться, ми застосуємо силу!"
+
+#. Key: ArcEveTG01_07
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 悪いが、第七機関は「図書館」の指示など受けない。
+#. JA:   武力による解決がお望みならば、答えてやろう。
+msgctxt "ArcEveTG01_07"
+msgid ""
+"Sorry, but Sector Seven does not accept any orders from\n"
+"the Library. If you would like to use force to resolve this\n"
+"issue, that is acceptable."
+msgstr ""
+"Вибач, але Сектор Сім не виконує наказів «Бібліотеки».\n"
+"Якщо бажаєш розвʼязати це силою — я відповім тим\n"
+"самим."
+
+#. Key: ArcEveTG01_08
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Noel
+#. Context: Arcade event: Tager
+#. JA: 罪が、重く、なりますよ……うっ。
+msgctxt "ArcEveTG01_08"
+msgid "This is only...going to get you...into more trouble... Ugh..."
+msgstr "Так ваша провина... лише... обтяжиться... Ух..."
+
+#. Key: ArcEveTG01_09
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 見たところ実戦経験の浅い新米のようだったな。
+msgctxt "ArcEveTG01_09"
+msgid ""
+"A novice with hardly any field experience...\n"
+"Hmph."
+msgstr ""
+"Схоже, вона новобраниця, яка майже не має бойового\n"
+"досвіду."
+
+#. Key: ArcEveTG01_10
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 手加減はしたから大丈夫だとは思うが、
+#. JA:   女子供と戦うのは気が引ける。
+msgctxt "ArcEveTG01_10"
+msgid ""
+"I was trying to hold back a little, so she should be OK, but\n"
+"this is why I don't like fighting women or children."
+msgstr ""
+"Я стримувався, тож із нею, гадаю, все буде гаразд. Та мені\n"
+"не до душі битися з жінками й дітьми."
+
+#. Key: ArcEveTG02_00
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 久しぶりだな――それにしても随分、変わったな。
+msgctxt "ArcEveTG02_00"
+msgid "Long time no see... You sure have changed a lot though."
+msgstr "Давно не бачилися... Хоча змінився ти добряче."
+
+#. Key: ArcEveTG02_01
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Tager
+#. JA: 　サマ　誰　　　の記憶に　該　し　い　　グヴヴ
+msgctxt "ArcEveTG02_01"
+msgid ""
+"Who                   you? You don               my memorie    \n"
+"Ggghrrk..."
+msgstr "Т  хто? У моїй памʼяті      немає... Ґв-в-в..."
+
+#. Key: ArcEveTG02_02
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: ライチが心配しているぞ、もちろんココノエもな。
+msgctxt "ArcEveTG02_02"
+msgid "Litchi is worried about you. Kokonoe as well, of course."
+msgstr "Лічі непокоїться за тебе. І Коконое, звісно, теж."
+
+#. Key: ArcEveTG02_03
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Tager
+#. JA: ライチ　？　　ココ　　　　？　
+msgctxt "ArcEveTG02_03"
+msgid "Litchi   ? Koko        ?"
+msgstr "Лічі...? Коко   ...?"
+
+#. Key: ArcEveTG02_04
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Tager
+#. JA: ココ　　、コ　ノエ　ココノエ　ココノエ　ああああ！！！
+#. JA:   また　いつか　あいつが　が　またあいつ　ああ　キィヒヒヒ！！
+msgctxt "ArcEveTG02_04"
+msgid ""
+"Koko     ...Ko    noe  Kokonoe  Kokonoe  ARRGGHHH!\n"
+"      again  She might   might    Aagh  Keeheehee!"
+msgstr ""
+"Коко   ... Ко  ное... Коконое... Коконое... А-а-а-а!!! Зно у...\n"
+"коли ь... вона...      знову вона... А-а... Кі-хі-хі!!"
+
+#. Key: ArcEveTG02_05
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Tager
+#. JA: そ　　、知って　　！　サマも知って　る　　　ぐおおおおお！！
+msgctxt "ArcEveTG02_05"
+msgid "That's        ... I                ! I know  ou too! Guooooh!"
+msgstr "Це... я зна ! І т  бе знаю! Ґу-о-о-о!!"
+
+#. Key: ArcEveTG02_06
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 貴様の事はライチに任せるつもりでいたが――
+msgctxt "ArcEveTG02_06"
+msgid "I was planning to leave you up to Litchi, but..."
+msgstr "Я збирався доручити тебе Лічі, але..."
+
+#. Key: ArcEveTG02_07
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: やはり見逃すわけにはいかんな。
+#. JA:   すまんが、私は貴様のような奴を救う手段は一つしか知らん。
+msgctxt "ArcEveTG02_07"
+msgid ""
+"...I'm afraid I just can't let you roam free.\n"
+"And unfortunately, I only know one way to save a guy\n"
+"like you."
+msgstr ""
+"Та все-таки не можу просто тебе відпустити. Вибач, але я\n"
+"знаю лише один спосіб урятувати таких, як ти."
+
+#. Key: ArcEveTG02_08
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Tager
+#. JA: ぐあああああああ　　あ　　め――――
+msgctxt "ArcEveTG02_08"
+msgid "GUAAAAAAAARGH  DAAAMN HIIIM..."
+msgstr "Ґу-а-а-а-а-а-а... припи и-и-и—"
+
+#. Key: ArcEveTG02_09
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: ！？　　ま、待て！ぐ、止めをささねば。
+msgctxt "ArcEveTG02_09"
+msgid "W-Wait! Damn it! I have to stop him."
+msgstr "С-стій! Кх, треба його добити."
+
+#. Key: ArcEveTG03_00
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Tager
+#. JA: 貴公か、何をしに来た。
+msgctxt "ArcEveTG03_00"
+msgid "You... What do you want?"
+msgstr "Ти... Навіщо прийшов?"
+
+#. Key: ArcEveTG03_01
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: ハクメンよ、ココノエから貴様の回収命令を受けている、
+#. JA:   悪いがすぐに機関に戻ってもらうぞ。
+msgctxt "ArcEveTG03_01"
+msgid ""
+"Hakumen. Kokonoe has ordered me to retrieve you.\n"
+"I'm sorry, but I'm going to have you return to the Sector."
+msgstr ""
+"Хакумене, Коконое наказала мені забрати тебе. Вибач, але\n"
+"ти негайно повернешся зі мною до Сектора."
+
+#. Key: ArcEveTG03_02
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 第一貴様はまだ存在定着が不安定だ、あまり身勝手な行動は慎め。
+msgctxt "ArcEveTG03_02"
+msgid ""
+"Your existence establishment is still unstable.\n"
+"You should refrain from wandering off."
+msgstr ""
+"До того ж твоє існування ще нестабільно закріплене.\n"
+"Припини діяти на власний розсуд."
+
+#. Key: ArcEveTG03_03
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Tager
+#. JA: 私が、貴公等の手に依り次元平面から現世に還ったのは事実。
+#. JA:   だが、其れは貴公等の手段の壱つで有り、私が従う義理は無い。
+msgctxt "ArcEveTG03_03"
+msgid ""
+"It is true that people such as yourself returned me to this\n"
+"world from a parallel dimension. However, I have no\n"
+"obligation to abide by your rules."
+msgstr ""
+"Це правда, що завдяки вам я повернувся з Міжпростору до\n"
+"реального світу. Та це лише один із ваших засобів, і я не\n"
+"зобовʼязаний вам коритися."
+
+#. Key: ArcEveTG03_04
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 機関は従わせる気などないだろう。
+#. JA:   貴様は一抹の計画の手段、材料として認識されているにすぎない。
+msgctxt "ArcEveTG03_04"
+msgid ""
+"I don't think the Sector has any intention of making you\n"
+"abide by them. You're only a small part of their plan.\n"
+"You're no more than a tool."
+msgstr ""
+"Сектор і не збирається змушувати тебе коритися. Для\n"
+"нього ти лише засіб, матеріал для певного плану."
+
+#. Key: ArcEveTG03_05
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 貴様の回収には一年以上もの時間を費やした。
+#. JA:   これ以上無駄な時間は食えないのだ。
+msgctxt "ArcEveTG03_05"
+msgid ""
+"We've spent over a year retrieving you, and we can't\n"
+"afford to waste any more time."
+msgstr ""
+"Ми витратили понад рік, щоб витягти тебе. Більше часу\n"
+"марнувати не можна."
+
+#. Key: ArcEveTG03_06
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Tager
+#. JA: 私には私の目的が在る、惟は私の存在意義だ、邪魔はさせぬ。
+msgctxt "ArcEveTG03_06"
+msgid ""
+"I have my own goals. This is the meaning of my life.\n"
+"I won't let you get in the way."
+msgstr ""
+"Я маю власну мету. Вона — сенс мого існування. Я не\n"
+"дозволю тобі стати мені на заваді."
+
+#. Key: ArcEveTG03_07
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 交渉決裂か。まだ不完全とはいえ貴様は六英雄の一人。
+#. JA:   その力見せてもらおう。全力で行くぞ！
+msgctxt "ArcEveTG03_07"
+msgid ""
+"I guess that's it for negotiations... You may be incomplete,\n"
+"but you're still one of the Six Heroes. Let's see what\n"
+"you've got. I won't hold back!"
+msgstr ""
+"Отже, переговори провалилися. Нехай ти ще не відновився\n"
+"повністю, але ти один із Шістьох Героїв. Покажи мені свою\n"
+"силу. Я битимуся на повну!"
+
+#. Key: ArcEveTG03_08
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Tager
+#. JA: ふっ……はははははは！鬼風情が、面白い！！！
+msgctxt "ArcEveTG03_08"
+msgid "Hah...hahahaha! You little devil! Interesting!"
+msgstr "Ха... Ха-ха-ха-ха! Демоне, а ти цікавий!!!"
+
+#. Key: ArcEveTG03_09
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Tager
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ArcEveTG03_09"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveTG03_10
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Tager
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveTG03_10"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveTG03_11
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Tager
+#. JA: 侮って居た。流石だ。
+msgctxt "ArcEveTG03_11"
+msgid "I underestimated you. Very well."
+msgstr "Я недооцінив тебе. Вражає."
+
+#. Key: ArcEveTG03_12
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 理解したなら機関に戻るがいい、
+#. JA:   私もすぐに戻るとココノエに伝えてくれ。
+msgctxt "ArcEveTG03_12"
+msgid ""
+"If you understand, then I ask you to go back to the Sector.\n"
+"And tell Kokonoe that I will return soon."
+msgstr ""
+"Якщо зрозумів, повертайся до Сектора. І передай Коконое,\n"
+"що я теж невдовзі повернуся."
+
+#. Key: ArcEveTG03_13
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Tager
+#. JA: ふっ、戻れるのならな――
+msgctxt "ArcEveTG03_13"
+msgid "Heh. If I can return..."
+msgstr "Хм. Якщо зможеш повернутися..."
+
+#. Key: ArcEveTG04_00
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 何事だ、何が起きている？
+msgctxt "ArcEveTG04_00"
+msgid "What's wrong? What's going on?"
+msgstr "Що це? Що відбувається?"
+
+#. Key: ArcEveTG04_01
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Tager
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveTG04_01"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveTG04_02
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: なんだ、この威圧感は。この少女、いったい何者だ？
+msgctxt "ArcEveTG04_02"
+msgid "What the hell? What's this pressure? Who is this girl?"
+msgstr "Що за тиск? Хто ця дівчина?"
+
+#. Key: ArcEveTG04_03
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: この感覚、覚えがあるぞ。
+#. JA:   あれは確かイカルガの――くそっ、思い出せん！
+msgctxt "ArcEveTG04_03"
+msgid ""
+"I know this feeling...\n"
+"I think Ikaruga's... Damn it, I can't remember!"
+msgstr ""
+"Я вже відчував щось подібне. Здається, в Ікарузі... Чорт, не\n"
+"можу згадати!"
+
+#. Key: ArcEveTG04_04
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Tager
+#. JA: 対象・認識・自律モード・起動
+msgctxt "ArcEveTG04_04"
+msgid "Target recognized. Auto-mode: activated."
+msgstr "Ціль ідентифіковано. Автономний режим активовано."
+
+#. Key: ArcEveTG04_05
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 近頃の少女は好戦的だな。
+#. JA:   すまんココノエ、帰還が遅くなりそうだ。
+msgctxt "ArcEveTG04_05"
+msgid ""
+"Girls these days are so belligerent.\n"
+"Sorry, Kokonoe, I'll be running late."
+msgstr ""
+"Останнім часом дівчата аж надто войовничі. Вибач,\n"
+"Коконое, схоже, я затримаюся."
+
+#. Key: ArcEveTG04_06
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Tager
+#. JA: 対象・認識・障害・認識・排除・容認……対象を障害と認識
+msgctxt "ArcEveTG04_06"
+msgid ""
+"Scanning complete. IFF determined. Processing...\n"
+"Subject determined to be hostile."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"схвалено... Ціль визначено як перешкоду."
+
+#. Key: ArcEveTG04_07
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Tager
+#. JA: 対象の殲滅を開始します
+msgctxt "ArcEveTG04_07"
+msgid "Begin termination."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveTG04_08
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 何っ、時空が歪むだと！？
+msgctxt "ArcEveTG04_08"
+msgid "What? A time-space warp!?"
+msgstr "Що?! Викривлення простору-часу?!"
+
+#. Key: ArcEveTG05_00_0
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Tager
+#. JA: あらテイガー、久しぶり。
+msgctxt "ArcEveTG05_00_0"
+msgid "Oh, Tager. Long time no see."
+msgstr "О, Тейґере. Давно не бачилися."
+
+#. Key: ArcEveTG05_00_1
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Tager
+#. JA: 部署は近いはずなのに、なかなか顔をあわせる機会がないわね。
+msgctxt "ArcEveTG05_00_1"
+msgid "Our departments are close, but I never see you around."
+msgstr ""
+"Хоч наші відділи й мають бути поруч, ми майже не\n"
+"бачимося."
+
+#. Key: ArcEveTG05_01_0
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: うむ、歓談したいところだが、これからココノエに用があってな。
+msgctxt "ArcEveTG05_01_0"
+msgid "Yeah. I'd love to sit here and chat, but I need to talk to Kokonoe."
+msgstr ""
+"Так. Я б залюбки поговорив, але зараз маю справу до\n"
+"Коконое."
+
+#. Key: ArcEveTG05_01_1
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 「すぐ来い、でなければ殺す」、だそうだ。
+msgctxt "ArcEveTG05_01_1"
+msgid "I think she's gonna kill me if I don't get there soon."
+msgstr "«Приходь негайно, або вбʼю», — так вона сказала."
+
+#. Key: ArcEveTG05_02
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Tager
+#. JA: ……もしかしたらあの件？
+msgctxt "ArcEveTG05_02"
+msgid "...Is it about that case?"
+msgstr "...Часом не через ту справу?"
+
+#. Key: ArcEveTG05_03_0
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: うむ、時空平面、いや虚数空間だったか？
+msgctxt "ArcEveTG05_03_0"
+msgid "Yeah. The parallel space-time...no...was it the complex space?"
+msgstr ""
+"Так. Площина простору-часу... ні, простір уявних чисел,\n"
+"здається?"
+
+#. Key: ArcEveTG05_03_1
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: なんでも、そこに面白いものを発見したから回収を手伝えだとか。
+msgctxt "ArcEveTG05_03_1"
+msgid "Anyway, she found some interesting stuff and wanted help with it."
+msgstr ""
+"Каже, знайшла там щось цікаве й хоче, щоб я допоміг це\n"
+"витягти."
+
+#. Key: ArcEveTG05_04
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: まったく、おかげで星の裏側から帰って来ることになったぞ。
+msgctxt "ArcEveTG05_04"
+msgid "I had to go halfway around the damn world."
+msgstr ""
+"От же ж... Через це мені довелося повертатися з іншого\n"
+"кінця планети."
+
+#. Key: ArcEveTG05_05_0
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 常々人使いの荒い奴だとは思っていたが
+msgctxt "ArcEveTG05_05_0"
+msgid "I always knew she was a bit of a slave driver, but..."
+msgstr "Я завжди знав, що вона нещадно ганяє підлеглих, але..."
+
+#. Key: ArcEveTG05_05_1
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 近所の使いを頼むように国家単位の問題を任されては適わない。
+msgctxt "ArcEveTG05_05_1"
+msgid "...she asks me to do state-level tasks like they're minor errands."
+msgstr ""
+"коли доручають проблеми державного масштабу так, наче\n"
+"просять виконати дрібне доручення, — це вже занадто."
+
+#. Key: ArcEveTG05_06_0
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 数十年も続いた内戦も終息に向かってるとはいえ
+msgctxt "ArcEveTG05_06_0"
+msgid "Just when we thought this civil war was coming to an end,"
+msgstr ""
+"Хоч громадянська війна, яка тривала десятки років, і\n"
+"наближається до завершення..."
+
+#. Key: ArcEveTG05_06_1
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 安穏とはできないしな。
+msgctxt "ArcEveTG05_06_1"
+msgid "it seems like peace is still far off."
+msgstr "розслаблятися ще зарано."
+
+#. Key: ArcEveTG05_07
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Tager
+#. JA: ふふ、テイガーに愚痴をいわせるなんて、さすがは我が師ね。
+msgctxt "ArcEveTG05_07"
+msgid "Hahaha, making even Tager complain...that's our professor."
+msgstr ""
+"Хи-хи. Навіть Тейґера змусила скаржитися — оце так моя\n"
+"наставниця."
+
+#. Key: ArcEveTG05_08
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: ん？ああ、すまん。今のは忘れてくれ。
+msgctxt "ArcEveTG05_08"
+msgid "Huh? Oh...sorry. Forget about what I just said."
+msgstr "Гм? А, вибач. Забудь, що я щойно сказав."
+
+#. Key: ArcEveTG05_09_0
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: で、例の件の事なんだが本当なのか？
+msgctxt "ArcEveTG05_09_0"
+msgid "But anyway, about that case. Is it really true?"
+msgstr "То що там із тією справою? Це дійсно правда?"
+
+#. Key: ArcEveTG05_09_1
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 報告書に書いてあったとはいえ未だ信じられないのだが。
+msgctxt "ArcEveTG05_09_1"
+msgid "I've read the reports...I still don't believe it."
+msgstr "Я читав звіт, але досі не можу повірити."
+
+#. Key: ArcEveTG05_10
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Tager
+#. JA: ええ、博士の見解によると間違いないらしいわ。
+msgctxt "ArcEveTG05_10"
+msgid "In the professor's opinion, there's no doubt about it."
+msgstr "Так. За висновком професорки, жодних сумнівів немає."
+
+#. Key: ArcEveTG05_11_0
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Tager
+#. JA: でも、あの空間で数十年もの間生きているなんて
+msgctxt "ArcEveTG05_11_0"
+msgid "But for someone to survive there for decades..."
+msgstr "Але прожити в тому просторі кілька десятиліть..."
+
+#. Key: ArcEveTG05_11_1
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Tager
+#. JA: 常識的に考えたら不可能としか思えないのだけど。
+msgctxt "ArcEveTG05_11_1"
+msgid "Logically, that's completely impossible."
+msgstr "Як не крути, це здається неможливим."
+
+#. Key: ArcEveTG05_12_0
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: まさかそんな所にいたとはな
+msgctxt "ArcEveTG05_12_0"
+msgid "Who would have thought he was in a place like that...?"
+msgstr "Хто б міг подумати, що він був у такому місці..."
+
+#. Key: ArcEveTG05_12_1
+#. Source: system/ArcEveTG_ArcEveTG01 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG02 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG03 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG04 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Source: system/ArcEveTG_ArcEveTG05 (data/ETC/Text_Eng/ArcEveTG.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Tager
+#. JA: 六英雄の一人「ハクメン」よ……。
+msgctxt "ArcEveTG05_12_1"
+msgid "Hakumen...one of the Six Heroes..."
+msgstr "Хакумен — один із Шістьох Героїв..."

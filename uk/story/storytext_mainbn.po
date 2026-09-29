@@ -1,0 +1,5610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: BNG0_001
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: イカルガ連邦中央都市消滅から４年余……。
+#. JA:   燃えていく。我が殿の国が、紅蓮の炎に焦がされていく。
+msgctxt "BNG0_001"
+msgid ""
+"It's been four years since the central city of the Ikaruga Federation fell...\n"
+"Everything is burning. My master's country is covered in roaring flames."
+msgstr ""
+"Минуло понад чотири роки від знищення Ібукідо, столиці Федерації\n"
+"Ікаруґа... Горить. Країну мого володаря пожирає багряне полум'я."
+
+#. Key: BNG0_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   （―――和平を蹴るのみならず、
+#. JA:   　イカルガ連邦全てを灰燼に帰すつもりでござるか！）
+msgctxt "BNG0_002"
+msgid ""
+"\n"
+"...So it was enough for them to destroy our hopes for peace?\n"
+"Will they not rest until they've reduced the entire Ikaruga Federation to dust!?"
+msgstr ""
+"(— Їм мало відкинути мирну угоду? Вони хочуть перетворити на попіл\n"
+"усю Федерацію Ікаруґа?!)"
+
+#. Key: BNG0_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「―――図書館の人でなしどもが！」
+msgctxt "BNG0_003"
+msgid ""
+"\n"
+"<DQ>...Those damned librarians!<DQ>"
+msgstr "«— Нелюди з Бібліотеки!»"
+
+#. Key: BNG0_004
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   拙者が駆ける先、図書館の兵どもが広場の隅に民を追い込み、
+#. JA:   取り囲んでいた。その全員が、術式兵装を装備していた。
+msgctxt "BNG0_004"
+msgid ""
+"\n"
+"Ahead of me, a group of Library soldiers have cornered a crowd of civilians. \n"
+"They're all wielding Ars Armagus."
+msgstr ""
+"Попереду солдати Бібліотеки загнали мешканців у кут площі й оточили\n"
+"їх. Усі вони мали магічне озброєння."
+
+#. Key: BNG0_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: NOL Soldier
+#. Context: Bang story route (POV: Bang)
+#. JA: 「殲滅命令が出ている。総員、リード！」
+msgctxt "BNG0_005"
+msgid "<DQ>Extermination order has been declared. All members, lead!<DQ>"
+msgstr "«Отримано наказ про повне знищення. Усім — активація!»"
+
+#. Key: BNG0_006
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   この隊を率いていると思しき奴が片腕を掲げた。
+#. JA:   兵どもが一斉に術式発動させる。民を焼き殺す気だ！
+msgctxt "BNG0_006"
+msgid ""
+"\n"
+"The man leading them raises his arm, and the soldiers activate their infernal\n"
+"weapons. They're going to burn those innocent civilians to death!"
+msgstr ""
+"Чоловік, який, схоже, командував загоном, підняв руку. Солдати\n"
+"одночасно активували магічні формули. Вони збираються спалити\n"
+"людей живцем!"
+
+#. Key: BNG0_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「させぬわあっ！！」
+#. JA:   
+msgctxt "BNG0_007"
+msgid ""
+"\n"
+"<DQ>Not gonna happen!<DQ>\n"
+msgstr "«Не дозволю!!»"
+
+#. Key: BNG0_008
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者は怒号を発し、部下と共に襲いかかった。
+msgctxt "BNG0_008"
+msgid "My men and I leap at them with a chorus of righteous yells."
+msgstr "Я грізно закричав і разом із поплічниками кинувся в атаку."
+
+#. Key: BNG0_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   悲鳴を上げる暇<ruby>いとま</ruby>さえ与えず、
+#. JA:   拙者たちは図書館の兵どもを打ち倒した。まさに一瞬の出来事だ。
+msgctxt "BNG0_009"
+msgid ""
+"\n"
+"They don't even have a chance to cry for help before we knock them flat.\n"
+"It's almost too easy."
+msgstr ""
+"Не давши солдатам Бібліотеки навіть скрикнути, ми повалили їх усіх.\n"
+"Усе скінчилося за одну мить."
+
+#. Key: BNG0_010
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Ikaruga Villager A
+#. Context: Bang story route (POV: Bang)
+#. JA: 「バング様！」
+msgctxt "BNG0_010"
+msgid "<DQ>Boss Bang!<DQ>"
+msgstr "«Пане Банґу!»"
+
+#. Key: BNG0_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Ikaruga Villager B
+#. Context: Bang story route (POV: Bang)
+#. JA: 「バング様が来てくださった！」
+msgctxt "BNG0_011"
+msgid "<DQ>Boss Bang is here!<DQ>"
+msgstr "«Пан Банґ прийшов нам на допомогу!»"
+
+#. Key: BNG0_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Ikaruga Villager C
+#. Context: Bang story route (POV: Bang)
+#. JA: 「お母さん、もう大丈夫だよね!?　大丈夫だよね？」
+msgctxt "BNG0_012"
+msgid "<DQ>Mommy, we're gonna be OK now, aren't we!?<DQ>"
+msgstr "«Мамо, тепер усе буде гаразд?! Правда ж?»"
+
+#. Key: BNG0_013
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Ikaruga Villager D
+#. Context: Bang story route (POV: Bang)
+#. JA: 「ええ、ええ……もう大丈夫、大丈夫よ！！」
+msgctxt "BNG0_013"
+msgid "<DQ>Y-Yes... We're gonna be fine! We're saved...!<DQ>"
+msgstr "«Так, так... Тепер усе добре, ми врятовані!!»"
+
+#. Key: BNG0_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   喜ぶ民たちに、拙者は笑顔で答えた。
+msgctxt "BNG0_014"
+msgid ""
+"\n"
+"I turn and give the civilians a heroic smile."
+msgstr "Я усміхнувся зраділим людям у відповідь."
+
+#. Key: BNG0_015
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「応。もはや何の心配もいらぬでござる」
+msgctxt "BNG0_015"
+msgid ""
+"\n"
+"<DQ>That's correct. There's nothing to worry about now.<DQ>"
+msgstr "«Авжеж. Тепер вам нема про що хвилюватися.»"
+
+#. Key: BNG0_016
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   拙者は部下に命じて図書館の兵どもの腕だけを拘束し放置した。
+#. JA:   憎き敵ではあろうとも殺してはならぬ。
+#. JA:   憎むべきは人ではなくその罪のみ。
+msgctxt "BNG0_016"
+msgid ""
+"\n"
+"I tell my men to tie up the Library soldiers and leave them there.\n"
+"No matter how evil their actions may have been, killing is never justified.\n"
+"The crime is to blame, not the men who commit it."
+msgstr ""
+"Я наказав поплічникам зв'язати солдатам Бібліотеки лише руки й\n"
+"залишити їх там. Навіть ненависних ворогів не можна вбивати.\n"
+"Ненавидіти слід не людину, а лише її злочин."
+
+#. Key: BNG0_017
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   主君の言葉を守るため、無益な殺生など拙者はせぬのだ。
+msgctxt "BNG0_017"
+msgid ""
+"\n"
+"I abide by my master's teachings... There will be no killings tonight."
+msgstr "Дотримуючись настанов володаря, я не забиратиму життя без потреби."
+
+#. Key: BNG0_018
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 「生き残った民を一人余さず連れて、先に落ちのびるでござる！」
+msgctxt "BNG0_018"
+msgid "<DQ>Take every single survivor, and lead them to safety!<DQ>"
+msgstr ""
+"«Заберіть усіх уцілілих до останнього й негайно відведіть у безпечне\n"
+"місце!»"
+
+#. Key: BNG0_019
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   燃えさかる街から民を逃がすため、拙者は声を張り上げた。
+#. JA:   拙者の指示を受けた部下が、小隊を組んで民の誘導を始める。
+msgctxt "BNG0_019"
+msgid ""
+"\n"
+"At my command, my men break off into small groups to lead the civilians to safety."
+msgstr ""
+"Щоб вивести людей із палаючого міста, я щосили вигукнув наказ.\n"
+"Поплічники поділилися на невеликі загони й почали вести людей геть."
+
+#. Key: BNG0_022
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   民の数は、およそ三十ほどか。
+#. JA:   これが、この地区の生き残り全てとは。
+#. JA:   悔しさのあまり、ぎり、と音が鳴るほど奥歯を噛み締めた。
+msgctxt "BNG0_022"
+msgid ""
+"\n"
+"It looks like there are only about thirty civilians here.\n"
+"I can't believe these are the only survivors left in this area...\n"
+"A scowl crosses my face."
+msgstr ""
+"Їх було близько тридцяти. Невже це всі, хто вижив у цьому районі? Від\n"
+"безсилого гніву я аж заскреготів зубами."
+
+#. Key: BNG0_023
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――図書館の狗どもめ。どれだけ罪なき民を殺せば気が済むのだ。
+msgctxt "BNG0_023"
+msgid "Those Library dogs. How many innocents must they kill before they're satisfied?"
+msgstr ""
+"Кляті пси Бібліотеки. Скільки ще невинних ви маєте вбити, щоб\n"
+"насититися?"
+
+#. Key: BNG0_024
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   民の列の向こう。燃える街路に忌まわしい制服姿が数人、現れた。
+#. JA:   またも図書館の兵どもだ。
+msgctxt "BNG0_024"
+msgid ""
+"\n"
+"In front of the fleeing civilians, I see a handful of men in those horrible uniforms\n"
+"appear from around a corner. More Library dogs."
+msgstr ""
+"За колоною людей, на охопленій вогнем вулиці, з'явилося кілька\n"
+"постатей у ненависній формі. Знову солдати Бібліотеки."
+
+#. Key: BNG0_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: NOL Soldier B
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「いたぞ！　残存兵と避難民だ！」
+msgctxt "BNG0_025"
+msgid ""
+"\n"
+"<DQ>There they are! Surviving soldiers and refugees!<DQ>"
+msgstr "«Ось вони! Уцілілі солдати й біженці!»"
+
+#. Key: BNG0_026
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: NOL Soldier C
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「掃討にかかれ！」
+msgctxt "BNG0_026"
+msgid ""
+"\n"
+"<DQ>Wipe them out!<DQ>"
+msgstr "«Знищити всіх!»"
+
+#. Key: BNG0_027
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   瀕死の虫にたかる蟻のように、
+#. JA:   わらわらと図書館の兵どもが群がってくる。
+msgctxt "BNG0_027"
+msgid ""
+"\n"
+"Like ants converging on a dying insect,\n"
+"more soldiers pour out of streets and alleys."
+msgstr ""
+"Наче мурахи, що обсіли конаючу комаху, солдати Бібліотеки один за\n"
+"одним збігалися до нас."
+
+#. Key: BNG0_028
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate A
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「お頭っ！　ここはアッシらが！」
+msgctxt "BNG0_028"
+msgid ""
+"\n"
+"<DQ>Boss! Let us take care of things here!<DQ>"
+msgstr "«Босе! Лишіть це нам!»"
+
+#. Key: BNG0_029
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   部下の一人が、先陣を切って奴らを迎え撃とうとした。
+msgctxt "BNG0_029"
+msgid ""
+"\n"
+"One of my men leaps forward and moves as if to attack the Library dogs.\n"
+"I step in front of him."
+msgstr ""
+"Один із поплічників вирвався вперед, збираючись першим зустріти\n"
+"ворога."
+
+#. Key: BNG0_031
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 「いや、拙者が参る。そなたたちは民と共に逃げろ」
+msgctxt "BNG0_031"
+msgid "<DQ>No, this is my duty. You guys escape with the other villagers.<DQ>"
+msgstr "«Ні, піду я. А ви тікайте разом із людьми.»"
+
+#. Key: BNG0_032
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate A
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「いや、お頭こそ先にお逃げください！
+#. JA:   　民には我らよりもお頭のほうが必要のはず！」
+msgctxt "BNG0_032"
+msgid ""
+"\n"
+"<DQ>No, you have to escape first, boss!\n"
+" The people need you more than they need us...<DQ>"
+msgstr ""
+"«Ні, босе, це ви маєте тікати першим! Ви потрібні людям більше, ніж\n"
+"ми!»"
+
+#. Key: BNG0_033
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   部下たちが拙者の周りに集まってきた。
+#. JA:   慕ってくれるその気持ちはうれしいが、拙者は心を鬼にして一喝する。
+msgctxt "BNG0_033"
+msgid ""
+"\n"
+"It warms my heart to hear them say that, but this is no time for sentiment."
+msgstr ""
+"Поплічники зібралися довкола мене. Їхня відданість гріла серце, але я\n"
+"змусив себе грізно на них гаркнути."
+
+#. Key: BNG0_034
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「誰が必要だとか、そんなことなど関係ござらん！
+#. JA:   　そなたたちとて殿の民。
+#. JA:   　民は一人でも多く、生き残らねばならぬのだ。
+#. JA:   　ここは拙者一人に任せるがよい！」
+msgctxt "BNG0_034"
+msgid ""
+"\n"
+"<DQ>It doesn't matter who they need! You are all people of this country.\n"
+" And it is -my- duty to see that the people survive.\n"
+" Leave this place to me, and go help the others!<DQ>"
+msgstr ""
+"«Не має значення, хто кому потрібен! Ви теж піддані мого володаря.\n"
+"Якомога більше людей мусять вижити. Залиште це місце мені!»"
+
+#. Key: BNG0_035
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate B
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「お頭！」
+msgctxt "BNG0_035"
+msgid ""
+"\n"
+"<DQ>Boss!<DQ>"
+msgstr "«Босе!»"
+
+#. Key: BNG0_036
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate A
+#. Context: Bang story route (POV: Bang)
+#. JA: 「バング様！」
+msgctxt "BNG0_036"
+msgid "<DQ>Boss Bang!<DQ>"
+msgstr "«Босе Банґу!»"
+
+#. Key: BNG0_037
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate C
+#. Context: Bang story route (POV: Bang)
+#. JA: 「頭領！！」
+#. JA:   
+msgctxt "BNG0_037"
+msgid ""
+"<DQ>Boss!<DQ>\n"
+msgstr "«Босе!!»"
+
+#. Key: BNG0_038
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 口々に部下が騒ぐ。図書館の兵どもはもうすぐそこだ。
+#. JA:   
+msgctxt "BNG0_038"
+msgid ""
+"The men from the Library are getting closer.\n"
+msgstr ""
+"Поплічники загомоніли всі разом. Солдати Бібліотеки були вже зовсім\n"
+"близько."
+
+#. Key: BNG0_039
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 「行け！　行って国を護るのだ！」
+msgctxt "BNG0_039"
+msgid "<DQ>Go! And protect our country!<DQ>"
+msgstr "«Ідіть! І захистіть нашу країну!»"
+
+#. Key: BNG0_040
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate B
+#. Context: Bang story route (POV: Bang)
+#. JA: 「しかしお頭、我らが護るべき国はもう……」
+msgctxt "BNG0_040"
+msgid ""
+"\n"
+"<DQ>But, sir, the country we're supposed to protect...is already...<DQ>"
+msgstr "«Але, босе, країни, яку ми мали захищати, вже...»"
+
+#. Key: BNG0_041
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   部下たちが表情を曇らせた。気持ちはわかる。
+#. JA:   だが、それでも我らは生きていかねばならぬのだ。
+msgctxt "BNG0_041"
+msgid ""
+"\n"
+"My men are confused and desperate for answers,\n"
+"but the Library men are getting closer."
+msgstr ""
+"Обличчя поплічників потемніли. Я розумів їхні почуття. Та попри все ми\n"
+"мусили жити далі."
+
+#. Key: BNG0_042
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「たわけ！　国とは土地にあらず。
+#. JA:   　君主の元に民が平穏に暮らすところは、
+#. JA:   　それがいかなるところであっても国でござる」
+msgctxt "BNG0_042"
+msgid ""
+"\n"
+"<DQ>You idiots! Who told you to protect a piece of land!?\n"
+" It doesn't matter where you are. As long as there is people, there is a country.<DQ>"
+msgstr ""
+"«Дурні! Країна — це не земля. Де б народ не жив у мирі під владою свого\n"
+"правителя, там і є його країна.»"
+
+#. Key: BNG0_043
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 「よいか、民こそが国なのだ！」
+msgctxt "BNG0_043"
+msgid "<DQ>It's the people that make a country. Not its land.<DQ>"
+msgstr "«Зрозумійте: народ і є країна!»"
+
+#. Key: BNG0_044
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 部下たちにざわめきが広がった。
+msgctxt "BNG0_044"
+msgid ""
+"He knows I'm right, but it's hard to accept.\n"
+"I know how he feels, but if we're to survive this...we must be strong."
+msgstr "Серед поплічників здійнявся гомін."
+
+#. Key: BNG0_045
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate B
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「俺たち一人一人が国か」
+msgctxt "BNG0_045"
+msgid ""
+"\n"
+"<DQ>So...we are the country...<DQ>"
+msgstr "«Отже, кожен із нас і є країна.»"
+
+#. Key: BNG0_046
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate C
+#. Context: Bang story route (POV: Bang)
+#. JA: 「最後の一人になろうとも、生きてさえいれば国は滅びない」
+msgctxt "BNG0_046"
+msgid "<DQ>All it takes...is one person to keep a country alive.<DQ>"
+msgstr ""
+"«Навіть якщо лишиться одна людина, доки вона живе, країна не\n"
+"загине.»"
+
+#. Key: BNG0_047
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate A
+#. Context: Bang story route (POV: Bang)
+#. JA: 「行こう。我らの民を、国を護るために」
+msgctxt "BNG0_047"
+msgid "<DQ>Let's go. We gotta protect the people.<DQ>"
+msgstr "«Ходімо. Ми захистимо наш народ — нашу країну.»"
+
+#. Key: BNG0_048
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   部下たちの表情が引き締まる。うむ、もはや心配は要らぬようだ。
+msgctxt "BNG0_048"
+msgid ""
+"\n"
+"I can tell from the determination on their faces that I don't need to worry about them\n"
+"anymore."
+msgstr ""
+"Обличчя поплічників сповнилися рішучості. Так, тепер за них можна не\n"
+"хвилюватися."
+
+#. Key: BNG0_049
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate B
+#. Context: Bang story route (POV: Bang)
+#. JA: 「この民は我らが必ずや守り通します。お頭も、どうかご無事で」
+msgctxt "BNG0_049"
+msgid "<DQ>We'll protect these civilians! Sir...please be safe.<DQ>"
+msgstr "«Ми неодмінно захистимо цих людей. І ви, босе, благаю, бережіть себе.»"
+
+#. Key: BNG0_050
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「ふ。要らぬ心配だ。拙者を誰だと思っている―――
+#. JA:   　イカルガ随一の正義と愛の忍者シシガミ＝バングでござる。
+#. JA:   　拙者の心配をする前に民の心配をしてやるがよい」
+msgctxt "BNG0_050"
+msgid ""
+"\n"
+"<DQ>Hmph! I don't need you to worry about me. Who do you think I am?\n"
+" I'm the Ikaruga ninja who fights in the name of love and justice, Bang Shishigami!\n"
+" If you have time to worry about me, go save the people first.<DQ>"
+msgstr ""
+"«Ха. Марно хвилюєтеся. За кого ви мене маєте? Я — Банґ Шішіґамі,\n"
+"найкращий нінджя Ікаруґи, що бореться за любов і справедливість.\n"
+"Замість мене краще подбайте про людей.»"
+
+#. Key: BNG0_051
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   拙者は身を翻して駆け出した。
+#. JA:   単身、図書館の兵どもの輪に突っ込む。
+msgctxt "BNG0_051"
+msgid ""
+"\n"
+"I turn and launch myself at the Library soldiers."
+msgstr ""
+"Я рвучко розвернувся й кинувся вперед — сам просто в кільце солдатів\n"
+"Бібліотеки."
+
+#. Key: BNG0_052
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: NOL Soldier C
+#. Context: Bang story route (POV: Bang)
+#. JA: 「う、討ち取れ！」
+msgctxt "BNG0_052"
+msgid "<DQ>T-Take them out!<DQ>"
+msgstr "«У-убити його!»"
+
+#. Key: BNG0_053
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   狼狽と共に図書館の兵は術式を発動させる。
+#. JA:   言葉が形となり、矢のような物が降り注いでくる。
+msgctxt "BNG0_053"
+msgid ""
+"\n"
+"I catch them by surprise, but the man I hit has time to fire off an Ars Armagus.\n"
+"Some sort of...thing almost akin to arrows rains down on me."
+msgstr ""
+"Розгублені солдати Бібліотеки активували магічні формули. Слова\n"
+"набули форми, й на мене градом полетіло щось подібне до стріл."
+
+#. Key: BNG0_054
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「そんな爪楊枝！　拙者には霧雨と変わらぬでござる！」
+msgctxt "BNG0_054"
+msgid ""
+"\n"
+"<DQ>Hah! What are you firing? Toothpicks?<DQ>"
+msgstr "«Ці зубочистки для мене не страшніші за дрібний дощ!»"
+
+#. Key: BNG0_055
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 鬼を見たような驚きと怯えの目を、図書館の兵どもが拙者に向けた。
+msgctxt "BNG0_055"
+msgid "They look at me like I'm some sort of demon."
+msgstr ""
+"Солдати Бібліотеки витріщилися на мене з жахом, наче побачили\n"
+"демона."
+
+#. Key: BNG0_056
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   ―――よかろう。お主らから民を守るためならば。
+#. JA:   　　　　　　　　　このバング。悪鬼羅刹と化すでござる―――
+msgctxt "BNG0_056"
+msgid ""
+"\n"
+"Very well. If a demon is what's needed to protect the innocent, then a demon I'll be."
+msgstr ""
+"— Гаразд. Якщо заради захисту людей від вас Банґ мусить стати лютим\n"
+"демоном, то так тому й бути —"
+
+#. Key: BNG0_057
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   所詮、図書館の兵など信念のないただの走狗。
+#. JA:   拙者の敵になるはずもなく、十数人を簡単に打ち倒した。
+msgctxt "BNG0_057"
+msgid ""
+"\n"
+"These men are only dogs following the orders of their master.\n"
+"They are no match for me. With a single move, I take out almost a dozen of them."
+msgstr ""
+"Зрештою, солдати Бібліотеки були лише безвольними псами на\n"
+"побігеньках. Вони не могли мені протистояти, і я легко повалив понад\n"
+"десяток."
+
+#. Key: BNG0_058
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「我が国を焼いた憎き敵であっても命までは奪わぬ。
+#. JA:   　どことなりに逃げるがいい！」
+msgctxt "BNG0_058"
+msgid ""
+"\n"
+"<DQ>You bastards burned down my village...but I will not take your lives.\n"
+" Now, get out of my sight...before I change my mind.<DQ>"
+msgstr ""
+"«Хай ви й ненависні вороги, які спалили нашу країну, я не заберу ваших\n"
+"життів. Тікайте куди завгодно!»"
+
+#. Key: BNG0_059
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   呻く図書館の兵どもに告げ、拙者は燃える炎の向こうに目を向けた。
+#. JA:   すでに天守閣にまで、火が上がっている。
+msgctxt "BNG0_059"
+msgid ""
+"\n"
+"As the Library soldiers begin to drag their broken and battered bodies away,\n"
+"I look past them to the burning castle."
+msgstr ""
+"Промовивши це до солдатів Бібліотеки, що стогнали на землі, я\n"
+"поглянув за стіну полум'я. Вогонь уже дістався головної вежі замку."
+
+#. Key: BNG0_060
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   どおっと轟音を響かせ、天守閣の一部が爆発を起こした。
+#. JA:   拙者の背筋に悪寒が走る。
+msgctxt "BNG0_060"
+msgid ""
+"\n"
+"As I watch, a part of the castle explodes, and shivers run down my spine."
+msgstr ""
+"Із громовим гуркотом частина головної вежі вибухнула. Моєю спиною\n"
+"пробіг мороз."
+
+#. Key: BNG0_061
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   ―――もしや、殿は未だあの天守閣に？
+msgctxt "BNG0_061"
+msgid ""
+"\n"
+"...Could...Could my master still be in the tower?"
+msgstr "— Невже мій володар досі в головній вежі?"
+
+#. Key: BNG0_062
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   その瞬間、拙者は疾風と化した。
+#. JA:   炎の中を一気に駆け抜け、天守閣を囲む堀に到達すると、
+#. JA:   数名いた守衛がこちらに気付いた。
+msgctxt "BNG0_062"
+msgid ""
+"\n"
+"There was no time to waste. I took off toward the castle like a gust of wind.\n"
+"Before long I was near the moat. Only a few guards were left."
+msgstr ""
+"Тієї ж миті я перетворився на вихор. Стрімко промчав крізь полум'я й\n"
+"дістався рову довкола головної вежі. Кілька вартових помітили мене."
+
+#. Key: BNG0_063
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate D
+#. Context: Bang story route (POV: Bang)
+#. JA: 「バ、バング様！　よいところにっ……！」
+msgctxt "BNG0_063"
+msgid "<DQ>Boss Bang! Your timing couldn't have been more perfect...!<DQ>"
+msgstr "«Б-босе Банґу! Як добре, що ви прийшли...!»"
+
+#. Key: BNG0_064
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   その一言で拙者は察した。駆ける足を止めずに怒鳴り返す。
+msgctxt "BNG0_064"
+msgid ""
+"\n"
+"He didn't need to say anything more. I knew what was happening.\n"
+"Without taking the time to properly thank him, I rushed through the gates and\n"
+"into the castle."
+msgstr ""
+"Цих слів було досить, щоб я все зрозумів. Не сповільнюючи бігу, я\n"
+"вигукнув у відповідь:"
+
+#. Key: BNG0_065
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「拙者が殿を助けに参る！
+#. JA:   　そなたたちは街に行き一人でも多くの民を助けるのだ！　とおっ！！」
+msgctxt "BNG0_065"
+msgid ""
+"\n"
+"<DQ>I'll go rescue the lord!\n"
+" You guys go back to town and save as many villagers as you can!\n"
+" TOH!<DQ>"
+msgstr ""
+"«Я врятую володаря! А ви йдіть до міста й урятуйте якомога більше\n"
+"людей! То-о-о!!»"
+
+#. Key: BNG0_066
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   気合いと共に堀を飛び越える。
+#. JA:   さらに塀を蹴って、一気に天守閣の回廊へと飛び込んだ。
+msgctxt "BNG0_066"
+msgid ""
+"\n"
+"With sheer will-power, I leap over the moat into the castle gallery.\n"
+"I kick down the wall and make my way to the corridor of the tower."
+msgstr ""
+"Із бойовим криком я перестрибнув рів. Потім відштовхнувся від стіни й\n"
+"одним махом залетів на галерею головної вежі."
+
+#. Key: BNG0_067
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   すでに周りは火の海だ。
+#. JA:   これでは、天守閣がいつ燃え落ちるともわからぬ。
+#. JA:   拙者は殿、と幾度も叫びながら、上へと向かった。
+msgctxt "BNG0_067"
+msgid ""
+"\n"
+"Flames lick the walls all around me.\n"
+"It's only a matter of time until the castle burns down.\n"
+"I shout my master's name as I run upstairs."
+msgstr ""
+"Навколо вже вирувало море вогню. Головна вежа могла обвалитися\n"
+"будь-якої миті. Знову й знову гукаючи володаря, я підіймався нагору."
+
+#. Key: BNG0_068
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 「殿！　我が殿っ！　いずこに御座すでござるか！」
+msgctxt "BNG0_068"
+msgid "<DQ>Lord! Where are you, lord!?<DQ>"
+msgstr "«Володарю! Мій володарю! Де ви?!»"
+
+#. Key: BNG0_069
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   拙者が最上階の部屋に駆け込んだ、その刹那―――
+#. JA:   恐ろしく鋭利な殺気を感じ、反射的に横に飛んだ。
+#. JA:   直後、拙者の真横を一条の青白い何かが空を裂いた。
+msgctxt "BNG0_069"
+msgid ""
+"\n"
+"I throw open the door and leap into the only room on the top floor.\n"
+"The moment I enter, I feel a cold, vicious presence.\n"
+"I instinctively hop to the side as a bolt of blue and white rips through the air."
+msgstr ""
+"Щойно я вбіг до кімнати на найвищому поверсі, то відчув моторошно\n"
+"гостру жагу до вбивства й рефлекторно стрибнув убік. Тієї ж миті просто\n"
+"повз мене пролетіла синювато-біла смуга, розтинаючи повітря."
+
+#. Key: BNG0_070
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   空を裂いたのは、冷気。
+#. JA:   炎に照らされて虚空に踊るそれらは、紛れもない氷雪であった。
+#. JA:   炎に巻かれているはずのその部屋の有様に、拙者は目を疑った。
+msgctxt "BNG0_070"
+msgid ""
+"\n"
+"What is this...? Ice?\n"
+"I stare, dumbfounded, at the cluster of crystals sprouting from where I just was.\n"
+"How is this possible? What is ice doing in a room enveloped in flames?"
+msgstr ""
+"Повітря розтинав холод. У світлі полум'я кружляли справжні сніг та\n"
+"крига. Я не повірив очам, побачивши таке в кімнаті, яку мав поглинути\n"
+"вогонь."
+
+#. Key: BNG0_071
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「な……なんでござるか……これは……？」
+msgctxt "BNG0_071"
+msgid ""
+"\n"
+"<DQ>Wh-What...is this...?<DQ>"
+msgstr "«Щ-що... це таке...?»"
+
+#. Key: BNG0_072
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   炎などどこにもない。全てが青白く、凍り付いている。
+#. JA:   
+#. JA:   そんな氷雪の間と化した部屋の中央に、人が倒れていた。
+#. JA:   見覚えのある衣装を身にまとう人物は、紛れもなく殿その人だった。
+msgctxt "BNG0_072"
+msgid ""
+"There's no fire here. Everything is frozen, bathed in blue-white light.\n"
+"\n"
+"Amidst the ice and snow, I see a crumpled figure of a man lying on the floor.\n"
+"He's wearing my master's clothes."
+msgstr ""
+"Вогню ніде не було. Усе довкола замерзло й відливало синювато-білим.\n"
+"Посеред кімнати, перетвореної на крижану пустку, лежала людина.\n"
+"Знайоме вбрання не лишало сумнівів: то був мій володар."
+
+#. Key: BNG0_073
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 殿の横には、若い男が立っている。
+#. JA:   その男はただ、無表情で殿を見下ろしていた。
+msgctxt "BNG0_073"
+msgid ""
+"A young man is standing next to my master.\n"
+"His face is as blank and cold as this room. "
+msgstr ""
+"Поруч із моїм володарем стояв молодий чоловік. Він мовчки й без\n"
+"жодного виразу дивився на нього згори."
+
+#. Key: BNG0_074
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「殿！　無事でござるか？　殿、殿！！！……貴様！！！」
+msgctxt "BNG0_074"
+msgid ""
+"\n"
+"<DQ>My lord! Are you all right? My lord! My lord!\n"
+" ...Bastard!<DQ>"
+msgstr "«Володарю! Ви живі? Володарю! Володарю!! ...Ти!!!»"
+
+#. Key: BNG0_075
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ちらりと男が横目で拙者を見た。恐ろしく冷たい目をしていた。
+msgctxt "BNG0_075"
+msgid ""
+"\n"
+"The boy turns to look at me. His eyes are like twin shards of blue ice."
+msgstr ""
+"Чоловік кинув на мене короткий погляд. Його очі були моторошно\n"
+"холодні."
+
+#. Key: BNG0_076
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「うっとうしい」
+msgctxt "BNG0_076"
+msgid ""
+"\n"
+"<DQ>Just shut up...<DQ>"
+msgstr "«Як же ти дратуєш.»"
+
+#. Key: BNG0_077
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: その呟きと同時に、男の手が霞んだ。その直後、拙者の顔に灼熱感が走る。
+#. JA:   男が剣を振るったのだと気づいた時には、さらにこの身が氷に閉ざされてからだった。
+msgctxt "BNG0_077"
+msgid ""
+"\n"
+"One of his hands is suddenly a blur of motion. I don't realize he's swung his sword\n"
+"until I feel pain sear its way across my face and find myself frozen in a block of\n"
+"ice."
+msgstr ""
+"Разом із цим бурмотінням його рука зникла з очей. Наступної миті моє\n"
+"обличчя обпекло. Я зрозумів, що він змахнув мечем, лише коли все моє\n"
+"тіло скувала крига."
+
+#. Key: BNG0_078
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「ぐあっ……」
+msgctxt "BNG0_078"
+msgid ""
+"\n"
+"<DQ>Argh...<DQ>"
+msgstr "«Ґх...»"
+
+#. Key: BNG0_079
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   「この程度とはな……。話と大違いだ。
+#. JA:   　くだらない……本当にくだらない……」
+msgctxt "BNG0_079"
+msgid ""
+"\n"
+"<DQ>...I expected a lot more from you.\n"
+" How foolish of me...<DQ>"
+msgstr ""
+"«І це все...? Зовсім не те, що мені розповідали. Нікчемно... Справді\n"
+"нікчемно...»"
+
+#. Key: BNG0_080
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   凍りついた身体は動かず、意識さえ消えつつある拙者の横を男が無造作に立ち去る。
+#. JA:   整った、しかし冷酷な顔つきだった。
+msgctxt "BNG0_080"
+msgid ""
+"\n"
+"I can't move. I can feel my mind starting to fade as the boy walks out of the room.\n"
+"He gives me one last cold look before he leaves."
+msgstr ""
+"Закуте кригою тіло не рухалося, свідомість уже згасала, а чоловік\n"
+"байдуже пройшов повз мене. Його вродливе обличчя було сповнене\n"
+"жорстокої холодності."
+
+#. Key: BNG0_081
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   
+#. JA:   ―――その顔。決して忘れぬぞ。
+msgctxt "BNG0_081"
+msgid ""
+"\n"
+"\n"
+"I swear...I'll never forget his face...as long as I live."
+msgstr "— Це обличчя. Я ніколи його не забуду."
+
+#. Key: BNG0_082
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   そう誓ったその瞬間、天守閣は、燃え落ちた。
+msgctxt "BNG0_082"
+msgid ""
+"\n"
+"As I make the promise to myself, the castle finally collapses."
+msgstr "Тієї миті, коли я дав собі цю клятву, головна вежа згоріла й обвалилася."
+
+#. Key: BNG0_083
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   この日が、イカルガの滅びた日とされている。
+msgctxt "BNG0_083"
+msgid ""
+"\n"
+"People will say this was the day Ikaruga fell, but they'll be wrong."
+msgstr "Цей день вважають днем загибелі Ікаруґи."
+
+#. Key: BNG0_084
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   
+#. JA:   だが、イカルガは決して滅びぬ。
+#. JA:   このシシガミ＝バングが、正義と愛と、民を守る限り。
+msgctxt "BNG0_084"
+msgid ""
+"\n"
+"Ikaruga didn't fall today, and it never will.\n"
+"Not as long as Bang Shishigami is alive, to protect justice, love, and the people of\n"
+"his country."
+msgstr ""
+"Та Ікаруґа ніколи не загине. Доки Банґ Шішіґамі захищає\n"
+"справедливість, любов і свій народ."
+
+#. Key: BNG0_089
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: このカグツチの地に我らが移り住んで数年。
+#. JA:   人々の営みも、ずいぶんと根付いたでござるな。
+msgctxt "BNG0_089"
+msgid ""
+"It's been a few years since we moved to Kagutsuchi. But, the people have adapted\n"
+"quite nicely..."
+msgstr ""
+"Минуло кілька років, відколи ми оселилися в Каґуцучі. Люди вже добре\n"
+"облаштували тут своє життя."
+
+#. Key: BNG0_090
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 浪人街などと不本意な名で呼ばれようとも、
+#. JA:   この街は今や我らイカルガの民にとって第二の故郷。
+#. JA:   拙者シシガミ＝バングが必ずや護ってみせるでござる。
+msgctxt "BNG0_090"
+msgid ""
+"Though this town has been given the name Ronin-gai, it is still like a second home\n"
+"to myself...and all of the villagers of Ikaruga. That is why I swear to protect it with\n"
+"my life."
+msgstr ""
+"Хай це місце й називають неприємним мені ім'ям «Ронін-ґай», тепер\n"
+"воно стало другою батьківщиною для народу Ікаруґи. І я, Банґ Шішіґамі,\n"
+"неодмінно його захищу."
+
+#. Key: BNG0_091
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate A
+#. Context: Bang story route (POV: Bang)
+#. JA: バング様、そのようなところで何をしておられるので？
+msgctxt "BNG0_091"
+msgid "What are you doing there, Boss Bang?"
+msgstr "Босе Банґу, що ви там робите?"
+
+#. Key: BNG0_092
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate B
+#. Context: Bang story route (POV: Bang)
+#. JA: 貰ってきましたぜ、お頭！　新しい賞金首の手配書！
+msgctxt "BNG0_092"
+msgid "I've finally got it, boss! The new wanted list!"
+msgstr "Босе, я приніс! Новий список розшукуваних злочинців!"
+
+#. Key: BNG0_093
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 使いにやった部下二人が戻ってきた。
+#. JA:   下の橋で、拙者を呼んでいる。
+msgctxt "BNG0_093"
+msgid ""
+"Two of my men are back from an errand I'd sent them on.\n"
+"I can hear them calling me from the bridge below."
+msgstr ""
+"Двоє поплічників, яких я відрядив у справах, повернулися. Вони гукали\n"
+"мене з мосту внизу."
+
+#. Key: BNG0_094
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: そうか！　今行くぞ、とおっ！！
+msgctxt "BNG0_094"
+msgid ""
+"Is that right!? I'll be right there!\n"
+"Toh!"
+msgstr "Он як! Уже йду! То-о-о!!"
+
+#. Key: BNG0_095
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 下の橋までは１０メートル以上離れている。
+#. JA:   だが、イカルガ流忍術の使い手には、
+#. JA:   この程度の跳躍など朝飯前の当たり前のこんこんちきでござる。
+msgctxt "BNG0_095"
+msgid ""
+"I'm more than thirty feet above the bridge. It's an impossible leap for most men.\n"
+"But Bang Shishigami is not most men! To a master of Ikaruga-style ninjutsu such\n"
+"as myself, a leap like this is as easy as taking a step. "
+msgstr ""
+"До мосту внизу було понад десять метрів. Але для майстра нінджюцу\n"
+"Ікаруґи такий стрибок — легше легкого, звична дрібниця."
+
+#. Key: BNG0_097
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: こ、ここでの突風は予想外でござ―――
+msgctxt "BNG0_097"
+msgid "Wh-Where did that gust...come from...?"
+msgstr "Я-я не чекав тут такого пориву вітру —"
+
+#. Key: BNG0_100
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate A
+#. Context: Bang story route (POV: Bang)
+#. JA: お頭っ！　お怪我はございやせんか？
+msgctxt "BNG0_100"
+msgid "Boss! Are you OK?"
+msgstr "Босе! Ви не забилися?"
+
+#. Key: BNG0_101
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate B
+#. Context: Bang story route (POV: Bang)
+#. JA: 顔から着地は何かの新技っすか？
+msgctxt "BNG0_101"
+msgid "Is that a new technique? To fall on your face... Sir?"
+msgstr "Приземлитися на обличчя — це якась нова техніка?"
+
+#. Key: BNG0_102
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者は橋の床にめり込んだ顔を引っこ抜き、
+#. JA:   その勢いでとんぼ返りを決めた。顔面がひりひりするが、
+#. JA:   この程度など痛くないと念じれば平気でござる。
+msgctxt "BNG0_102"
+msgid ""
+"I pull my head free of the bridge and use the moment to execute a perfect backflip.\n"
+"My face hurts pretty badly, but to a ninja, pain is a state of mind."
+msgstr ""
+"Я витягнув обличчя з настилу мосту й тим самим рухом виконав\n"
+"бездоганне сальто назад. Обличчя пекло, та якщо переконати себе, що це\n"
+"зовсім не боляче, то все буде гаразд."
+
+#. Key: BNG0_103
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: イカルガ男児たる者、
+#. JA:   この程度で涙など見せてはならないのでござるよ。
+msgctxt "BNG0_103"
+msgid ""
+"I can hardly call myself a man of Ikaruga if I allow myself to shed tears over a\n"
+"simple flesh wound such as this!"
+msgstr "Справжній чоловік Ікаруґи не має права плакати через таку дрібницю."
+
+#. Key: BNG0_104
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ……死ぬかと思ったのは、激しく秘密でござる。
+msgctxt "BNG0_104"
+msgid ""
+"...I really did think I was going to die there for a minute, though...\n"
+"Maybe I should just keep that to myself..."
+msgstr ""
+"...А те, що я мало не подумав, ніби помру, залишиться великою\n"
+"таємницею."
+
+#. Key: BNG0_105
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 秘技！
+#. JA:   顔から落ちたように見せかけて相手の油断を誘うフリ！！
+msgctxt "BNG0_105"
+msgid ""
+"Hah! That was my new technique! I pretend to fall on my face to catch my\n"
+"opponents off guard!"
+msgstr ""
+"Таємна техніка! Удаю, ніби впав долілиць, щоб супротивник утратив\n"
+"пильність!!"
+
+#. Key: BNG0_106
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate A
+#. Context: Bang story route (POV: Bang)
+#. JA: さっすがお頭！　失敗してもただでは起きない。
+msgctxt "BNG0_106"
+msgid "I gotta hand it to you, boss! You are an expert on turning anything around."
+msgstr "Оце наш бос! Навіть невдачу перекрутить собі на користь."
+
+#. Key: BNG0_107
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate B
+#. Context: Bang story route (POV: Bang)
+#. JA: 格好いいですぜ、お頭！
+msgctxt "BNG0_107"
+msgid "Looking sharp there, boss!"
+msgstr "Босе, який же ви крутий!"
+
+#. Key: BNG0_108
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者は手配書を受け取った。白い髪の男。
+#. JA:   なかなかにふてぶてしい面をしたイケメンでござるが、
+#. JA:   拙者にはちょいとばかり男っぷりで及ばない。
+msgctxt "BNG0_108"
+msgid ""
+"I take a look at the wanted poster they've brought me.\n"
+"There's a man on it with white hair and an attitude. He's pretty handsome, but he's\n"
+"nowhere near as manly as me."
+msgstr ""
+"Я взяв список розшукуваних. Біловолосий чоловік із доволі зухвалою\n"
+"вродливою пикою, але мужністю він мені трохи поступався."
+
+#. Key: BNG0_109
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ラグナ＝ザ＝ブラ、ええい、呼びにくい。ブラッド、エッジエッジ。
+#. JA:   通り名は「死神」。「世界虚空統制情報機構」認定のＳＳ級反逆者。
+#. JA:   史上最高の賞金首―――とな。
+msgctxt "BNG0_109"
+msgid ""
+"Ragna the Bloo— Wha— Arg, it's hard to say. Blood. Edge. Let's see...\n"
+"The SS-class bounty commonly known as the <DQ>Grim Reaper<DQ>...\n"
+"Whoa! Largest bounty in NOL history...?"
+msgstr ""
+"Раґна Бла... Тьху, язика зламаєш. Блад... Едж-едж. Прізвисько —\n"
+"«Жнець». Злочинець класу SS за класифікацією Всесвітньої Організації\n"
+"Контролю Інформації. Найвища винагорода в історії..."
+
+#. Key: BNG0_110
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 統制機構に独りで挑むとは、大悪党にしては見上げた男。
+#. JA:   しかし、世を騒がすのは感心できぬでござる。よかろう。
+#. JA:   その賞金、拙者がイカルガ復興のために貰い受けようぞ！！
+msgctxt "BNG0_110"
+msgid ""
+"An impressive villain... To stand up against the Librarium all alone...\n"
+"But I cannot overlook the trouble he causes...\n"
+"Very well! His bounty... I will use it to rebuild Ikaruga!"
+msgstr ""
+"Самому кинути виклик Організації Контролю — як на великого лиходія,\n"
+"він гідний поваги. Але здіймати такий безлад у світі не годиться. Що ж,\n"
+"винагороду за нього я отримаю й витрачу на відбудову Ікаруґи!!"
+
+#. Key: BNG0_111
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Subordinate A
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   お頭、お達者で！！
+msgctxt "BNG0_111"
+msgid "Be safe, boss!"
+msgstr "Босе, бережіть себе!!"
+
+#. Key: BNG0_113
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 応！
+#. JA:   吉報を待っているでござる！
+msgctxt "BNG0_113"
+msgid ""
+"Of course!\n"
+"I shall return with good news!"
+msgstr "Авжеж! Чекайте на добрі звістки!"
+
+#. Key: BNG0_115
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: カグツチの平和を守るため。
+#. JA:   イカルガ復興のため。拙者は駆ける。
+msgctxt "BNG0_115"
+msgid "To protect the peace of Kagutsuchi and recover Ikaruga, I run. "
+msgstr "Заради миру в Каґуцучі. Заради відбудови Ікаруґи. Я мчу вперед."
+
+#. Key: BNG0_116
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 待っておれ、大悪党ラグナ＝ザ＝ブラッドエッジ！
+msgctxt "BNG0_116"
+msgid "Wait for me, villain, <DQ>Ragna the Bloodedge<DQ>!"
+msgstr "Чекай на мене, великий лиходію «Раґно Бладедж»!"
+
+#. Key: BNG0_117
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 愛と正義の快男児、シシガミ＝バング！
+#. JA:   いざ参る！
+msgctxt "BNG0_117"
+msgid ""
+"The guardian of love and justice, Bang Shishigami!\n"
+"...will bring you down!"
+msgstr "Банґ Шішіґамі, звитяжець любові й справедливості! До бою!"
+
+#. Key: BNG1_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――と言う……の。これは……
+msgctxt "BNG1_002"
+msgid "...That's what it seems like. This is quite a serious matter..."
+msgstr "...Ось що я хотіла сказати. Це..."
+
+#. Key: BNG1_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: ……なるほど……それは……捨て置けない……
+msgctxt "BNG1_003"
+msgid "...I see... That can't be ignored..."
+msgstr "...Зрозуміло... Цього не можна лишати без уваги..."
+
+#. Key: BNG1_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――やや、あれに見えるはライチ殿。
+#. JA:   我が愛しの君が、なにやら見知らぬ大男と話しこんでいた。
+msgctxt "BNG1_005"
+msgid "Huh? That must be Litchi over there, but... Who's the man next to her?"
+msgstr ""
+"О! Та це ж пані Лічі. Моя кохана про щось розмовляла з незнайомим\n"
+"здоровилом."
+
+#. Key: BNG1_006
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: まさか恋人などというものではあるまいな、と耳をそばだてるが、流石に距離があるせいかここからでは声がよく聞こえない。
+msgctxt "BNG1_006"
+msgid ""
+"Could— Could he be her boyfriend? I can't hear what they're talking about from\n"
+"here."
+msgstr ""
+"Невже це її коханий? Я нашорошив вуха, та відстань була завеликою і\n"
+"слів я не розбирав."
+
+#. Key: BNG1_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: だがこれでは盗み聞き。正義にもとる卑劣な行為だ。
+#. JA:   ―――ああそれでも気になるは我が愛しのライチ殿っ。
+#. JA:   鍛えられた聴覚をとぎすましてしまう拙者を許してくだされっ。
+msgctxt "BNG1_007"
+msgid ""
+"No! This is what they call <DQ>eavesdropping<DQ>! It's a despicable act and an affront to\n"
+"justice...but I can't take my mind off of my beloved Miss Litchi! Please, gods of\n"
+"justice, forgive me for trying so hard to overhear their conversation!"
+msgstr ""
+"Але це «підслуховування» — негідний вчинок, що суперечить\n"
+"справедливості. Та все ж мене так непокоїть моя кохана пані Лічі!\n"
+"Пробачте мені, що я напружую свій тренований слух!"
+
+#. Key: BNG1_008
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 私は続けて調べるわ。貴方も気をつけてね。
+msgctxt "BNG1_008"
+msgid "I'll continue my research. You be careful, too."
+msgstr "Я продовжу розслідування. Ти теж будь обережний."
+
+#. Key: BNG1_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: 待て、ライチ。それは危険すぎる。
+msgctxt "BNG1_009"
+msgid "Wait, Litchi. That's too dangerous. "
+msgstr "Зачекай, Лічі. Це надто небезпечно."
+
+#. Key: BNG1_010
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 大丈夫、そんなに心配しなくても。じゃあまたね。
+msgctxt "BNG1_010"
+msgid "I'll be fine. Quit worrying about me. I'll see you later."
+msgstr "Усе буде гаразд, не хвилюйся так. До зустрічі."
+
+#. Key: BNG1_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: そこの男！　聞き捨てならぬぞ、ライチ殿を呼び捨てるとは！！
+msgctxt "BNG1_012"
+msgid "You there! I can't stand here and let you talk to Miss Litchi like that!"
+msgstr ""
+"Гей, ти! Я цього так не залишу! Як ти смієш називати пані Лічі без\n"
+"належної пошани?!"
+
+#. Key: BNG1_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: ……やぶからぼうに何だ、お前は。
+msgctxt "BNG1_014"
+msgid "...And, who might you be?"
+msgstr "...Ти ще хто такий і чого так раптово причепився?"
+
+#. Key: BNG1_015
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 問われて名乗るもおこがましいが、
+#. JA:   耳の穴かっぽじって我が名を魂に刻み込めぇい！
+msgctxt "BNG1_015"
+msgid ""
+"Hah! It is only polite to tell your name before asking others... But I will say it only\n"
+"once... I suggest you pay attention!"
+msgstr ""
+"Називатися лише тому, що мене запитали, дещо нескромно, але\n"
+"прочисть вуха й закарбуй моє ім'я у своїй душі!"
+
+#. Key: BNG1_016
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者はシシガミ＝バング！
+#. JA:   正義のために愛を貫く忠義の忍！
+#. JA:   イカルガ最強の咎追いとは、拙者のことでござる！
+msgctxt "BNG1_016"
+msgid ""
+"I'm Bang Shishigami!\n"
+"The loyal ninja who fights for love and justice!\n"
+"The strongest vigilante in all of Kagutsuchi! "
+msgstr ""
+"Я — Банґ Шішіґамі! Відданий нінджя, що бореться за любов і\n"
+"справедливість! Найсильніший мисливець за головами в усій Ікарузі —\n"
+"це я!"
+
+#. Key: BNG1_017
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: 暑苦しい男だな……。
+#. JA:   その忠義の忍が、私に一体何の用だ。
+msgctxt "BNG1_017"
+msgid ""
+"Aren't you a little too enthusiastic...?\n"
+"So, what does a ninja like you want from me?"
+msgstr ""
+"Який же ти галасливий... І що цьому відданому нінджя від мене\n"
+"потрібно?"
+
+#. Key: BNG1_018
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: な、な、な、何の用だと？
+#. JA:   白々しいわ、ライチ殿を怪しげな宗教にでも
+#. JA:   勧誘しようという魂胆でござるな！！
+msgctxt "BNG1_018"
+msgid ""
+"<DQ>Wh-Wh-Wh-What do you want from me?<DQ> Don't play dumb. I know that you're\n"
+"trying to convince Miss Litchi to join a cult or something!"
+msgstr ""
+"«Щ-щ-що мені потрібно?!» Не прикидайся! Ти задумав заманити пані\n"
+"Лічі до якоїсь підозрілої секти!"
+
+#. Key: BNG1_019
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: ……会話になっていないな。
+#. JA:   ライチがどうかしたのか？
+msgctxt "BNG1_019"
+msgid "...This is hardly a conversation. What were you saying about Litchi?"
+msgstr "...З тобою неможливо розмовляти. Що там із Лічі?"
+
+#. Key: BNG1_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ぬおおっ、またしても麗しのライチ殿を呼び捨てに！
+#. JA:   もう勘弁ならん、そこに直れいっ！！
+msgctxt "BNG1_020"
+msgid ""
+"Guaaaah! That's -Miss- Litchi to you!\n"
+"I can't stand it anymore. I'll set you straight!"
+msgstr ""
+"Ну-о-о! Ти знову назвав прекрасну пані Лічі без пошани! З мене годі —\n"
+"стань рівно й прийми кару!"
+
+#. Key: BNG1_024
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ぬ、ぬかったわ……。
+#. JA:   このシシガミ＝バングともあろう者が……。
+#. JA:   む、無念……がくり。
+msgctxt "BNG1_024"
+msgid ""
+"I...I have failed... How could this...happen to me...?\n"
+"*thud*"
+msgstr "Я-я дав маху... Щоб сам Банґ Шішіґамі... Яка ганьба... геп."
+
+#. Key: BNG1_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: 何なんだ、この男は。
+msgctxt "BNG1_025"
+msgid "What was that about?"
+msgstr "Що це взагалі було?"
+
+#. Key: BNG1_030
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: はぁはぁはぁ……思い……知ったでござるか。
+msgctxt "BNG1_030"
+msgid "*pant* ...That'll...show you."
+msgstr "Ха, ха, ха... Тепер... зрозумів?"
+
+#. Key: BNG1_031
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: ああ。いささか強引だが、ライチ―――
+msgctxt "BNG1_031"
+msgid "I suppose I was a little too harsh, but Litchi—"
+msgstr "Так. Може, я був дещо грубим, але Лічі —"
+
+#. Key: BNG1_033
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ぎろり。
+msgctxt "BNG1_033"
+msgid "*glare*"
+msgstr "*Свердлить поглядом*"
+
+#. Key: BNG1_035
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: ラ、ライチさんへの真剣な想いは理解した。
+#. JA:   そこでだ。彼女のことを頼めないだろうか。
+msgctxt "BNG1_035"
+msgid ""
+"I-I understand how strongly you feel about...Miss Litchi. \n"
+"Which is exactly why I'd like to ask you to look after her."
+msgstr ""
+"Я-я зрозумів, наскільки щирі твої почуття до... пані Лічі. Саме тому хочу\n"
+"попросити тебе про неї подбати."
+
+#. Key: BNG1_036
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: ライチ……さんはエリア28―――地下廃棄施設に向かった。
+#. JA:   心配なのだが、私には他に仕事があってな……。
+msgctxt "BNG1_036"
+msgid ""
+"M-Miss Litchi is heading for Area 28—the abandoned underground facility. I'm\n"
+"worried about her, but there is other business I must tend to..."
+msgstr ""
+"Пані Лічі вирушила до Зони 28 — покинутого підземного комплексу. Я\n"
+"непокоюся за неї, але маю інше завдання..."
+
+#. Key: BNG1_038
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ライチ殿のことを拙者に託すと？
+#. JA:   お主、さては良い男でござったか。人を見る目があるでござる。
+msgctxt "BNG1_038"
+msgid ""
+"You're gonna leave Miss Litchi to me? So you were a good person, after all...\n"
+"And a good judge of character, too, I might add..."
+msgstr ""
+"Ти доручаєш пані Лічі мені? Отже, ти все-таки добрий чоловік. І чудово\n"
+"розбираєшся в людях!"
+
+#. Key: BNG1_039
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: このシシガミ＝バング、
+#. JA:   漢と見込まれた頼みを断るような冷血漢ではないでござるよ。
+msgctxt "BNG1_039"
+msgid "I'm not a man so cold-hearted as to turn down a request."
+msgstr ""
+"Банґ Шішіґамі не настільки безсердечний, щоб відмовити чоловікові,\n"
+"який визнав у ньому справжнього чоловіка!"
+
+#. Key: BNG1_040
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ライチ殿のことは、このバングに任せるでござる！
+#. JA:   枕を高くしてイビキをかいているがよい！
+msgctxt "BNG1_040"
+msgid "Miss Litchi will be safe with me! I promise. Nothing to worry about... Ahahahaha!"
+msgstr ""
+"Довір пані Лічі Банґу! Можеш спати спокійно й хоч на весь голос\n"
+"хропіти!"
+
+#. Key: BNG1_041
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 先ほどは大人げなく全力を出して、正直すまなかったでござる。
+#. JA:   これもよい勉強と思うでござる。
+#. JA:   あー、いやいやいや。授業料はまけておいてやるでござるよ。
+msgctxt "BNG1_041"
+msgid ""
+"I must apologize for acting so rashly earlier...\n"
+"But, consider that a good lesson to you.\n"
+"Oh, and I won't ask you to pay for it... That one's on the house."
+msgstr ""
+"Пробач, що я так по-дитячому бився на повну силу. Вважай це корисним\n"
+"уроком. А-а, ні-ні, плати за навчання з тебе не візьму!"
+
+#. Key: BNG1_042
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ではまた会おうぞ、はーっはっはっはっはあっ！！
+msgctxt "BNG1_042"
+msgid "I'll see you around, hahahahahaha!"
+msgstr "Ще побачимося! Ха-ха-ха-ха-ха-а!"
+
+#. Key: BNG1_045
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: 行ったか……火山弾のような男だったな。
+#. JA:   しかし、ひたすらに真っ直ぐな男だった。
+#. JA:   あの強引さなら、今のライチを救えるかもしれない。
+msgctxt "BNG1_045"
+msgid ""
+"He's finally out of my sight... He just couldn't take <DQ>no<DQ> for an answer...\n"
+"Nonetheless, he was an honest man. With his passion, maybe he could even...save\n"
+"her..."
+msgstr ""
+"Пішов... Наче вулканічний снаряд. Та він був щирим і прямолінійним\n"
+"чоловіком і не знав слова «ні». Можливо, саме така наполегливість\n"
+"урятує теперішню Лічі."
+
+#. Key: BNG1_046
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Tager
+#. Context: Bang story route (POV: Bang)
+#. JA: ……いや、ちょっと言い過ぎか。
+msgctxt "BNG1_046"
+msgid "...Well, that might be an overstatement..."
+msgstr "...Ні, мабуть, я перебільшую."
+
+#. Key: BNG2_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……ライチ殿を見失ってしまったでござる。
+msgctxt "BNG2_002"
+msgid "...I have lost track of Miss Litchi. "
+msgstr "...Я загубив пані Лічі."
+
+#. Key: BNG2_004
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: まさかあのサイボーグ男、拙者を謀<ruby>たばか</ruby>ったのか？
+#. JA:   いやいや、あの男は拙者を漢と見込んだはず。
+#. JA:   方向は間違ってないはずでござる。
+msgctxt "BNG2_004"
+msgid ""
+"Did that cyborg guy trick me? No, no, he acknowledged me as a true man.\n"
+"The direction should be correct. "
+msgstr ""
+"Невже той кіборг мене обдурив? Ні-ні, він визнав у мені справжнього\n"
+"чоловіка. Отже, напрямок має бути правильним."
+
+#. Key: BNG2_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 何よりも拙者とライチ殿はこの五十五寸釘のごとく
+#. JA:   強靱な運命の絆で結ばれた者同士。
+#. JA:   今は会えずとも、いつか必ずや会えるはずでござる。
+msgctxt "BNG2_005"
+msgid ""
+"Miss Litchi and I are connected with the powerful bond of fate. I know that our paths \n"
+"will cross again...even if I can't see her now."
+msgstr ""
+"Зрештою, нас із пані Лічі пов'язують міцні узи долі, наче цей цвях\n"
+"завдовжки п'ятдесят п'ять сунів! Навіть якщо зараз ми не зустрілися,\n"
+"колись це неодмінно станеться."
+
+#. Key: BNG2_006
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: これも愛を成すための試練に違いないでござる！
+#. JA:   うおおおおおおおっ、ライチ殿ぉぉぉおおおっ！
+#. JA:   今行くでござ―――――――――――――――――る！！
+msgctxt "BNG2_006"
+msgid ""
+"This must be a challenge to test our love!\n"
+"Aaaaaaaaaah, Miss Litchi! I'll be right thereeeeeeeeeee!"
+msgstr ""
+"Це, без сумніву, випробування на шляху нашого кохання! У-о-о-о-о-о,\n"
+"пані Лі-і-і-ічі! Я вже йду-у-у-у-у-у-у-у-у-у-у-у!"
+
+#. Key: BNG2_008
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Unknown on screen; internally Ragna
+#. Context: Bang story route (POV: Bang)
+#. JA: うっせぇぞ、オッサン、耳元で叫ぶんじゃねーよ！！
+#. JA:   飯が不味くなるだろうが！
+msgctxt "BNG2_008"
+msgid ""
+"Shut up, old man! Stop screaming in my ear, will ya!?\n"
+"You're ruining my appetite!"
+msgstr "Замовкни, дядьку! Не горлай мені у вухо! Через тебе їжа смак псує!"
+
+#. Key: BNG2_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者をオッサン呼ばわりとは失礼千万！
+#. JA:   何奴でござる！！
+msgctxt "BNG2_009"
+msgid "How dare you call me an old man! Identify yourself!"
+msgstr "Називати мене дядьком — нечуване нахабство! Хто ти такий?!"
+
+#. Key: BNG2_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: やや！
+#. JA:   その白い髪、その間抜け顔<ruby>づら</ruby>！お主もしや極悪非道の賞金首、
+#. JA:   ラグナ＝ザ＝ブラッドエッジ！！
+msgctxt "BNG2_011"
+msgid ""
+"Huh!? That white hair— that stupid-ass face... You must be the super-villain, Ragna\n"
+"the Bloodedge!"
+msgstr ""
+"О! Біле волосся, дурнувата пика! Невже ти той украй жорстокий\n"
+"злочинець, Раґна Бладедж?!"
+
+#. Key: BNG2_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Ragna
+#. Context: Bang story route (POV: Bang)
+#. JA: 何だとテメェ！！
+msgctxt "BNG2_012"
+msgid "What did you say!?"
+msgstr "Що ти сказав, паскудо?!"
+
+#. Key: BNG2_112
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 正義の咎追いここに参上。神妙に御縄につけい！！
+msgctxt "BNG2_112"
+msgid ""
+"I'm the vigilante who will bring justice. And mark my words...you will not escape\n"
+"the iron grip of the law!"
+msgstr ""
+"Мисливець за головами, що несе справедливість, прибув! Змирися й дай\n"
+"себе зв'язати!"
+
+#. Key: BNG2_013
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Ragna
+#. Context: Bang story route (POV: Bang)
+#. JA: ……ちっ。テメェ咎追いかよ。
+#. JA:   しゃーねーな、ブッ潰してやるからかかってきな。
+msgctxt "BNG2_013"
+msgid ""
+"...Tch. Did you say you're a vigilante? I guess I have no choice then.\n"
+"Whenever you're ready, man. I'll crush you."
+msgstr ""
+"...Ц. То ти мисливець за головами. Нічого не вдієш: підходь, я тебе\n"
+"розчавлю."
+
+#. Key: BNG2_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 愛と勇気の頼れる忍者、シシガミ＝バング！
+#. JA:   いざ、尋常に勝負するでござる！
+msgctxt "BNG2_014"
+msgid ""
+"I -am- the trustworthy ninja, Bang Shishigami!\n"
+"Now, let's settle this fair and square!"
+msgstr "Надійний нінджя любові й відваги, Банґ Шішіґамі! До чесного двобою!"
+
+#. Key: BNG2_019
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ぬ、ぬかったわ……。
+#. JA:   このシシガミ＝バングともあろう者が……。
+#. JA:   む、無念……がくり。
+msgctxt "BNG2_019"
+msgid ""
+"I-I got caught off guard... I can't believe this... I am ashamed...\n"
+"*thud*"
+msgstr "Я-я дав маху... Щоб сам Банґ Шішіґамі... Яка ганьба... геп."
+
+#. Key: BNG2_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Ragna
+#. Context: Bang story route (POV: Bang)
+#. JA: これからは相手を見て喧嘩を売るんだな。
+#. JA:   あ、店のオヤジ！　飯代このオッサンからもらってくれ。
+#. JA:   んじゃ、ごちそうさ～ん。
+msgctxt "BNG2_020"
+msgid ""
+"Know who you're dealing with before you pick a fight.\n"
+"Ah, waiter! This gentleman said he'd cover my tab... Thanks for the meal."
+msgstr ""
+"Наступного разу дивися, з ким затіваєш бійку. Гей, господарю! Цей\n"
+"дядько заплатить за мою їжу. Дякую, було смачно!"
+
+#. Key: BNG2_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 前代未聞の大罪人ラグナ以下略、召し捕ったりぃぃぃい！！
+#. JA:   カグツチの平和は、これで守られた！
+#. JA:   これにて我がイカルガ復興への野望も一歩前進！
+msgctxt "BNG2_025"
+msgid ""
+"I've finally caught the notorious super-villain, Ragna— eh, skip the rest!\n"
+"The residents of Kagutsuchi can now sleep in peace!\n"
+"I am now one step closer to the reconstruction of Ikaruga!"
+msgstr ""
+"Небаченого злочинця Раґну і так далі — схоплено-о-о! Спокій Каґуцучі\n"
+"врятовано! А мої плани з відбудови Ікаруґи просунулися ще на крок!"
+
+#. Key: BNG2_026
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: この勢いで愛しのライチ殿の元へと駆けつけるでござる！
+#. JA:   拙者は疾風、愛の嵐、駆け抜ける情熱！
+#. JA:   いざ行かんっ！！
+msgctxt "BNG2_026"
+msgid ""
+"I feel like I could just fly to my dear Miss Litchi!\n"
+"I am...ze vind! A love-storm! Passion with legs!\n"
+"To my beloved!"
+msgstr ""
+"На крилах цього успіху я помчу до коханої пані Лічі! Я — вихор, буря\n"
+"кохання, нестримна пристрасть! Уперед!"
+
+#. Key: BNG2_030
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Ragna
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――行ったか。
+#. JA:   やれやれ、バカの相手は疲れるぜ。
+#. JA:   負けたフリも楽じゃねえな、ったく。
+msgctxt "BNG2_030"
+msgid ""
+"...He's finally gone. Seriously, it's exhausting to deal with an idiot like that.\n"
+"Geez. It's never easy pretending to lose."
+msgstr ""
+"...Пішов. От морока — від дурнів страшенно втомлюєшся. Та й удавати\n"
+"поразку нелегко, чорт забирай."
+
+#. Key: BNG3_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: おお！　あれこそはまさしく我が麗しのライチ殿！！
+#. JA:   ややっ!?　何やら奇っ怪なモノがそばにいるでござるな。
+msgctxt "BNG3_002"
+msgid ""
+"Oh! That must be my beautiful Miss Litchi over there! Huh!? Do I see an\n"
+"odd-looking figure standing by her!?"
+msgstr ""
+"О! Та це ж моя прекрасна пані Лічі! Овва?! Біля неї крутиться якась\n"
+"дивна потвора."
+
+#. Key: BNG3_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: はっ!?　もしやライチ殿、
+#. JA:   あの物の怪に襲われんとされておるのかっ？
+#. JA:   これは一大事！　今お助けするでござる！！
+msgctxt "BNG3_003"
+msgid ""
+"Wait a minute!? Is Miss Litchi about to be attacked by that monster!?\n"
+"A damsel in distress! I must come to her rescue!"
+msgstr ""
+"Що?! Невже ця потвора збирається напасти на пані Лічі? Лихо! Я зараз\n"
+"вас урятую!"
+
+#. Key: BNG3_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 助けるって、私を？　一体、何から？
+msgctxt "BNG3_005"
+msgid "Rescue me? From what?"
+msgstr "Урятуєте мене? Від чого?"
+
+#. Key: BNG3_006
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: そこの物の怪に決まってるでござる！
+#. JA:   ライチ殿、ここは拙者に任せて、早く逃げてくだされい！！
+msgctxt "BNG3_006"
+msgid ""
+"From that monster right there, of course! Miss Litchi, please leave it to me here,\n"
+"and escape now!"
+msgstr "Звісно ж, від цієї потвори! Пані Лічі, залиште все мені й мерщій тікайте!"
+
+#. Key: BNG3_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 逃げろって言われても……。ごめんなさい。
+#. JA:   私は彼と話があるの、だから邪魔しないで。
+msgctxt "BNG3_007"
+msgid "Escape...? I'm sorry. I need to talk to him, so please don't interrupt us."
+msgstr ""
+"Навіть якщо ви кажете тікати... Вибачте. Мені треба поговорити з ним,\n"
+"тож не заважайте."
+
+#. Key: BNG3_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ラ、ライチ殿……。
+#. JA:   拙者よりもその黒いウネウネを選ぶでござるか……
+msgctxt "BNG3_009"
+msgid "M-Miss Litchi... You would choose that squiggly over me...?"
+msgstr "П-пані Лічі... Ви обираєте цю чорну кривулю замість мене...?"
+
+#. Key: BNG3_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: も、もしや！
+#. JA:   ライチ殿、その黒いウネウネに取り憑かれているでござるな！
+#. JA:   今、その呪縛から解き放ってお助けするでござる！！
+msgctxt "BNG3_011"
+msgid ""
+"O-Oh, I got it... Miss Litchi, you must be haunted by that black squiggly thing-ey!\n"
+"I shall release you from that curse!"
+msgstr ""
+"Н-невже! Пані Лічі, ця чорна кривуля вами заволоділа! Я зараз звільню\n"
+"вас від її прокляття!"
+
+#. Key: BNG3_013
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 私は大丈夫だから、ここは私に任せて―――
+msgctxt "BNG3_013"
+msgid "I'm quite all right. Please leave him to—"
+msgstr "Зі мною все гаразд, залиште це мені —"
+
+#. Key: BNG3_015
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ちいぃ、どこまでも忌々しい物の怪め！
+#. JA:   これほどまでにライチ殿の精神を支配するとは―――意識を操って
+#. JA:   己が欲望を満たすつもりだろうが、そうは問屋が卸さぬ！！
+msgctxt "BNG3_015"
+msgid ""
+"Yuck, what a despicable beast! You must be controlling Miss Litchi's mind...Trying\n"
+"to satisfy your <DQ>desires<DQ> by manipulating others, eh...? Well, not on my watch!"
+msgstr ""
+"Клята потворо, яка ж ти огидна! Настільки підкорити розум пані Лічі...\n"
+"Ти керуєш її свідомістю, щоб задовольнити «власну хіть»! Але цьому не\n"
+"бувати!"
+
+#. Key: BNG3_016
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: この愛と正義の快男児、バング様が成敗してくれるわあ！！
+msgctxt "BNG3_016"
+msgid "I am the man of love and justice, Bang Shishigami! Prepare yourself!"
+msgstr ""
+"З тобою розправиться сам Банґ — доблесний герой любові й\n"
+"справедливості!"
+
+#. Key: BNG3_023
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ぬ、ぬかったわ……。このシシガミ＝バングともあろう者が、
+#. JA:   こんなウネウネに不覚をとろうとは……。
+#. JA:   す、すまぬライチ殿……せめてお幸せに……がくり。
+msgctxt "BNG3_023"
+msgid ""
+"I-I got caught off guard... I can't believe that I gave in to this squiggly thing... I-I'm\n"
+"sorry, Miss Litchi... The least I can do is wish you happiness... *thud*"
+msgstr ""
+"Я-я дав маху... Щоб сам Банґ Шішіґамі поступився такій кривулі...\n"
+"П-пробачте, пані Лічі... Бажаю вам хоча б щастя... геп."
+
+#. Key: BNG3_029
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 正しき者は必ず勝つ！　悪の栄えるためしなどないでござるわ！
+#. JA:   はーっはっはっはっはっはっはっはっはっ！
+msgctxt "BNG3_029"
+msgid ""
+"Justice always prevails! And evil will never prosper!\n"
+"Hahahahahahahah!"
+msgstr ""
+"Праведник завжди перемагає! Зло ніколи не процвітатиме!\n"
+"Ха-ха-ха-ха-ха-ха-ха-ха-ха!"
+
+#. Key: BNG3_030
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 天下太平、世はこともなし！
+#. JA:   これも拙者の活躍の賜物でござぁぁぁあるっ！！
+msgctxt "BNG3_030"
+msgid "The world is at peace, and all is right! It's all thanks to my earnest effooooooort!"
+msgstr "У світі панує мир і спокій! І все це завдяки моїм подвигам!"
+
+#. Key: BNG3_032
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ライチ殿が潤んだ瞳で拙者を見つめているでござる。
+#. JA:   あの物の怪から解放されたのが、それほどに嬉し―――
+msgctxt "BNG3_032"
+msgid ""
+"Miss Litchi is staring at me, and her eyes are filled with tears. She must be so\n"
+"happy to have finally broken free from—"
+msgstr ""
+"Пані Лічі дивиться на мене очима, повними сліз. Мабуть, вона така\n"
+"щаслива, що звільнилася від тієї потвори —"
+
+#. Key: BNG3_033
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: はっ？　も、もしや。
+#. JA:   物の怪を撃退した拙者の活躍に、ほ、ほほほほほ惚れ―――
+msgctxt "BNG3_033"
+msgid ""
+"Huh!? Could she have fallen in l-l-l-l-l-l-love with me because of my excellent\n"
+"performance—?"
+msgstr ""
+"Га? Н-невже вона з-з-з-з-закохалася в мене через мій славетний подвиг\n"
+"—"
+
+#. Key: BNG3_035
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 勢いに乗じて、ライチ殿に怒濤の愛の告白をするでござる
+msgctxt "BNG3_035"
+msgid "Take advantage of the situation and passionately confess."
+msgstr ""
+"Скористатися нагодою і приголомшити пані Лічі палким зізнанням у\n"
+"коханні"
+
+#. Key: BNG3_036
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ライチ殿にしっとりと愛の告白をするでござる
+msgctxt "BNG3_036"
+msgid "Cool off a bit and gently confess to Miss Litchi."
+msgstr "Ніжно зізнатися пані Лічі в коханні"
+
+#. Key: BNG3_041
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ライチ殿ぉぉおおおおおおっ！！
+#. JA:   好きでござぁぁぁぁぁぁぁるっ！！
+msgctxt "BNG3_041"
+msgid "Miss Litchiiii! I love youuuuuuuuuuuuu!"
+msgstr "Пані Лі-і-і-і-і-ічі! Я вас коха-а-а-а-а-а-а-аю!"
+
+#. Key: BNG3_042
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ライチ殿のお気持ちをお聞かせくだされっ。
+#. JA:   いや、拙者とて重々承知の上でござるが、
+#. JA:   是非ともライチ殿の口から直接聞きたいでござる！
+msgctxt "BNG3_042"
+msgid ""
+"Please, tell me how you feel about me! Though, I do have a pretty good hunch myself,\n"
+"I must hear it in your own words, Miss Litchi!"
+msgstr ""
+"Прошу, розкажіть мені про свої почуття. Я, звісно, і так усе чудово\n"
+"розумію, та неодмінно хочу почути це з уст самої пані Лічі!"
+
+#. Key: BNG3_043
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: そうね。
+#. JA:   バングさんは、いい人だと思うわ。
+msgctxt "BNG3_043"
+msgid "Of course. I think you're a good man, Bang."
+msgstr "Що ж, пане Банґу, я вважаю вас хорошою людиною."
+
+#. Key: BNG3_044
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: おお！
+#. JA:   ならばやはり我らの思いは同じということでござるか！
+msgctxt "BNG3_044"
+msgid "Oh! Then, that makes this affection mutual?"
+msgstr "О! То наші почуття все-таки взаємні?!"
+
+#. Key: BNG3_045
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ええ、これからもいいお友達でいましょ。
+msgctxt "BNG3_045"
+msgid "Yes. Let's stay good friends."
+msgstr "Так, залишаймося й надалі добрими друзями."
+
+#. Key: BNG3_048
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: そんなことより、問題は彼よ。どこに逃げてしまったのかしら。
+#. JA:   やっと捜し出したというのに、こんなことでまた見失うなんて。
+msgctxt "BNG3_048"
+msgid ""
+"Anyway, the problem is him. I wonder where he disappeared to. I thought I had\n"
+"finally found him, but...I let him get away again."
+msgstr ""
+"Та зараз важливіше інше: де він? Куди втік? Я щойно нарешті його\n"
+"знайшла — і знову втратила через таку дурницю."
+
+#. Key: BNG3_050
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: あの、バングさん？
+#. JA:   茫然としちゃって、どうかしたの？
+msgctxt "BNG3_050"
+msgid "Um, Bang? What's with that stunned look on your face?"
+msgstr "Пане Банґу? Чому ви так заціпеніли? Щось сталося?"
+
+#. Key: BNG3_052
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: も、もしや、全ては拙者の早とちり……。
+msgctxt "BNG3_052"
+msgid "C-Could it just be a misunderstanding on my part...?"
+msgstr "Н-невже я все цілковито неправильно зрозумів...?"
+
+#. Key: BNG3_053
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: あの。もしもし、バングさん？
+#. JA:   ま、目がいっちゃってるわね……。
+msgctxt "BNG3_053"
+msgid ""
+"Um, Bang, are you there?\n"
+"He seems to be out of it... "
+msgstr "Пане Банґу? Ви мене чуєте? П-погляд у нього зовсім порожній..."
+
+#. Key: BNG3_054
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: せ、拙者は取り返しのつかないことをしてしまったでござるか……。
+#. JA:   もはや生きる望みも消え失せた……。
+#. JA:   拙者はこれから、どうすれば……。
+msgctxt "BNG3_054"
+msgid ""
+"H-Have I made an irreversible mistake...? I have lost all will to go on...\n"
+"What am I supposed to do now...?"
+msgstr ""
+"Н-невже я припустився непоправної помилки...? Я втратив будь-яке\n"
+"бажання жити... Що ж мені тепер робити...?"
+
+#. Key: BNG3_056
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: あの～？　もしもし？　もしもーし？
+#. JA:   あらあら。まったく反応がないわね。
+#. JA:   何をそんなにショックを受けているのかしら……。
+msgctxt "BNG3_056"
+msgid ""
+"Um...? Hello? Hellooo? Oh my... No reaction whatsoever.\n"
+"I wonder what has him so shocked?"
+msgstr ""
+"Агов? Ви мене чуєте? Аго-о-ов? Отакої, жодної реакції. Що ж так його\n"
+"приголомшило...?"
+
+#. Key: BNG3_057
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ……気にしている暇はないわね。
+#. JA:   とにかく彼を捜しましょ。
+msgctxt "BNG3_057"
+msgid "...I don't have time for this. I need to find him now."
+msgstr "...Не маю часу цим перейматися. Треба шукати його."
+
+#. Key: BNG3_064
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: お、落ちつくでござる。お、落ち着いてよーく考えるでござる。
+#. JA:   これは絶好の機会ではあるまいか？　拙者の株は今、
+#. JA:   ライチ殿の中で急上昇してストップ高に違いないでござる。
+msgctxt "BNG3_064"
+msgid ""
+"C-Calm down. Just calm down and think. The timing couldn't be better, could it?\n"
+"Miss Litchi's opinion of me must be sky-rocketing right now. "
+msgstr ""
+"С-спокійно. Треба заспокоїтися й добре все обміркувати. Хіба це не\n"
+"чудова нагода? В очах пані Лічі моя цінність зараз неодмінно злетіла до\n"
+"небес!"
+
+#. Key: BNG3_065
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ここは一つ、じぇんとるめんとして
+#. JA:   正しい告白の台詞を考えるべきでござるな。
+#. JA:   このシシガミ＝バング、一世一代の大勝負……。
+msgctxt "BNG3_065"
+msgid ""
+"Hmm... As a gentleman, I am obliged to come up with the ultimate confession a\n"
+"woman can want... I, Bang Shishigami, will risk everything on this...!"
+msgstr ""
+"Як справжньому джентльменові, мені слід вигадати гідні слова для\n"
+"зізнання. Для Банґа Шішіґамі це буде вирішальна битва всього життя..."
+
+#. Key: BNG3_067
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: まだそう遠くには行けない筈……彼を追わないと。
+msgctxt "BNG3_067"
+msgid "He can't be too far... I must find him."
+msgstr "Він не міг далеко втекти... Треба його наздогнати."
+
+#. Key: BNG3_069
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――はっ？
+#. JA:   ラ、ライチ殿？　いずこに消えられたでござるか？
+msgctxt "BNG3_069"
+msgid "*gasp* M-Miss Litchi? Where are you?"
+msgstr "Га?! П-пані Лічі? Куди ви зникли?"
+
+#. Key: BNG3_071
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……やや、何やら、こちらから
+#. JA:   ライチ殿の拙者を狂わす甘～い香りが―――
+msgctxt "BNG3_071"
+msgid ""
+"...Hm.\n"
+"Miss Litchi's mesmerizing scent seems to be coming from that direction—"
+msgstr ""
+"...О? Здається, звідти лине солодкий аромат пані Лічі, що зводить мене з\n"
+"розуму —"
+
+#. Key: BNG3_072
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: こうしては居られぬ！
+#. JA:   拙者を漢と見込んでくれたあの大男のためにも、
+#. JA:   ライチ殿を追わねば！
+msgctxt "BNG3_072"
+msgid ""
+"I can't just stand here and do nothing! I gotta follow Miss Litchi, or that large man\n"
+"will lose all faith in me!"
+msgstr ""
+"Не можна гаяти часу! Я мушу наздогнати пані Лічі — хоча б заради того\n"
+"здоровила, який визнав в мені справжнього чоловіка!"
+
+#. Key: BNG4_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……もはや拙者の存在意義など皆無、風の前の塵芥に同じ……。
+#. JA:   はははは、何ともはや、惨め惨め惨めでござる……。
+msgctxt "BNG4_002"
+msgid ""
+"...I have no purpose in life anymore. I'm as meaningless as the dust in the wind...\n"
+"Hahaha... How pathetic, pathetic, pathetic...!\n"
+msgstr ""
+"...Віднині моє існування не має жодного сенсу — я не більш значущий за\n"
+"порошинку на вітрі... Ха-ха-ха-ха... Яка ж ганьба, ганьба, ганьба..."
+
+#. Key: BNG4_004
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Unknown on screen; internally Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: おい、気をつけろ。
+msgctxt "BNG4_004"
+msgid "Hey, watch it..."
+msgstr "Гей, обережніше."
+
+#. Key: BNG4_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: こ、これは済まなかったでござ―――
+msgctxt "BNG4_005"
+msgid "I-I'm sorry—"
+msgstr "П-перепрошую —"
+
+#. Key: BNG4_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――お主はジン＝キサラギ……！
+msgctxt "BNG4_007"
+msgid "...You're Jin Kisaragi...!"
+msgstr "— Ти Джін Кісараґі...!"
+
+#. Key: BNG4_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+msgctxt "BNG4_009"
+msgid "..."
+msgstr "..."
+
+#. Key: BNG4_010
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 素知らぬ顔で立ち去ろうとしたそやつの行く手に、
+#. JA:   拙者は回り込んだ。ここで会ったが百年目。逃すわけにはいかぬ！
+msgctxt "BNG4_010"
+msgid ""
+"Standing in front of me is the man I've sworn revenge on! He's pretending like he\n"
+"doesn't even know me, but I've finally caught him! I can't let him get away now!"
+msgstr ""
+"Він удав, ніби нічого не сталося, і спробував піти, але я заступив йому\n"
+"дорогу. Ось ми й зустрілися, мій заклятий вороже. Тепер я тебе не\n"
+"відпущу!"
+
+#. Key: BNG4_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: 邪魔だぞ、そこを退け。僕の前に立つな。
+msgctxt "BNG4_011"
+msgid "Get out of my way...or I'll make you regret it."
+msgstr "Ти мені заважаєш. Відійди. Не стій у мене на шляху."
+
+#. Key: BNG4_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: お主……。
+#. JA:   よもや忘れたとは言うまいな。
+#. JA:   拙者の、この顔の傷を。
+msgctxt "BNG4_012"
+msgid "You... Don't tell me you already forgot how I got this scar on my face."
+msgstr "Ти... Не кажи, що забув. Забув про цей шрам на моєму обличчі."
+
+#. Key: BNG4_013
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: 顔？　傷？
+#. JA:   ……覚えがないな、誰だ貴様は？
+msgctxt "BNG4_013"
+msgid ""
+"Face? Scar? \n"
+"...I don't know what the hell you're talking about. Do I know you?"
+msgstr "Обличчя? Шрам? ...Не пригадую. Ти взагалі хто?"
+
+#. Key: BNG4_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ジンの目は冷徹そのもの。動揺の欠片も見えない。
+#. JA:   覚えがないという言葉に、嘘偽りはないようだ。
+msgctxt "BNG4_014"
+msgid ""
+"Jin's eyes are as cold and expressionless as ice. There's no sign of panic in them.\n"
+"Does...does he really not remember me?"
+msgstr ""
+"Погляд Джіна був крижаним і незворушним. Ані найменшого\n"
+"збентеження. Схоже, він справді мене не пам'ятав."
+
+#. Key: BNG4_015
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 忘れたのならば思い出させてやろう！
+#. JA:   我が殿を殺し！　拙者の顔に傷を刻み！
+#. JA:   イカルガの民に辛酸をなめさせたのは、お主でござる！
+msgctxt "BNG4_015"
+msgid ""
+"If you have forgotten, I'll have to make you remember! You killed my lord!\n"
+"Left a scar on my face! And put the people of Ikaruga through hell!"
+msgstr ""
+"Якщо забув, я тобі нагадаю! Це ти вбив мого володаря! Ти залишив\n"
+"шрам на моєму обличчі! І ти прирік народ Ікаруґи на тяжкі страждання!"
+
+#. Key: BNG4_017
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: イカルガ？……ああ、あのイカルガか。大方、復讐か何かか？
+#. JA:   今はそんな下らない事に付き合ってる暇はない。
+#. JA:   いいからそこを退け。
+msgctxt "BNG4_017"
+msgid ""
+"Ikaruga? ...Oh, Ikaruga. So, what is this...? Revenge?\n"
+"I have no time to deal with your idiocy...\n"
+"Now, get the hell out of my way..."
+msgstr ""
+"Ікаруґа? ...А, та Ікаруґа. Певно, прийшов помститися? Мені ніколи\n"
+"марнувати час на таку дурню. Просто відійди."
+
+#. Key: BNG4_018
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: この男、己の罪の重さをまったく感じていないに違いない。
+#. JA:   殿、人を憎むな悪を憎めというお言葉、
+#. JA:   このバング、片時たりとも忘れたことなどござりませぬが―――
+msgctxt "BNG4_018"
+msgid ""
+"Does he feel no guilt for what he's done!? Master, I never forgot your teachings...\n"
+"<DQ>Don't blame the person, blame the evil...<DQ>\n"
+"Not even for a moment, but—"
+msgstr ""
+"Цей чоловік, без сумніву, анітрохи не усвідомлює тяжкості свого\n"
+"злочину. Володарю, я, Банґ, ні на мить не забував ваших слів: «Ненавидь\n"
+"не людину, а зло», та —"
+
+#. Key: BNG4_019
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: その誓い、今だけ破ることをどうかご容赦くだされ！
+#. JA:   この外道を成敗せずに、何が正義か！
+msgctxt "BNG4_019"
+msgid ""
+"Please forgive me, but I must break my oath now! There can be no justice while \n"
+"this scum is allowed to walk the earth!"
+msgstr ""
+"Благаю, пробачте, що лише цього разу я порушу свою обітницю! Хіба\n"
+"може бути справедливість, якщо не покарати цього негідника?!"
+
+#. Key: BNG4_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……お主だけは、許せぬ。
+msgctxt "BNG4_020"
+msgid "...You...are one person I can never forgive..."
+msgstr "...Тебе одного я ніколи не пробачу."
+
+#. Key: BNG4_021
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 今ここで殿の仇を討たせていただく！
+#. JA:   その首を差し出せいっ！！
+msgctxt "BNG4_021"
+msgid "Let us settle the score right here! Prepare yourself!"
+msgstr "Тут і зараз я помщуся за свого володаря! Віддай мені свою голову!!"
+
+#. Key: BNG4_022
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: 余程、死にたいらしいな……。
+msgctxt "BNG4_022"
+msgid "You seem really eager to die..."
+msgstr "Схоже, тобі кортить померти..."
+
+#. Key: BNG4_028
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: む、無念……。
+#. JA:   殿、面目ありませぬ……！
+msgctxt "BNG4_028"
+msgid ""
+"H-How could this be...?\n"
+"Forgive me, Lord...!"
+msgstr "Я-яка ганьба... Володарю, пробачте мені...!"
+
+#. Key: BNG4_029
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 仇討ちさえも果たせぬふがいない拙者を、
+#. JA:   どうぞあの世でお叱りくだされ……がくり。
+msgctxt "BNG4_029"
+msgid ""
+"I'll take any punishment from you...for not being able to avenge your death, Lord...\n"
+"*thud*"
+msgstr ""
+"Покарайте мене на тому світі за те, що я не зумів помститися за вас...\n"
+"геп."
+
+#. Key: BNG4_030
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: ……ふん！　屑めが……。
+msgctxt "BNG4_030"
+msgid "...Hmph! ...priceless..."
+msgstr "...Хм! Покидьок..."
+
+#. Key: BNG4_035
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 思い知ったか、この腐れ外道があっ！！
+#. JA:   天<ruby>てん</ruby>網<ruby>もう</ruby>恢<ruby>かい</ruby>々<ruby>かい</ruby>疎<ruby>そ</ruby>にして漏らさず、正しき者が必ず勝――――――つっ！！
+msgctxt "BNG4_035"
+msgid ""
+"That ought to do it, you scumbag! Heaven's vengeance is slow but sure.\n"
+"Justice always prevails!"
+msgstr ""
+"Тепер зрозумів, клятий негіднику?! Небесна сітка широка, та ніхто з неї\n"
+"не вислизне! Праведник завжди перемага-а-а-а-а-ає!!"
+
+#. Key: BNG4_036
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: ……馬鹿な……。
+#. JA:   ……これは悪夢だ……。
+msgctxt "BNG4_036"
+msgid ""
+"...Impossible...\n"
+"This must be a nightmare..."
+msgstr "...Не може бути... ...Це якийсь кошмар..."
+
+#. Key: BNG4_037
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 悪夢？　否！
+#. JA:   これが現実でござる！
+#. JA:   我がたゆまぬ修練の結果と知れ！
+msgctxt "BNG4_037"
+msgid "Nightmare? No! This is reality! Fall, knowing the result of my persistent effort!"
+msgstr ""
+"Кошмар? Ні! Це реальність! Знай: перед тобою результат моїх невтомних\n"
+"тренувань!"
+
+#. Key: BNG4_038
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 我が怒りはまだ収まらぬが、この男は図書館―――統制機構の狗。
+#. JA:   祖国を滅ぼした図書館への報復のため、情報を聞き出すべきか。
+msgctxt "BNG4_038"
+msgid ""
+"My hate for this man isn't going to fade any time soon, but he is one of the\n"
+"Library's dogs... Before I take revenge for my country and my people, should I\n"
+"see what he knows?"
+msgstr ""
+"Мій гнів іще не вщух, але цей чоловік — пес Бібліотеки, тобто\n"
+"Організації Контролю. Може, варто витягти з нього відомості, потрібні\n"
+"для помсти Бібліотеці, яка знищила мою батьківщину?"
+
+#. Key: BNG4_039
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: いや、しかし。
+#. JA:   殿の恨みはこの程度で晴らせるべくもない……。
+#. JA:   いかにするでごさるか、バングよ？
+msgctxt "BNG4_039"
+msgid "What should I do? How can I avenge my master?"
+msgstr ""
+"Але ні... Цим за володаря ніяк не помститися сповна... Що ж тобі робити,\n"
+"Банґу?"
+
+#. Key: BNG4_040
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: これで終わりと思うな！　あり余る我が怒り、受け取れい！！
+msgctxt "BNG4_040"
+msgid "Don't think this is over! I will make you feel my rage!"
+msgstr "Не думай, що все скінчено! Прийми на себе весь мій невичерпний гнів!!"
+
+#. Key: BNG4_041
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: さて、統制機構について洗いざらい聞かせてもらうでござる。
+msgctxt "BNG4_041"
+msgid "Now...you will tell me everything you know about the NOL."
+msgstr "А тепер викладай усе, що знаєш про Організацію Контролю."
+
+#. Key: BNG4_046
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 主君の恨みを晴らさずして何が忠臣か！
+#. JA:   徹底的にその身に報いを刻み込んでやるでござる！
+msgctxt "BNG4_046"
+msgid ""
+"How can I call myself <DQ>loyal<DQ> without even avenging the death of my lord!\n"
+"I'll make sure you regret that you were ever born!"
+msgstr ""
+"Який же я «вірний» васал, якщо не помщуся за свого володаря?! Я до\n"
+"кісток закарбую в тобі кару за скоєне!"
+
+#. Key: BNG4_051
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者が討つべきは、お主のような小物ではござらん。
+#. JA:   お主にイカルガ討伐を命じた図書館の長―――諸悪の権化。
+msgctxt "BNG4_051"
+msgid ""
+"I'm not interested in a small-fish like you. I want the head of the Library who\n"
+"ordered the extermination of Ikaruga—the source of all that is evil."
+msgstr ""
+"Мені потрібна не така дрібна риба, як ти. Мені потрібен голова\n"
+"Бібліотеки, який наказав знищити Ікаруґу, — утілення всього зла."
+
+#. Key: BNG4_052
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: きりきりと白状するがよい！
+#. JA:   統制機構の最高責任者は、いずこにいるでござるか！！
+msgctxt "BNG4_052"
+msgid "Confess now! Where is the head of the NOL!?"
+msgstr ""
+"Негайно зізнавайся! Де перебуває найвищий керівник Організації\n"
+"Контролю?!"
+
+#. Key: BNG4_053
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: どうしてこんな無駄な時間を過ごしている……。
+#. JA:   一刻も早く、奴を見つけなければならないのに……。
+msgctxt "BNG4_053"
+msgid "Why are you wasting my time...!? I need to find him... I need to find him right now!"
+msgstr ""
+"Чому я марную час на таку дурню...? Я мушу якнайшвидше знайти\n"
+"його..."
+
+#. Key: BNG4_054
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ジンは拙者の話を聞いていないようだ。
+#. JA:   今一度、問いただそうとした拙者は、
+#. JA:   ジンの独り言のような言葉に耳を疑った。
+msgctxt "BNG4_054"
+msgid ""
+"He doesn't seem to be listening to me... Or he's pretending not to!\n"
+"I open my mouth to ask him again, when—"
+msgstr ""
+"Схоже, Джін мене навіть не слухав. Я вже збирався знову його допитати,\n"
+"коли не повірив власним вухам, почувши його бурмотіння."
+
+#. Key: BNG4_055
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: ……奴が……、
+#. JA:   ……ラグナが近くにいるというのに……。
+msgctxt "BNG4_055"
+msgid ""
+"...Ragna... \n"
+"...is nearby...yet here I am..."
+msgstr "...Він... ...Раґна десь неподалік, а я..."
+
+#. Key: BNG4_057
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ラ、ラグナだと！
+#. JA:   奴は拙者がきっちりと成敗したはずでござる！
+#. JA:   お主の言うラグナとは「死神」と呼ばれる男のことか!?
+msgctxt "BNG4_057"
+msgid ""
+"Did you just say Ragna!? I took him down for sure!\n"
+"Are you talking about Ragna the Bloodedge? The <DQ>Grim Reaper<DQ>?"
+msgstr ""
+"Р-Раґна?! Та я ж його вже як слід покарав! Той Раґна, про якого ти\n"
+"говориш, — це чоловік на прізвисько «Жнець»?!"
+
+#. Key: BNG4_058
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: ラグナはラグナ、ただ一人だ。
+#. JA:   貴様ごときに倒されるはずもない……。
+msgctxt "BNG4_058"
+msgid "There's only one Ragna... And there's no way he would lose to you...!"
+msgstr "Раґна лише один. Він нізащо не програв би такому, як ти..."
+
+#. Key: BNG4_059
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: もしや、と拙者は思い当たった。
+#. JA:   ラグナというあの男、
+#. JA:   史上最悪の賞金首にしては妙に手応えがなかったと。
+msgctxt "BNG4_059"
+msgid ""
+"Wait... That man who called himself Ragna wasn't all that strong for someone\n"
+"who's supposed to be the world's most wanted criminal..."
+msgstr ""
+"І тут мене осяяло. Той чоловік, який назвався Раґною, чинив напрочуд\n"
+"слабкий опір як на найрозшукуванішого злочинця в історії."
+
+#. Key: BNG4_061
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 先ほどのあの男は「死神」の偽物でござったのか！
+msgctxt "BNG4_061"
+msgid "That man was the fake <DQ>Grim Reaper<DQ>!?"
+msgstr "Той чоловік був несправжнім «Жнецем»?!"
+
+#. Key: BNG4_062
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+msgctxt "BNG4_062"
+msgid "..."
+msgstr "..."
+
+#. Key: BNG4_063
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ジンの無言が、拙者の考えを肯定しているように思えた。
+msgctxt "BNG4_063"
+msgid "He doesn't respond, but I get the feeling he agrees."
+msgstr "Мовчання Джіна здалося мені підтвердженням моєї здогадки."
+
+#. Key: BNG4_064
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: こうしてはおられぬ！
+#. JA:   カグツチのため、イカルガの民のため、さらにはライチ殿のため。
+#. JA:   奴を見つけ出し、今度こそ確実に成敗してやるでござる！！
+msgctxt "BNG4_064"
+msgid ""
+"I gotta go! For the sake of Kagutsuchi, the civilians of Ikaruga, and Miss Litchi.\n"
+"I've gotta find him and take him out once and for all!"
+msgstr ""
+"Не можна тут баритися! Заради Каґуцучі, заради народу Ікаруґи, а ще\n"
+"заради пані Лічі я знайду його й цього разу вже неодмінно покараю!!"
+
+#. Key: BNG4_065
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 命拾いをしたな、ジン＝キサラギ！
+#. JA:   貴様への復讐は次の機会にするでござる！
+#. JA:   首を洗って待っておれい！！
+msgctxt "BNG4_065"
+msgid ""
+"Your life has just been spared, Jin Kisaragi! We'll settle this next time!\n"
+"I suggest you be ready for it!"
+msgstr ""
+"Цього разу тобі пощастило зберегти життя, Джіне Кісараґі! Помсту тобі я\n"
+"відкладу до наступної зустрічі! Готуй свою шию!!"
+
+#. Key: BNG5_001
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 正義の鉄拳をくれてやる！
+#. JA:   この一撃で悔い改めい！！
+msgctxt "BNG5_001"
+msgid "Taste the iron fist of justice! Repent for your sins!"
+msgstr ""
+"Скуштуй залізного кулака справедливості! Нехай цей удар змусить тебе\n"
+"покаятися!!"
+
+#. Key: BNG5_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+msgctxt "BNG5_003"
+msgid "..."
+msgstr "..."
+
+#. Key: BNG5_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: その目つきっ！　まだ反省してないでござるな！
+#. JA:   しからばもう一発、鉄拳指導を―――
+msgctxt "BNG5_005"
+msgid ""
+"That glare! You don't have an ounce of remorse, do you!? All right, here comes\n"
+"an iron fist of—"
+msgstr ""
+"Що це за погляд?! Ти й досі не розкаявся! Тоді отримаєш іще один урок\n"
+"від мого залізного кулака —"
+
+#. Key: BNG5_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 今、どこかで、ぴきりと音がしたでござるな？
+msgctxt "BNG5_007"
+msgid "Did I just hear a crack?"
+msgstr "Мені не почулося? Щойно десь щось тріснуло."
+
+#. Key: BNG5_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Jin
+#. Context: Bang story route (POV: Bang)
+#. JA: な、何だ？
+#. JA:   ユキアネサが―――暴走か!?
+msgctxt "BNG5_009"
+msgid "W-What is it? Did I lose control...of Yukianesa!?"
+msgstr "Щ-що це? Юкіанеса... вийшла з-під контролю?!"
+
+#. Key: BNG5_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: なんだ？　なんでござるかこの凄まじい冷気は！
+#. JA:   一体なにが起きてるでござる!?
+msgctxt "BNG5_011"
+msgid "Wh-What is this piercing cold!? What the hell is happening here!?"
+msgstr "Що? Що це за лютий холод?! Що тут узагалі відбувається?!"
+
+#. Key: BNG5_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: このままでは辺り一帯が凍り付いてしまう！
+#. JA:   誰かに報せるにしても、一体全体、誰に報せればよいものか―――
+msgctxt "BNG5_012"
+msgid ""
+"If someone doesn't do something, this entire area is going to be frozen!\n"
+"What should I do!? I need help...but who can I ask?\n"
+msgstr ""
+"Так незабаром замерзне вся околиця! Треба когось сповістити, але кого\n"
+"саме —"
+
+#. Key: BNG5_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: しょ、少佐っ？　これは一体っ!?
+msgctxt "BNG5_020"
+msgid ""
+"M-Major?\n"
+"What have you done!?"
+msgstr "М-майоре?! Що тут сталося?!"
+
+#. Key: BNG5_021
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 違う！　これは違うのでござる！
+#. JA:   決して拙者のせいではござらん！
+msgctxt "BNG5_021"
+msgid "No! You're mistaken! I didn't do it!"
+msgstr "Ні! Ти все не так зрозуміла! Це в жодному разі не моя провина!"
+
+#. Key: BNG5_022
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――まずい。この状況ではどう見ても拙者が悪者である。
+#. JA:   相手の目線が痛い。拙者を疑っているのは確定的に明らかだった。
+msgctxt "BNG5_022"
+msgid ""
+"Th— This isn't good. It doesn't matter how I try to explain it... I'm still going to\n"
+"look like the villain here. I can tell from her eyes that she's totally misread the\n"
+"situation—she suspects me!"
+msgstr ""
+"— Погано. За таких обставин лиходієм неодмінно здамся саме я. Її\n"
+"погляд аж пропікав мене: було цілком очевидно, що вона мене підозрює."
+
+#. Key: BNG5_023
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: 違うって、何がですか!?
+msgctxt "BNG5_023"
+msgid "What do you mean by <DQ>you're mistaken<DQ>!?"
+msgstr "Що означає «не так зрозуміла»?!"
+
+#. Key: BNG5_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: そ、その格好―――まさかイカルガの生き残り？
+#. JA:   イカルガ内戦の英雄である少佐に、逆恨みで復讐を!?
+msgctxt "BNG5_025"
+msgid ""
+"Th-Those clothes— are you...one of the survivors of Ikaruga? Are you here to repay\n"
+"the major's kindness for ending the civil war with resentment!?"
+msgstr ""
+"Ц-цей одяг... Невже ви вціліли в Ікарузі? І тепер із безпідставної образи\n"
+"мститеся майорові — герою громадянської війни в Ікарузі?!"
+
+#. Key: BNG5_026
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: さ、逆恨みなどとんでもない！
+#. JA:   こやつは正真正銘、我が殿の仇！
+msgctxt "BNG5_026"
+msgid "R-Resentment!? N-No! He's truly my enemy!"
+msgstr ""
+"Б-безпідставної образи?! Аж ніяк! Цей чоловік справді вбив мого\n"
+"володаря!"
+
+#. Key: BNG5_028
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: やはり……貴方が少佐を―――！　私はノエル＝ヴァーミリオン少尉。
+#. JA:   世界虚空情報統制機構の責任において、貴方を傷害罪で逮捕拘束します！
+msgctxt "BNG5_028"
+msgid ""
+"So...you did do this to Major! I'm Lieutenant Noel Vermillion. You're under arrest\n"
+"for involuntary injury in the name of the Novus Orbis Librarium."
+msgstr ""
+"Отже... це ви напали на майора! Я лейтенантка Ноель Верміліон. Від\n"
+"імені Всесвітньої Організації Контролю Інформації заарештовую вас за\n"
+"завдання тілесних ушкоджень!"
+
+#. Key: BNG5_029
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ええい、やむをえないでござる！
+#. JA:   お相手いたす！！
+msgctxt "BNG5_029"
+msgid "Ahh! I guess I have no choice! I shall face you!"
+msgstr "Ех, нічого не вдієш! Я прийму твій виклик!!"
+
+#. Key: BNG5_034
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: こんな人なんて放っておいて、早く少佐を助けなきゃ！
+msgctxt "BNG5_034"
+msgid "I have no time to waste on this man. I have to rescue Major Kisaragi!"
+msgstr "Не можна гаяти час на такого, як він. Треба негайно врятувати майора!"
+
+#. Key: BNG5_035
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ふがいなきは、このバング……。
+#. JA:   まさか斯様なか弱き女性に敗北を喫し、
+#. JA:   その上図書館に囚われるとは……。
+msgctxt "BNG5_035"
+msgid ""
+"Look at me... I can't believe I lost to a fragile young lady like her... And on top of it,\n"
+"I got caught by the Library..."
+msgstr ""
+"Який же я нікчемний... Невже Банґ програв такій тендітній жінці, а на\n"
+"додачу ще й потрапив у полон до Бібліотеки..."
+
+#. Key: BNG5_036
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: い、いつか必ずやこの雪辱は……がくり。
+msgctxt "BNG5_036"
+msgid "I'll avenge this defeat someday... *thud* "
+msgstr "К-коли-небудь я неодмінно відіграюся за цю поразку... геп."
+
+#. Key: BNG5_040
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ふぅ、拙者の勝ちでござるな。
+#. JA:   お主、少しは頭が冷えたか？
+msgctxt "BNG5_040"
+msgid ""
+"Phew, it looks like I won.\n"
+"Have you come to your senses?"
+msgstr "Фух, перемога за мною. Ну що, ти хоч трохи охолола?"
+
+#. Key: BNG5_042
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+msgctxt "BNG5_042"
+msgid "...!"
+msgstr "...!"
+
+#. Key: BNG5_043
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: と、とにかく話を聞くでござる。拙者とて鬼ではござらん。
+#. JA:   この男もお主も、憎き図書館の狗とはいえども、
+#. JA:   命まで取ろうとなどと思ってはござらんよ。
+msgctxt "BNG5_043"
+msgid ""
+"J-Just hear me out. I'm no demon. I'm not trying to kill either of you, even though\n"
+"you belong to the hateful Library."
+msgstr ""
+"П-перш за все вислухай мене. Я ж не якийсь демон. Хай ви обоє й пси\n"
+"ненависної Бібліотеки, я не збираюся забирати ваші життя."
+
+#. Key: BNG5_044
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 確かにこの男ジン＝キサラギは我が殿の仇。
+#. JA:   百万遍殺しても殺したりないほどに憎き相手。
+msgctxt "BNG5_044"
+msgid ""
+"It's true that this man, Jin Kisaragi, is my lord's archenemy. He deserves to die a\n"
+"hundred times over."
+msgstr ""
+"Так, цей чоловік, Джін Кісараґі, убив мого володаря. Я ненавиджу його\n"
+"так люто, що й мільйона смертей було б замало."
+
+#. Key: BNG5_045
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: なれど、死に死をもって復讐せんとするは、
+#. JA:   新たな復讐の芽を産み、負の連鎖を繰り返すでござる。
+msgctxt "BNG5_045"
+msgid ""
+"However, an eye for an eye will leave the world blind. If I kill him, that will only\n"
+"plant the seed for more vengeance... A vicious cycle, indeed."
+msgstr ""
+"Але помста смертю за смерть лише посіє зерно нової помсти й\n"
+"продовжить це порочне коло."
+
+#. Key: BNG5_046
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者がこやつと一騎打ちをしたのは、殿を殺したその罪を、
+#. JA:   こやつに自覚させるためでござった。
+#. JA:   その罪、ゆめゆめ忘れることなかれ―――とな。
+msgctxt "BNG5_046"
+msgid ""
+"I fought him one-on-one and showed him his sins. I didn't want him to forget what he\n"
+"had done."
+msgstr ""
+"Я викликав його на двобій, щоб він усвідомив свій гріх — убивство мого\n"
+"володаря — й ніколи про нього не забував."
+
+#. Key: BNG5_048
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: 人を殺した……罪……ですか。
+#. JA:   確かにそれは、忘れてはならない罪……ですね。
+msgctxt "BNG5_048"
+msgid "The sin...of ending lives... That's certainly something that should never be forgotten..."
+msgstr "Гріх... убивства людини... Так, про такий гріх справді не можна забувати."
+
+#. Key: BNG6_001
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: わかってくれたか。
+#. JA:   お主、良き乙女と見た。
+#. JA:   絶滅寸前のイカルガナデシコの清き心を感じるでござるよ。
+msgctxt "BNG6_001"
+msgid ""
+"You seem to understand what I'm saying. You must be one of the nice ones. I can\n"
+"almost sense the purity of the girls of Ikaruga in you."
+msgstr ""
+"Отже, ти мене зрозуміла. Бачу, ти добра дівчина. Відчуваю в тобі чисте\n"
+"серце справжньої «ікаруґської надесіко», яких майже не лишилося."
+
+#. Key: BNG6_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: それならどうして少佐を氷漬けになんて。
+msgctxt "BNG6_003"
+msgid "Then why did you freeze Major Kisaragi?"
+msgstr "Тоді чому ви заморозили майора?"
+
+#. Key: BNG6_004
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: それが誤解なのだ。
+#. JA:   この男を氷付けにしたのは、奴の持つ武器がいきなり凄まじい冷気を放ってだな……
+msgctxt "BNG6_004"
+msgid ""
+"That is where you are misunderstood... I didn't freeze him... It's this man's weapon\n"
+"that suddenly unleashed a gust of freezing air..."
+msgstr ""
+"Ось тут ти мене неправильно зрозуміла. Його заморозив не я: це його\n"
+"зброя раптом випустила страшенний холод..."
+
+#. Key: BNG6_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: ユキアネサが……？　なるほど、有り得るお話です。
+#. JA:   事情はわかりました。けれど、困りました―――ユキアネサの氷は、
+#. JA:   人の命を蝕んでしまう。このままでは少佐の命が……。
+msgctxt "BNG6_005"
+msgid ""
+"Yukianesa did...? I see. I can see that happening. I understand the situation, but\n"
+"there's one problem: Yukianesa's ice erodes life. If we don't do something right\n"
+"now, the major will—"
+msgstr ""
+"Юкіанеса...? Зрозуміло, таке цілком можливо. Тепер я все розумію, але\n"
+"маємо проблему: крига Юкіанеси руйнує життєві сили. Якщо нічого не\n"
+"зробити, майор може..."
+
+#. Key: BNG6_006
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 乙女が困っている。
+#. JA:   ここで手を貸さねばイカルガ男児の名折れである。
+msgctxt "BNG6_006"
+msgid ""
+"This girl needs help... How can I turn her down and still call myself a man of\n"
+"Ikaruga!?"
+msgstr ""
+"Дівчина потрапила в біду. Якщо я зараз їй не допоможу, то зганьблю\n"
+"звання чоловіка Ікаруґи."
+
+#. Key: BNG6_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: この氷を溶かせばいいのだな。安心召されい。イカルガ随一の忍者
+#. JA:   シシガミ＝バング、所謂、火遁の術なら得意とするところ。
+#. JA:   かような氷など一瞬で溶かしてみせるでござる！！
+msgctxt "BNG6_007"
+msgid ""
+"So all I have to do is to melt this ice, huh? No worries. I'm Bang Shishigami, the top\n"
+"ninja of Ikaruga. I'm an expert when it comes to fire techniques. I can melt this\n"
+"ice-cube in a second!"
+msgstr ""
+"Треба лише розтопити цю кригу? Тоді не хвилюйся. Я — Банґ Шішіґамі,\n"
+"найкращий нінджя Ікаруґи, а вогняні техніки — моя стихія. Таку кригу\n"
+"я розтоплю за одну мить!!"
+
+#. Key: BNG6_008
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: 火遁の術っ!?
+#. JA:   お願いします、どうか少佐を助けてください！
+msgctxt "BNG6_008"
+msgid "Fire technique!? Quickly then! Please save the major!"
+msgstr "Вогняні техніки?! Благаю, врятуйте майора!"
+
+#. Key: BNG6_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者の言葉に、ノエルが祈るように手を組んだ。
+#. JA:   ますます、これは期待に応えねばなるまい。
+msgctxt "BNG6_009"
+msgid ""
+"She clasps her hands together, as if in prayer. There's no turning back for me\n"
+"now."
+msgstr ""
+"Почувши мої слова, Ноель молитовно склала руки. Тепер я тим паче\n"
+"мушу виправдати її сподівання."
+
+#. Key: BNG6_010
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 応、任された！　それでは少し離れているがよいぞ、
+#. JA:   これより術を唱える故！　秘術！　不動明王劫火の陣！！
+msgctxt "BNG6_010"
+msgid ""
+"All right! You can count on me! Just take a few steps back so I can get started!\n"
+"Secret technique! The Crimson Flames of Hell!"
+msgstr ""
+"Авжеж, покладися на мене! А тепер відійди трохи далі: я починаю\n"
+"чаклувати! Таємна техніка! Вогняна формація Фудо Мьоо!!"
+
+#. Key: BNG6_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 臨　兵　闘　者　皆　陣　烈　在―――
+msgctxt "BNG6_012"
+msgid "Rin Hyo Toh Sha Kei Jin Retsu Zai—"
+msgstr "Рін, Пьо, То, Ша, Кай, Джін, Рецу, Дзай —"
+
+#. Key: BNG6_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ――――――へっぶし！！
+msgctxt "BNG6_014"
+msgid "...Ah-choo!"
+msgstr "— А-а-апчхи!!"
+
+#. Key: BNG6_016
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ふ、不覚！　術が暴走してしまったでござるっ！！
+msgctxt "BNG6_016"
+msgid "D-Damn it! I lost control of the technique!"
+msgstr "О-от халепа! Техніка вийшла з-під контролю!!"
+
+#. Key: BNG6_017
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: ええっ！
+#. JA:   暴走って―――きゃああっ、辺りがもう火の海に！！
+msgctxt "BNG6_017"
+msgid "What!? Lost control? Waaah, we're surrounded by fire!"
+msgstr "Що?! Вийшла з-під контролю — а-а-а, навколо вже море вогню!!"
+
+#. Key: BNG6_018
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ふ、不可抗力でござるよ！
+#. JA:   出るものは止められないというものでござる！
+msgctxt "BNG6_018"
+msgid "I-It's out of control! I can't stop it, now!"
+msgstr ""
+"Ц-це непереборна сила обставин! Що вже вирвалося назовні, того не\n"
+"спинити!"
+
+#. Key: BNG6_019
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: そんなの言い訳にもなりません！
+#. JA:   放火の現行犯で貴方を逮捕します！
+msgctxt "BNG6_019"
+msgid "What kind of excuse is that!? You're under arrest for arson!"
+msgstr ""
+"Це навіть не виправдання! Заарештую вас прямо на місці злочину за\n"
+"підпал!"
+
+#. Key: BNG6_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: そんな無体な！
+#. JA:   やれと申したのはお主でござろう！！
+msgctxt "BNG6_020"
+msgid "How cruel! But, you were the one who asked me to do it in the first place!"
+msgstr "Яка жорстокість! Але ж це ти сама попросила мене це зробити!!"
+
+#. Key: BNG6_021
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: 誰が辺りを火の海にして下さいと言いましたかあっ！
+msgctxt "BNG6_021"
+msgid "Who asked you to surround us with the fire!?"
+msgstr "Хто просив вас перетворювати всю околицю на море вогню?!"
+
+#. Key: BNG6_022
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――い、いかん。
+#. JA:   言い訳など許してもらえそうにない空気でござる。
+msgctxt "BNG6_022"
+msgid "O—Oops. I don't think any excuse will work at this point."
+msgstr "— П-погано. Схоже, жодних виправдань вона не прийме."
+
+#. Key: BNG6_023
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: かくなる上は、我が必殺技を喰らえい！！
+msgctxt "BNG6_023"
+msgid "In that case, I will make you taste my special move!"
+msgstr "Якщо вже так, скуштуй мого особливого прийому!!"
+
+#. Key: BNG6_024
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: ひ、必殺技ですって！
+msgctxt "BNG6_024"
+msgid "Sp-Special move!?"
+msgstr "О-особливого прийому?!"
+
+#. Key: BNG6_026
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 秘技！　超戦略的大撤退！！
+#. JA:   はーっはっはっは、また会おうぞ、乙女よ！！
+msgctxt "BNG6_026"
+msgid ""
+"Secret technique! The Super Strategic Escape!\n"
+"Hahahahahah! I'll see you around, little girl!"
+msgstr ""
+"Таємна техніка! Надстратегічний відступ!! Ха-ха-ха-ха-ха! Ще\n"
+"побачимося, дівчино!!"
+
+#. Key: BNG6_027
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: ままままま、待ちなさぁぁぁああいっ！！
+msgctxt "BNG6_027"
+msgid "W-W-W-W-Waaaaaaaaait!"
+msgstr "С-с-с-с-сті-і-і-і-йте!!"
+
+#. Key: BNG6_028
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 待てと言われて待つ阿呆はおらぬでござる！！
+#. JA:   さらばだ！！
+msgctxt "BNG6_028"
+msgid ""
+"Hah! I'm not stopping just because you asked me to!\n"
+"Farewell!"
+msgstr ""
+"Немає дурня, який зупиниться лише тому, що йому наказали!\n"
+"Прощавай!!"
+
+#. Key: BNG6_030
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Noel
+#. Context: Bang story route (POV: Bang)
+#. JA: き、消えた……。あれも忍者の秘術!?
+#. JA:   あなどれないわ、イカルガの忍者……！
+msgctxt "BNG6_030"
+msgid ""
+"H-He disappeared... Is that also a ninja technique!?\n"
+"It'd be risky to underestimate the ninja of Ikaruga...!"
+msgstr ""
+"З-зник... Невже це теж таємна техніка нінджя?! Нінджя Ікаруґи не можна\n"
+"недооцінювати...!"
+
+#. Key: BNG6_031
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 痛つつつつ、まさか穴が空いていようとは―――。
+#. JA:   意図せず下層への近道へと踏み込んでしまったようだった。
+#. JA:   拙者は盛大に痺れる足を無視して天を仰いだ。
+msgctxt "BNG6_031"
+msgid ""
+"Ow! Where did this hole come from!?\n"
+"...\n"
+"There's no avoiding it... I'm a fool."
+msgstr ""
+"Ой-йой-йой... Хто ж знав, що тут діра... Схоже, я ненавмисне ступив на\n"
+"короткий шлях до нижнього рівня. Не зважаючи на ноги, що аж гули\n"
+"після падіння, я звів очі до неба."
+
+#. Key: BNG6_032
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 上手く行かぬものでござるな……。
+#. JA:   次こそ、次こそは本懐を成し遂げて見せますぞっ！
+#. JA:   見ていてくだされ、殿！！
+msgctxt "BNG6_032"
+msgid ""
+"It didn't quite go as I had imagined...\n"
+"Next time, I'll realize my long-cherished ambition!\n"
+"Please provide me with your protection, Lord!"
+msgstr ""
+"Не все вийшло так, як хотілося... Але наступного разу я неодмінно\n"
+"здійсню свою заповітну мету! Спостерігайте за мною, володарю!!"
+
+#. Key: BNG7_001
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ……ふう。大変な目に遭ったわ。
+#. JA:   でも彼、どこに行ってしまったのかしら。
+msgctxt "BNG7_001"
+msgid ""
+"...Phew. That was something else.\n"
+"But I wonder where he went... "
+msgstr "...Фух. Оце я влипла. Та куди ж він подівся?"
+
+#. Key: BNG7_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: ぽっかぽっかお日様取り戻せー♪　倒せどっかの悪い人ー♪
+#. JA:   猫の人は強い人ー♪　タオも負けずに強いカカー♪
+msgctxt "BNG7_003"
+msgid ""
+"Take back sunny sunshine. Defeat some bad guy. Cat people are so strong. Tao is\n"
+"also strong, lala."
+msgstr ""
+"Повернемо тепле сонечко-о! Лиходія десь поб'ємо-о! Котячий дядько\n"
+"сильний був — Тао теж сильна, не підведе-няв!"
+
+#. Key: BNG7_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: お？　そこにいるのは乳の人ー！
+#. JA:   久しぶりだニャース！
+msgctxt "BNG7_005"
+msgid "Huh? Is that you over there, boobie lady!? Long time no see, meow!"
+msgstr "О? Та це ж Цицькаста Пані! Давно не бачилися, няв!"
+
+#. Key: BNG7_006
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: あらあら、タオじゃない。
+#. JA:   ええ、お久しぶりね。
+msgctxt "BNG7_006"
+msgid "Oh, hi, Tao. Yes, it's been a while."
+msgstr "Ой, Тао. Так, давно не бачилися."
+
+#. Key: BNG7_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 乳の人、相変わらずばいんばいんしてるニャスね！
+msgctxt "BNG7_007"
+msgid "You're as bouncy as always, boobie lady!"
+msgstr "Цицькаста Пані, у тебе й досі все так пружно підстрибує, няв!"
+
+#. Key: BNG7_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: や、止めなさいってば。
+msgctxt "BNG7_009"
+msgid "I-I said knock it off..."
+msgstr "П-припини вже."
+
+#. Key: BNG7_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: うにゃにゃ、楽しい弾力ニャス。
+#. JA:   これはもうマタタビ並にタオを誘惑する、素敵な肉ニャスー。
+msgctxt "BNG7_011"
+msgid ""
+"Meow, meow, I'm having so much fun neow! They're wonderful chunks of meat that\n"
+"are as tempting as catnip, meow."
+msgstr ""
+"Ня-ня, які чудові циці! Ці циці спокушають Тао не гірше за котячу м'яту,\n"
+"няв!"
+
+#. Key: BNG7_013
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: あ、あぁん―――
+#. JA:   だ、ダメよ……
+msgctxt "BNG7_013"
+msgid "*moan* D-Don't do that..."
+msgstr "А-а-ах — н-не треба..."
+
+#. Key: BNG7_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: こらっ！　いい加減にしなさいっ！
+msgctxt "BNG7_014"
+msgid "Hey! That's enough!"
+msgstr "Гей! Я сказала, досить!"
+
+#. Key: BNG7_016
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 痛い……ニャス～。
+msgctxt "BNG7_016"
+msgid "That hurt, meow..."
+msgstr "Боляче... няв..."
+
+#. Key: BNG7_017
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ご、ごめんなさい、つい。
+msgctxt "BNG7_017"
+msgid "I'm sorry, I'm just..."
+msgstr "В-вибач, я ненавмисно."
+
+#. Key: BNG7_018
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: また、乳で遊ばせてくれたら許すニャス。
+msgctxt "BNG7_018"
+msgid "I'll forgive you if you let me play with your boobies again."
+msgstr "Тао пробачить, якщо ще даси погратися з цицями, няв."
+
+#. Key: BNG7_019
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: それはダメ。
+msgctxt "BNG7_019"
+msgid "That's out of the question."
+msgstr "Не дам."
+
+#. Key: BNG7_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: けち。
+msgctxt "BNG7_020"
+msgid "You're mean, meow..."
+msgstr "Жаднюга."
+
+#. Key: BNG7_021
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: けちで結構。
+msgctxt "BNG7_021"
+msgid "That's fine by me."
+msgstr "Нехай буду жаднюгою."
+
+#. Key: BNG7_022
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: にしても、乳の人。にゃんか困った顔してるぞ。
+#. JA:   どうかしたニャスか？　お腹減った？
+#. JA:   ニボシくらいならあげるニャスよ？
+msgctxt "BNG7_022"
+msgid ""
+"By the way, boobie lady, you seem troubled. What's the matter, meow? Are you \n"
+"hungry? I have some dried sardines if you want, meow."
+msgstr ""
+"До речі, Цицькаста Пані, у тебе якийсь стурбований вигляд. Щось\n"
+"сталося, няв? Зголодніла? Тао може поділитися сушеними сардинками."
+
+#. Key: BNG7_023
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ニ、ニボシは遠慮するわ。でも、困ってるのは本当よ。
+#. JA:   彼……と言ってもわからないわよね。
+#. JA:   黒くてウネウネしたの、見なかったかしら？
+msgctxt "BNG7_023"
+msgid ""
+"N-No thank you...but I do need help.\n"
+"He— Well, let me put it this way: have you seen a black squiggly thing before?"
+msgstr ""
+"Н-ні, дякую. Але я справді маю проблему. Він... хоча ти навряд чи\n"
+"зрозумієш. Не бачила чорну кривулю?"
+
+#. Key: BNG7_024
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 見てにゃい。
+msgctxt "BNG7_024"
+msgid "No, I haven't, meow."
+msgstr "Не бачила, няв."
+
+#. Key: BNG7_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: そう……困ったわね。
+msgctxt "BNG7_025"
+msgid "*sigh* I see... What am I gonna do?"
+msgstr "Зрозуміло... От халепа."
+
+#. Key: BNG7_027
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ラーイーチーどーのーっ！
+#. JA:   いずこにおられるでござるかー！
+msgctxt "BNG7_027"
+msgid "Miss Litchiiiii! Where are you!?"
+msgstr "Пані Лі-і-і-ічі! Де ви-и-и-и?!"
+
+#. Key: BNG7_028
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ……来て欲しくない人だけは来るのよね。本当、困るわ。
+msgctxt "BNG7_028"
+msgid ""
+"...People that you don't want around you are always nearby for some reason. It's\n"
+"becoming a problem."
+msgstr ""
+"...Як на зло, приходять лише ті, кого зовсім не хочеш бачити. Справжня\n"
+"морока."
+
+#. Key: BNG7_029
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 来る奴を倒せばいいのか、乳の人。
+#. JA:   んならタオがやっつけるニャス。
+#. JA:   頑張るから、何かご褒美欲しいニャ。ただ働きは嫌ニャスよ。
+msgctxt "BNG7_029"
+msgid ""
+"You need those who're coming after you gone... Is that it, boobie lady? Let me take\n"
+"care of it for you, meow. If it goes well, I want something in return. I can't exactly\n"
+"work for free, you know."
+msgstr ""
+"Треба побити того, хто сюди йде, Цицькаста Пані? Тоді Тао з ним\n"
+"розбереться, няв. Але якщо Тао постарається, то хоче винагороду.\n"
+"Задурно Тао не працює."
+
+#. Key: BNG7_030
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: タオは、らぐにゃとかいう人を探してるニャス。
+#. JA:   らぐにゃの居場所を教えてくれるか、それか、えーと……、
+#. JA:   肉まん、たくさんたくさん食べたいニャス。
+msgctxt "BNG7_030"
+msgid ""
+"I'm looking for a man called Rawrgna. If you can either tell me where he is or...\n"
+"uh...give me a lot of meat buns, consider it done."
+msgstr ""
+"Тао шукає дядька на ім'я Раґня. Скажи Тао, де він, або... е-е-е... Тао хоче\n"
+"багато-багато м'ясних булочок, няв."
+
+#. Key: BNG7_031
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: どっちのご褒美、くれるニャス？
+msgctxt "BNG7_031"
+msgid "Which one sounds better to you, meow?"
+msgstr "Яку винагороду даси, няв?"
+
+#. Key: BNG7_032
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ご褒美？　そうね……。
+msgctxt "BNG7_032"
+msgid "Hm, let's see... "
+msgstr "Винагороду? Ну, гаразд..."
+
+#. Key: BNG7_033
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ラグナの居場所なら、今から来る人が知っているかも。
+msgctxt "BNG7_033"
+msgid "The person who's about to walk by probably knows where Ragna is."
+msgstr "Той, хто зараз сюди прийде, мабуть, знає, де Раґна."
+
+#. Key: BNG7_034
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 肉まんなら、今から来る人にお願いしてみたら……？
+msgctxt "BNG7_034"
+msgid "The person who's about to walk by will buy some buns for you."
+msgstr ""
+"Якщо хочеш м'ясних булочок, може, попросиш у того, хто зараз сюди\n"
+"прийде?"
+
+#. Key: BNG7_040
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 来る人、らぐにゃの居場所を知ってるニャスか、乳の人!?
+msgctxt "BNG7_040"
+msgid "The person after you knows where Ragnya is, boobie lady!?"
+msgstr "Той, хто сюди йде, знає, де Раґня, Цицькаста Пані?!"
+
+#. Key: BNG7_041
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ええ、たぶん。あの人も咎追いだから。
+msgctxt "BNG7_041"
+msgid "Yes, probably. He's a vigilante after all."
+msgstr "Так, мабуть. Він теж мисливець за головами."
+
+#. Key: BNG7_042
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: ありがとうだぞ、乳の人！
+#. JA:   このお礼は今度ネズミで払うニャース！
+msgctxt "BNG7_042"
+msgid "Thank you, boobie lady! I'll treat you to some mice next time, meow!"
+msgstr ""
+"Дякую, Цицькаста Пані! Наступного разу Тао віддячить тобі мишами,\n"
+"няв!"
+
+#. Key: BNG7_044
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: あらあら、もう行ってしまったわ。
+#. JA:   でも、おかげで私は彼を捜せる。
+#. JA:   タオ、このお礼はいつかきちんとするわね。
+msgctxt "BNG7_044"
+msgid ""
+"Oh my, she took off so fast. But now I can go back to looking for him.\n"
+"I owe you one, Tao."
+msgstr ""
+"Ой, уже побігла. Але завдяки їй я зможу далі його шукати. Тао, колись я\n"
+"тобі як слід віддячу."
+
+#. Key: BNG7_047
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: そこのむさい人、白い人の居場所を教えるニャ！
+msgctxt "BNG7_047"
+msgid "Scruffy man right there, you gotta tell me where the white guy is, meow!"
+msgstr "Гей, кошлатий дядьку! Кажи, де білий дядько, няв!"
+
+#. Key: BNG7_048
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……白い人？　何の話でござるか？
+msgctxt "BNG7_048"
+msgid "...White guy? What are you talking about?"
+msgstr "...Білий дядько? Про кого ти говориш?"
+
+#. Key: BNG7_049
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: らぐにゃ、ぶらにゃんとかニャス！
+#. JA:   タオは村のために白い人をお金にしなくちゃいけないニャス！！
+msgctxt "BNG7_049"
+msgid ""
+"Rawrgna Blood-something, meow! I need to find him to make money for the village,\n"
+"meow!"
+msgstr ""
+"Раґня Блядня чи якось так, няв! Тао треба перетворити білого дядька на\n"
+"гроші заради селища!!"
+
+#. Key: BNG7_050
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ああ、あの賞金首でござるか。
+#. JA:   すでに拙者が成敗いたしたが？
+msgctxt "BNG7_050"
+msgid "Oh, that wanted criminal. I already took care of him, though."
+msgstr "А, той розшукуваний злочинець. Та я вже його покарав."
+
+#. Key: BNG7_051
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: にゃにゃにゃ、にゃんですとぉーっ？
+msgctxt "BNG7_051"
+msgid "Meow, meow, meowwww?"
+msgstr "Ня-ня-ня, що-о-о?!"
+
+#. Key: BNG7_052
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 一足遅かったな。
+#. JA:   潔く諦めるがよいでござる、うむ。
+msgctxt "BNG7_052"
+msgid ""
+"I guess you were a little late. You'd be better off just forgetting about the whole\n"
+"Ragna thing, OK?"
+msgstr "Ти трохи запізнилася. Краще змирися й облиш цю справу."
+
+#. Key: BNG7_053
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: こうなったらむさい人を倒してお金にするニャス！！
+msgctxt "BNG7_053"
+msgid ""
+"So all I have to do now is defeat this scruffy man and make money out of it,\n"
+"meow!"
+msgstr "Тоді Тао поб'є кошлатого дядька й перетворить на гроші його, няв!!"
+
+#. Key: BNG7_054
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 何でそうなるでござるか！
+msgctxt "BNG7_054"
+msgid "Where's the logic in that!?"
+msgstr "Як ти взагалі дійшла такого висновку?!"
+
+#. Key: BNG7_055
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: タオにもわからにゃいニャス！
+#. JA:   でも行くニャスよーっ！！
+msgctxt "BNG7_055"
+msgid "I'm not sure, meow! Anyway, here I come, meoooow!"
+msgstr "Тао теж не знає, няв! Але Тао вже нападає!!"
+
+#. Key: BNG7_060
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 来る人、肉まんおごってくれるニャスか！
+#. JA:   ほんとニャスか!?
+msgctxt "BNG7_060"
+msgid "The person after you is going to treat me to some meat buns meow? Really!?"
+msgstr ""
+"Той, хто сюди йде, пригостить Тао м'ясними булочками? Це правда,\n"
+"няв?!"
+
+#. Key: BNG7_061
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 肉まんくらいなら私がおごってあげたいけれど、
+#. JA:   私は今、急いでいるの。
+#. JA:   だから、食べたいなら来る人にねだってみてね？
+msgctxt "BNG7_061"
+msgid ""
+"I'd love to treat you to some myself, but I'm sort of in a hurry right now. So try and\n"
+"ask that man there for it, OK?"
+msgstr ""
+"Я б і сама тебе пригостила, але зараз дуже поспішаю. Тому, якщо хочеш\n"
+"булочок, попроси в того, хто зараз сюди прийде, добре?"
+
+#. Key: BNG7_062
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: お得な情報ありがとうだぞ、乳の人！
+#. JA:   肉まんの人、タオが今行くから待ってるニャース！
+msgctxt "BNG7_062"
+msgid "Thanks for the tip, boobie lady! I'll be right there, meat bun man, meow!"
+msgstr ""
+"Дякую за корисну підказку, Цицькаста Пані! Булочний дядьку, чекай,\n"
+"Тао вже біжить, няв!"
+
+#. Key: BNG7_063
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ……行っちゃった。半分、冗談で言ったのに。
+#. JA:   でも、おかげで助かったわ。
+#. JA:   今の内に、彼を捜さないと……
+msgctxt "BNG7_063"
+msgid ""
+"...She really left. I was only half-joking... But, I guess it's for the best. I have to\n"
+"find him while I still can..."
+msgstr ""
+"...І справді побігла. А я ж наполовину пожартувала. Але вона мене\n"
+"виручила. Треба шукати його, поки є нагода..."
+
+#. Key: BNG7_066
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: そこのむさい人、肉まんをよこすニャス！！
+msgctxt "BNG7_066"
+msgid "Scruffy man right there, you gotta give me some meat buns meow!"
+msgstr "Гей, кошлатий дядьку! Віддай Тао м'ясні булочки, няв!!"
+
+#. Key: BNG7_067
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……肉まんでござるか？　あいにく持ち合わせてなどおらぬが。
+msgctxt "BNG7_067"
+msgid "...Meat buns? Unfortunately, I don't have any on me."
+msgstr "...М'ясні булочки? На жаль, у мене їх немає."
+
+#. Key: BNG7_068
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 嘘をつくニャ！
+msgctxt "BNG7_068"
+msgid "You're lying!"
+msgstr "Не бреши, няв!"
+
+#. Key: BNG7_069
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 乳の人が、ねだればむさい人が肉まんおごってくれると言ったぞ！
+#. JA:   さあ遠慮なくタオに肉まんをおごりまくるといいニャスよーっ！！
+msgctxt "BNG7_069"
+msgid ""
+"Boobie lady said you'd treat me to some meat buns! You don't need to hold back\n"
+"meow! Feel free to give me all you've got!"
+msgstr ""
+"Цицькаста Пані сказала: якщо попросити, кошлатий дядько пригостить\n"
+"булочками! Тож не соромся й пригощай Тао досхочу, няв!!"
+
+#. Key: BNG7_071
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: む、無茶を申すでないぞ。
+msgctxt "BNG7_071"
+msgid "Y-You're kidding, right?"
+msgstr "Н-не вимагай неможливого."
+
+#. Key: BNG7_072
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: こうなったら、むさい人を倒して肉まんをもらうニャス！
+msgctxt "BNG7_072"
+msgid "Then, I guess I'll have to rob you!"
+msgstr "Тоді Тао поб'є кошлатого дядька й забере м'ясні булочки, няв!"
+
+#. Key: BNG7_074
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 何でそういう話になるのだ！
+#. JA:   聞き分けのない子供はおしりペンペンでござるよ！
+msgctxt "BNG7_074"
+msgid ""
+"What's your reasoning for it!? You know what they do to bad kids like you...?\n"
+"It's time for a spankin'!"
+msgstr ""
+"Як розмова взагалі до цього дійшла?! Неслухняних дітей треба добряче\n"
+"відшмагати по дупі!"
+
+#. Key: BNG7_079
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 思い知ったニャスか、むさい人！
+msgctxt "BNG7_079"
+msgid "That'll show you, scruffy man!"
+msgstr "Тепер зрозумів, кошлатий дядьку?!"
+
+#. Key: BNG7_080
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……こ、子供に負けた……。
+#. JA:   ざ、慚愧の念に耐えないでござる……
+#. JA:   ふがいない拙者をどうか許してくだされ、ライチ殿……
+msgctxt "BNG7_080"
+msgid ""
+"...I've lost to a child...?\n"
+"I'm deeply ashamed of myself...\n"
+"Please forgive this worthless man, Miss Litchi..."
+msgstr ""
+"...Я-я програв дитині... Я не можу стерпіти такої ганьби... Пробачте цього\n"
+"нікчему, пані Лічі..."
+
+#. Key: BNG7_081
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: この愛、今生では叶わぬとも……
+#. JA:   来世で必ずや成就させるでご、ざ……る…………がくり。
+msgctxt "BNG7_081"
+msgid ""
+"Even if my affection for you is unrequited in this life...I'll make it happen...in the\n"
+"afterlife...or a re-incarnation...no matter what...it takes... *thud*"
+msgstr ""
+"Навіть якщо цьому коханню не судилося здійснитися в цьому житті... у\n"
+"наступному я неодмінно його здій... сню... геп."
+
+#. Key: BNG7_087
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: うにゃぁ……
+#. JA:   負けたニャスぅぅぅぅ……
+msgctxt "BNG7_087"
+msgid "Meow... I lost, meoooow..."
+msgstr "Ня-я... Тао програла-а-а, няв..."
+
+#. Key: BNG7_088
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 一体何だったでござるか、この子供は。
+#. JA:   おっと、こうしてはおられぬ。ライチ殿を追わねば！
+msgctxt "BNG7_088"
+msgid ""
+"I wonder what that child wanted...? Oops, I have no time for this.\n"
+"I gotta go after Miss Litchi!"
+msgstr ""
+"Що це взагалі було за дитя? Ой, мені не можна тут баритися. Треба\n"
+"наздогнати пані Лічі!"
+
+#. Key: BNG7_089
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ライチ殿ぉぉおおっ！
+#. JA:   今行きますぞぉぉおっ！！
+msgctxt "BNG7_089"
+msgid ""
+"Miss Litchiiiii!\n"
+"I'll be right theeeeeere!"
+msgstr "Пані Лі-і-і-ічі! Я вже йду-у-у-у!!"
+
+#. Key: BNG8_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: 哀れだな、蟲よ。
+#. JA:   「蒼」に誘われて迷い出でたのだろうが、此れが貴様の限界だ。
+msgctxt "BNG8_002"
+msgid ""
+"Pathetic insect... The Azure has drawn you here, but you have reached your limit.\n"
+"This is the end for you."
+msgstr ""
+"Жалюгідна комахо. Тебе виманила сюди «Лазур», але це межа твоїх\n"
+"можливостей."
+
+#. Key: BNG8_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Arakune
+#. Context: Bang story route (POV: Bang)
+#. JA: 魔力　と　も強い　　レ欲し
+msgctxt "BNG8_003"
+msgid "Your ma ic pow    s st  ng. I w    it."
+msgstr "Твоя магі на сила    велика. Хо у її."
+
+#. Key: BNG8_004
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: 此の魔力は「境界」の向こうの叡<ruby>えい</ruby>智<ruby>ち　</ruby>に耐えられずに
+#. JA:   其の姿となった貴様には、過ぎた物―――。
+#. JA:   今、引導を渡してやる。然る後、境界の一部と成るが良い！
+msgctxt "BNG8_004"
+msgid ""
+"You allowed yourself to become corrupted by the wisdom that lies beyond the\n"
+"Boundary. The magic that I wield would utterly destroy you. I will grant your\n"
+"release now. I suggest you return to the Boundary what you have borrowed!"
+msgstr ""
+"Ця магічна сила не для тебе, адже ти набув такої подоби, не витримавши\n"
+"мудрості з-за Межі. Зараз я покладу край твоїм стражданням. А тоді\n"
+"стань частиною Межі!"
+
+#. Key: BNG8_006
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 待ちなさい！！
+msgctxt "BNG8_006"
+msgid "Hold it!"
+msgstr "Зачекай!!"
+
+#. Key: BNG8_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: 何者だ、貴様……。
+#. JA:   邪魔をする気か？
+msgctxt "BNG8_007"
+msgid ""
+"Who are you?\n"
+"Surely you cannot think to stop me."
+msgstr "Хто ти така...? Збираєшся мені завадити?"
+
+#. Key: BNG8_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+msgctxt "BNG8_009"
+msgid "..."
+msgstr "..."
+
+#. Key: BNG8_010
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: 解っているのだろう。
+#. JA:   其れは最早、人とは呼べぬ。
+#. JA:   生かしてやる意味などないと。
+msgctxt "BNG8_010"
+msgid ""
+"You refuse to admit the truth. If that creature was once human, it left that world long\n"
+"ago. He has no reason to live."
+msgstr ""
+"Ти й сама розумієш. Це вже не можна назвати людиною. Немає сенсу\n"
+"лишати його живим."
+
+#. Key: BNG8_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: ……わかっていても。
+#. JA:   目の前でむざむざ死なせるわけにはいかないわ。
+msgctxt "BNG8_011"
+msgid ""
+"...I know.\n"
+"But I can't just stand here and watch him die."
+msgstr "...Розумію. Але я не можу просто дозволити йому померти в мене на очах."
+
+#. Key: BNG8_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: 然らば貴様から先に、境界の一部にしてやろう。
+msgctxt "BNG8_012"
+msgid "Then the two of you shall depart for the Boundary together. Prepare yourself!"
+msgstr "Тоді спочатку я зроблю частиною Межі тебе."
+
+#. Key: BNG8_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: さらばだ、女！
+msgctxt "BNG8_014"
+msgid "Good-bye, foolish child!"
+msgstr "Прощавай, жінко!"
+
+#. Key: BNG8_016
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: なんと！　あれはまさしくライチ殿！
+#. JA:   またも黒いウネウネを守っているでござるか。
+#. JA:   それほどに拙者よりも、あのウネウネを―――
+msgctxt "BNG8_016"
+msgid ""
+"Whoa! That looks like Miss Litchi over there!\n"
+"She's protecting that black squiggly thing again?\n"
+"And more importantly, she chose it over me?"
+msgstr ""
+"Що?! Та це ж пані Лічі! Вона знову захищає ту чорну кривулю. Невже\n"
+"вона настільки дорожча їй за мене —"
+
+#. Key: BNG8_017
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: いや、そんなことを妬んでいる場合じゃないでござる！
+#. JA:   今行くでござる、ライチ殿ぉぉぉおおおっ！！
+msgctxt "BNG8_017"
+msgid "No, this isn't the time to get jealous! I'll be right there, Miss Litchiii!"
+msgstr "Ні, зараз не час ревнувати! Я вже йду, пані Лі-і-і-ічі!!"
+
+#. Key: BNG8_019
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: させぬわあっ！！！！
+msgctxt "BNG8_019"
+msgid "Not on my watch!"
+msgstr "Не дозволю-у-у!!"
+
+#. Key: BNG8_021
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: バ、バングさ……ん……
+msgctxt "BNG8_021"
+msgid "Bang..."
+msgstr "П-пане Банґу..."
+
+#. Key: BNG8_022
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: すまぬ、遅くなり申した！　もうご安心召されい！！
+#. JA:   その黒いウネウネもライチ殿も、
+#. JA:   このシシガミ＝バングが守ってみせるでござる！！
+msgctxt "BNG8_022"
+msgid ""
+"I'm sorry I'm a little late! But, you have nothing to worry about now!\n"
+"Bang Shishigami will protect both you and that black squiggly thingy! "
+msgstr ""
+"Пробачте, що запізнився! Тепер вам нема чого боятися!! Я, Банґ\n"
+"Шішіґамі, захищу і пані Лічі, і цю чорну кривулю!!"
+
+#. Key: BNG8_023
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: イカルガの忍者か。
+#. JA:   邪魔をするなら、容赦はせんぞ。
+msgctxt "BNG8_023"
+msgid "A ninja of Ikaruga, are you? Step aside, or condemn yourself to my wrath."
+msgstr "Нінджя з Ікаруґи. Якщо втручатимешся, пощади не чекай."
+
+#. Key: BNG8_024
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 邪魔するなと言われて、
+#. JA:   はいそうですかと引き下がるイカルガ男児などおらぬわ！
+#. JA:   お主こそ覚悟するでござる！！　いざ尋常に勝負！
+msgctxt "BNG8_024"
+msgid ""
+"There are no men in Ikaruga who would back off because they were told so!\n"
+"You're the one who needs to get ready for this! Let's settle this fair and square!"
+msgstr ""
+"Жоден чоловік Ікаруґи не відступить лише тому, що йому наказали не\n"
+"втручатися! Це ти готуйся!! До чесного двобою!"
+
+#. Key: BNG8_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: なれば遠慮は要らぬな。
+#. JA:   我が名はハクメン。推して参る！
+msgctxt "BNG8_025"
+msgid ""
+"You have made your choice, then.\n"
+"Prepare yourself.\n"
+"I am Hakumen. The end has come."
+msgstr "Отже, стримуватися немає потреби. Ім'я мені Хакумен. До бою!!!"
+
+#. Key: BNG8_030
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: だから無駄と謂ったのだ。
+msgctxt "BNG8_030"
+msgid "You were a fool to challenge me."
+msgstr "Я ж сказав, що це марно."
+
+#. Key: BNG8_031
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――む、無念……。せめて一目、ライチ殿の無事な姿だけでも……。
+#. JA:   だが……もはや我が目には光すらも……。
+#. JA:   ラ、ライチ殿……どうかご無事で……がくり。
+msgctxt "BNG8_031"
+msgid ""
+"...Wh-What a shame... I wish I could see Miss Litchi for one last time...but my eyes\n"
+"no longer see light... M-Miss Litchi...please be safe... *thud*"
+msgstr ""
+"— Я-яка ганьба... Якби ж хоч востаннє побачити, що пані Лічі ціла...\n"
+"Але... мої очі вже не бачать навіть світла... П-пані Лічі... благаю,\n"
+"бережіть себе... геп."
+
+#. Key: BNG8_033
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: バングさん？　バングさん？　バングさーんっ！
+msgctxt "BNG8_033"
+msgid "Bang? Bang? Baaang!"
+msgstr "Пане Банґу? Пане Банґу? Пане Ба-а-а-нґу!"
+
+#. Key: BNG8_039
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者の勝ちでござるな！！
+msgctxt "BNG8_039"
+msgid "It seems I am victorious!"
+msgstr "Перемога за мною!!"
+
+#. Key: BNG8_040
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: ……流石だ、その信念には敬意の念すら覚える。
+#. JA:   だが……我が名はハクメン。「悪」を滅し「罪」を刈る者。
+msgctxt "BNG8_040"
+msgid ""
+"...Impressive. Your spirit is strong. But it makes little difference. With blade in hand\n"
+"shall I reap the sins of this world, and cleanse it in the fires of destruction. The end\n"
+"has come."
+msgstr ""
+"...Вражає. Твої переконання гідні поваги. Але... ім'я мені Хакумен. Той,\n"
+"хто знищує «зло» і жне «гріхи»."
+
+#. Key: BNG8_043
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Arakune
+#. Context: Bang story route (POV: Bang)
+#. JA: 果　　な　魔力　高　る！　　ごい！　す　らしい！
+msgctxt "BNG8_043"
+msgid "Ma    pow   lev       ncreas       no en !  mazin  ! Am zin  pow  !"
+msgstr "Безме на       сила зрос ає! Неймовірно! Прек асно!"
+
+#. Key: BNG8_044
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 魔素が際限なく高まっていくですって！
+#. JA:   これはイカルガの時と同じ……ま、まさか！
+msgctxt "BNG8_044"
+msgid ""
+"Seithr is escalating indefinitely! This is just like what happened to Iruma...\n"
+"I-It can't be...!?"
+msgstr "Мана зростає без жодних меж?! Це так само, як тоді в Ібукідо... Н-невже?!"
+
+#. Key: BNG8_045
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: さて、イカルガの忍者よ。
+#. JA:   続きを再開するぞ。
+msgctxt "BNG8_045"
+msgid "Now is the time, ninja of Ikaruga. We have not yet finished."
+msgstr "Що ж, нінджя з Ікаруґи. Продовжимо."
+
+#. Key: BNG8_046
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ま、待つでござる！
+#. JA:   この状況、お主にはわからぬでござるか！！
+msgctxt "BNG8_046"
+msgid "W-Wait! Aren't you aware of what's happening here!?"
+msgstr "З-зачекай! Ти хіба не розумієш, що тут відбувається?!"
+
+#. Key: BNG8_047
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: 時がきたようだが……まだ時間は多少ある。
+#. JA:   貴様ごときの信念に私が屈する訳にはいかぬのでな。
+msgctxt "BNG8_047"
+msgid ""
+"Yes. It has begun...but there is yet time.\n"
+"I cannot afford to lose to the likes of you."
+msgstr ""
+"Схоже, час настав... але його в нас іще трохи є. Я не можу дозволити,\n"
+"щоб мене здолали переконання такого, як ти."
+
+#. Key: BNG8_048
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ちいっ！
+#. JA:   やむを得ん、ライチ殿はそのウネウネと逃げるでござる！
+#. JA:   ここは拙者が引き受けた！！
+msgctxt "BNG8_048"
+msgid ""
+"Hmph! I guess I have no other choice then. Miss Litchi, please get out of here\n"
+"with that squiggly thingy! Let me handle this!"
+msgstr ""
+"Тьху! Нічого не вдієш. Пані Лічі, тікайте разом із тією кривулею! Я його\n"
+"затримаю!!"
+
+#. Key: BNG8_049
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: で、でも！　ゲートが暴走を……！！
+#. JA:   このままではあの時と……イカルガと同じくここも消滅してしまう！
+#. JA:   巻き込まれたら、いくらアナタだって助からないわ！！
+msgctxt "BNG8_049"
+msgid ""
+"But the gate is out of control now! If this goes on, this place'll be wiped out just\n"
+"like Iruma! You'll die for sure if you get dragged into it!"
+msgstr ""
+"А-але брама вийшла з-під контролю!! Якщо так триватиме, це місце\n"
+"зникне, як тоді зникло Ібукідо! Якщо вас затягне, навіть ви не\n"
+"врятуєтеся!!"
+
+#. Key: BNG8_051
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 心配ご無用。こやつを倒したら、拙者もすぐに行くでござるよ。
+#. JA:   オリエントタウンの酒場で会おうでござる。
+#. JA:   ……拙者と一献、お付き合い下されぃ！
+msgctxt "BNG8_051"
+msgid ""
+"There's nothing to worry about. As soon as I finish him off, I'll be right behind you.\n"
+"I'll see you at the bar in Orient Town.\n"
+"...Would you like to have a drink with me there?"
+msgstr ""
+"Не хвилюйтеся. Щойно переможу його, я одразу наздожену вас.\n"
+"Зустрінемося в таверні Орієнт-тауну. ...Складіть мені там компанію за\n"
+"келихом!"
+
+#. Key: BNG8_053
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Litchi
+#. Context: Bang story route (POV: Bang)
+#. JA: 私……待ってるから。
+#. JA:   必ず、待ってるから！
+msgctxt "BNG8_053"
+msgid "...I will. I'll be waiting for you!"
+msgstr "Я... чекатиму. Обов'язково чекатиму!"
+
+#. Key: BNG8_055
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: さて、と。小手調べはここまででござる―――。
+#. JA:   とくと見るがよい！
+#. JA:   イカルガ忍者の奥義をな！
+msgctxt "BNG8_055"
+msgid ""
+"All right now, that's enough warm-up.\n"
+"Check this out! This is the master art of the Ikaruga ninja!"
+msgstr ""
+"Ну що ж, досить розминатися. Дивися уважно! Зараз ти побачиш таємну\n"
+"техніку нінджя Ікаруґи!"
+
+#. Key: BNG8_056
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Hakumen
+#. Context: Bang story route (POV: Bang)
+#. JA: ―――参る。
+msgctxt "BNG8_056"
+msgid "Hmph... Prepare yourself."
+msgstr "— До бою."
+
+#. Key: BNG8_057
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 応！！
+msgctxt "BNG8_057"
+msgid "OH!"
+msgstr "Гаразд!!"
+
+#. Key: BNG9_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 第十三階層都市カグツチの最下層に位置するカカ族の村。
+#. JA:   かつて、このカカ族の村には青空も星空もなかった。
+msgctxt "BNG9_002"
+msgid ""
+"On the lowest of thirteen layers which are Kagutsuchi, the Kaka clan has taken\n"
+"residence. But here, there is no sky...and no stars..."
+msgstr ""
+"На самому дні Тринадцятого ієрархічного міста Каґуцучі розташоване\n"
+"селище клану Кака. Колись над селищем Кака не було ані блакитного,\n"
+"ані зоряного неба."
+
+#. Key: BNG9_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   頭上に覆われた分厚い建造物が視界を遮っていたのだ。
+#. JA:   だが、そんなカカ族の村に空を取り戻した伝説の男がいた。
+msgctxt "BNG9_003"
+msgid ""
+"\n"
+"The skyscraping structures on higher levels have completely covered the sky.\n"
+"However, there was once a man who reclaimed the tattered sky of the Kaka village."
+msgstr ""
+"Товсті конструкції над головою цілковито закривали його від очей. Та\n"
+"був легендарний чоловік, який повернув небо селищу Кака."
+
+#. Key: BNG9_004
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   男の名はシシガミ＝バング。
+#. JA:   命を賭してカグツチのゲート暴走による被害を最小限に食い止め、
+#. JA:   カカ族の村はもちろん、カグツチ全体を消滅の危機から救った男。
+msgctxt "BNG9_004"
+msgid ""
+"\n"
+"The man's name...Bang Shishigami.\n"
+"A -real- man who put others' lives before his own in the Kagutsuchi Gate\n"
+"incident, saving not only the Kaka clan, but the entire city of Kagutsuchi."
+msgstr ""
+"Його звали Банґ Шішіґамі. Ризикуючи життям, він звів до мінімуму\n"
+"шкоду від виходу брами Каґуцучі з-під контролю й урятував від\n"
+"знищення не лише селище Кака, а й усе Каґуцучі."
+
+#. Key: BNG9_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: ゲートの暴走によるカカ族の村への被害は、天井を覆う構造物のみを
+#. JA:   うまい具合に破壊し、カカ族に光をもたらしたのだった。
+msgctxt "BNG9_005"
+msgid ""
+"Inevitably, irreversible damage has been done to the Kaka village... Bang's\n"
+"destruction of higher layers has caused once again, rays of light to shine\n"
+"upon the villagers of Kaka."
+msgstr ""
+"Брама вийшла з-під контролю, але напрочуд вдало зруйнувала лише\n"
+"конструкції, які затуляли селищу Кака небо, і принесла його мешканцям\n"
+"світло."
+
+#. Key: BNG9_006
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   カカ族にはそんなバングの武勇伝が永く昔話として伝えられるようになった。シシガミ＝バングの名はカカ族にとって太陽に等しく尊い。
+msgctxt "BNG9_006"
+msgid ""
+"\n"
+"In the Kaka clan, the heroic tales of Bang Shishigami have been passed from\n"
+"generation to generation - as a folk tale of the man who stole back the sun."
+msgstr ""
+"Відтоді оповідь про подвиг Банґа довгі роки передавали в клані Кака як\n"
+"легенду. Для клану Кака ім'я Банґа Шішіґамі стало священним, наче\n"
+"саме сонце."
+
+#. Key: BNG9_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Feisty-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「行くぞ！　超弩級必殺技！！
+#. JA:   　顔から落ちたように見せかけて相手の油断を誘うフリ！！」
+msgctxt "BNG9_007"
+msgid ""
+"<DQ>Take this! Super special technique!\n"
+"'Catch an opponent off guard by making it look like I fall on my face'!<DQ>"
+msgstr ""
+"«До бою! Надпотужний особливий прийом!! Удаю, ніби впала долілиць,\n"
+"щоб супротивник утратив пильність!!»"
+
+#. Key: BNG9_008
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「うわー、騙されたー！　油断したーっ！」
+msgctxt "BNG9_008"
+msgid "<DQ>Uwagh, I can't believe it! You totally got me!<DQ>"
+msgstr "«Ой-йой, мене обдурили! Я втратила пильність!»"
+
+#. Key: BNG9_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Calic-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「次、ミケがバング様やる！」
+msgctxt "BNG9_009"
+msgid "<DQ>It's my turn to be Boss Bang now!<DQ>"
+msgstr "«Тепер Міке буде паном Банґом!»"
+
+#. Key: BNG9_010
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Spotty-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「ポチの番だってばあ！」
+msgctxt "BNG9_010"
+msgid "<DQ>No, it's my turn.<DQ>"
+msgstr "«Та зараз черга Почі!»"
+
+#. Key: BNG9_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Calic-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「ミケだって！」
+msgctxt "BNG9_011"
+msgid "<DQ>It's my turn!<DQ>"
+msgstr "«Черга Міке!»"
+
+#. Key: BNG9_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Spotty-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「ポチだよ！」
+msgctxt "BNG9_012"
+msgid "<DQ>It's mine!<DQ>"
+msgstr "«Черга Почі!»"
+
+#. Key: BNG9_013
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「タマもバング様やりたーい！」
+msgctxt "BNG9_013"
+msgid "<DQ>I want to play Boss Bang, too!<DQ>"
+msgstr "«Тама теж хоче бути паном Банґом!»"
+
+#. Key: BNG9_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Feisty-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「え～い、五十五寸釘食らえー！」
+msgctxt "BNG9_014"
+msgid "<DQ>Yaaaah! Take this humongous nail!<DQ>"
+msgstr "«Ану отримуй цвяхом завдовжки п'ятдесят п'ять сунів!»"
+
+#. Key: BNG9_015
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 「最終奥義だ！　ふーりーんかざーん！！」
+msgctxt "BNG9_015"
+msgid "<DQ>Ultimate technique! Fuu rin ka zan!<DQ>"
+msgstr "«Остаточна таємна техніка! Фу-рін-ка-за-а-ан!!»"
+
+#. Key: BNG9_018
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: みんにゃー、仲良くするニャス。喧嘩はダメニャス。
+#. JA:   愛と正義のむさい人、お空で怒るニャスよ
+msgctxt "BNG9_018"
+msgid ""
+"Everybody, be nice to each other, meow.\n"
+"No fighting. If scruffy man of love and justice sees this, he will get mad in heaven."
+msgstr ""
+"Усі дружіть, няв. Битися не можна. Кошлатий дядько любові й\n"
+"справедливості розсердиться на небі."
+
+#. Key: BNG9_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Kaka kittens
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   はーい！
+msgctxt "BNG9_020"
+msgid "OK."
+msgstr "Гаразд!"
+
+#. Key: BNG9_024
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: むさい人も喜ぶ、よいお返事ニャス。
+#. JA:   もう日も暮れたし、みんにゃ、おうちに帰るニャス。
+msgctxt "BNG9_024"
+msgid ""
+"Good answer! I'm sure that makes the scruffy man happy, meow. \n"
+"It's getting dark, so let's all go home."
+msgstr ""
+"Гарна відповідь, кошлатий дядько теж зрадів би, няв. Сонце вже сіло,\n"
+"тож усі йдіть додому."
+
+#. Key: BNG9_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Feisty-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: タオねえは、バング様に会ったことがあるんだよね？
+msgctxt "BNG9_025"
+msgid "You've met Boss Bang before, right, Tao?"
+msgstr "Сестро Тао, ти ж зустрічала пана Банґа?"
+
+#. Key: BNG9_026
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: あるニャスよ。ずっとむかしだけどにゃ。
+#. JA:   あれはホントーにむさい人だったニャス。
+msgctxt "BNG9_026"
+msgid "Yeah. It was a long time ago, though. He was such a scruffy man."
+msgstr ""
+"Зустрічала, няв. Але це було дуже давно. Він був страшенно кошлатим\n"
+"дядьком."
+
+#. Key: BNG9_027
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Spotty-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: バング様って強かったんだよね！
+msgctxt "BNG9_027"
+msgid "Boss Bang must've been so strong!"
+msgstr "Пан Банґ був сильним, правда?"
+
+#. Key: BNG9_028
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: 今のタオほどじゃにゃいけど、強かったニャスね。
+msgctxt "BNG9_028"
+msgid "Not as strong as Tao. But he sure was."
+msgstr "Не таким сильним, як Тао зараз, але сильним, няв."
+
+#. Key: BNG9_029
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Calic-kaka
+#. Context: Bang story route (POV: Bang)
+#. JA: そんなに強かったのに、どうしてお星様になっちゃったの？
+msgctxt "BNG9_029"
+msgid "If he was really that strong, why did he have to go to heaven?"
+msgstr "Якщо він був таким сильним, чому перетворився на зірочку?"
+
+#. Key: BNG9_030
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: カカの村に空を取り戻すためニャ……ほら、見るニャスよ。
+msgctxt "BNG9_030"
+msgid "He wanted to bring back the sky upon the village of Kaka, meow... Look, meow!"
+msgstr "Щоб повернути небо селищу Кака, няв... Погляньте."
+
+#. Key: BNG9_032
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Taokaka
+#. Context: Bang story route (POV: Bang)
+#. JA: むさい人は、お空からカカのみんなを見守ってくれているニャ
+#. JA:   さあ、みんなでお礼を言うニャス。せえの！
+msgctxt "BNG9_032"
+msgid ""
+"The scruffy man is watching over us to make sure everybody is happy from up there.\n"
+"Let's all say thank you to him, meow. Ready?"
+msgstr ""
+"Кошлатий дядько дивиться з неба й оберігає всіх Кака, няв. Нумо всі\n"
+"разом йому подякуємо. Раз, два!"
+
+#. Key: BNG9_034
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Everyone
+#. Context: Bang story route (POV: Bang)
+#. JA: 
+#. JA:   ありがとう、むさい人ーっ！！
+msgctxt "BNG9_034"
+msgid "Thank you, scruffy maaaan!"
+msgstr "Дякуємо, кошлатий дядьку-у-у!!"
+
+#. Key: BNG10_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 闇雲にラグナを探していたら、
+#. JA:   ずいぶんと遠くまで来てしまった気がするでござる。
+msgctxt "BNG10_002"
+msgid "Randomly searching for Ragna seems to have taken me into a strange place..."
+msgstr "Поки я навмання шукав Раґну, то, здається, забрів напрочуд далеко."
+
+#. Key: BNG10_004
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: はて、奇妙な光景でござるな。
+#. JA:   ここは真にカグツチでござるか？
+msgctxt "BNG10_004"
+msgid "Hm, it is a strange place, indeed. Is this really Kagutsuchi?"
+msgstr "Хм, дивне місце. Невже це справді Каґуцучі?"
+
+#. Key: BNG10_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Unknown on screen; internally Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: ここがカグツチに見えるなら医者に行ったほうがいいわね。
+msgctxt "BNG10_005"
+msgid "If this looks like Kagutsuchi to you, perhaps a visit to the doctor is in order."
+msgstr "Якщо це схоже тобі на Каґуцучі, раджу звернутися до лікаря."
+
+#. Key: BNG10_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 何奴！！
+msgctxt "BNG10_007"
+msgid "Show yourself!"
+msgstr "Хто тут?!"
+
+#. Key: BNG10_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: 私はレイチェル＝アルカード。この城の主よ。
+#. JA:   どこから迷い込んだの、貴方？
+msgctxt "BNG10_009"
+msgid ""
+"I am Rachel Alucard, the lady of this castle.\n"
+"How did you gain entrance to my sanctum?"
+msgstr "Я Рейчел Алукард, господиня цього замку. Звідки ти сюди забрів?"
+
+#. Key: BNG10_010
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Nago
+#. Context: Bang story route (POV: Bang)
+#. JA: こんな男、ほっぽりだしちゃいましょうよ、姫様。
+msgctxt "BNG10_010"
+msgid "Let's just kick him out, Princess."
+msgstr "Принцесо, нумо просто викинемо цього чоловіка звідси."
+
+#. Key: BNG10_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Gii
+#. Context: Bang story route (POV: Bang)
+#. JA: オイラもそれがいいと思うッス！
+msgctxt "BNG10_011"
+msgid "That's a great idea!"
+msgstr "Я теж вважаю, що так буде найкраще!"
+
+#. Key: BNG10_012
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: しゃ、しゃべるブランコに空飛ぶ赤い豚とな!?
+#. JA:   面妖な！　さてはお主ら、アヤカシの類か!?
+msgctxt "BNG10_012"
+msgid ""
+"A-A talking swing and a flying pig!? How strange!\n"
+"You must be monsters of some sort!"
+msgstr ""
+"Г-гойдалка, що розмовляє, і летюча червона свиня?! Які дива! Невже ви\n"
+"якісь нечисті духи?!"
+
+#. Key: BNG10_013
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Gii
+#. Context: Bang story route (POV: Bang)
+#. JA: オイラは豚じゃないッス！
+#. JA:   赤こうもりッス、こうもり！！
+msgctxt "BNG10_013"
+msgid "I'm no pig! I'm a red bat. A bat, dammit!"
+msgstr "Я не свиня! Я червоний кажан! Ка-жан!!"
+
+#. Key: BNG10_014
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 人語を操るこうもりも空飛ぶ豚と等しく怪しいわ！
+#. JA:   やはりお主ら、人の世に仇なす妖怪でござるな！
+msgctxt "BNG10_014"
+msgid ""
+"A talking bat is as strange as a flying pig!\n"
+"You must be monsters who bring disorder into the human world!"
+msgstr ""
+"Кажан, що говорить людською мовою, не менш підозрілий за летючу\n"
+"свиню! Ви точно йокаї, які несуть людям лихо!"
+
+#. Key: BNG10_015
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: 理解を超えたものを妖怪で一括りにするなんて、
+#. JA:   この男は頭が悪いのかしら。
+#. JA:   ねぇ、ヴァルケンハイン？
+msgctxt "BNG10_015"
+msgid "Anything you don't understand is a monster? Not terribly bright, is he, Valkenhayn?"
+msgstr ""
+"Він називає чудовиськами все, що не здатен осягнути. Мабуть, цей\n"
+"чоловік не надто розумний. Чи не так, Валкенхайне?"
+
+#. Key: BNG10_017
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Valkenhayn
+#. Context: Bang story route (POV: Bang)
+#. JA: 仰る通りかと存じます、レイチェル様。
+msgctxt "BNG10_017"
+msgid "No, Madam Rachel, he most certainly is not."
+msgstr "Цілковито з вами згоден, пані Рейчел."
+
+#. Key: BNG10_018
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 拙者の頭が悪いだとおっ？
+msgctxt "BNG10_018"
+msgid "I'm not too bright!?"
+msgstr "Це я нерозумний?!"
+
+#. Key: BNG10_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: それに何か臭いわ。貴方、入浴はきちんとしているの？
+msgctxt "BNG10_020"
+msgid ""
+"Goodness gracious, I had not even noticed the smell!\n"
+"Do you even bathe?"
+msgstr "До того ж від тебе чимось тхне. Ти взагалі як слід миєшся?"
+
+#. Key: BNG10_021
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 銭湯は男の社交場でござる。
+#. JA:   部下と語らうため、銭湯に行くのが拙者の毎日の務め！
+#. JA:   一日たりとも湯浴みは欠かさぬでござる！
+msgctxt "BNG10_021"
+msgid ""
+"Public baths are where men go to socialize. I usually wrap up each day by going to\n"
+"the public bath and sharing my point of view with my men. I've never passed a day\n"
+"without going there!"
+msgstr ""
+"Громадські лазні — місце спілкування чоловіків. Щодня я ходжу туди\n"
+"вести бесіди зі своїми поплічниками! Я не пропустив купання ще\n"
+"жодного дня!"
+
+#. Key: BNG10_022
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: ……それにしては、汗臭いわ。
+msgctxt "BNG10_022"
+msgid "...Nevertheless, you reek of sweat."
+msgstr "...А проте від тебе тхне потом."
+
+#. Key: BNG10_023
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 汗の臭いでござったか。それは働く男の証。
+#. JA:   よき女子なら、男の汗を好みこそすれ、嫌ってはならぬでござるよ。
+msgctxt "BNG10_023"
+msgid ""
+"Ah, the sweat? Hah!\n"
+"Well, that just proves beyond all reasonable doubt that I am a hard-working man.\n"
+"And the ladies, love that... I think..."
+msgstr ""
+"А, то це запах поту. Він свідчить про працелюбство чоловіка. Добра\n"
+"дівчина має любити чоловічий піт, а не гидувати ним."
+
+#. Key: BNG10_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: 勝手な価値観を押しつけないで。
+#. JA:   とにかく、臭いものは臭いわ。即刻、出て行って頂戴！！
+msgctxt "BNG10_025"
+msgid ""
+"How you justify your stench is not my concern. You have offended my delicate\n"
+"senses, and I must ask that you leave!"
+msgstr ""
+"Не нав'язуй мені своїх збочених цінностей. Хай там як, цей сморід є\n"
+"смородом. Негайно забирайся звідси!!"
+
+#. Key: BNG10_026
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 出て行けと言われても拙者どこから来たのやら……。
+#. JA:   それに我が麗しのライチ―――もとい、大悪党の賞金首ラグナを
+#. JA:   討伐せずに帰るわけにはいかないでござる。
+msgctxt "BNG10_026"
+msgid ""
+"I would if I knew where I came from...\n"
+"Besides, without finding my goddess Litch—eh, the archvillain Ragna, I can't go home."
+msgstr ""
+"Я б забрався, але сам не знаю, звідки сюди потрапив... До того ж я не\n"
+"можу повернутися, не знайшовши мою прекрасну Лічі — тобто великого\n"
+"лиходія й розшукуваного злочинця Раґну."
+
+#. Key: BNG10_027
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: ……貴方、ラグナを探しているの？
+msgctxt "BNG10_027"
+msgid "...You are looking for Ragna?"
+msgstr "...Ти шукаєш Раґну?"
+
+#. Key: BNG10_028
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 左様。拙者、シシガミ＝バングは咎追いを生業とする者。
+msgctxt "BNG10_028"
+msgid "That's correct. I, Bang Shishigami, am a vigilante."
+msgstr ""
+"Саме так. Я, Банґ Шішіґамі, заробляю на життя полюванням за\n"
+"головами."
+
+#. Key: BNG10_029
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ラグナを成敗してライチ殿に見直してもら―――もとい、
+#. JA:   カグツチの平和を守り、ついでに賞金を得て
+#. JA:   イカルガ復興の資金にしたいのでござる。
+msgctxt "BNG10_029"
+msgid ""
+"I must change Miss Litchi's opinion of me by taking down Ragna—err, by protecting\n"
+"the peace of Kagutsuchi, and using the bounty for the reconstruction of Ikaruga."
+msgstr ""
+"Я хочу покарати Раґну, щоб пані Лічі поглянула на мене інакше — тобто\n"
+"захистити мир Каґуцучі, а заодно отримати винагороду й витратити її на\n"
+"відбудову Ікаруґи."
+
+#. Key: BNG10_031
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: ふぅん……貴方には無理ね。
+#. JA:   ラグナは倒せないわ。
+msgctxt "BNG10_031"
+msgid "I...don't see that happening. A man such as Ragna is somewhat...beyond you."
+msgstr "Хм... Тобі це не під силу. Раґну ти не здолаєш."
+
+#. Key: BNG10_032
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 無理……でござると？　何を根拠に申されるか？
+msgctxt "BNG10_032"
+msgid "What...? How can you be so sure?"
+msgstr "Не під силу...? На чому ґрунтуються твої слова?"
+
+#. Key: BNG10_033
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: 根拠も何も、そのくらい見ればわかるわ。
+#. JA:   無理。絶対に無理。貴方がラグナを倒す？　
+#. JA:   明日、世界を覆う魔素の雲が消え失せるくらいに有り得ないわ。
+msgctxt "BNG10_033"
+msgid ""
+"One need only look at you. Defeat Ragna? You're as likely to blow away the cloud of\n"
+"seithr that covers our world."
+msgstr ""
+"Досить на тебе поглянути. Не зможеш. Аж ніяк не зможеш. Ти здолаєш\n"
+"Раґну? Це так само неможливо, як те, що завтра зникнуть хмари мани,\n"
+"які огортають світ."
+
+#. Key: BNG10_034
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Nago
+#. Context: Bang story route (POV: Bang)
+#. JA: うんうん、無理無理。あたいにもわかるよ。
+#. JA:   このむさくて汗臭いおっさんじゃ、ぜーったい無理。
+msgctxt "BNG10_034"
+msgid ""
+"Mm-hmm, mm-hmm. Even I could've told you that.\n"
+"It's just not the kind of job for a scruffy old man like you."
+msgstr ""
+"Ага, ага, не зможе. Навіть я це бачу. Такому неохайному старому, від\n"
+"якого тхне потом, це точно не під силу."
+
+#. Key: BNG10_035
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Gii
+#. Context: Bang story route (POV: Bang)
+#. JA: オイラも激しく同意するッス。
+#. JA:   無理ッス無理ッス。
+msgctxt "BNG10_035"
+msgid "I completely agree with you... It's definitely impossible..."
+msgstr "Я теж обома лапами згоден. Не зможе, точно не зможе."
+
+#. Key: BNG10_036
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Valkenhayn
+#. Context: Bang story route (POV: Bang)
+#. JA: 自明の理でございます、レイチェル様。
+#. JA:   これぞまさしく火を見るより明らかと言うべきかと。
+msgctxt "BNG10_036"
+msgid "His inadequacy is almost insultingly obvious, Madam Rachel."
+msgstr "Це самоочевидна істина, пані Рейчел. Як то кажуть, ясніше ясного."
+
+#. Key: BNG10_037
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: 民主的な多数決でも、貴方じゃラグナを倒せないと決まったわ。
+#. JA:   わかったら立ち去りなさい。
+msgctxt "BNG10_037"
+msgid ""
+"By vote of the majority, we have determined you are not capable of defeating Ragna.\n"
+"Now, will you please leave my garden?"
+msgstr ""
+"Отже, демократична більшість постановила, що Раґну тобі не здолати.\n"
+"Якщо зрозумів, то йди звідси."
+
+#. Key: BNG10_039
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 失礼な小娘でござるな！
+#. JA:   そんな生意気な口の利き方をする子は、
+#. JA:   このバングがおしりペンペンして教育してやるでござる！
+msgctxt "BNG10_039"
+msgid ""
+"What a rude little girl!\n"
+"If you keep that up, I'll have to spank you!"
+msgstr ""
+"Яка нечемна мала! Таких нахабних дітей Банґ виховує добрячим\n"
+"шмаганням по дупі!"
+
+#. Key: BNG10_041
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: ふぅん……やるつもりなら相手してあげる。
+#. JA:   身の程知らずということを教えてあげるわ。
+msgctxt "BNG10_041"
+msgid "Oh my. How terribly foolish of you. I accept your challenge."
+msgstr ""
+"Овва... Якщо хочеш битися, я складу тобі компанію. Покажу, що ти\n"
+"зовсім не знаєш свого місця."
+
+#. Key: BNG10_042
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: この私が教育してあげるのよ、感謝なさい。
+msgctxt "BNG10_042"
+msgid "You have made a mistake, but I will educate you myself. Be grateful."
+msgstr "Тебе виховуватиму особисто я. Будь вдячний."
+
+#. Key: BNG10_043
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: かかってくるがよい！
+#. JA:   胸を貸してやるでござる！！
+msgctxt "BNG10_043"
+msgid "Whenever you're ready! I'll let you practice some of your moves on me!"
+msgstr "Нападай! Я дам тобі нагоду показати все, на що ти здатна!!"
+
+#. Key: BNG10_049
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: 自分がどれほどの身の程知らずか思い知ったかしら？
+msgctxt "BNG10_049"
+msgid "Do you see your limitations now?"
+msgstr "Тепер ти зрозумів, наскільки переоцінив себе?"
+
+#. Key: BNG10_050
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Nago
+#. Context: Bang story route (POV: Bang)
+#. JA: ほーら、言わんこっちゃない。
+#. JA:   あたいはこうなると思ったよ。
+msgctxt "BNG10_050"
+msgid "See what I mean? I really hate to say this, but...I told ya so."
+msgstr "От бачиш, а ми попереджали. Я так і знав, що все цим скінчиться."
+
+#. Key: BNG10_051
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Gii
+#. Context: Bang story route (POV: Bang)
+#. JA: おっさん、でかい口叩いておいてみっともないッス。
+msgctxt "BNG10_051"
+msgid "Looks like you were all bark no bite, old man..."
+msgstr "Старий, стільки вихвалявся, а тепер ганьбишся."
+
+#. Key: BNG10_052
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Valkenhayn
+#. Context: Bang story route (POV: Bang)
+#. JA: さて、茶番はこれまでですな。お引き取り願いましょうか。
+msgctxt "BNG10_052"
+msgid ""
+"I do believe that madam has had enough entertainment for today. Perhaps you would\n"
+"be so kind as to show yourself out."
+msgstr "Що ж, виставу завершено. Чи не час вам піти?"
+
+#. Key: BNG10_053
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ま、まさかこんなことになろうとは……。
+#. JA:   志半ばで膝を折る拙者をどうか許してくだされ、殿……がくり。
+msgctxt "BNG10_053"
+msgid ""
+"I-I can't believe this... Please forgive me for giving up without achieving my goal,\n"
+"Lord... *thud*"
+msgstr ""
+"Н-невже все так скінчиться...? Володарю, пробачте, що я впав\n"
+"навколішки, так і не досягнувши мети... геп."
+
+#. Key: BNG10_058
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 思い知ったか、小娘が！
+#. JA:   正しき者が、必ず勝つのだ！！
+msgctxt "BNG10_058"
+msgid "Do you get it now, little girl!? Justice always prevails!"
+msgstr "Тепер зрозуміла, мала?! Праведник завжди перемагає!!"
+
+#. Key: BNG10_059
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: 人は見かけだけで判断してはならないと、久しぶりに思い出したわ。
+msgctxt "BNG10_059"
+msgid "I do recall being told once that it is improper to judge by appearances."
+msgstr ""
+"Давно вже я не згадувала, що не варто судити про людину лише за\n"
+"зовнішністю."
+
+#. Key: BNG10_060
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: わかればよいでござる。
+#. JA:   よし、おしりペンペンだけは勘弁してやるでござるよ。
+msgctxt "BNG10_060"
+msgid "That's right. But, I'll put the spanking on hold this time."
+msgstr "Головне, що зрозуміла. Гаразд, цього разу не шмагатиму тебе по дупі."
+
+#. Key: BNG10_062
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: こんなことを言われるのなら、もう少し本気を出せばよかったかしら。
+msgctxt "BNG10_062"
+msgid "If I'd known I would be getting a lecture, I would have given you a taste of real power..."
+msgstr "Якби я знала, що почую таке, то билася б трохи серйозніше."
+
+#. Key: BNG10_063
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……？　何か言ったでござるか？
+msgctxt "BNG10_063"
+msgid ""
+"...?\n"
+"Did you say something?"
+msgstr "...? Ти щось сказала?"
+
+#. Key: BNG10_065
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: いいえ、何でもありませんわ。
+msgctxt "BNG10_065"
+msgid "Oh, heavens no."
+msgstr "Ні, нічого."
+
+#. Key: BNG10_066
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: それならいいでござる。
+msgctxt "BNG10_066"
+msgid "All right, so be it."
+msgstr "Тоді гаразд."
+
+#. Key: BNG10_067
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: （やっぱりバカね、この男）
+msgctxt "BNG10_067"
+msgid "(Good lord...what a fool.)"
+msgstr "(А він таки дурень.)"
+
+#. Key: BNG10_068
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: この私に強さを認めさせたのですから、
+#. JA:   ふさわしいご褒美をあげる。
+msgctxt "BNG10_068"
+msgid "Very well. You have proven yourself, and I shall reward your determination."
+msgstr ""
+"Ти змусив навіть мене визнати твою силу, тож отримаєш гідну\n"
+"винагороду."
+
+#. Key: BNG10_069
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 褒美でござるか！
+#. JA:   頂けるものは遠慮はしない、据え膳食わぬは忍の恥！！
+#. JA:   ありがたく頂戴するでござる！！
+msgctxt "BNG10_069"
+msgid ""
+"Reward! Well...I couldn't refuse anything that is handed to me on a silver platter...\n"
+"I'll gladly accept it!"
+msgstr ""
+"Винагороду?! Від запропонованого я не відмовляюся: не скуштувати\n"
+"поданої страви — ганьба для нінджя! Із вдячністю приймаю!!"
+
+#. Key: BNG11_002
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Valkenhayn
+#. Context: Bang story route (POV: Bang)
+#. JA: 貴方様がもっとも知りたい人間の消息を、お教えいたしましょう。
+msgctxt "BNG11_002"
+msgid ""
+"In Madam Rachel's infinite generosity, she has seen fit to provide you with\n"
+"information on someone whom you are most interested in."
+msgstr ""
+"Ми розповімо вам, що відомо про долю людини, яка цікавить вас\n"
+"найбільше."
+
+#. Key: BNG11_003
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ラグナのことでござるな？
+#. JA:   あの男はどこにいるでござるか。
+msgctxt "BNG11_003"
+msgid "You're talking about Ragna, aren't you? Where is he?"
+msgstr "Ти про Раґну? Де він?"
+
+#. Key: BNG11_005
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Valkenhayn
+#. Context: Bang story route (POV: Bang)
+#. JA: いえいえ。ラグナ＝ザ＝ブラッドエッジのことではありません。
+#. JA:   イカルガのテンジョウ、そのご子息の行方にございます。
+#. JA:   あのお方の目撃情報を、私どもは持っております。
+msgctxt "BNG11_005"
+msgid ""
+"No, sir, I refer not to Ragna the Bloodedge, but to the son of a certain Sir Tenjo of\n"
+"Ikaruga."
+msgstr ""
+"Ні, аж ніяк не про Раґну Бладеджа. Я кажу про сина Тенджо з Ікаруґи.\n"
+"Ми маємо свідчення людини, яка бачила його."
+
+#. Key: BNG11_007
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Narrator
+#. Context: Bang story route (POV: Bang)
+#. JA: テンジョウ。そのお方こそジン＝キサラギに討たれたはずの我が殿。
+#. JA:   そのご子息の殿下が生きているとなれば、真偽を確かめずにはいられぬ！
+msgctxt "BNG11_007"
+msgid ""
+"Tenjo. My master... The man who was killed by Jin Kisaragi...\n"
+"His son is alive!? I— I must investigate this!"
+msgstr ""
+"Тенджо. Так звали мого володаря, якого, за всіма відомостями, убив\n"
+"Джін Кісараґі. Якщо його син, принц, живий, я мушу дізнатися правду!"
+
+#. Key: BNG11_008
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: で、でででで、殿下が生きているとなっ!?
+#. JA:   それは真か！！
+msgctxt "BNG11_008"
+msgid ""
+"Wh-Wh-Wh-Wh-Wha—!? The young master is alive!?\n"
+"Is this true!?"
+msgstr "П-п-п-п-принц живий?! Це правда?!"
+
+#. Key: BNG11_009
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: いい加減なことを申すならば！
+#. JA:   その首、即刻跳ねとばすでござる！！
+msgctxt "BNG11_009"
+msgid "If you're kidding around, I'll behead you!"
+msgstr "Якщо це пусті слова, я негайно зітну вам голови!!"
+
+#. Key: BNG11_010
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: ……首を跳ねとばすって。
+#. JA:   どこまでも野蛮ね。
+msgctxt "BNG11_010"
+msgid ""
+"...Cut my head off?\n"
+"Good heavens. How terribly barbaric."
+msgstr "...Зітнеш нам голови? Яка безмежна дикість."
+
+#. Key: BNG11_011
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Valkenhayn
+#. Context: Bang story route (POV: Bang)
+#. JA: なにぶん古い情報の上、仔細はお話できませんが……。
+#. JA:   信用に足る人物からの情報です、とだけ申し上げておきましょう。
+msgctxt "BNG11_011"
+msgid ""
+"It pains me to admit it, sir, but the information is regrettably rather old, and\n"
+"whatever details it may have carried are rendered useless by the passage of time.\n"
+"Rest assured, however, that it is of indubitable veracity."
+msgstr ""
+"На жаль, це давня звістка, тож подробиць я повідомити не можу... Скажу\n"
+"лише, що вона надійшла від людини, якій можна довіряти."
+
+#. Key: BNG11_013
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: その人物はどこで殿下を見たというでござるか！
+msgctxt "BNG11_013"
+msgid "Tell me where that person saw the young master!"
+msgstr "Де ця людина бачила принца?!"
+
+#. Key: BNG11_015
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Valkenhayn
+#. Context: Bang story route (POV: Bang)
+#. JA: 場所は存じ上げておりません。
+#. JA:   ただ、間違いなくイカルガのテンジョウそのご子息だったと、
+#. JA:   聞き及んでおります。
+msgctxt "BNG11_015"
+msgid ""
+"I am terribly sorry, but that information is not available. All that we, and therefore\n"
+"you, can be sure of is that the son of Sir Tenjo was seen and identified by the party\n"
+"who supplied us with this information."
+msgstr ""
+"Місце мені невідоме. Знаю лише, що, за її словами, то безсумнівно був\n"
+"син Тенджо з Ікаруґи."
+
+#. Key: BNG11_017
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……殿下が……生きておられる……!?
+msgctxt "BNG11_017"
+msgid "The young master...is really alive...?"
+msgstr "...Принц... живий...?!"
+
+#. Key: BNG11_019
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Rachel
+#. Context: Bang story route (POV: Bang)
+#. JA: 今のうちに、この男をカグツチにでも戻しましょ。
+#. JA:   ……できれば二度と迷い込んで欲しくないわね、私のお城に。
+msgctxt "BNG11_019"
+msgid ""
+"Let's dispose of him, please. Kagutsuchi should be appropriate. I do hope I never\n"
+"have to see him again."
+msgstr ""
+"Поки він не оговтався, повернімо його до Каґуцучі. ...Сподіваюся, він\n"
+"більше ніколи не забреде до мого замку."
+
+#. Key: BNG11_020
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Valkenhayn
+#. Context: Bang story route (POV: Bang)
+#. JA: は。畏まりました、レイチェル様。
+#. JA:   それでは、この男を速やかに元の居場所に捨てて参ります。
+msgctxt "BNG11_020"
+msgid "Of course, Madam Rachel. I shall return him to whence he came."
+msgstr ""
+"Так, пані Рейчел. Я негайно викину цього чоловіка туди, звідки він\n"
+"прибув."
+
+#. Key: BNG11_023
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: ……ここは。カグツチの浪人街……？
+#. JA:   拙者は夢を見ていたでござるか？
+msgctxt "BNG11_023"
+msgid ""
+"...Is this the Ronin-gai of Kagutsuchi...?\n"
+"Was I dreaming...?"
+msgstr "...Де я? Ронін-ґай у Каґуцучі...? Невже мені все наснилося?"
+
+#. Key: BNG11_025
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: いたたたた、どうやら夢ではないようでござるな。
+#. JA:   ―――と、なれば、こうしてはおられぬ！
+msgctxt "BNG11_025"
+msgid "Ouch, this doesn't feel like a dream at all. That means...I gotta get going!"
+msgstr ""
+"Ой-йой-йой... Схоже, це був не сон. А якщо так, мені не можна тут\n"
+"баритися!"
+
+#. Key: BNG11_026
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 一刻も早く、殿下を捜しにいかねば！！
+msgctxt "BNG11_026"
+msgid "I must find the prince as soon as possible!"
+msgstr "Я мушу якнайшвидше вирушити на пошуки принца!!"
+
+#. Key: BNG11_028
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 何も言わずに旅立つ拙者を許してくだされ、ライチ殿。
+#. JA:   男には時として妻（予定）よりも大事な物があるでござるよ。
+#. JA:   まさに今がその時。今の拙者は愛よりも忠義を選ぶでござる。
+msgctxt "BNG11_028"
+msgid ""
+"Forgive me for not saying good-bye, Miss Litchi. At times, there are more important\n"
+"things for a man than looking after his...possible...wife. And, that time has come!\n"
+"For now, I must choose duty over love!"
+msgstr ""
+"Пані Лічі, пробачте, що вирушаю, не попрощавшись. Часом чоловік має\n"
+"справи, важливіші навіть за майбутню дружину. І цей час настав.\n"
+"Сьогодні я обираю вірність замість кохання."
+
+#. Key: BNG11_029
+#. Source: story/storytext_mainbn (data/Story/Text/eng/storytext_mainbn.pac)
+#. Speaker: Bang
+#. Context: Bang story route (POV: Bang)
+#. JA: 愛と正義の男改め、忠義と信義の男、シシガミ＝バング。
+#. JA:   いざ、出立！！
+#. JA:   さらばカグツチ、また会う日まで～～でござる！！
+msgctxt "BNG11_029"
+msgid ""
+"Bang Shishigami, the man of love and justice... Err, correction— the man of loyalty\n"
+"and faith, is about to embark upon another journey! Good-bye, Kagutsuchi. I'll be\n"
+"back!\n"
+msgstr ""
+"Банґ Шішіґамі, віднині не чоловік любові й справедливості, а чоловік\n"
+"відданості й честі, вирушає в дорогу!! Прощавай, Каґуцучі, до наступної\n"
+"зустрічі-і-і!!"

@@ -1,0 +1,900 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveCA01_00
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Carl
+#. JA: どうした少年よ、何か困っているようでござるが？
+msgctxt "ArcEveCA01_00"
+msgid ""
+"What's the matter, young man?\n"
+"You seem to be in trouble."
+msgstr "Що сталося, юначе? Схоже, ти потрапив у скруту."
+
+#. Key: ArcEveCA01_01
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Carl
+#. JA: おっと、申し遅れた。拙者の名はシシガミ＝バング。
+#. JA:   この街で咎追いを生業としている。ああ、恐れることはないぞ。
+#. JA:   確かに拙者は咎追い。だがあくまで正義の咎追いでござる。
+msgctxt "ArcEveCA01_01"
+msgid ""
+"Oops! Excuse me, my name is Bang Shishigami. I make my\n"
+"living as a vigilante. No need to be alarmed though.\n"
+"I am a vigilante, but I'm a vigilante of justice."
+msgstr ""
+"Ой, я ж не представився. Я — Банґ Шішіґамі, місцевий\n"
+"мисливець за головами. Та не бійся: я служу\n"
+"справедливості."
+
+#. Key: ArcEveCA01_02
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: ええ、少し道に迷ってしまって。ご心配ありがとうございます。
+#. JA:   僕はカルル＝クローバー。こうみえても僕も咎追いなんです。
+msgctxt "ArcEveCA01_02"
+msgid ""
+"I seem to have lost my way. Thanks for helping me out.\n"
+"My name is Carl Clover. I may not look like it, but I too\n"
+"am a vigilante."
+msgstr ""
+"Так, я трохи заблукав. Дякую, що турбуєтеся. Мене звати\n"
+"Карл Кловер. Може, так і не скажеш, але я теж мисливець\n"
+"за головами."
+
+#. Key: ArcEveCA01_03
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: あ、つまりあなたは先輩にあたるわけですね。
+msgctxt "ArcEveCA01_03"
+msgid "I guess that makes you my role model."
+msgstr "А, отже, ви, виходить, мій старший колега."
+
+#. Key: ArcEveCA01_04
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Carl
+#. JA: なんと、まことか！幼き身ながら苦労しているのでござるな！
+msgctxt "ArcEveCA01_04"
+msgid "No kidding! That must be tough for a man your age."
+msgstr ""
+"Оце так, невже?! У такому юному віці тобі вже доводиться\n"
+"нелегко!"
+
+#. Key: ArcEveCA01_05
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: とんでもありません。
+#. JA:   それにしても、僕初めて忍者さんを見ました！
+#. JA:   是非先輩の技を拝見して今後の参考にしたいのですが。
+msgctxt "ArcEveCA01_05"
+msgid ""
+"Oh no, it's not that bad. I have to admit, I've never seen a\n"
+"ninja until now! If you don't mind, I'd love to see one of\n"
+"your techniques for future reference."
+msgstr ""
+"Та що ви. До речі, я вперше бачу справжнього нінджю!\n"
+"Дуже хотів би поглянути на прийоми старшого колеги —\n"
+"мені це знадобиться в майбутньому."
+
+#. Key: ArcEveCA01_06
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Carl
+#. JA: おおおお！！何と礼節をわきまえ、向上心に溢れた少年よ！！！
+#. JA:   よし、拙者が先輩、いやアニキとして胸を貸してやろう！！！
+#. JA:   手加減は無用だ、本気でかかってくるでござる！
+msgctxt "ArcEveCA01_06"
+msgid ""
+"Oh, ho! Such a well-mannered young man! All right, as a\n"
+"role model—or better yet, a big brother—I'll allow you to\n"
+"practice your moves on me!"
+msgstr ""
+"О-о-о!! Який вихований і спраглий до знань юнак!!! Гаразд,\n"
+"як твій старший колега — ні, як старший брат — я стану\n"
+"твоїм суперником!!! Не стримуйся, нападай у повну силу!"
+
+#. Key: ArcEveCA01_07
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 大変参考になりました、ありがとうございますバング先輩。
+msgctxt "ArcEveCA01_07"
+msgid "That was very helpful. Thank you so much, Mr. Bang."
+msgstr "Це було дуже повчально. Дякую за науку, пане Банґу."
+
+#. Key: ArcEveCA01_08
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Carl
+#. JA: ぜ～ひぃ～ぜ～ひぃ～、
+#. JA:   お、おうとも、また何かあったら、ぜ～ひぃ～ぜ～ひぃ～、
+#. JA:   遠慮なくいうでござる……ぜ～ひぃ～ぜ～ひぃ～。
+msgctxt "ArcEveCA01_08"
+msgid ""
+"Haah...haah...\n"
+"O-Oh yeah...if you need anything at all...haah...\n"
+"don't hesitate to ask me, all right? Haah...haah..."
+msgstr ""
+"Ху-у... Ху-у... А-авжеж. Якщо ще щось знадобиться... Ху-у...\n"
+"Ху-у... Не соромся казати... Ху-у... Ху-у..."
+
+#. Key: ArcEveCA01_09
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 姉さん、よかったね。
+#. JA:   とても面白いものが見られたよ……ふふ。
+msgctxt "ArcEveCA01_09"
+msgid ""
+"Didn't you have a good time, Sis?\n"
+"It was fun, wasn't it? ...Heheh."
+msgstr ""
+"Сестро, як нам пощастило. Ми побачили щось дуже\n"
+"цікаве... Хе-хе."
+
+#. Key: ArcEveCA02_00
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Carl
+#. JA: あっ、アナタ、ちょっと待って！
+msgctxt "ArcEveCA02_00"
+msgid "Ah! Excuse me, please wait!"
+msgstr "Агов, ти! Зачекай!"
+
+#. Key: ArcEveCA02_01
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: はい、何でしょうか？
+msgctxt "ArcEveCA02_01"
+msgid "Ah, yes?"
+msgstr "Так, у чому річ?"
+
+#. Key: ArcEveCA02_02
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Carl
+#. JA: まさかそれ「ニルヴァーナ」。なぜそれがこんな所に……。
+#. JA:   アナタ、一体どこでそれを手に入れたの？
+msgctxt "ArcEveCA02_02"
+msgid ""
+"Is that Nirvana? Why is it here...?\n"
+"Where did you get it?"
+msgstr "Невже це Нірвана? Чому вона тут?.. Де ти її взяв?"
+
+#. Key: ArcEveCA02_03
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 皆、姉さんのことをそう呼ぶんですね。
+#. JA:   あなたは、姉さんのこと知っているんですか？
+msgctxt "ArcEveCA02_03"
+msgid ""
+"Everyone calls my sister that.\n"
+"Do you know her?"
+msgstr "Усі чомусь так називають мою сестру. Ви її знаєте?"
+
+#. Key: ArcEveCA02_04
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Carl
+#. JA: え、その、それは――ごめんなさい、いえないの。
+#. JA:   でも、このままではあなたの身が危ないわ。
+msgctxt "ArcEveCA02_04"
+msgid ""
+"Eh, uh... I'm sorry, but I really can't tell you...\n"
+"All I can say is that if you keep this up, something bad is\n"
+"going to happen."
+msgstr ""
+"Ем, це... Вибач, я не можу сказати. Але якщо так\n"
+"триватиме, тобі загрожує небезпека."
+
+#. Key: ArcEveCA02_05
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: どうして大人の人って何でも隠そうとするんでしょうか。
+#. JA:   ねぇ、姉さん。この人は何か色々と知っているみたいだよ？
+#. JA:   なのに教えてくれない……悲しい？うん、そうだね、許せない。
+msgctxt "ArcEveCA02_05"
+msgid ""
+"Why do grown-ups always hide things? Hey, Sis, this lady\n"
+"knows something, doesn't she? But, she won't tell me...\n"
+"Sad? Yeah, you're right. This is unacceptable."
+msgstr ""
+"Чому дорослі завжди все приховують? Сестро, ця пані\n"
+"багато знає, але мовчить... Тобі сумно? Так, цього не\n"
+"можна пробачити."
+
+#. Key: ArcEveCA02_06
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Carl
+#. JA: この子……。
+#. JA:   狂気を呼ぶ機神「アークエネミー・ニルヴァーナ」。
+#. JA:   博士のいっていた事は本当みたいね。
+msgctxt "ArcEveCA02_06"
+msgid ""
+"Poor boy... Deus Machina Nox Nyctores Nirvana...the\n"
+"machine that causes madness... It would appear that\n"
+"what the professor said was right..."
+msgstr ""
+"Цей хлопчик... Арк-Енемі «Нірвана» — механічне\n"
+"божество, що навіює божевілля. Схоже, професорка казала\n"
+"правду."
+
+#. Key: ArcEveCA02_07
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Carl
+#. JA: くっ、うっ、くあっ、や、やめなさ……い。
+msgctxt "ArcEveCA02_07"
+msgid "Guh, argh, guah, s...stop..."
+msgstr "Кх... Ах... Кха... П-припини..."
+
+#. Key: ArcEveCA02_08
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: あ、まだ気を失わないで下さい。
+#. JA:   ……やっぱり大人になんかたよっちゃ駄目だ。姉さん、行こう？
+msgctxt "ArcEveCA02_08"
+msgid ""
+"Oh, please don't lose consciousness yet.\n"
+"...I knew it. Counting on grown-ups is never a good idea.\n"
+"Can we go now, Sis?"
+msgstr ""
+"О, будь ласка, ще не непритомнійте. ...Я так і знав: не\n"
+"варто покладатися на дорослих. Сестро, ходімо?"
+
+#. Key: ArcEveCA03_00
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Carl
+#. JA: ほう、機神か。久しいな。
+msgctxt "ArcEveCA03_00"
+msgid "Hm, is it you, Deus Machina? It's been a long time..."
+msgstr "О, механічне божество. Давно не бачилися."
+
+#. Key: ArcEveCA03_01
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 失礼ですが、どちら様ですか？
+msgctxt "ArcEveCA03_01"
+msgid "I'm sorry, but do I know you?"
+msgstr "Перепрошую, а ви хто?"
+
+#. Key: ArcEveCA03_02
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Carl
+#. JA: 其の者の戦友と謂った所だ。
+#. JA:   しかし、堕ちたな。機神ニルヴァーナよ。
+#. JA:   貴様の其の手は人を殺める為の物では無かろう。
+msgctxt "ArcEveCA03_02"
+msgid ""
+"Just think of me as her comrade.\n"
+"You've been defiled though, haven't you, Nirvana?\n"
+"Your hands were never meant for hurting people."
+msgstr ""
+"Можна сказати, я її бойовий товариш. Та ти занепала,\n"
+"Нірвано, механічне божество. Твої руки створені не для\n"
+"вбивства людей."
+
+#. Key: ArcEveCA03_03
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 姉さんを「ニルヴァーナ」と呼ぶな。
+msgctxt "ArcEveCA03_03"
+msgid "Don't call my sister Nirvana."
+msgstr "Не називай мою сестру Нірваною."
+
+#. Key: ArcEveCA03_04
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Carl
+#. JA: 哀れな人形使いよ、一つ教えてやろう。
+#. JA:   その機神の駆動条件、それは人の殺意。
+#. JA:   憎むべき敵に対する殺意だ。
+msgctxt "ArcEveCA03_04"
+msgid ""
+"What a pathetic puppeteer. Let me give you a piece of\n"
+"advice. The driving force behind Deus Machina is a\n"
+"person's killing intent. Their desire to kill."
+msgstr ""
+"Жалюгідний лялькарю, відкрию тобі одну річ. Умова, за\n"
+"якої це механічне божество діє, — людський намір убити.\n"
+"Намір убити ненависного ворога."
+
+#. Key: ArcEveCA03_05
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Carl
+#. JA: 機神が人を狂わす？笑わせるな。貴様は自分の意思で、
+#. JA:   機神を動かす程の殺意で、人を人間を敵と認識して居るのだ。
+#. JA:   其処まで人を憎むか。之を哀れと謂わずして何と謂う？
+msgctxt "ArcEveCA03_05"
+msgid ""
+"Deus Machina drives people insane? Ridiculous.\n"
+"Your desire to kill simply directs the Deus Machina.\n"
+"Trying to shift the blame is pretty pathetic."
+msgstr ""
+"Механічне божество зводить людей з розуму? Не сміши. Ти\n"
+"сам бачиш у людях ворогів і керуєш ним жагою вбивства.\n"
+"Невже ти так ненавидиш людей? Жалюгідно."
+
+#. Key: ArcEveCA03_06
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: うるさい！
+msgctxt "ArcEveCA03_06"
+msgid "Shut up!"
+msgstr "Замовкни!"
+
+#. Key: ArcEveCA03_07
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: お前に何がわかる！お前に姉さんの何がわかる！！
+#. JA:   お前に僕の何がわかる！！
+msgctxt "ArcEveCA03_07"
+msgid ""
+"What do you know!?\n"
+"You don't know anything about my sister!\n"
+"You don't know me either!"
+msgstr ""
+"Що ти знаєш?! Що ти знаєш про сестру?! Що ти знаєш про\n"
+"мене?!"
+
+#. Key: ArcEveCA03_08
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Carl
+#. JA: 解らんな、解る必要も有るまい。
+#. JA:   哀れな人の子よ。絶望したお前が選んだのは悪の路。
+#. JA:   ならば貴様は私の「敵」だ！！
+msgctxt "ArcEveCA03_08"
+msgid ""
+"I certainly do not understand you, but I have no need of\n"
+"understanding. What a pathetic human boy. You lost all\n"
+"hope and turned to evil. That makes you my enemy!"
+msgstr ""
+"Не розумію. Та й потреби розуміти немає. Жалюгідний\n"
+"сину людський, у відчаї ти обрав шлях зла. Отже, ти — мій\n"
+"«ворог»!!"
+
+#. Key: ArcEveCA03_09
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Carl
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ArcEveCA03_09"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveCA03_10
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Carl
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveCA03_10"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveCA03_11
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Carl
+#. JA: クッ、事象干渉か！邪魔をするな化け猫め！！！
+msgctxt "ArcEveCA03_11"
+msgid "Gah, how dare you interrupt me, Grimalkin!"
+msgstr ""
+"Кх, втручання у причинність! Не заважай, клята\n"
+"відьомська кицько!!!"
+
+#. Key: ArcEveCA03_12
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: あれ……消えちゃった。
+#. JA:   すごく強かったね、でもよかった。姉さんが、無事で。
+msgctxt "ArcEveCA03_12"
+msgid ""
+"Huh? ...He's disappeared.\n"
+"He was really strong. I'm glad you're safe, Sis."
+msgstr ""
+"Зник... Він був дуже сильний. Та головне, що з тобою все\n"
+"гаразд, сестро."
+
+#. Key: ArcEveCA03_13
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: ……疲れちゃったかな、ちょっとだけ。
+msgctxt "ArcEveCA03_13"
+msgid "...I'm a bit...tired."
+msgstr "...Здається, я трохи втомився."
+
+#. Key: ArcEveCA04_00
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 悪か……。僕はね、姉さん。姉さんのためなら何でもする。
+msgctxt "ArcEveCA04_00"
+msgid ""
+"Evil, huh? ...You know what, Sis?\n"
+"I will do anything for your sake."
+msgstr "Зло... Знаєш, сестро, заради тебе я піду на все."
+
+#. Key: ArcEveCA04_01
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Carl
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveCA04_01"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveCA04_02
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 姉さんをこんなにした父さんを絶対見つけ出す。
+#. JA:   「蒼」の魔道書を見つけ出し、必ず手に入れる。
+msgctxt "ArcEveCA04_02"
+msgid ""
+"Father may have turned you into this, but I'll find him.\n"
+"I'll find the Azure Grimoire, and I swear I'll take it."
+msgstr ""
+"Я неодмінно знайду батька, який із тобою це зробив.\n"
+"Знайду Лазурний гримуар і обов’язково заволодію ним."
+
+#. Key: ArcEveCA04_03
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Carl
+#. JA: 対象・認識・自律モード・起動
+msgctxt "ArcEveCA04_03"
+msgid "Target recognized. Auto-mode: activated."
+msgstr "Ціль ідентифіковано. Автономний режим активовано."
+
+#. Key: ArcEveCA04_04
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: それを人が悪というのなら、僕は喜んで悪になる。
+msgctxt "ArcEveCA04_04"
+msgid ""
+"If that's what mankind considers evil, I will gladly bear\n"
+"that name."
+msgstr "Якщо люди називають це злом, я охоче стану злом."
+
+#. Key: ArcEveCA04_05
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Carl
+#. JA: 対象・認識・障害・認識・排除・容認……対象を障害と認識
+msgctxt "ArcEveCA04_05"
+msgid ""
+"Target identified: obstacle. Elimination protocol release\n"
+"requested... Request granted."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"дозволено... Ціль визначено як перешкоду."
+
+#. Key: ArcEveCA04_06
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: さあ……行こうか、姉さん！
+msgctxt "ArcEveCA04_06"
+msgid "All right then... Let's go, Sis!"
+msgstr "Ну що... Ходімо, сестро!"
+
+#. Key: ArcEveCA04_07
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Carl
+#. JA: 対象の殲滅を開始します
+msgctxt "ArcEveCA04_07"
+msgid "Activate elimination protocol."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveCA04_08
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: なんだろうこの光？白くて、暖かい。姉さんみたいだ……。
+msgctxt "ArcEveCA04_08"
+msgid ""
+"What is this light? It's white and warm...\n"
+"It's just like my sister..."
+msgstr "Що це за світло? Воно біле й тепле. Зовсім як ти, сестро..."
+
+#. Key: ArcEveCA05_00
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: へー、これが「ラグナ＝ザ＝ブラッドエッジ」だって、姉さん。
+msgctxt "ArcEveCA05_00"
+msgid "Look, Sis... This guy is called Ragna the Bloodedge."
+msgstr "Ого, сестро. Отже, це Раґна Бладедж."
+
+#. Key: ArcEveCA05_01_0
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: それにしても、これ参考になるのかな？
+msgctxt "ArcEveCA05_01_0"
+msgid "Is this information any good though?"
+msgstr "Але чи допоможе нам цей портрет?"
+
+#. Key: ArcEveCA05_01_1
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: なんで人相書きの絵って、こう
+msgctxt "ArcEveCA05_01_1"
+msgid "I wonder why the drawings on wanted posters are"
+msgstr "Чому портрети розшукуваних завжди"
+
+#. Key: ArcEveCA05_01_2
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: なんともいえない絵なんだろうね？ふふっ。
+msgctxt "ArcEveCA05_01_2"
+msgid "always so terrible. Don't you, Sis? Heheheh..."
+msgstr "якісь такі... дивні? Хе-хе."
+
+#. Key: ArcEveCA05_02_0
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: それはともかく、情報が正しければ
+msgctxt "ArcEveCA05_02_0"
+msgid "Anyway, if this information is valid,"
+msgstr "Хай там як, якщо відомості правдиві,"
+
+#. Key: ArcEveCA05_02_1
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 「ラグナ＝ザ＝ブラッドエッジ」はカグツチにいるらしいんだけど……。
+msgctxt "ArcEveCA05_02_1"
+msgid "Ragna the Bloodedge is supposed to be in Kagutsuchi right now..."
+msgstr "Раґна Бладедж начебто зараз у Каґуцучі..."
+
+#. Key: ArcEveCA05_03_0
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: ん？わかってるよ、姉さん。
+msgctxt "ArcEveCA05_03_0"
+msgid "Hm? I know, Sis."
+msgstr "Гм? Я знаю, сестро."
+
+#. Key: ArcEveCA05_03_1
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 無茶はしないから大丈夫、心配しないで。
+msgctxt "ArcEveCA05_03_1"
+msgid "Don't worry, I won't overdo it. I promise."
+msgstr "Я не робитиму нічого необачного, не хвилюйся."
+
+#. Key: ArcEveCA05_04_0
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: よしっと。じゃあ、情報収集に行こう。
+msgctxt "ArcEveCA05_04_0"
+msgid "All right then, let's go collect some more information."
+msgstr "Гаразд. Тоді ходімо збирати відомості."
+
+#. Key: ArcEveCA05_04_1
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 近衛クラスの衛士たちも何人か来てるみたいだし
+msgctxt "ArcEveCA05_04_1"
+msgid "It looks like some people from the Guard are coming."
+msgstr "Схоже, сюди прибуло й кілька вартових найвищого рівня,"
+
+#. Key: ArcEveCA05_04_2
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 統制機構が関わっているとすればかなり信憑性は高いよ。
+msgctxt "ArcEveCA05_04_2"
+msgid "Any information from the Librarium should be reliable."
+msgstr ""
+"і якщо тут замішана Організація Контролю, цим\n"
+"відомостям цілком можна вірити."
+
+#. Key: ArcEveCA05_05
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: もしかしたら「イカルガの英雄さん」に会えたりするかもね。
+msgctxt "ArcEveCA05_05"
+msgid "Maybe we'll run into the \"Hero of Ikaruga\" too, if we're lucky."
+msgstr ""
+"Може, нам навіть пощастить зустріти самого «Героя\n"
+"Ікаруґи»."
+
+#. Key: ArcEveCA05_06_0
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 大丈夫だよ、姉さんは僕が助ける。
+msgctxt "ArcEveCA05_06_0"
+msgid "Don't worry, Sis. I'll help you."
+msgstr "Не хвилюйся, сестро. Я тебе врятую."
+
+#. Key: ArcEveCA05_06_1
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: 必ず、「蒼」を手に入れよう。
+msgctxt "ArcEveCA05_06_1"
+msgid "Let's find the Azure grimoire."
+msgstr "Ми неодмінно здобудемо «Лазур»."
+
+#. Key: ArcEveCA05_06_2
+#. Source: system/ArcEveCA_ArcEveCA01 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA02 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA03 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA04 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Source: system/ArcEveCA_ArcEveCA05 (data/ETC/Text_Eng/ArcEveCA.pac)
+#. Speaker: Carl
+#. Context: Arcade event: Carl
+#. JA: きっと何かがわかるはずだよ。
+msgctxt "ArcEveCA05_06_2"
+msgid "I think it'll be the solution to our problems."
+msgstr "І тоді ми напевно все зрозуміємо."

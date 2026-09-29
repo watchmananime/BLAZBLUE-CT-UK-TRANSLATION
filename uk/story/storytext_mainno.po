@@ -1,0 +1,6180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: NEL0_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 気がつけば、わたしはいつもその部屋にいた。
+msgctxt "NEL0_002"
+msgid "The room is always the same."
+msgstr "Коли я приходжу до тями, то завжди опиняюся в тій кімнаті."
+
+#. Key: NEL0_003
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   白い部屋。なにもかもが白い。
+#. JA:   天井も、床も、壁も、ベッドも、そしてわたしが着ている服も。
+msgctxt "NEL0_003"
+msgid ""
+"\n"
+"A white room. Everything's white.\n"
+"The floor, the ceiling, the walls, the bed. Even the clothes I'm wearing."
+msgstr ""
+"\n"
+"Біла кімната. Тут усе біле. Стеля, підлога, стіни, ліжко й навіть мій одяг."
+
+#. Key: NEL0_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   そんな部屋で、わたしは横たわっている。
+#. JA:   でもどうしてその部屋にいるのか、これからどうしたらいいのか。
+msgctxt "NEL0_004"
+msgid ""
+"\n"
+"I'm waiting there, but I'm not sure why.\n"
+"I don't know what I'm supposed to do."
+msgstr ""
+"\n"
+"Я лежу в цій кімнаті. Але не знаю ні чому я тут, ні що маю робити далі."
+
+#. Key: NEL0_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   肝心なことはなにひとつ分からないから、
+#. JA:   わたしはとても困ってしまう。
+msgctxt "NEL0_005"
+msgid ""
+"\n"
+"I never know what's going on.\n"
+"Sometimes that worries me."
+msgstr ""
+"\n"
+"Я не розумію нічого, і це страшенно мене непокоїть."
+
+#. Key: NEL0_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   ……いつも、そう。
+msgctxt "NEL0_006"
+msgid ""
+"\n"
+"...It's always like this."
+msgstr ""
+"\n"
+"...Так завжди."
+
+#. Key: NEL0_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: そして“その人”が唐突に現れる。
+msgctxt "NEL0_008"
+msgid "That's when...they appear again."
+msgstr "А потім раптом з’являється «та людина»."
+
+#. Key: NEL0_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   その人がだれなのかを、わたしは知らない。ただ、その人が
+#. JA:   この部屋の主だということは、なぜかなんとなく分かっていて、
+#. JA:   だから、わたしはその人にたずねようとする。
+msgctxt "NEL0_009"
+msgid ""
+"\n"
+"I don't know who they are, but something tells me the room is theirs,\n"
+"so I try to talk to them."
+msgstr ""
+"\n"
+"Я не знаю, хто це. Та чомусь відчуваю, що ця кімната належить їй, тому\n"
+"намагаюся запитати:"
+
+#. Key: NEL0_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   「ここはどこですか？」
+#. JA:   
+msgctxt "NEL0_010"
+msgid ""
+"\n"
+"<DQ>Where is this?<DQ>\n"
+msgstr ""
+"\n"
+"«Де я?»\n"
+
+#. Key: NEL0_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: けれどわたしの声は出ない。
+#. JA:   その人の顔も、ぼんやりとしていてはっきりとしないまま。
+msgctxt "NEL0_011"
+msgid ""
+"I move my mouth, but nothing comes out.\n"
+"Their faces are fuzzy. I can't make them out."
+msgstr ""
+"Але голос не виходить. Обличчя тієї людини залишається невиразним і\n"
+"розмитим."
+
+#. Key: NEL0_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 何度も必死で、わたしは声を出そうとする。
+msgctxt "NEL0_012"
+msgid "I desperately try to call out."
+msgstr "Я знову й знову відчайдушно намагаюся заговорити."
+
+#. Key: NEL0_013
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   「ここはどこなの？」
+msgctxt "NEL0_013"
+msgid ""
+"\n"
+"<DQ>Where am I?<DQ>"
+msgstr ""
+"\n"
+"«Де я?»"
+
+#. Key: NEL0_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 「わたしはどうしてここにいるの？」
+msgctxt "NEL0_014"
+msgid "<DQ>Why am I here?<DQ>"
+msgstr "«Чому я тут?»"
+
+#. Key: NEL0_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 「わたしはいったいだれなの？」
+msgctxt "NEL0_015"
+msgid "<DQ>Who...am I...?<DQ>"
+msgstr "«Хто ж я така?»"
+
+#. Key: NEL0_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 「おねがい……おしえて……」
+msgctxt "NEL0_016"
+msgid "<DQ>Please...tell me...<DQ>"
+msgstr "«Будь ласка... скажи мені...»"
+
+#. Key: NEL0_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   わたしの声はいつも届かない。
+#. JA:   いつも、いつも……。
+msgctxt "NEL0_017"
+msgid ""
+"\n"
+"But they never hear me.\n"
+"They never, ever do..."
+msgstr ""
+"\n"
+"Та мій голос ніколи не долітає. Ніколи, ніколи..."
+
+#. Key: NEL0_022
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: う、ん……。
+msgctxt "NEL0_022"
+msgid "Mmm..."
+msgstr "М-м..."
+
+#. Key: NEL0_024
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: えっ!?　あっ！　なにっ!?　通信っ？
+msgctxt "NEL0_024"
+msgid "Huh? Ah! What? A message!?"
+msgstr "Га?! А! Що?! Зв’язок?!"
+
+#. Key: NEL0_026
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: は、はい！　失礼しましたっ！
+#. JA:   こちら、ノエル＝ヴァーミリオン少尉であります！
+msgctxt "NEL0_026"
+msgid ""
+"Y-Yes! Excuse me!\n"
+"This is Lieutenant Noel Vermillion speaking!"
+msgstr "Т-так! Перепрошую! Лейтенантка Ноель Верміліон на зв’язку!"
+
+#. Key: NEL0_028
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Superior
+#. Context: Noel story route (POV: Noel)
+#. JA: 随分慌てているようだ………にかあったのかね？
+msgctxt "NEL0_028"
+msgid "You sound very surprised... Did something happen?"
+msgstr "Схоже, ви неабияк розгубилися... Щось сталося?"
+
+#. Key: NEL0_029
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: い、いえ……。
+#. JA:   なんでも、ありません。
+msgctxt "NEL0_029"
+msgid ""
+"N-No...\n"
+"I-It's nothing."
+msgstr "Н-ні... Нічого не сталося."
+
+#. Key: NEL0_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: （居眠りしてたなんて言えるわけないし……）
+msgctxt "NEL0_030"
+msgid "(There's no way I can tell him I was taking a nap...)"
+msgstr "(Не можу ж я зізнатися, що задрімала...)"
+
+#. Key: NEL0_031
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Superior
+#. Context: Noel story route (POV: Noel)
+#. JA: ふむ、まあいい。作戦内容を……認する……。
+msgctxt "NEL0_031"
+msgid "Hm...well that's beside the point. Debrief me on the status of your mission."
+msgstr "Гм, нехай. Доповідайте про перебіг операції."
+
+#. Key: NEL0_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: カグツチに向かったジン＝キサラギ少佐の捜索、及び
+#. JA:   その目的の調査、可能ならば身柄を拘束し本部への連行です。
+msgctxt "NEL0_032"
+msgid ""
+"I am currently investigating the whereabouts of Major Jin Kisaragi, who is headed\n"
+"toward Kagutsuchi. If possible, I am to detain the subject and bring him back to\n"
+"headquarters, sir."
+msgstr ""
+"Розшук майора Джіна Кісараґі, який вирушив до Каґуцучі, з’ясування\n"
+"його мети, а за можливості — затримання й доправлення до штабу."
+
+#. Key: NEL0_033
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Superior
+#. Context: Noel story route (POV: Noel)
+#. JA: キサラギ少佐の拘束にかん……ては、あく……も可能ならばだ、
+#. JA:   これは貴様の身を案じていって……けでは無いぞ。
+#. JA:   あと今……の作戦は諜報部……が参加する。
+msgctxt "NEL0_033"
+msgid ""
+"Remember, only detain the subject if you think it's possible.\n"
+"Also, the intelligence department will be joining the investigation."
+msgstr ""
+"Затримуйте майора Кісараґі лише за можливості. І не думайте, що я\n"
+"кажу це через турботу про вас. До цієї операції також долучиться\n"
+"розвідувальний відділ."
+
+#. Key: NEL0_034
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 諜報部……ですか？
+msgctxt "NEL0_034"
+msgid "The intelligence department, sir?"
+msgstr "Розвідувальний відділ...?"
+
+#. Key: NEL0_035
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Superior
+#. Context: Noel story route (POV: Noel)
+#. JA: 彼の名は「ハザマ」
+#. JA:   諜報部……ると彼は既に現地入りしてるとのこ……だ。
+msgctxt "NEL0_035"
+msgid ""
+"His name is Hazama.\n"
+"According to the intelligence, he should be in town already."
+msgstr "Його звати «Хазама». За даними розвідки, він уже прибув на місце."
+
+#. Key: NEL0_036
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ハザマ……。
+msgctxt "NEL0_036"
+msgid "Hazama..."
+msgstr "Хазама..."
+
+#. Key: NEL0_037
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Superior
+#. Context: Noel story route (POV: Noel)
+#. JA: それから、「ラグナ＝ザ＝…………エッジ」につ……だ………。
+msgctxt "NEL0_037"
+msgid "Also, regarding Ragna the Bloodedge..."
+msgstr "І ще щодо «Раґни Бладеджа»..."
+
+#. Key: NEL0_038
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 中佐、どうも通信状態が芳しくないようです。
+#. JA:   もう一度お願いできますでしょうか。
+msgctxt "NEL0_038"
+msgid ""
+"Commander, I'm losing you.\n"
+"Could you repeat that one more time, please?"
+msgstr ""
+"Пане підполковнику, схоже, зв’язок погіршився. Чи не могли б ви\n"
+"повторити?"
+
+#. Key: NEL0_039
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Superior
+#. Context: Noel story route (POV: Noel)
+#. JA: 「ラグ………ブラ…………ジ」を発見して……官は接触………ず、
+#. JA:   対象の…………に留める……れる……
+msgctxt "NEL0_039"
+msgid ""
+"If you see Ragna the Bloodedge, do not engage the subject. You are to observe his\n"
+"movements. I repeat, DO NOT engage the subject."
+msgstr ""
+"Якщо виявите «Раґну Бладеджа»... не вступайте в контакт... лише стежте\n"
+"за пересуваннями цілі..."
+
+#. Key: NEL0_041
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 切れ、ちゃった……。
+msgctxt "NEL0_041"
+msgid "It got...cut off..."
+msgstr "Зв’язок... обірвався."
+
+#. Key: NEL0_044
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: つながらないし……。
+#. JA:   どうしよう……。
+msgctxt "NEL0_044"
+msgid "It won't connect... What should I do?"
+msgstr "Не з’єднує... Що ж робити...?"
+
+#. Key: NEL0_047
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Crew member
+#. Context: Noel story route (POV: Noel)
+#. JA: ヴァーミリオン少尉！
+#. JA:   本艦は間もなくカグツチ五番ポートに着陸します！
+#. JA:   上陸準備を！
+msgctxt "NEL0_047"
+msgid ""
+"Lieutenant Vermillion!\n"
+"We will be arriving at Kagutsuchi Port #5 momentarily! Please, prepare for landing!"
+msgstr ""
+"Лейтенантко Верміліон! Наш корабель незабаром приземлиться в\n"
+"п’ятому порту Каґуцучі! Приготуйтеся до висадки!"
+
+#. Key: NEL0_048
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: た、大変！
+#. JA:   急がないと！
+msgctxt "NEL0_048"
+msgid "Oh, no! I need to hurry!"
+msgstr "Ой лишенько! Треба поспішати!"
+
+#. Key: NEL0_052
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: きれい……。
+msgctxt "NEL0_052"
+msgid "Beautiful..."
+msgstr "Як гарно..."
+
+#. Key: NEL0_053
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: これが……第十三階層都市「カグツチ」……。
+msgctxt "NEL0_053"
+msgid "This is...the 13th Hierarchical City, Kagutsuchi..."
+msgstr "То це... Тринадцяте ієрархічне місто «Каґуцучі»..."
+
+#. Key: NEL1_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: っと、どこに行けば……。
+msgctxt "NEL1_002"
+msgid "So...where should I go?"
+msgstr "Куди ж мені йти...?"
+
+#. Key: NEL1_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 失礼ですが、ノエル＝ヴァーミリオン少尉でいらっしゃいますか？
+msgctxt "NEL1_004"
+msgid "Pardon me. Might you be Lieutenant Noel Vermillion?"
+msgstr "Перепрошую, ви часом не лейтенантка Ноель Верміліон?"
+
+#. Key: NEL1_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、はい。そう、ですけど……。
+msgctxt "NEL1_005"
+msgid "Y-Yes, that would be me..."
+msgstr "А, так. Це я..."
+
+#. Key: NEL1_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ああ、良かった。
+#. JA:   今、この街は通信状態が悪いもので……迎えに来たんですよ。
+#. JA:   そうしないと連絡の取りようがありませんからねェ。
+msgctxt "NEL1_006"
+msgid ""
+"Ah, excellent. I keep getting static on the radio in this city...\n"
+"I came to speak to you directly. Otherwise, we'd have no way to communicate."
+msgstr ""
+"О, чудово. Зв’язок у цьому місті зараз поганий... Тому я прийшов вас\n"
+"зустріти. Інакше ми ніяк не зв’яжемося."
+
+#. Key: NEL1_007
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: す、すみません、わざわざ……。
+msgctxt "NEL1_007"
+msgid "Th-Thank you..."
+msgstr "П-перепрошую, що змусила вас прийти..."
+
+#. Key: NEL1_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 諜報部のハザマです。
+#. JA:   中佐から貴方に現状を報告するように言われてます。
+msgctxt "NEL1_008"
+msgid ""
+"I'm Hazama from the intelligence department.\n"
+"The commander has instructed me to deliver my report to you."
+msgstr ""
+"Я Хазама з розвідувального відділу. Підполковник наказав доповісти вам\n"
+"про поточний стан справ."
+
+#. Key: NEL1_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、はい……よろしく……お願いします……。
+msgctxt "NEL1_009"
+msgid "Ah, understood... Nice to meet you..."
+msgstr "А, так... Рада співпраці..."
+
+#. Key: NEL1_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: まず、貴方の任務……つまりキサラギ少佐捜索についてですが、
+#. JA:   少佐が単独行動を取っていることは、
+#. JA:   現在極秘事項として扱われています。
+msgctxt "NEL1_010"
+msgid ""
+"First, regarding your mission—the Kisaragi case—the military is treating the matter\n"
+"with utmost care and secrecy."
+msgstr ""
+"Насамперед щодо вашого завдання — розшуку майора Кісараґі. Те, що\n"
+"майор діє самовільно, наразі тримають у суворій таємниці."
+
+#. Key: NEL1_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 他言無用、ということですか。
+msgctxt "NEL1_011"
+msgid "A cover-up, right?"
+msgstr "Тобто нікому не розповідати?"
+
+#. Key: NEL1_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ……その通り。
+#. JA:   イカルガの英雄が命令違反の単独行動。
+#. JA:   正直楽観できるものではありませんからね。
+msgctxt "NEL1_012"
+msgid ""
+"...That's right. Frankly, if word spread that the <DQ>Hero of Ikaruga<DQ> disobeyed direct\n"
+"orders, chaos would ensue."
+msgstr ""
+"...Саме так. Герой Ікаруґи самовільно діє всупереч наказам. Відверто\n"
+"кажучи, нічого доброго це не віщує."
+
+#. Key: NEL1_013
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: それから、現在カグツチは
+#. JA:   Lv.D警戒警報が発令されている状態なのですが……。
+#. JA:   にも関わらず、いくつかの集団がこの街に入り込んでいます。
+msgctxt "NEL1_013"
+msgid ""
+"In addition, the NOL has raised the alert level to <DQ>D<DQ> here in Kagutsuchi...\n"
+"But in spite of that, several groups have snuck into the city."
+msgstr ""
+"Крім того, в Каґуцучі зараз оголошено тривогу рівня D... Та попри це до\n"
+"міста проникло кілька угруповань."
+
+#. Key: NEL1_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ひとつは「第七機関」……。
+#. JA:   ま、彼らと我々がどういう関係か、なんてことは
+#. JA:   今さら説明の必要もないでしょう。
+msgctxt "NEL1_014"
+msgid ""
+"One of those groups is <DQ>Sector Seven<DQ>...\n"
+"I'm sure I don't need to explain our relationship with them."
+msgstr ""
+"Одне з них — «Сектор Сім»... Гадаю, пояснювати стосунки між нами й\n"
+"ними вже не потрібно."
+
+#. Key: NEL1_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 彼らがどうして現在カグツチに潜入しているかについては
+#. JA:   不明ですが、我々にとって愉快な理由ではないことは
+#. JA:   明白でしょう。充分に注意を払って下さい。
+msgctxt "NEL1_015"
+msgid ""
+"As of now, we don't know what they're doing here, but I think it's fairly obvious that\n"
+"their presence isn't good news for us...so please be careful."
+msgstr ""
+"Ми не знаємо, навіщо вони проникли до Каґуцучі, але очевидно, що\n"
+"причина навряд чи нас потішить. Будьте вкрай обережні."
+
+#. Key: NEL1_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……今回の少佐の件に第七機関が関わってる可能性があると……。
+msgctxt "NEL1_016"
+msgid ""
+"...Are you saying Major Kisaragi's disappearance has something to do with Sector\n"
+"Seven?"
+msgstr ""
+"...Ви припускаєте, що Сектор Сім може бути причетний до справи\n"
+"майора?"
+
+#. Key: NEL1_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: はい……イカルガの事もありますし。
+#. JA:   そしてもうひとつ、この街に侵入しているのは「咎追い」達です。
+msgctxt "NEL1_017"
+msgid ""
+"Correct... there was the incident at Ikaruga.\n"
+"And one more thing: it seems many vigilantes have also snuck into town."
+msgstr ""
+"Так... З огляду на події в Ібукідо. Інші непрохані гості в місті — мисливці\n"
+"за головами."
+
+#. Key: NEL1_018
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……情報漏洩のためですね。
+msgctxt "NEL1_018"
+msgid "...An information leak..."
+msgstr "...Через витік інформації."
+
+#. Key: NEL1_019
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: まあ、残念ながらそういうことですねェ。
+msgctxt "NEL1_019"
+msgid "I'm afraid so."
+msgstr "На жаль, саме так."
+
+#. Key: NEL1_020
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 「死神」がこの街に現れたという情報がどこからか
+#. JA:   流出してしまったおかげで、今やこの街は
+#. JA:   ゴールドラッシュさながら、という有様なわけでして……。
+msgctxt "NEL1_020"
+msgid ""
+"Now that everyone knows <DQ>Grim Reaper<DQ> Ragna's made an appearance in Kagutsuchi,\n"
+"bounty hunters are coming in from everywhere like a gold rush..."
+msgstr ""
+"Звідкись витекли відомості про появу «Женця» в цьому місті, і тепер тут\n"
+"справжня золота лихоманка..."
+
+#. Key: NEL1_021
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 咎追い達の目的は当然「死神」の捕縛でしょうが、
+#. JA:   状況によっては障害となり得る存在です。
+#. JA:   こちらにもご注意を……。
+msgctxt "NEL1_021"
+msgid ""
+"Naturally, the vigilantes are after the Grim Reaper's head, but depending on the\n"
+"circumstances, they can be a hindrance to us... so watch out for them."
+msgstr ""
+"Звісно, мисливці за головами прагнуть схопити «Женця», але за певних\n"
+"обставин вони можуть стати перешкодою. Тож остерігайтеся і їх."
+
+#. Key: NEL1_022
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 了解しました。
+msgctxt "NEL1_022"
+msgid "Understood."
+msgstr "Зрозуміла."
+
+#. Key: NEL1_023
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: それから……と……？
+msgctxt "NEL1_023"
+msgid "And also... Hm..?"
+msgstr "І ще... Гм...?"
+
+#. Key: NEL1_025
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 彼は、知り合いですか？
+msgctxt "NEL1_025"
+msgid "Hmm...is he a friend of yours?"
+msgstr "Ви з ним знайомі?"
+
+#. Key: NEL1_026
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……彼？
+#. JA:   誰のことですか？
+msgctxt "NEL1_026"
+msgid ""
+"...<DQ>He<DQ>?\n"
+"Who are you referring to?"
+msgstr "...З ним? Про кого ви?"
+
+#. Key: NEL1_027
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: そこでこっちを見ている彼ですよ。
+msgctxt "NEL1_027"
+msgid "That boy's looking at us...right over there."
+msgstr "Про хлопця, який стоїть он там і дивиться на нас."
+
+#. Key: NEL1_028
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そこ、って……。
+msgctxt "NEL1_028"
+msgid "Right over... Where?"
+msgstr "Он там...?"
+
+#. Key: NEL1_029
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL1_029"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL1_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: どこかで、見た、ような……。
+msgctxt "NEL1_030"
+msgid "He looks...sort of familiar..."
+msgstr "Здається, я десь його бачила..."
+
+#. Key: NEL1_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: お久しぶりです、ノエル先輩。
+msgctxt "NEL1_032"
+msgid "Long time no see, Noel."
+msgstr "Давно не бачилися, старшокурснице Ноель."
+
+#. Key: NEL1_033
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: も、もしかして……カルル君？
+msgctxt "NEL1_033"
+msgid "A-Aren't you...Carl?"
+msgstr "Н-невже... Карле?"
+
+#. Key: NEL1_034
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: どうしてこんなところに？
+#. JA:   学校を急に辞めたって……なにかあったの？
+msgctxt "NEL1_034"
+msgid ""
+"What are you doing here?\n"
+"I heard you left the academy...but why?"
+msgstr ""
+"Що ти тут робиш? Я чула, ти раптово покинув академію... Щось\n"
+"сталося?"
+
+#. Key: NEL1_035
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: まあ、いろいろと……。
+#. JA:   でも、そんなことより、
+#. JA:   今日は先輩に教えて欲しいことがあってここに来たんですよ、僕。
+msgctxt "NEL1_035"
+msgid ""
+"Well, all kinds of reasons... But more importantly, I was hoping you could tell me a\n"
+"few things..."
+msgstr ""
+"Та різне... Але важливіше інше: сьогодні я прийшов, бо хотів дещо у вас\n"
+"дізнатися."
+
+#. Key: NEL1_036
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 教えて欲しい……？
+#. JA:   なに……？
+msgctxt "NEL1_036"
+msgid "I'll see if I can help. What did you need?"
+msgstr "Дізнатися...? Що саме?"
+
+#. Key: NEL1_037
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: ラグナ＝ザ＝ブラッドエッジについての情報です。
+msgctxt "NEL1_037"
+msgid "I need information on Ragna the Bloodedge."
+msgstr "Мені потрібні відомості про Раґну Бладеджа."
+
+#. Key: NEL1_038
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: え……？
+msgctxt "NEL1_038"
+msgid "Eh...?"
+msgstr "Га...?"
+
+#. Key: NEL1_039
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: 僕、今は咎追いをやってるんです。
+#. JA:   彼を捕まえたいんですよ。
+#. JA:   統制機構にいる先輩なら、いろいろとご存じでしょう？
+msgctxt "NEL1_039"
+msgid ""
+"I'm a vigilante now, and I want to capture him.\n"
+"Since you're from the NOL, you must know something about him, right?"
+msgstr ""
+"Тепер я мисливець за головами. Хочу його спіймати. Ви служите в\n"
+"Організації Контролю, тож напевно багато про нього знаєте, правда?"
+
+#. Key: NEL1_040
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ご、ごめんねカルル君……。
+#. JA:   それは機密で教えることはできないの……。
+msgctxt "NEL1_040"
+msgid ""
+"I-I'm sorry, Carl...\n"
+"That's a secret, so I can't tell you..."
+msgstr "П-пробач, Карле... Це таємні відомості, я не можу тобі розповісти..."
+
+#. Key: NEL1_041
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: そう、ですか……。
+msgctxt "NEL1_041"
+msgid "I...see..."
+msgstr "Он як..."
+
+#. Key: NEL1_042
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、でも！
+#. JA:   他に、なにか協力できることがあるなら……。
+msgctxt "NEL1_042"
+msgid "Ah, but! If there's anything else I can help you with..."
+msgstr "Але! Якщо я можу допомогти тобі чимось іншим..."
+
+#. Key: NEL1_043
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: いえ、いいんです。
+#. JA:   仕方ないですよね……。
+msgctxt "NEL1_043"
+msgid "No, it's OK. I guess there's no helping it, then..."
+msgstr "Ні, нічого. Тут уже нічого не вдієш..."
+
+#. Key: NEL1_044
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……ごめんなさい。
+msgctxt "NEL1_044"
+msgid "...I'm sorry."
+msgstr "...Пробач."
+
+#. Key: NEL1_045
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: 本当に、仕方ないですよね。
+#. JA:   「死神」のこと、教えてもらえないのなら……。
+msgctxt "NEL1_045"
+msgid "I guess there really is nothing else I can do. If you can't tell me about the Reaper..."
+msgstr "Справді нічого не вдієш. Якщо ви не розповісте мені про «Женця»..."
+
+#. Key: NEL1_047
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 少尉！
+#. JA:   危ない！
+msgctxt "NEL1_047"
+msgid "Lieutenant! Watch out!"
+msgstr "Лейтенантко! Обережно!"
+
+#. Key: NEL1_048
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: えっ!?
+msgctxt "NEL1_048"
+msgid "Eh!?"
+msgstr "Що?!"
+
+#. Key: NEL1_049
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……ハッ!?
+msgctxt "NEL1_049"
+msgid "!?"
+msgstr "...Ха?!"
+
+#. Key: NEL1_051
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: あれ、避けられちゃった……。
+#. JA:   邪魔が入ると困るね、姉さん。
+msgctxt "NEL1_051"
+msgid ""
+"Oh, she dodged it...\n"
+"I didn't expect anyone to interfere, Sis."
+msgstr "О, ухилилася... Погано, коли нам заважають, сестричко."
+
+#. Key: NEL1_052
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: カルル、君……？
+#. JA:   どう、したの……？
+msgctxt "NEL1_052"
+msgid "Carl, what...happened to you...?"
+msgstr "Карле...? Що з тобою...?"
+
+#. Key: NEL1_053
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: いえ……。駄目なら無理矢理に聞き出だす、簡単な理屈です。
+#. JA:   貴方がた統制機構も同じじゃないですか？
+msgctxt "NEL1_053"
+msgid ""
+"Nothing... If you don't want to talk, I just have to <DQ>persuade<DQ> you a little more.\n"
+"You do the same thing in the NOL, don't you?"
+msgstr ""
+"Нічого... Якщо ви не хочете говорити, я просто змушу вас. Хіба\n"
+"Організація Контролю чинить не так само?"
+
+#. Key: NEL1_054
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、そんな……。
+msgctxt "NEL1_054"
+msgid "Th-That's not..."
+msgstr "Н-неправда..."
+
+#. Key: NEL1_055
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: こりゃいけませんねェ……。
+#. JA:   私は戦闘は専門外ですから。退散させて頂きますよ！
+msgctxt "NEL1_055"
+msgid ""
+"Ahh, this won't do... I'm sorry, but combat is not my expertise.\n"
+"I must take my leave here."
+msgstr "Оце вже недобре... Бійки — не мій фах, тож дозвольте відкланятися!"
+
+#. Key: NEL1_057
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: こういう展開は不本意なんですけど……。
+#. JA:   仕方がありませんから。いきますよ、ノエル先輩。
+msgctxt "NEL1_057"
+msgid ""
+"I didn't wish for things to turn out this way...but I guess there's not much choice.\n"
+"I'm coming for you, Noel."
+msgstr ""
+"Я не хотів, щоб усе так склалося... Але іншого виходу немає. До бою,\n"
+"старшокурснице Ноель."
+
+#. Key: NEL1_062
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: うっ……。
+msgctxt "NEL1_062"
+msgid "Ugh..."
+msgstr "Кх..."
+
+#. Key: NEL1_064
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: あーあ、気絶しちゃった。
+#. JA:   手加減は難しいね、姉さん。
+#. JA:   と、なると……。
+msgctxt "NEL1_064"
+msgid ""
+"Ahhh...she's out cold. It's pretty hard to pull your punches, huh, Sis?\n"
+"Which means..."
+msgstr "Ех, знепритомніла. Важко стримувати силу, правда, сестричко? А отже..."
+
+#. Key: NEL1_065
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: あなたから聞き出すしかないみたいですよ。
+msgctxt "NEL1_065"
+msgid "...it looks like I'll need to get answers from you."
+msgstr "...схоже, доведеться випитувати все у вас."
+
+#. Key: NEL1_067
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: いや、こりゃ参りましたね……。
+msgctxt "NEL1_067"
+msgid "Well, this was unexpected..."
+msgstr "Оце ви мене заскочили..."
+
+#. Key: NEL1_068
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: さあ、教えて下さい。
+#. JA:   「ラグナ＝ザ＝ブラッドエッジ」のことを……。
+msgctxt "NEL1_068"
+msgid "Now tell me...everything you know about Ragna the Bloodedge."
+msgstr "А тепер розкажіть мені про «Раґну Бладеджа»..."
+
+#. Key: NEL1_069
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 教えて差し上げたいのは山々なんですがねェ……。
+msgctxt "NEL1_069"
+msgid "Well, I do know a lot about that man, but..."
+msgstr "Я б залюбки вам розповів, але..."
+
+#. Key: NEL1_071
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: うわっ!?
+msgctxt "NEL1_071"
+msgid "Huh!?"
+msgstr "Га?!"
+
+#. Key: NEL1_072
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ま<ruby>・</ruby>た<ruby>・</ruby>お会いしましょう。
+#. JA:   どこかでね……。
+msgctxt "NEL1_072"
+msgid "Perhaps we shall meet again... Somewhere."
+msgstr "Ще неодмінно зустрінемося. Десь..."
+
+#. Key: NEL1_073
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: あっ……逃げられちゃった……。
+#. JA:   困ったね、姉さん。
+msgctxt "NEL1_073"
+msgid "Ah... He got away... That's not good, Sis."
+msgstr "А... Утік... От халепа, сестричко."
+
+#. Key: NEL1_074
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: う、うん……。
+msgctxt "NEL1_074"
+msgid "U-Ungh..."
+msgstr "М-м..."
+
+#. Key: NEL1_075
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: 先輩、教えてくれるかな？
+#. JA:   ふふ……まあ、聞き出す方法はいくらでもあるからいいか……
+msgctxt "NEL1_075"
+msgid ""
+"Do you think she'll talk?\n"
+"Hehe...well, I can think of a number of ways to change her mind..."
+msgstr ""
+"Цікаво, старшокурсниця розповість? Хе-хе... Утім, способів розв’язати їй\n"
+"язика вистачає..."
+
+#. Key: NEL1_082
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: 意外と、お強いんですね……。
+#. JA:   申し訳ないですが、ここは一旦、失礼します。
+msgctxt "NEL1_082"
+msgid "You are far stronger than I expected... I'm afraid I must take my leave here."
+msgstr "Ви несподівано сильна... Перепрошую, але цього разу я відкланяюся."
+
+#. Key: NEL1_084
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: カルル君、待って！
+msgctxt "NEL1_084"
+msgid "Carl, wait!"
+msgstr "Карле, стій!"
+
+#. Key: NEL1_086
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: いや、追うことはないでしょう。
+#. JA:   あなたには任務があるわけですし。
+msgctxt "NEL1_086"
+msgid "There's no need to chase him. You're on duty after all."
+msgstr "Не варто його переслідувати. Зрештою, у вас є завдання."
+
+#. Key: NEL1_087
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: で、でも……。
+msgctxt "NEL1_087"
+msgid "B-But..."
+msgstr "А-але..."
+
+#. Key: NEL1_088
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: お止しなさい、余計な仏心を出すのは。
+#. JA:   アレはもう取り憑かれてますよ。
+msgctxt "NEL1_088"
+msgid "Let it go. Now is not the time. He has most likely been consumed already."
+msgstr "Облиште зайву жалісливість. Він уже одержимий."
+
+#. Key: NEL1_089
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 取り、憑かれる？
+msgctxt "NEL1_089"
+msgid "Consumed...?"
+msgstr "Одержимий...?"
+
+#. Key: NEL1_090
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 一緒にいたあの人形、おそらく「アークエネミー」でしょう。
+#. JA:   あなたの銃と同じようにね。
+msgctxt "NEL1_090"
+msgid ""
+"The marionette that was with him...is most likely a Nox Nyctores.\n"
+"Much like your own weapons."
+msgstr "Та лялька поруч із ним, імовірно, «Арк-Енемі». Як і ваші пістолети."
+
+#. Key: NEL1_092
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL1_092"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL1_093
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: アークエネミーという奴は、
+#. JA:   恐怖を和らげるという面においては抜群の効果を発揮しますが、
+#. JA:   所有者の精神に影響を与える作用がありますからねェ……。
+msgctxt "NEL1_093"
+msgid ""
+"That particular Nox works well at dampening the wielder's sense of fear, but it places\n"
+"a great strain on their mind at the same time..."
+msgstr ""
+"Арк-Енемі надзвичайно добре притлумлюють страх, але водночас\n"
+"впливають на психіку власника..."
+
+#. Key: NEL1_094
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 暗黒大戦時代に造られた兵器だけのことはありますよ。
+#. JA:   あの人形は倫理だの罪悪感だのという戦闘行為に不要な感情を
+#. JA:   少年から完全に奪い去っているんでしょうネェ。
+msgctxt "NEL1_094"
+msgid ""
+"But one should expect that much from a weapon created during the Dark War.\n"
+"That marionette is probably suppressing the child's emotions, except his hunger for\n"
+"battle."
+msgstr ""
+"Недарма це зброя, створена за часів Темної війни. Лялька, мабуть,\n"
+"цілковито позбавляє хлопця непотрібних у бою почуттів — моралі,\n"
+"провини й решти."
+
+#. Key: NEL1_095
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、それならなおさら止めないと！
+msgctxt "NEL1_095"
+msgid "A-All the more reason to stop him!"
+msgstr "Т-тоді його тим більше треба зупинити!"
+
+#. Key: NEL1_096
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 言ったはずですよ。
+#. JA:   あなたには遂行するべき任務があります。
+msgctxt "NEL1_096"
+msgid "I've already told you. You have a mission to complete."
+msgstr "Я вже казав: ви маєте виконати своє завдання."
+
+#. Key: NEL1_097
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: それに……アークエネミーの支配から解放するなんて、
+#. JA:   そうそう簡単にできることじゃありませんよ。
+msgctxt "NEL1_097"
+msgid "Besides...it's not easy to free someone from that Nox's shackles."
+msgstr "До того ж звільнити людину з-під влади Арк-Енемі зовсім не просто."
+
+#. Key: NEL1_098
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あなたは、どうしてそんなに詳しいんですか？
+#. JA:   アークエネミーについて……。
+#. JA:   誰も詳しいことは知らないはずなのに……。
+msgctxt "NEL1_098"
+msgid ""
+"How do you know so much about the Nox Nyctores?\n"
+"I thought that information was classified..."
+msgstr ""
+"Звідки ви так багато знаєте про Арк-Енемі...? Адже подробиць ніхто не\n"
+"повинен знати..."
+
+#. Key: NEL1_099
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ……いや、ま、諜報部ですのでね、これでも。
+#. JA:   それより、とりあえず統制機構の支部に向かって下さい。
+msgctxt "NEL1_099"
+msgid ""
+"...Uhh, well, we are the intelligence department of the Librarium.\n"
+"More importantly, please head to the NOL branch in the meantime."
+msgstr ""
+"Ну, я все-таки служу в розвідці. А тепер вирушайте до відділення\n"
+"Організації Контролю."
+
+#. Key: NEL1_100
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 支部に、ですか？
+msgctxt "NEL1_100"
+msgid "Headquarters? Why?"
+msgstr "До відділення?"
+
+#. Key: NEL1_101
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: なにぶん秘密任務ですから……。
+#. JA:   これ以上はここではお伝えできないってことです。
+#. JA:   私も追って向かいますので。
+msgctxt "NEL1_101"
+msgid ""
+"That's because this mission is that important and that confidential...\n"
+"We can't discuss it here. I'll catch up to you in due time."
+msgstr ""
+"Це все-таки таємна операція... Більше я не можу розповісти просто тут.\n"
+"Я невдовзі вас наздожену."
+
+#. Key: NEL1_102
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 了解しました……。
+msgctxt "NEL1_102"
+msgid "Understood..."
+msgstr "Зрозуміла..."
+
+#. Key: NEL1_107
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 一人、支部までの道を歩いているうちに、
+#. JA:   わたしは不意に昔のことを思い出していた。
+msgctxt "NEL1_107"
+msgid "As I'm walking back to the office, my mind wanders back into the past."
+msgstr "Дорогою до відділення я раптом згадала минуле."
+
+#. Key: NEL1_108
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   士官学校時代のあの頃のことを……。
+#. JA:   
+msgctxt "NEL1_108"
+msgid ""
+"\n"
+"Back to when I was at the Academy...\n"
+msgstr ""
+"\n"
+"Часи навчання у Військовій академії...\n"
+
+#. Key: NEL1_110
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あの、キ、キサラギ先輩……。
+msgctxt "NEL1_110"
+msgid "Um...s-sir...?"
+msgstr "Ем, с-старшокурснику Кісараґі..."
+
+#. Key: NEL1_112
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: ……なんだい？
+msgctxt "NEL1_112"
+msgid "...What is it?"
+msgstr "...Що таке?"
+
+#. Key: NEL1_113
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: こ、この書類は、どこに置けば……？
+msgctxt "NEL1_113"
+msgid "Where should I put these documents...?"
+msgstr "К-куди покласти ці документи...?"
+
+#. Key: NEL1_114
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: そのへんに適当に置いておいてくれればいいよ。
+#. JA:   そんなことも指示を仰がないとできないのかい？
+msgctxt "NEL1_114"
+msgid ""
+"Just toss them over there or something.\n"
+"Or, do you need to be told how to do that, too?"
+msgstr "Поклади десь там. Ти навіть цього не можеш зробити без вказівки?"
+
+#. Key: NEL1_115
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: す、すみません……。
+msgctxt "NEL1_115"
+msgid "I-I'm sorry..."
+msgstr "П-перепрошую..."
+
+#. Key: NEL1_116
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ジン兄様、すこし言い過ぎよ。
+#. JA:   手伝ってもらってるのは私たち生徒会なのだから。
+msgctxt "NEL1_116"
+msgid ""
+"Hey, Jin, go easy on her.\n"
+"She's just trying to be helpful."
+msgstr ""
+"Брате Джіне, це вже занадто. Зрештою, вона допомагає нам, учнівській\n"
+"раді."
+
+#. Key: NEL1_117
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: いつもながら、キサラギ先輩はノエルに厳しいよねー。
+msgctxt "NEL1_117"
+msgid "Jin's always on Noel's case, isn't he?"
+msgstr "Як завжди, старшокурсник Кісараґі суворий із Ноель."
+
+#. Key: NEL1_118
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、いいの、私が悪いんだし……。
+#. JA:   ツバキも気にしないで。
+msgctxt "NEL1_118"
+msgid ""
+"Oh, it's OK...I was at fault.\n"
+"Don't worry about it, Tsubaki."
+msgstr "Усе гаразд, я сама винна... Цубакі, не переймайся."
+
+#. Key: NEL1_120
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: はい？
+msgctxt "NEL1_120"
+msgid "Yes?"
+msgstr "Так?"
+
+#. Key: NEL1_122
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、あの……僕、小等部のカルル＝クローバーといいます。
+#. JA:   生徒会執行部のお手伝いをするように、先生から言われて……。
+msgctxt "NEL1_122"
+msgid ""
+"U-Umm...I'm Carl Clover, an underclassmen here.\n"
+"The professor said to check with the student council and see if they needed help with\n"
+"anything..."
+msgstr ""
+"Ем... Мене звати Карл Кловер, я з молодшої школи. Викладач сказав\n"
+"допомогти виконавчому комітету учнівської ради..."
+
+#. Key: NEL1_123
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: 私はツバキ＝ヤヨイです。よろしくね。
+#. JA:   先生から話は聞いてるわ、小等部開校以来の優等生だって。
+msgctxt "NEL1_123"
+msgid ""
+"I'm Tsubaki Yayoi. It's nice to meet you, Carl.\n"
+"I've heard about you from your professor. You're at the top of your class, aren't\n"
+"you?"
+msgstr ""
+"Я Цубакі Яйой. Приємно познайомитися. Викладач розповідав про тебе:\n"
+"кажуть, ти найкращий учень за всю історію молодшої школи."
+
+#. Key: NEL1_124
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: いえ……そんな……。
+msgctxt "NEL1_124"
+msgid "You...give me too much credit..."
+msgstr "Ні... Що ви..."
+
+#. Key: NEL1_126
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: うわー！これが噂のカルル君!?
+#. JA:   かっわいいー！
+msgctxt "NEL1_126"
+msgid "Ooooh! Is this the <DQ>legendary<DQ> Carl? He's adorable!"
+msgstr "Ого! То це той знаменитий Карл?! Який гарненький!"
+
+#. Key: NEL1_127
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: ね、ナデナデしていい？
+#. JA:   ナデナデしていい？
+msgctxt "NEL1_127"
+msgid "Can I pat him on his head? Can I? Can I?"
+msgstr "Можна погладити тебе по голівці? Можна?"
+
+#. Key: NEL1_129
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Carl
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、あの、僕……。
+msgctxt "NEL1_129"
+msgid "U-Um, I-I..."
+msgstr "Ем, я..."
+
+#. Key: NEL1_130
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: あーはっ！　赤くなった！
+#. JA:   かっわいいー！！
+msgctxt "NEL1_130"
+msgid "Ahahaha! He turned red! How cuuute!"
+msgstr "А-ха! Почервонів! Який миленький!!"
+
+#. Key: NEL1_131
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ふふっ、マコト、止めなさい。カルル君が困っているわ。
+msgctxt "NEL1_131"
+msgid "Hehe... Makoto, stop that. Carl might get angry."
+msgstr "Хи-хи, Макото, припини. Карлові ніяково."
+
+#. Key: NEL1_132
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: ん、んん。
+msgctxt "NEL1_132"
+msgid "A-Ahem."
+msgstr "Кхм-кхм."
+
+#. Key: NEL1_133
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: 君達、ここははしゃぐ場所じゃないよ。
+msgctxt "NEL1_133"
+msgid "Guys, this isn't a playground."
+msgstr "Це не місце для пустощів."
+
+#. Key: NEL1_134
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: はーい。
+#. JA:   すみませーん。
+msgctxt "NEL1_134"
+msgid "Yes! We're sorry!"
+msgstr "Гаразд. Перепрошуємо."
+
+#. Key: NEL1_135
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ふふっ。
+msgctxt "NEL1_135"
+msgid "*giggle*"
+msgstr "Хи-хи."
+
+#. Key: NEL1_136
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: ……なにがおかしいんだい？
+msgctxt "NEL1_136"
+msgid "...What's so funny?"
+msgstr "...Що тут смішного?"
+
+#. Key: NEL1_137
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: い、いえ……。
+#. JA:   でも、なんだか、楽しくて……。
+msgctxt "NEL1_137"
+msgid "N-Nothing... It just seemed like you two were having so much fun..."
+msgstr "Н-нічого... Просто тут так весело..."
+
+#. Key: NEL1_138
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: ……そうかい？
+#. JA:   君は変わってるな。
+msgctxt "NEL1_138"
+msgid "...Is that so? You're a strange one."
+msgstr "...Он як? Ти дивна."
+
+#. Key: NEL1_139
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: あんな日々がずっと続くんだと、わたしは勘違いしていた。
+msgctxt "NEL1_139"
+msgid "I thought those days would last forever."
+msgstr "Я помилково гадала, що ті дні триватимуть вічно."
+
+#. Key: NEL1_140
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   あの頃の、騒がしくて、温かくて、優しくて、心落ち着く
+#. JA:   日々は、本当に限られた時間の中の限られた出来事に
+#. JA:   過ぎなかったのだということを、今のわたしは知っている。
+msgctxt "NEL1_140"
+msgid ""
+"\n"
+"Everyone was so cheerful, and warm, and kind.\n"
+"But now, I know those days were always doomed to be a short,\n"
+"fleeting glimpse at happiness."
+msgstr ""
+"\n"
+"Тоді було гамірно, тепло, затишно й спокійно. Та тепер я знаю: ті дні\n"
+"були лише короткою миттю, якій судилося скінчитися."
+
+#. Key: NEL1_141
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   過去を懐かしむだけでは前には進めないということを、
+#. JA:   今のわたしは痛いほど思い知っている。
+msgctxt "NEL1_141"
+msgid ""
+"\n"
+"If you long for the past, you can never move forward toward the future.\n"
+"It's taken me a long time to learn that, but it's the truth."
+msgstr ""
+"\n"
+"Тепер я надто добре знаю: самими спогадами про минуле вперед не\n"
+"рушиш."
+
+#. Key: NEL1_142
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   それは成長なんだろうか。
+#. JA:   それとも、“諦め”なんだろうか。
+msgctxt "NEL1_142"
+msgid ""
+"\n"
+"Is this what they call <DQ>growing up<DQ>?\n"
+"...Or <DQ>giving up<DQ>?"
+msgstr ""
+"\n"
+"Це називається «дорослішанням»? Чи все ж «капітуляцією»?"
+
+#. Key: NEL2_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ツバキもマコトも、今どうしてるんだろう。
+#. JA:   久しぶりに、会いたいな……。
+msgctxt "NEL2_002"
+msgid "I wonder what Tsubaki and Makoto are up to? I haven't seen them in a while."
+msgstr "Цікаво, як там Цубакі й Макото. Давно ми не бачилися..."
+
+#. Key: NEL2_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: キャッ!?
+msgctxt "NEL2_004"
+msgid "Eek!"
+msgstr "Ай?!"
+
+#. Key: NEL2_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: す、すみません！
+#. JA:   ボーッとしてて……！
+msgctxt "NEL2_005"
+msgid "I-I'm sorry, I was spacing out...!"
+msgstr "П-перепрошую! Я замислилася...!"
+
+#. Key: NEL2_007
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: ……その隊服、統制機構の人間か？
+msgctxt "NEL2_007"
+msgid "...That uniform...You're with the NOL."
+msgstr "...Ця форма. Ти з Організації Контролю?"
+
+#. Key: NEL2_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あっ……！
+#. JA:   だ、第七機関の……！
+msgctxt "NEL2_008"
+msgid "Ah...! S-Sector Seven!"
+msgstr "А...! С-Сектор Сім...!"
+
+#. Key: NEL2_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: 戦闘員としてはいささか注意力が散漫だな。
+#. JA:   それとも、統制機構にはその程度の人材しかいないのか……？
+msgctxt "NEL2_009"
+msgid ""
+"You seem very distracted...for a combat officer.\n"
+"Or is this the caliber of soldier the NOL settles for...?"
+msgstr ""
+"Як для бійця, ти надто неуважна. Чи Організація Контролю має лише\n"
+"таких кадрів...?"
+
+#. Key: NEL2_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、そんなことはありません！
+#. JA:   少し、考えごとをしてただけで……！
+msgctxt "NEL2_010"
+msgid "Th-That's not true! I was just thinking about something...!"
+msgstr "Ц-це неправда! Я лише трохи замислилася...!"
+
+#. Key: NEL2_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: それを散漫というのだ。
+msgctxt "NEL2_011"
+msgid "And that is called being distracted."
+msgstr "Це й називається неуважністю."
+
+#. Key: NEL2_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: むっ……。
+#. JA:   それよりも……こんなところで何をしているんですか？
+msgctxt "NEL2_012"
+msgid "Urgh...! More importantly...what are you doing here?"
+msgstr "М-м... Краще скажіть: що ви тут робите?"
+
+#. Key: NEL2_013
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: 何をしようと貴様に関係あるまい。
+msgctxt "NEL2_013"
+msgid "My affairs are none of your concern."
+msgstr "Тебе не стосується, що я роблю."
+
+#. Key: NEL2_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: いえ……貴方は第七機関の人間のはず。
+#. JA:   統制機構によるLv.D警戒警告の意味はご存知でしょう？
+msgctxt "NEL2_014"
+msgid "Incorrect. You're from Sector Seven. And I'm sure you've heard we raised the alarm."
+msgstr ""
+"Стосується... Ви ж із Сектору Сім. Вам має бути відоме значення тривоги\n"
+"рівня D, оголошеної Організацією Контролю."
+
+#. Key: NEL2_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: ほう……。
+#. JA:   私を知っていたか。
+msgctxt "NEL2_015"
+msgid "Oh...? So you know who I am?"
+msgstr "Он як... Ти мене знаєш."
+
+#. Key: NEL2_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 第七機関の「赤鬼」と言えば有名人ですから。
+msgctxt "NEL2_016"
+msgid "Everybody knows the <DQ>Red Devil<DQ> from Sector Seven."
+msgstr "«Червоний демон» Сектору Сім — відома постать."
+
+#. Key: NEL2_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、そんなことより、“他機関介入不可”の警告が出ている以上、
+#. JA:   一刻も早くここから退去して下さい！
+msgctxt "NEL2_017"
+msgid ""
+"B-But more importantly, you should know a Level D warning means the <DQ>Anti-\n"
+"Intervention Act<DQ> is in effect. You must leave here at once!"
+msgstr ""
+"Але зараз діє заборона на втручання інших організацій, тож негайно\n"
+"залиште місто!"
+
+#. Key: NEL2_018
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: 生憎だが、我々は貴様ら「図書館」風情の指図など受けん。
+msgctxt "NEL2_018"
+msgid "Unfortunately, we have no intention of listening to the Library..."
+msgstr ""
+"На жаль для тебе, ми не виконуємо наказів вашої жалюгідної\n"
+"«Бібліотеки»."
+
+#. Key: NEL2_019
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: それでは武力行使も止むをえませんが……？
+msgctxt "NEL2_019"
+msgid "Then I will have no choice but to detain you..."
+msgstr "Тоді мені доведеться застосувати силу..."
+
+#. Key: NEL2_020
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: 無用な争いは避けたいところなのだがな……。
+msgctxt "NEL2_020"
+msgid "I don't particularly enjoy needless quarrels, but..."
+msgstr "Я хотів би уникнути безглуздої сутички..."
+
+#. Key: NEL2_025
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: う、ん……？
+msgctxt "NEL2_025"
+msgid "Ugh..."
+msgstr "М-м...?"
+
+#. Key: NEL2_027
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あら？
+#. JA:   気が付いた？
+msgctxt "NEL2_027"
+msgid "Oh? Are you awake?"
+msgstr "О? Отямилася?"
+
+#. Key: NEL2_029
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: こ、ここは!?
+msgctxt "NEL2_029"
+msgid "Wh-Where am I!?"
+msgstr "Д-де я?!"
+
+#. Key: NEL2_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 大丈夫。
+#. JA:   心配しないで。私の診療所だから。
+msgctxt "NEL2_030"
+msgid "Don't worry. It's my clinic."
+msgstr "Усе гаразд. Не хвилюйся, це моя клініка."
+
+#. Key: NEL2_031
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: し、診療所……？
+msgctxt "NEL2_031"
+msgid "C-Clinic...?"
+msgstr "К-клініка...?"
+
+#. Key: NEL2_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: テイガーが運んで来たのよ。
+#. JA:   連れて来るくらいなら始めからもっと手加減すればいいのに。
+#. JA:   そういうところはホント融通利かないんだから……。
+msgctxt "NEL2_032"
+msgid ""
+"Tager brought you here. If that was his intention from the start, he should've pulled\n"
+"his punches more... He just doesn't get it..."
+msgstr ""
+"Тейґер приніс тебе сюди. Якщо вже збирався нести, міг би від початку\n"
+"стримувати силу. У таких речах він зовсім негнучкий..."
+
+#. Key: NEL2_033
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、そうですか……。
+#. JA:   負け、たんですね……私……。
+msgctxt "NEL2_033"
+msgid "I-Is that so...? So I...lost...?"
+msgstr "О-он як... Я... програла..."
+
+#. Key: NEL2_034
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あんな大男に負けるのはしょうがないじゃない？
+#. JA:   貴方は女の子なんだし。
+msgctxt "NEL2_034"
+msgid ""
+"Well, you didn't expect to win against a huge man like him, did you?\n"
+"You are a girl after all."
+msgstr "Не дивно програти такому велетню. Ти ж дівчина."
+
+#. Key: NEL2_035
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 男勝りを目指すのも悪くはないけど、女の子らしく、
+#. JA:   って生き方を目指すのもいいと思うわよ？
+msgctxt "NEL2_035"
+msgid ""
+"It's all right to act tougher than the boys, but have you considered being a little more\n"
+"feminine?"
+msgstr ""
+"Немає нічого поганого в бажанні не поступатися чоловікам, але бути\n"
+"більш жіночною — теж чудовий варіант, розумієш?."
+
+#. Key: NEL2_036
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL2_036"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL2_038
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ん？
+#. JA:   私の胸になにか付いてる？
+msgctxt "NEL2_038"
+msgid "Hm? Is there something on my chest?"
+msgstr "Гм? У мене щось на грудях?"
+
+#. Key: NEL2_039
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そりゃ……あなたは、そうかもしれないけど……。
+#. JA:   なんか、厭味です。そういう言い方……。
+msgctxt "NEL2_039"
+msgid ""
+"Well...that's easy for you to say... But that just sounds like you're looking down on\n"
+"me..."
+msgstr "Можливо, для вас це й так... Але звучить це трохи зверхньо..."
+
+#. Key: NEL2_040
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……なんの話？
+#. JA:   私、悪いこと言った？
+msgctxt "NEL2_040"
+msgid "...What are you talking about? Did I offend you somehow?"
+msgstr "...Про що ти? Я сказала щось погане?"
+
+#. Key: NEL2_041
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: いえ……いいんです。
+#. JA:   介抱して下さって、ありがとうございました。
+#. JA:   私、任……仕事がありますから。
+msgctxt "NEL2_041"
+msgid ""
+"No... It's nothing.\n"
+"Thank you for looking after me.\n"
+"I have a miss— er...work to do."
+msgstr ""
+"Ні... нічого. Дякую, що подбали про мене. Мені треба виконати зав...\n"
+"роботу."
+
+#. Key: NEL2_042
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 行く、というのなら止めはしないけど……。
+#. JA:   その前に、着替えて行かない？
+msgctxt "NEL2_042"
+msgid ""
+"If you really must go, I won't stop you...\n"
+"But don't you want to change first?"
+msgstr "Не затримуватиму, якщо мусиш іти... Але, може, спершу перевдягнешся?"
+
+#. Key: NEL2_043
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……え？
+msgctxt "NEL2_043"
+msgid "...Eh?"
+msgstr "...Що?"
+
+#. Key: NEL2_044
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: かわいいのにそんな野暮ったい服、もったいないわ。
+#. JA:   ね？　私がコーディネイトしてあげるから！
+msgctxt "NEL2_044"
+msgid "Your clothes don't do your cute figure justice. C'mon, let's dress you up!"
+msgstr ""
+"Шкода ховати таку милу дівчину в безбарвному одязі. Нумо, я доберу\n"
+"тобі вбрання!"
+
+#. Key: NEL2_045
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: え、あ、いえ……結構です！
+#. JA:   すみません！
+msgctxt "NEL2_045"
+msgid "Oh, um... No, thank you! Excuse me!"
+msgstr "Ем, ні... Не треба! Перепрошую!"
+
+#. Key: NEL2_047
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 折角いろいろ用意してたのになあ……。
+msgctxt "NEL2_047"
+msgid "Aww, I had some great outfits in mind, too..."
+msgstr "А я вже стільки всього приготувала..."
+
+#. Key: NEL2_052
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 戦いの最中、わたしはなにも考えていない。
+msgctxt "NEL2_052"
+msgid "When I'm fighting, I don't think about anything..."
+msgstr "Під час бою я ні про що не думаю."
+
+#. Key: NEL2_053
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   わたしを動かしているのはわたしの脳じゃなく、
+#. JA:   わたしが手にしている武器―――ベルヴェルクだから。
+msgctxt "NEL2_053"
+msgid ""
+"\n"
+"I guess that's because when I'm fighting it's not really...me fighting.\n"
+"The weapon in my hands...Bolverk...it does all the fighting."
+msgstr ""
+"\n"
+"Мною керує не мозок, а зброя в моїх руках — Бельверк."
+
+#. Key: NEL2_054
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   これがなければ、きっとわたしはなにもできない。
+#. JA:   なす術もなくやられてしまう。
+msgctxt "NEL2_054"
+msgid ""
+"\n"
+"Without it, I'd be pretty useless.\n"
+"I don't think I could even fight on my own."
+msgstr ""
+"\n"
+"Без нього я напевно нічого не змогла б і зазнала б поразки, не здатна\n"
+"нічого вдіяти."
+
+#. Key: NEL2_055
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   わたしはそれを知っている。
+#. JA:   だから、ベルヴェルクは、わたしにとってなにより大事なもの。
+msgctxt "NEL2_055"
+msgid ""
+"\n"
+"That's why Bolverk is so important to me.\n"
+"I need it..."
+msgstr ""
+"\n"
+"Я це знаю. Тому Бельверк для мене важливіший за все."
+
+#. Key: NEL2_056
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: けれど―――それはわたしの意思なんだろうか？
+msgctxt "NEL2_056"
+msgid ""
+"But sometimes I wonder...am I really in control?\n"
+"Is it my will that moves me, or Bolverk's?"
+msgstr "Але... чи справді це моя воля?"
+
+#. Key: NEL2_057
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: それさえもベルヴェルクの意思ではないのだろうか？
+#. JA:   今のわたしは、“わたし”なんだろうか。
+msgctxt "NEL2_057"
+msgid "Am...Am I really...myself?"
+msgstr ""
+"Чи, може, навіть це — воля Бельверка? Чи теперішня «я» — це справді\n"
+"я?"
+
+#. Key: NEL2_058
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   分からない。
+#. JA:   だれかに聞けば、分かるのだろうか。
+#. JA:   たとえば、そう、ツバキに……。
+msgctxt "NEL2_058"
+msgid ""
+"\n"
+"I don't know. I've had Bolverk for a long time, but I still don't know.\n"
+"Maybe someone else would know...\n"
+"Maybe...Tsubaki..."
+msgstr ""
+"\n"
+"Не знаю. Може, хтось інший знає відповідь. Наприклад, Цубакі..."
+
+#. Key: NEL2_060
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: そう……決めたのね。
+msgctxt "NEL2_060"
+msgid "I see... So you've decided."
+msgstr "Он як... Ти вирішила."
+
+#. Key: NEL2_061
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: うん……。
+#. JA:   不安、だけど……。
+msgctxt "NEL2_061"
+msgid "Yeah... Though, I'm a little worried..."
+msgstr "Так... Хоч мені й тривожно..."
+
+#. Key: NEL2_062
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: でもおかしいわ、在学中の生徒が部隊に配属されるなんて。
+#. JA:   ノエル、嫌なら私から上層部に掛け合う事も出来るわよ……？
+msgctxt "NEL2_062"
+msgid ""
+"But it just doesn't seem right for them to be recruiting students before they've even\n"
+"graduated... Look, Noel, if you're not OK with this, I can bring it up with the brass..."
+msgstr ""
+"Але це дивно: ученицю розподіляють до підрозділу ще до випуску. Ноель,\n"
+"якщо ти не хочеш, я можу звернутися до керівництва..."
+
+#. Key: NEL2_063
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ありがとうツバキ。
+#. JA:   でも、私の力で何か出来るなら、それに応えたいな、って。
+msgctxt "NEL2_063"
+msgid ""
+"Thanks, Tsubaki. But if I can do something with my own power, I want to do\n"
+"everything I can."
+msgstr ""
+"Дякую, Цубакі. Але якщо я здатна щось зробити власними силами, то\n"
+"хочу виправдати довіру."
+
+#. Key: NEL2_064
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: 大丈夫なの？
+#. JA:   ジン兄様の部隊はいつも最前線に送られる部隊なのよ？
+#. JA:   そうなったら、貴方も戦わなくてはいけないのよ？
+msgctxt "NEL2_064"
+msgid ""
+"Are you sure you're gonna be OK?\n"
+"Jin's squad is always on the front lines... That means you'll be out there fighting in\n"
+"the thick of it."
+msgstr ""
+"Ти впораєшся? Загін брата Джіна постійно відправляють на передову.\n"
+"Тобі теж доведеться битися."
+
+#. Key: NEL2_065
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: わ、分かってる……つもり……。
+#. JA:   でもほら、卒業が半年早まっただけだと思えば……。
+msgctxt "NEL2_065"
+msgid ""
+"I know... I think...\n"
+"But you know, I'll just think of it as an early graduation... six months early..."
+msgstr ""
+"Я... розумію. Здається... Просто вважатиму, що закінчила навчання на пів\n"
+"року раніше..."
+
+#. Key: NEL2_066
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ノエル……わかったわ、
+#. JA:   貴方が決めたことに私が口出すべきじゃないものね。
+msgctxt "NEL2_066"
+msgid "All right. I'll stay out of it, then. After all, it is your decision, Noel, not mine."
+msgstr "Ноель... Гаразд. Я не повинна втручатися у твоє рішення."
+
+#. Key: NEL2_067
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ツバキ……ごめん……。
+msgctxt "NEL2_067"
+msgid "Tsubaki... I'm sorry..."
+msgstr "Цубакі... Пробач..."
+
+#. Key: NEL2_068
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: 謝らないでノエル……。
+msgctxt "NEL2_068"
+msgid "Oh, there's nothing to apologize for."
+msgstr "Не вибачайся, Ноель..."
+
+#. Key: NEL2_069
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: でも、一つだけ約束して。
+msgctxt "NEL2_069"
+msgid "Just...promise me one thing."
+msgstr "Але пообіцяй мені одне."
+
+#. Key: NEL2_070
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 約束？
+msgctxt "NEL2_070"
+msgid "Yes?"
+msgstr "Пообіцяти?"
+
+#. Key: NEL2_071
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ノエルはノエルのままでいる、って。
+msgctxt "NEL2_071"
+msgid "Promise me that you'll always be the Noel that I know."
+msgstr "Залишайся тією Ноель, якою ти є."
+
+#. Key: NEL2_072
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 私は……。私、だよ……。
+msgctxt "NEL2_072"
+msgid "But I am...me..."
+msgstr "Я... і є я..."
+
+#. Key: NEL2_073
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ううん。
+#. JA:   私は幼い頃からずっと見てきてるから知ってるの。
+#. JA:   戦争は人を変えるわ。
+msgctxt "NEL2_073"
+msgid ""
+"That's not what I meant. I've seen people leave for the war and come back someone\n"
+"else. It can change you."
+msgstr "Ні. Я знаю, бо спостерігала це з дитинства. Війна змінює людей."
+
+#. Key: NEL2_074
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: 私の父もそうだった。
+#. JA:   それにジン兄様も……昔に比べてどこか……。
+msgctxt "NEL2_074"
+msgid ""
+"Dad was never the same after he came back...\n"
+"Even Jin... He's not the Jin I grew up with..."
+msgstr ""
+"Таким став і мій батько. І брат Джін... Він теж порівняно з минулим\n"
+"наче..."
+
+#. Key: NEL2_075
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: だ、大丈夫……私は……。
+#. JA:   絶対、変わらないから……！
+msgctxt "NEL2_075"
+msgid "D-Don't worry about me... I won't change."
+msgstr "У-усе буде гаразд... Я... Я ніколи не змінюся...!"
+
+#. Key: NEL2_077
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ……うん。
+msgctxt "NEL2_077"
+msgid "...OK."
+msgstr "...Добре."
+
+#. Key: NEL2_078
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 今のわたしは……わたしなの？
+#. JA:   
+#. JA:   わたしは……誰なの？
+msgctxt "NEL2_078"
+msgid ""
+"Am I... Myself right now?\n"
+"\n"
+"Who am I?"
+msgstr ""
+"Чи теперішня я... справді я?\n"
+"\n"
+"Хто... я така?"
+
+#. Key: NEL2_082
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: この力……！お前は……何者だ……？
+#. JA:   データにはない……。
+msgctxt "NEL2_082"
+msgid ""
+"This power...!\n"
+"Who the hell...are you...? You're not...in the data..."
+msgstr "Ця сила...! Хто... ти така...? У даних цього немає..."
+
+#. Key: NEL2_084
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL2_084"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL2_085
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tager
+#. Context: Noel story route (POV: Noel)
+#. JA: 無念だが、ここは一旦退くとしよう……。
+msgctxt "NEL2_085"
+msgid "I hate to admit it... But, I think it's time I take my leave."
+msgstr "Прикро це визнавати, але цього разу я відступлю..."
+
+#. Key: NEL2_087
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……ハッ!?
+msgctxt "NEL2_087"
+msgid "...Ah!"
+msgstr "...Ха?!"
+
+#. Key: NEL2_088
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: わ、私……勝った、よね……？
+msgctxt "NEL2_088"
+msgid "I...I won...didn't I...?"
+msgstr "Я... Я ж перемогла, правда...?"
+
+#. Key: NEL2_089
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: （でもこれは私の力じゃない……ベルヴェルクの……）
+msgctxt "NEL2_089"
+msgid "(But this isn't my power... Is it Bolverk's...?)"
+msgstr "(Але це не моя сила... Це Бельверк...)"
+
+#. Key: NEL2_091
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 一体、なんなの……？　アークエネミーって……。
+msgctxt "NEL2_091"
+msgid "What on earth are the Nox Nyctores...?"
+msgstr "Що ж таке... ці Арк-Енемі...?"
+
+#. Key: NEL2_092
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL2_092"
+msgid "*sigh*"
+msgstr "*зітхає*"
+
+#. Key: NEL2_093
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あっ!?
+#. JA:   し、支部に急がないと！
+msgctxt "NEL2_093"
+msgid "Ah! I-I need to hurry to headquarters."
+msgstr "А?! Треба поспішати до відділення!"
+
+#. Key: NEL3_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……ど、どっちだったっけ？
+#. JA:   通信は使えないし……どうしよう……。
+msgctxt "NEL3_002"
+msgid ""
+"...Wh-Which way was it again? I can't use the radio, either...\n"
+"Oh, no..."
+msgstr "...К-куди ж мені йти? Зв'язок не працює... Що ж робити...?"
+
+#. Key: NEL3_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: とうっ！
+msgctxt "NEL3_004"
+msgid "Toh!"
+msgstr "То!"
+
+#. Key: NEL3_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: キャッ!?
+msgctxt "NEL3_005"
+msgid "Eek!"
+msgstr "Ай?!"
+
+#. Key: NEL3_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: ……友情！　努力！　勝利！
+#. JA:   愛と正義の忍者、シシガミ＝バング、ここに見参！
+msgctxt "NEL3_006"
+msgid ""
+"...Friendship! Determination! Victory!\n"
+"I am the ninja who fights in the name of love and justice, Bang Shishigami!"
+msgstr ""
+"...Дружба! Зусилля! Перемога! Нінджя любові та справедливості, Банґ\n"
+"Шішіґамі, прибув!"
+
+#. Key: NEL3_007
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: び、びっくりした……。
+msgctxt "NEL3_007"
+msgid "Y-You startled me..."
+msgstr "Я-як же ви мене налякали..."
+
+#. Key: NEL3_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: そこのお主！
+msgctxt "NEL3_008"
+msgid "You there!"
+msgstr "Гей, ти!"
+
+#. Key: NEL3_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: は、はい!?
+msgctxt "NEL3_009"
+msgid "Y-Yes!?"
+msgstr "Т-так?!"
+
+#. Key: NEL3_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: 風の噂で聞いたところ、お主、拙者のかわいい後輩に
+#. JA:   手酷い仕打ちを喰らわせたそうではないか！
+msgctxt "NEL3_010"
+msgid "I picked up a rumor that you gave my cute little disciple a pretty hard time..."
+msgstr ""
+"До мене дійшли чутки, що через тебе мій любий молодший товариш\n"
+"постраждав!"
+
+#. Key: NEL3_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: えっ!?
+#. JA:   こ、後輩って？
+msgctxt "NEL3_011"
+msgid ""
+"Huh?\n"
+"D-Disciple?"
+msgstr "Що?! Який товариш?"
+
+#. Key: NEL3_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: とぼけても無駄でござる！
+#. JA:   カルル殿のことでござる！
+msgctxt "NEL3_012"
+msgid ""
+"Don't even try to play dumb!\n"
+"I'm talking about Carl!"
+msgstr "Не вдавай, що не розумієш! Я про Карла!"
+
+#. Key: NEL3_013
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: カ、カルル君!?
+msgctxt "NEL3_013"
+msgid "C-Carl!?"
+msgstr "К-Карла?!"
+
+#. Key: NEL3_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: 拙者は咎追いの先人としてカルル殿の面倒を見ておった。
+#. JA:   あのような年端もいかぬ若者を虐げるとはなんたる悪行！
+msgctxt "NEL3_014"
+msgid ""
+"I was like a mentor to him, as a vigilante...\n"
+"Yet you had the heart to mercilessly strike down such a young boy..."
+msgstr ""
+"Як досвідченіший мисливець за головами, я опікувався паном Карлом.\n"
+"Як можна було так знущатися з такого юного хлопця?! Яке лиходійство!"
+
+#. Key: NEL3_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: い、いえ、あの、私はただ……。
+msgctxt "NEL3_015"
+msgid "U-Umm, no, I was just—"
+msgstr "Н-ні, я... Я лише..."
+
+#. Key: NEL3_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: ええい！
+#. JA:   悪漢の言葉など聞く耳持たぬ！
+#. JA:   拙者が成敗してやるでござる！　覚悟せい！
+msgctxt "NEL3_016"
+msgid "Hah! I have no time for your villainous lies! I'll show you the meaning of justice!"
+msgstr ""
+"Годі! Не бажаю слухати твоїх лиходійських виправдань! Я покараю тебе!\n"
+"Готуйся!"
+
+#. Key: NEL3_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、そんな……！
+msgctxt "NEL3_017"
+msgid "B-But—"
+msgstr "А-але ж...!"
+
+#. Key: NEL3_022
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: わ、私はなにも……。
+msgctxt "NEL3_022"
+msgid "But I didn't do anything..."
+msgstr "Я ж нічого не..."
+
+#. Key: NEL3_024
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: ……成敗！
+msgctxt "NEL3_024"
+msgid "...Revenge!"
+msgstr "...Покарано!"
+
+#. Key: NEL3_025
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: ……いや、今日も善行をいたした。
+#. JA:   殿も草葉の陰で喜んでおられることであろう。
+msgctxt "NEL3_025"
+msgid ""
+"...Ah, another good deed.\n"
+"I'm sure the young master is hiding in the bushes, smirking right about now."
+msgstr ""
+"...Що ж, і сьогодні я зробив добру справу. Певно, мій володар теж радіє за\n"
+"мене з того світу."
+
+#. Key: NEL3_026
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: これに懲りたらイジメなどはせぬように！
+#. JA:   では、さらばでござる、少年よ！
+msgctxt "NEL3_026"
+msgid "I hope you've learned your lesson! Farewell, young man!"
+msgstr ""
+"Сподіваюся, це навчить тебе більше нікого не кривдити! А тепер\n"
+"прощавай, юначе!"
+
+#. Key: NEL3_027
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: し、少年って……私は……！
+msgctxt "NEL3_027"
+msgid "Y-Young man...? But I'm..."
+msgstr "Ю-юначе?! Але я ж...!"
+
+#. Key: NEL3_029
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: うう……ひどい……。
+msgctxt "NEL3_029"
+msgid "*sob* ...How mean..."
+msgstr "У-у-у... Як жорстоко..."
+
+#. Key: NEL3_035
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 士官学校時代を思い出した。
+msgctxt "NEL3_035"
+msgid "I remember back when I was at the Academy..."
+msgstr "Я згадала часи навчання у Військовій академії."
+
+#. Key: NEL3_036
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   マコトがいじめられていた頃のことだ。
+#. JA:   当時の士官学校ではマコトのような半獣人の存在は珍しかった。
+msgctxt "NEL3_036"
+msgid ""
+"\n"
+"...people were always picking on Makoto.\n"
+"At the time, beastmen were a rare sight at the Academy."
+msgstr ""
+"\n"
+"Тоді Макото цькували. У ті часи звіролюди на кшталт неї рідко\n"
+"траплялися у Військовій академії."
+
+#. Key: NEL3_037
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   そのうえ貴族の子息子女ばかりの学校の中で、
+#. JA:   マコトのように平民の家から実力を示して入学したという
+#. JA:   存在は稀だったことも、いじめの一因にはなっていただろう。
+msgctxt "NEL3_037"
+msgid ""
+"\n"
+"On top of that, most of the students made it into the Academy because of their\n"
+"parents' status, not on their own merit.\n"
+"Makoto was doubly unlucky."
+msgstr ""
+"\n"
+"До того ж у школі, де навчалися переважно діти аристократів, такі, як\n"
+"Макото, що походили з простих родин і вступили завдяки власним\n"
+"здібностям, теж були рідкістю. Мабуть, це стало ще однією причиною\n"
+"цькування."
+
+#. Key: NEL3_038
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: マコトはそのことをとても悲しんでいた。
+msgctxt "NEL3_038"
+msgid "And she took everything personally..."
+msgstr "Макото дуже через це страждала."
+
+#. Key: NEL3_040
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ……そんなに落ち込まないで。
+#. JA:   あんな人は一部だけよ？
+msgctxt "NEL3_040"
+msgid "...Don't look so down. Those kinds of people are in the minority."
+msgstr "...Не падай так духом. Таких людей лише одиниці."
+
+#. Key: NEL3_041
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: うう……分かってるよ……。
+#. JA:   分かってるんだけど……。
+msgctxt "NEL3_041"
+msgid "Yeah, I know... I know that, but..."
+msgstr "У-у... Я знаю... Знаю, але..."
+
+#. Key: NEL3_042
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: でもあんな言い方されたら、他のみんなもあたしのこと、
+#. JA:   獣臭いとか思ってるような気がしちゃうんだもん……。
+msgctxt "NEL3_042"
+msgid "But the way they say it...everyone's gonna think I'm a dirty animal or something..."
+msgstr ""
+"Але коли зі мною так говорять, мені починає здаватися, ніби й усі інші\n"
+"думають, що від мене тхне звіром..."
+
+#. Key: NEL3_043
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、そんなことないよ？
+#. JA:   私は……。
+msgctxt "NEL3_043"
+msgid "Th-That's not true... I..."
+msgstr "Н-неправда! Я от..."
+
+#. Key: NEL3_044
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: 分かってる……。
+#. JA:   ノエルもツバキも優しいし、
+#. JA:   あたしのこと差別とかしたりしないし……でもね……。
+msgctxt "NEL3_044"
+msgid "I know...both of you guys are really nice to me, and you don't discriminate, but..."
+msgstr ""
+"Знаю... І ти, Ноель, і Цубакі дуже добрі, ви ніколи мене не зневажали...\n"
+"Але все одно..."
+
+#. Key: NEL3_045
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: 皆、貴方に実力があるから妬いているところもあるのよ？
+#. JA:   私も含めてなんだけど。
+#. JA:   この学校には貴族特権を利用して入学してる子も多いから。
+msgctxt "NEL3_045"
+msgid ""
+"I think they're all just jealous of your talent.\n"
+"A lot of the students here just got in because their parents are important.\n"
+"That's how I got in."
+msgstr ""
+"Певною мірою всі заздрять твоїм здібностям. І я теж. Адже багато хто\n"
+"вступив до цієї школи завдяки аристократичним привілеям."
+
+#. Key: NEL3_046
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: そんなことないよ。
+#. JA:   ツバキは優等生だし……。
+msgctxt "NEL3_046"
+msgid "That's not true... You're an honors student, Tsubaki."
+msgstr "Неправда. Ти ж відмінниця, Цубакі..."
+
+#. Key: NEL3_047
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL3_047"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL3_049
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: ……ノエル？
+#. JA:   なにしてんの？
+msgctxt "NEL3_049"
+msgid "...Noel? What...are you doing?"
+msgstr "...Ноель? Ти що робиш?"
+
+#. Key: NEL3_050
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: うふふっ。
+#. JA:   マコトの耳、もふもふしてる。
+msgctxt "NEL3_050"
+msgid "*giggle* Makoto, your ears are so fluffy."
+msgstr "Хі-хі. Макото, які ж у тебе пухнасті вушка."
+
+#. Key: NEL3_051
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: ……んもうっ！
+#. JA:   人が落ち込んでる時にーっ！
+msgctxt "NEL3_051"
+msgid "...Aaaargh! Right when I was being depressed, too...!"
+msgstr "...Ну годі! Я тут жаліюся, а ти-и-и!"
+
+#. Key: NEL3_052
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: もふもふもふもふもふ。
+msgctxt "NEL3_052"
+msgid "*giggle*"
+msgstr "Пухнасті-пухнасті-пухнасті-пухнасті-пухнасті."
+
+#. Key: NEL3_053
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: こらあっ！
+#. JA:   そんなにもふもふするなっ！
+msgctxt "NEL3_053"
+msgid "Hey, stop touching them!"
+msgstr "Ану годі! Не треба мене так мацати!"
+
+#. Key: NEL3_054
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: だって柔らかくて、気持ちいいんだもん。
+#. JA:   尻尾なんて特に……これは何？　凶器ですか、マコトさん？
+msgctxt "NEL3_054"
+msgid ""
+"But, they're so soft...especially your tail.\n"
+"What's this? A concealed weapon?"
+msgstr ""
+"Але ж вони такі м'які й приємні. Особливо хвостик... Що це таке? Грізна\n"
+"зброя, пані Макото?"
+
+#. Key: NEL3_055
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: ぬいぐるみじゃないのっ！
+#. JA:   あたしはーっ！
+msgctxt "NEL3_055"
+msgid "I'm not a stuffed animal! I am..."
+msgstr "Я тобі не м'яка іграшка! Я-я-я!"
+
+#. Key: NEL3_056
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ふふ……少し元気が出たみたいね。
+msgctxt "NEL3_056"
+msgid "Hehe... At least you look better now."
+msgstr "Хі-хі... Схоже, тобі вже трохи краще."
+
+#. Key: NEL3_061
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: やられたでござる～～～。
+#. JA:   このようないじめっ子に敗れるとは……。なんたる無念～～！
+msgctxt "NEL3_061"
+msgid "I...have been defeated... I cannot believe I lost to a bully... I am ashamed...!"
+msgstr ""
+"Мене перемогли-и-и... Програти тому, хто кривдить слабших... Яка\n"
+"ганьба-а-а!"
+
+#. Key: NEL3_063
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 誤解ですからね。
+#. JA:   いじめなんて……私、絶対にしませんから。
+msgctxt "NEL3_063"
+msgid "You have it all wrong! I wasn't bullying anyone."
+msgstr "Ви все неправильно зрозуміли. Я ніколи й нікого не кривджу."
+
+#. Key: NEL3_064
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そうだ、統制機構の支部ってどっちに行けばいいか知りませんか？
+#. JA:   道に迷ってしまったので……。
+msgctxt "NEL3_064"
+msgid ""
+"Oh yeah. Do you happen to know where the NOL branch is in this city?\n"
+"I think I'm lost..."
+msgstr ""
+"До речі, ви не знаєте, в якому боці відділення Організації Контролю? Я\n"
+"заблукала..."
+
+#. Key: NEL3_065
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL3_065"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL3_066
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 気絶、してる……？
+msgctxt "NEL3_066"
+msgid "He fainted...?"
+msgstr "Знепритомнів...?"
+
+#. Key: NEL3_067
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: む、う……。
+msgctxt "NEL3_067"
+msgid "Ugh... Uh..."
+msgstr "М-м... У-у..."
+
+#. Key: NEL3_068
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、あっちですか……？
+#. JA:   すみません、助かりました。
+msgctxt "NEL3_068"
+msgid "I-It's that way? Thank you very much! You're a lifesaver."
+msgstr "А, т-туди...? Дякую, ви мене дуже виручили."
+
+#. Key: NEL3_070
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: ……行ったでござるか……。
+msgctxt "NEL3_070"
+msgid "...So she goes..."
+msgstr "...Пішла..."
+
+#. Key: NEL3_072
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Subordinate A
+#. Context: Noel story route (POV: Noel)
+#. JA: お頭！
+#. JA:   大丈夫ッスか!?
+msgctxt "NEL3_072"
+msgid "Sir! Are you OK?"
+msgstr "Босе! Ви цілі?!"
+
+#. Key: NEL3_073
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: うむ……。仔細ないでござる。
+msgctxt "NEL3_073"
+msgid "Er, it's nothing major."
+msgstr "Авжеж... Нічого страшного."
+
+#. Key: NEL3_074
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Subordinate B
+#. Context: Noel story route (POV: Noel)
+#. JA: お頭……。演技が下手すぎますよ……。
+msgctxt "NEL3_074"
+msgid "Sir... Y-You're a terrible actor..."
+msgstr "Босе... З вас кепський актор..."
+
+#. Key: NEL3_075
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: あの、娘……か？
+#. JA:   聞いていた様子と少し違う。
+msgctxt "NEL3_075"
+msgid "Oh, that girl...? Well, she wasn't exactly what I expected..."
+msgstr "То це... та дівчина? Вона дещо не така, як мені розповідали."
+
+#. Key: NEL3_076
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Subordinate A
+#. Context: Noel story route (POV: Noel)
+#. JA: はぁ？
+msgctxt "NEL3_076"
+msgid "Riight... "
+msgstr "Га?"
+
+#. Key: NEL3_077
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: なんとも戦いづらい相手でござった。
+#. JA:   まるで殺気がないでござる。
+msgctxt "NEL3_077"
+msgid "What a difficult fight that was. It's as though she had no killing intent whatsoever."
+msgstr ""
+"З нею було вельми важко битися. Від неї зовсім не віяло жагою до\n"
+"вбивства."
+
+#. Key: NEL3_078
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: いや……殺気どころか他にもなにも感じなかったでござる。
+#. JA:   まるで空気のような……。
+msgctxt "NEL3_078"
+msgid ""
+"Not only was there no murderous intent...I couldn't even sense her presence...\n"
+"It's like...she was...air..."
+msgstr "Ба більше... Я взагалі нічого від неї не відчув. Наче вона саме повітря..."
+
+#. Key: NEL3_079
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Subordinate B
+#. Context: Noel story route (POV: Noel)
+#. JA: 空気……ですか？
+msgctxt "NEL3_079"
+msgid "The air...sir?"
+msgstr "Повітря...?"
+
+#. Key: NEL4_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ハァ……。
+#. JA:   やっと、着いた……。
+msgctxt "NEL4_002"
+msgid "*sigh* I'm finally here."
+msgstr "Ха-а... Нарешті дісталася..."
+
+#. Key: NEL4_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……誰も、いない？
+#. JA:   どうして……？
+msgctxt "NEL4_004"
+msgid "...No one's inside? But, why...?"
+msgstr "...Нікого немає? Чому...?"
+
+#. Key: NEL4_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 遅かったじゃないですか！
+msgctxt "NEL4_006"
+msgid "What took you so long!?"
+msgstr "Ну й довго ж ви!"
+
+#. Key: NEL4_007
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ！
+#. JA:   ハ、ハザマ、さん……すみません。
+msgctxt "NEL4_007"
+msgid "Ah! I-I'm sorry I'm late, Hazama."
+msgstr "А! П-пане Хазамо... вибачте."
+
+#. Key: NEL4_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: いえ……。まあ、私もさっき着いたところなんですがね。
+#. JA:   着いてみたらこの有様ですよ。
+#. JA:   人っ子一人いないってやつです。
+msgctxt "NEL4_008"
+msgid ""
+"Oh, well... I just got here myself, but I was as surprised as you were...\n"
+"Not a single soul."
+msgstr "Та ні... Я й сам щойно прибув. А тут ось яка картина. Жодної живої душі."
+
+#. Key: NEL4_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 何が、あったんでしょう……。
+msgctxt "NEL4_009"
+msgid "I wonder what happened..."
+msgstr "Що ж тут сталося...?"
+
+#. Key: NEL4_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ……例の「ラグナ」かもしれませんね。
+msgctxt "NEL4_010"
+msgid "...It could be Ragna."
+msgstr "...Можливо, це той самий «Раґна»."
+
+#. Key: NEL4_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: し、襲撃されたってことですか？
+#. JA:   でも、そんな……！
+msgctxt "NEL4_011"
+msgid "You mean he attacked this base? I can't believe it..."
+msgstr "Т-тобто на відділення напали? Але не може бути...!"
+
+#. Key: NEL4_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: まあいずれにせよ、異常事態なのは確かです。
+#. JA:   気を付けて下さい。
+#. JA:   まだ近くに潜んでいる可能性も―――
+msgctxt "NEL4_012"
+msgid ""
+"Well, either way, there's no question that this is a strange occurrence.\n"
+"Be on alert. The perpetrator might still be nearby."
+msgstr ""
+"Хай там як, це безперечно надзвичайна ситуація. Будьте обережні.\n"
+"Винуватець іще може ховатися неподалік..."
+
+#. Key: NEL4_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL4_014"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL4_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: キサラギ少佐……!?
+msgctxt "NEL4_015"
+msgid "Major Kisaragi...!?"
+msgstr "Майоре Кісараґі...?!"
+
+#. Key: NEL4_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: 貴様か……少尉……。
+msgctxt "NEL4_016"
+msgid "It's you... Lieutenant...!"
+msgstr "Це ти... лейтенанте..."
+
+#. Key: NEL4_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: （これは……殺気？　でも、どうして……）
+msgctxt "NEL4_017"
+msgid "(This is...a murderous intent? But why...?)"
+msgstr "(Це... жага до вбивства? Але чому...?)"
+
+#. Key: NEL4_018
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 本部から帰投命令が出ています。
+#. JA:   直ぐにお戻り頂けませんか、少佐。
+#. JA:   それにこの状況を説明できるなら是非お願いしたいですねェ。
+msgctxt "NEL4_018"
+msgid ""
+"An order of withdrawal has come from headquarters.\n"
+"Please, return to your post right away, Major.\n"
+"I would appreciate an explanation."
+msgstr ""
+"Зі штабу надійшов наказ про повернення. Чи не могли б ви негайно\n"
+"повернутися, майоре? А якщо ви здатні пояснити цю ситуацію, я охоче\n"
+"послухаю."
+
+#. Key: NEL4_019
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL4_019"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL4_021
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL4_021"
+msgid "!"
+msgstr "!"
+
+#. Key: NEL4_023
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: いっ!?
+msgctxt "NEL4_023"
+msgid "Eek!"
+msgstr "Ой?!"
+
+#. Key: NEL4_024
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: ……なぜ邪魔をする、ヴァーミリオン少尉。
+msgctxt "NEL4_024"
+msgid "...Why do you interfere, Lieutenant Vermillion?"
+msgstr "...Навіщо ти втрутилася, лейтенантко Верміліон?"
+
+#. Key: NEL4_025
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: な、なぜはこっちのセリフです！
+#. JA:   どうしてハザマさんに攻撃する必要があるんですか！
+msgctxt "NEL4_025"
+msgid "<DQ>Wh-Why<DQ> is my line! Why did you attack Hazama!?"
+msgstr "Ц-це я маю питати чому! Навіщо вам було нападати на пана Хазаму?!"
+
+#. Key: NEL4_026
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ち、ちょっと、勘弁して下さい……。
+#. JA:   私は、こういうのはどうも……苦手なもんで！
+msgctxt "NEL4_026"
+msgid "P-Please give me a break... I-I'm not good...with these sorts of things!"
+msgstr "З-заждіть, облиште... Я, знаєте... не дуже вправний у таких справах!"
+
+#. Key: NEL4_028
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: もう一度聞く。
+#. JA:   なぜ邪魔をした、少尉。
+msgctxt "NEL4_028"
+msgid "I'll ask you one more time. Why do you interfere, Lieutenant!?"
+msgstr "Питаю ще раз. Навіщо ти втрутилася, лейтенантко?"
+
+#. Key: NEL4_029
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: キサラギ少佐……。
+#. JA:   一体どうされたんですか？
+#. JA:   単独行動といい、今回の一件といい……どうして……？
+msgctxt "NEL4_029"
+msgid ""
+"...What happened to you, Major? This whole incident... You're acting on your own...\n"
+"Why?"
+msgstr ""
+"Майоре Кісараґі... Що з вами сталося? І самовільні дії, і цей випадок...\n"
+"Чому...?"
+
+#. Key: NEL4_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: ……そうか。
+#. JA:   結局、貴様も“障害”だったということか。
+msgctxt "NEL4_030"
+msgid "*chuckle*...I see. So in the end, you were just another obstruction..."
+msgstr "...Он як. То зрештою й ти виявилася «перешкодою»."
+
+#. Key: NEL4_031
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……え？
+msgctxt "NEL4_031"
+msgid "...Eh?"
+msgstr "...Що?"
+
+#. Key: NEL4_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: “障害”だ。
+#. JA:   “障害”ならば潰すしかない。
+#. JA:   叩き潰して消滅させる……。
+msgctxt "NEL4_032"
+msgid "Well, that makes things simple... If that's the case, I just need to eliminate you!"
+msgstr ""
+"Ти — «перешкода». А перешкоди лишається тільки нищити. Розчавити\n"
+"й стерти з лиця землі..."
+
+#. Key: NEL4_033
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: し、少佐……？
+msgctxt "NEL4_033"
+msgid "M-Major...?"
+msgstr "М-майоре...?"
+
+#. Key: NEL4_034
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: 黙れ……。すぐに消してやる。
+msgctxt "NEL4_034"
+msgid "Hmph... Any last words?"
+msgstr "Замовкни... Зараз же зітру тебе."
+
+#. Key: NEL4_035
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL4_035"
+msgid "...!"
+msgstr "...!"
+
+#. Key: NEL4_040
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: キサラギ……少佐……。
+msgctxt "NEL4_040"
+msgid "Major...Kisaragi..."
+msgstr "Майоре... Кісараґі..."
+
+#. Key: NEL4_041
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: ……その目をやめろ。
+#. JA:   その目は！
+#. JA:   あいつと同じ目だ！
+msgctxt "NEL4_041"
+msgid "Don't look at me like that! Those eyes are...! The same as hers!"
+msgstr "...Не дивися на мене так. Ці очі! Вони такі самі, як у неї!"
+
+#. Key: NEL4_043
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あっ……！
+msgctxt "NEL4_043"
+msgid "Ah...!"
+msgstr "А...!"
+
+#. Key: NEL4_044
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: なぜだ……なぜ貴様は……！
+#. JA:   なぜ貴様はあいつと同じ顔なんだ……！
+msgctxt "NEL4_044"
+msgid "Why...Why do you...! Why do you look just like HER!?"
+msgstr "Чому... Чому ти...?! Чому в тебе те саме обличчя, що й у неї?!"
+
+#. Key: NEL4_045
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……少、佐？
+#. JA:   私、は……。
+msgctxt "NEL4_045"
+msgid "...M-Major? I'm..."
+msgstr "...М-майоре? Я..."
+
+#. Key: NEL4_046
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: そうだ……。消す……消さなくては……。
+#. JA:   もう一度……あの時と同じように……！
+msgctxt "NEL4_046"
+msgid "That's right... I need to destroy you...! Just like... Last time...!"
+msgstr "Так... Знищити... Я мушу тебе знищити... Ще раз... так само, як тоді...!"
+
+#. Key: NEL4_047
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL4_047"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL4_048
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: 消えろ……消えろ……！
+#. JA:   僕の目の前から！
+msgctxt "NEL4_048"
+msgid "Die! Die! I don't want to look at you!"
+msgstr "Зникни... Зникни...! Зникни з моїх очей!"
+
+#. Key: NEL4_049
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、あ……。
+msgctxt "NEL4_049"
+msgid "Agh...agh..."
+msgstr "А... а..."
+
+#. Key: NEL4_055
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: く、うぅ……くそ……っ！
+msgctxt "NEL4_055"
+msgid "Guh...God...damn it...!"
+msgstr "Кх... У-у... прокляття...!"
+
+#. Key: NEL4_056
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: もう……お止め下さい、少佐。
+#. JA:   今なら本部は命令違反を不問に付すとのことですから……。
+msgctxt "NEL4_056"
+msgid "Major, please stop. HQ says if you return now, you won't face a court martial..."
+msgstr ""
+"Майоре... Будь ласка, зупиніться. Якщо повернетеся зараз, штаб обіцяє\n"
+"не карати вас за порушення наказу..."
+
+#. Key: NEL4_057
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: 僕に指図をするな……。
+#. JA:   貴様に……何が分かる？
+msgctxt "NEL4_057"
+msgid ""
+"Guh...Don't give me orders!\n"
+"You know...NOTHING!"
+msgstr "Не вказуй мені... Що ти... взагалі розумієш?"
+
+#. Key: NEL4_058
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: わ、私はただ……。
+msgctxt "NEL4_058"
+msgid "I-I was just..."
+msgstr "Я-я лише..."
+
+#. Key: NEL4_060
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: な、なに!?
+msgctxt "NEL4_060"
+msgid "Wh-What the...!?"
+msgstr "Щ-що?!"
+
+#. Key: NEL4_062
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Jin
+#. Context: Noel story route (POV: Noel)
+#. JA: まさか……“兄さん”!?
+msgctxt "NEL4_062"
+msgid "I...is that you...? <DQ>Ragna<DQ>?"
+msgstr "Невже... «брате»?!"
+
+#. Key: NEL4_064
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: し、少佐！
+#. JA:   待って下さい！
+msgctxt "NEL4_064"
+msgid "M-Major! Please wait!"
+msgstr "М-майоре! Зачекайте!"
+
+#. Key: NEL4_066
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: キャッ!?
+msgctxt "NEL4_066"
+msgid "Eek!"
+msgstr "Ай?!"
+
+#. Key: NEL4_068
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: まさか……崩れ―――
+msgctxt "NEL4_068"
+msgid "Don't tell me... This...!"
+msgstr "Невже... руйнується..."
+
+#. Key: NEL4_075
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 崩れてゆく建物。
+msgctxt "NEL4_075"
+msgid "The building is shaking."
+msgstr "Будівля руйнувалася."
+
+#. Key: NEL4_076
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   わたしはその中でただ立ち尽くしていた。
+#. JA:   そうすることしかできなかった。
+msgctxt "NEL4_076"
+msgid ""
+"\n"
+"All I can do is stand there."
+msgstr ""
+"\n"
+"А я лише стояла серед руїн. Це було все, на що я спромоглася."
+
+#. Key: NEL4_077
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   そしてわたしは、緩やかな時の流れの中で、過去を想った。
+#. JA:   死に行く人間がそうするように……。
+msgctxt "NEL4_077"
+msgid ""
+"\n"
+"My mind jumps back, into the past.\n"
+"Just like what they say happens right before you die..."
+msgstr ""
+"\n"
+"І в повільному плині часу я згадала минуле. Так, як згадують його люди\n"
+"перед смертю..."
+
+#. Key: NEL4_079
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ……じゃあ、ノエルは里帰りはしないの？
+#. JA:   お父様の容体、あまり良くはないんでしょう？
+msgctxt "NEL4_079"
+msgid "You're not going home, Noel? I thought your father wasn't doing very well..."
+msgstr ""
+"...То ти не поїдеш додому, Ноель? Твоєму батькові ж нездужається,\n"
+"правда?"
+
+#. Key: NEL4_080
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: うん……。
+#. JA:   私が戻ると、かえってお父さん無理しちゃうから……。
+#. JA:   ここにいた方がいいかな、って。
+msgctxt "NEL4_080"
+msgid "Yeah...but if I go home, I'll just make him worry...so I might be better off here."
+msgstr ""
+"Так... Якщо я повернуся, тато лише почне надриватися... Тому я\n"
+"подумала, що краще лишитися тут."
+
+#. Key: NEL4_081
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: 無理にとはいわないけれど……。
+#. JA:   顔を見せて差し上げた方がお父様もお喜びになると思うわよ？
+msgctxt "NEL4_081"
+msgid ""
+"Well, I can't force you to do anything...\n"
+"But I do think your father would like to see you."
+msgstr "Я не наполягаю... Але думаю, твій батько був би радий тебе побачити."
+
+#. Key: NEL4_082
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そう、かな……？
+msgctxt "NEL4_082"
+msgid "Really...?"
+msgstr "Думаєш...?"
+
+#. Key: NEL4_083
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: そうだよー。うちの父ちゃんも言ってるよ？
+#. JA:   なんだかんだで顔を見せてくれるのが一番嬉しい、って。
+msgctxt "NEL4_083"
+msgid ""
+"That's right. My dad says the same thing...\n"
+"Whatever they tell you, it's always best to see them in person."
+msgstr ""
+"Аякже! Мій татко теж так каже. Що батьки понад усе радіють, коли діти\n"
+"приїжджають показатися."
+
+#. Key: NEL4_084
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: そうよ、変な遠慮はいらないと思うわ。
+#. JA:   それとも……御両親と上手くいっていないの？
+msgctxt "NEL4_084"
+msgid ""
+"Stop worrying yourself to pieces over nothing, and just go home to visit him.\n"
+"...Unless... Have you and your parents had a falling-out?"
+msgstr ""
+"Саме так, не варто даремно ніяковіти. Чи, може... ти не ладнаєш із\n"
+"батьками?"
+
+#. Key: NEL4_085
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: う、ううん……そんなことないよ。
+#. JA:   お父さんもお母さんも大好きだもん。
+msgctxt "NEL4_085"
+msgid "N-No, that's not it. I love my mom and dad."
+msgstr "Н-ні... усе не так. Я дуже люблю і тата, і маму."
+
+#. Key: NEL4_086
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ふふ……。
+#. JA:   ノエルが人のことを“大好き”なんて珍しいわね。
+#. JA:   御両親のこと、本当に好きなのね。
+msgctxt "NEL4_086"
+msgid ""
+"Hehe...I've never heard you say you love someone...\n"
+"They must be awfully important to you."
+msgstr ""
+"Хі-хі... Рідко почуєш, щоб Ноель казала, що когось дуже любить. Ти\n"
+"справді дуже любиш своїх батьків."
+
+#. Key: NEL4_087
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: なんかうらやましーなー。
+#. JA:   あたしのこともそんなふうに言って、言って！
+msgctxt "NEL4_087"
+msgid "Now I'm kinda jealous... Do you <DQ>love<DQ> me, too!?"
+msgstr "Аж заздрісно стало. Скажи й про мене так само! Ну ж бо!"
+
+#. Key: NEL4_088
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL4_088"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL4_089
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: ……ノエル？
+#. JA:   どうかした？
+msgctxt "NEL4_089"
+msgid "...Noel? What's wrong?"
+msgstr "...Ноель? Щось сталося?"
+
+#. Key: NEL4_090
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: え……？
+#. JA:   い、いや、なんでもないよ？
+msgctxt "NEL4_090"
+msgid "Hmm...? O-Oh, it's nothing."
+msgstr "Що...? Н-ні, нічого."
+
+#. Key: NEL4_091
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: だったら、いいんだけど……。
+msgctxt "NEL4_091"
+msgid "If you say so... "
+msgstr "Ну, якщо так..."
+
+#. Key: NEL4_092
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: ノエルー、実家に帰ったらあたしにお土産買ってきてね！
+#. JA:   あたしも買ってくるから！
+msgctxt "NEL4_092"
+msgid ""
+"Noel, if you go home, don't forget to bring me some souvenirs!\n"
+"I'll get you something, too... I promise."
+msgstr ""
+"Ноель, якщо поїдеш додому, привези мені гостинець! Я тобі теж щось\n"
+"привезу!"
+
+#. Key: NEL4_094
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……うん。
+msgctxt "NEL4_094"
+msgid "...Sure."
+msgstr "...Так."
+
+#. Key: NEL4_095
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Tsubaki
+#. Context: Noel story route (POV: Noel)
+#. JA: もう……マコトったら。
+msgctxt "NEL4_095"
+msgid "Geez... Makoto!"
+msgstr "Ну й Макото..."
+
+#. Key: NEL4_096
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: へへ……。
+#. JA:   できたら食べ物がいーなー。
+msgctxt "NEL4_096"
+msgid "*giggle*... And I was thinking...maybe something edible."
+msgstr "Хе-хе... І бажано щось їстівне."
+
+#. Key: NEL4_097
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……なにもないところだけど、探してみるね。
+msgctxt "NEL4_097"
+msgid "...I doubt there's anything, but I'll look."
+msgstr "...У нас майже нічого немає, але я пошукаю."
+
+#. Key: NEL4_098
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Makoto
+#. Context: Noel story route (POV: Noel)
+#. JA: あは！
+#. JA:   やった！
+msgctxt "NEL4_098"
+msgid "A-ha! Yes!"
+msgstr "Ага! Ура!"
+
+#. Key: NEL4_099
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL4_099"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL4_100
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: けれど、結局、わたしは実家には戻らなかった。
+msgctxt "NEL4_100"
+msgid "But, in the end...I didn't go home."
+msgstr "Та зрештою я так і не повернулася додому."
+
+#. Key: NEL4_101
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   わたしは両親に対する遠慮を捨てきれなかったのだ。
+#. JA:   五年前より以前の記憶が一切ないわたしを引き取り育ててくれた
+#. JA:   両親への感謝はあっても、一方でどうしても考えてしまう。
+msgctxt "NEL4_101"
+msgid ""
+"\n"
+"I was too nervous. Too hesitant.\n"
+"They took me in five years ago. I don't remember anything before that.\n"
+"I'm thankful they did, but still...sometimes I wonder..."
+msgstr ""
+"\n"
+"Я так і не змогла перестати ніяковіти перед батьками. Вони прихистили\n"
+"й виростили мене — дівчинку без жодних спогадів про події давніші за\n"
+"п'ять років. Я була вдячна їм, але водночас не могла не думати..."
+
+#. Key: NEL4_102
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   わたしなんていない方が良かったんじゃないか、と。
+#. JA:   ただでさえ苦しかった家計が、わたしのせいで
+#. JA:   より逼迫しているのは知っていた。
+msgctxt "NEL4_102"
+msgid ""
+"\n"
+"Maybe they would have been better off if they'd just left me...\n"
+"They were having trouble making ends meet before I came along, and I only\n"
+"made it worse..."
+msgstr ""
+"\n"
+"Можливо, без мене їм було б краще. Я знала, що їхнє й без того скрутне\n"
+"становище через мене стало ще тяжчим."
+
+#. Key: NEL4_103
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: だから、わたしにできるのはその恩返しのために、
+#. JA:   ヴァーミリオン家に再び貴族特権を取り戻すことだけだ。
+msgctxt "NEL4_103"
+msgid ""
+"The only thing I could do to repay them for the kindness they'd shown me\n"
+"was to restore the name of the once-noble Vermillion family."
+msgstr ""
+"Тому єдине, що я могла зробити, аби віддячити їм, — повернути родині\n"
+"Верміліон аристократичні привілеї."
+
+#. Key: NEL4_104
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   士官学校に入ったのもそのため……。
+#. JA:   そして学校で良い成績を残さなければ、
+#. JA:   ヴァーミリオン家への待遇が変わることはない。
+msgctxt "NEL4_104"
+msgid ""
+"\n"
+"That was why I went to the Academy...\n"
+"I thought that if I did well—better than anyone else—then maybe things would\n"
+"change."
+msgstr ""
+"\n"
+"Саме заради цього я вступила до Військової академії... І якщо я не\n"
+"покажу там гарних результатів, ставлення до родини Верміліон не\n"
+"зміниться."
+
+#. Key: NEL4_105
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   長い休暇が訪れ、みなが里帰りをする中で、
+#. JA:   わたしは一人寮に残り、勉強を続けていた。
+msgctxt "NEL4_105"
+msgid ""
+"\n"
+"So when the holidays came and everyone else went home to their families, I\n"
+"was alone in the dorms...studying."
+msgstr ""
+"\n"
+"Коли настали довгі канікули й усі роз'їхалися по домівках, я сама\n"
+"лишилася в гуртожитку й продовжила навчатися."
+
+#. Key: NEL5_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_002"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL5_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ハッ!?
+msgctxt "NEL5_004"
+msgid "Huh!?"
+msgstr "А?!"
+
+#. Key: NEL5_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ここ、は……。
+msgctxt "NEL5_005"
+msgid "Th-This is..."
+msgstr "Це місце..."
+
+#. Key: NEL5_007
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_007"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL5_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: だ、誰……？
+msgctxt "NEL5_008"
+msgid "Wh-Who are you...?"
+msgstr "Х-хто ти...?"
+
+#. Key: NEL5_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: い、今のはっ……？！
+msgctxt "NEL5_011"
+msgid "Wh-What was that...?"
+msgstr "Щ-що це було...?!"
+
+#. Key: NEL5_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_012"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL5_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_014"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL5_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_015"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL5_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: （これ……どこか、で……しってる……）
+msgctxt "NEL5_016"
+msgid "(I've...seen this...somewhere...)"
+msgstr "(Це... я десь... вже бачила...)"
+
+#. Key: NEL5_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: （ど、こ……かで……）
+msgctxt "NEL5_017"
+msgid "(Some...where...)"
+msgstr "(Д-де... сь...)"
+
+#. Key: NEL5_019
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_019"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL5_020
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+#. JA: ……対象・認識・対象・認識
+msgctxt "NEL5_020"
+msgid "...Target, confirmed."
+msgstr "...Ціль ідентифіковано. Ціль ідентифіковано."
+
+#. Key: NEL5_021
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ………………認識・対象・認識……
+msgctxt "NEL5_021"
+msgid "...Target...confirmed..."
+msgstr "...Ідентифіковано. Ціль. Ідентифіковано..."
+
+#. Key: NEL5_022
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+#. JA: 障害・認識・排除・容認……対象を同一体と認識
+msgctxt "NEL5_022"
+msgid "Scanning complete. IFF determined. Processing... Target identified...as...me..."
+msgstr ""
+"Перешкоду ідентифіковано. Усунення схвалено... Ціль ідентифіковано як\n"
+"тотожну сутність."
+
+#. Key: NEL5_023
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 同一体、と、認識……
+msgctxt "NEL5_023"
+msgid "Identification... Identical..."
+msgstr "Тотожна. Сутність. Ідентифіковано..."
+
+#. Key: NEL5_024
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+#. JA: 対象の殲滅を開始します
+msgctxt "NEL5_024"
+msgid "Activate termination protocol."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: NEL5_025
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_025"
+msgid "Activate termination protocol."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: NEL5_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_030"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL5_031
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+#. JA: ……同一体の殲滅を完了
+msgctxt "NEL5_031"
+msgid "...Termination of clone... Complete."
+msgstr "...Знищення ідентичної сутності завершено."
+
+#. Key: NEL5_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL5_032"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL5_034
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: そうか、わたしは―――
+msgctxt "NEL5_034"
+msgid "I see... So I was..."
+msgstr "Отже, я..."
+
+#. Key: NEL6_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 気がつくと、わたしはまたその部屋にいた。
+msgctxt "NEL6_002"
+msgid "I'm...I'm back in the room."
+msgstr "Отямившись, я знову опинилася в тій кімнаті."
+
+#. Key: NEL6_003
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   いつもと同じ部屋。白い部屋。何もかもが白い。
+#. JA:   天井も、床も、壁も、ベッドも、そしてわたしが着ている服も。
+msgctxt "NEL6_003"
+msgid ""
+"\n"
+"The same room I've been in so many times before.\n"
+"...The white room."
+msgstr ""
+"\n"
+"Та сама кімната. Біла кімната. Тут усе біле. Стеля, підлога, стіни, ліжко і\n"
+"навіть одяг на мені."
+
+#. Key: NEL6_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   その部屋で、わたしは横たわっている。
+msgctxt "NEL6_004"
+msgid ""
+"\n"
+"I look around..."
+msgstr ""
+"\n"
+"Я лежу в цій кімнаті."
+
+#. Key: NEL6_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   でもどうしてその部屋にいるのか、これからどうしたらいいのか、
+#. JA:   肝心なことは何ひとつ分からないから、わたしはとても困ってしまう。
+msgctxt "NEL6_005"
+msgid ""
+"\n"
+"...but I still don't know why I'm here, or what I'm supposed to do, or...anything.\n"
+"I...never know anything..."
+msgstr ""
+"\n"
+"Але я не знаю найважливішого: ані чому я тут, ані що маю робити далі. І\n"
+"це страшенно мене непокоїть."
+
+#. Key: NEL6_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   「……いつも、そう」
+msgctxt "NEL6_006"
+msgid ""
+"\n"
+"<DQ>Never...<DQ>"
+msgstr ""
+"\n"
+"«...Так завжди.»"
+
+#. Key: NEL6_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   けれど、今日は少しだけ違っていた。
+msgctxt "NEL6_008"
+msgid ""
+"\n"
+"But...wait... Something's different."
+msgstr ""
+"\n"
+"Та сьогодні дещо було інакше."
+
+#. Key: NEL6_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   わたしの横に立っている“その人”が、
+#. JA:   初めてわたしに向けて言葉を発してくれたのだ。
+msgctxt "NEL6_009"
+msgid ""
+"\n"
+"The person standing in front of me speaks, for the first time."
+msgstr ""
+"\n"
+"«Та людина», що стояла поруч, уперше заговорила до мене."
+
+#. Key: NEL6_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   「……それをご覧なさい」
+msgctxt "NEL6_010"
+msgid ""
+"\n"
+"<DQ>Look at that.<DQ>"
+msgstr ""
+"\n"
+"«...Погляньте на це.»"
+
+#. Key: NEL6_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   その人が示したのは、鏡だった。
+#. JA:   全身が映るほどの大きな鏡。
+msgctxt "NEL6_011"
+msgid ""
+"\n"
+"She points toward a giant mirror.\n"
+"I can see myself in it."
+msgstr ""
+"\n"
+"Вона вказала на дзеркало. Велике дзеркало, в якому можна було\n"
+"побачити себе у повний зріст."
+
+#. Key: NEL6_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   これまで、この部屋にそんなものがあるなんて
+#. JA:   ちっとも気づかなかったのに……。
+#. JA:   不思議に思いながら、わたしは鏡の前に立った。
+msgctxt "NEL6_012"
+msgid ""
+"\n"
+"I had no idea there was something like this in here.\n"
+"I...I can't turn away..."
+msgstr ""
+"\n"
+"Досі я навіть не помічала, що в цій кімнаті є щось подібне... Здивована, я\n"
+"стала перед дзеркалом."
+
+#. Key: NEL6_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 鏡の中にはわたしではないだれかが立っていた。
+#. JA:   わたしはそれがだれなのかを知っていた。
+msgctxt "NEL6_014"
+msgid ""
+"At first I assumed it was me, but the person in the mirror...it's someone else.\n"
+"It's not me...but I knew them once."
+msgstr "У дзеркалі стояв хтось інший, не я. Я знала, хто це."
+
+#. Key: NEL6_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   知っていた。
+#. JA:   ずっと昔から。
+#. JA:   記憶をなくす前から。
+msgctxt "NEL6_015"
+msgid ""
+"\n"
+"I knew them...\n"
+"A very long time ago...\n"
+"Before I lost my memories..."
+msgstr ""
+"\n"
+"Я знала. Відколи себе пам'ятаю. Ще до того, як утратила пам'ять."
+
+#. Key: NEL6_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   もっと前から。
+#. JA:   産まれるよりももっと前から……。
+msgctxt "NEL6_016"
+msgid ""
+"\n"
+"A long, long time ago...\n"
+"Before I was born..."
+msgstr ""
+"\n"
+"І навіть раніше. Ще задовго до мого народження..."
+
+#. Key: NEL6_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   けれど今は……思い出せない。
+msgctxt "NEL6_017"
+msgid ""
+"\n"
+"But...I can't remember them anymore."
+msgstr ""
+"\n"
+"Але тепер... я не можу згадати."
+
+#. Key: NEL6_018
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 　　　　　　　　　　　　　　　「貴方は私じゃない。貴方は、誰……？」
+msgctxt "NEL6_018"
+msgid "<DQ>You're not me. Who...are you?<DQ>"
+msgstr "　　　　　　　　　　　　　　　«Ти — не я. Хто ж... ти?»"
+
+#. Key: NEL6_019
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   鏡の中の彼女が言う。
+#. JA:   わたしは彼女を知っていた。
+#. JA:   でも、思い出せない。
+msgctxt "NEL6_019"
+msgid ""
+"\n"
+"The person in the mirror asks me, but I don't know the answer.\n"
+"I can't remember."
+msgstr ""
+"\n"
+"Так сказала дівчина в дзеркалі. Я знала її. Та не могла згадати."
+
+#. Key: NEL6_020
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 思い出せない。
+#. JA:   思い出せない。
+#. JA:   思い出せない。
+msgctxt "NEL6_020"
+msgid ""
+"I can't remember.\n"
+"I can't remember.\n"
+"I can't remember."
+msgstr "Не можу згадати. Не можу згадати. Не можу згадати."
+
+#. Key: NEL6_021
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 思い出せない。
+#. JA:   彼女はだれ。
+#. JA:   そして、わたしは―――
+msgctxt "NEL6_021"
+msgid ""
+"I can't remember...\n"
+"Who is she?\n"
+"And..."
+msgstr "Не можу згадати. Хто вона? І хто ж... я..."
+
+#. Key: NEL6_022
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   　　　　　　　　　　　　　　　わたしは―――
+msgctxt "NEL6_022"
+msgid "Who..."
+msgstr ""
+"\n"
+"　　　　　　　　　　　　　　　Хто ж..."
+
+#. Key: NEL6_024
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Narrator
+#. Context: Noel story route (POV: Noel)
+#. JA: 
+#. JA:   　　　　　　　　　　　　　　　　だれ？
+msgctxt "NEL6_024"
+msgid "...am I?"
+msgstr ""
+"\n"
+"　　　　　　　　　　　　　　　　я?"
+
+#. Key: NEL7_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+#. JA: ……認識・認識・認識
+msgctxt "NEL7_002"
+msgid "...Confirming, confirming, confirming..."
+msgstr "...Ідентифіковано. Ідентифіковано. Ідентифіковано..."
+
+#. Key: NEL7_003
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……殲滅・失敗・殲滅・失敗
+msgctxt "NEL7_003"
+msgid "Termination...failed."
+msgstr "...Знищення не вдалося. Знищення не вдалося..."
+
+#. Key: NEL7_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+#. JA: 第６６６拘束機関解放……
+msgctxt "NEL7_004"
+msgid "Restriction 666 lifted..."
+msgstr "Обмежувальний механізм №666 знято..."
+
+#. Key: NEL7_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+#. JA: 次元干渉虚数法陣展開……
+msgctxt "NEL7_006"
+msgid "Space-time intervention field, deployed..."
+msgstr "Розгортання уявної формації просторового втручання..."
+
+#. Key: NEL7_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 回避・不可・防御・不可……
+msgctxt "NEL7_008"
+msgid "Impossible to evade. Impossible to block..."
+msgstr "Ухилення неможливе. Захист неможливий..."
+
+#. Key: NEL7_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: （わた、し、は―――）
+msgctxt "NEL7_010"
+msgid "I...am..."
+msgstr "(Я...)"
+
+#. Key: NEL7_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Nu
+#. Context: Noel story route (POV: Noel)
+#. JA: 対象の殲滅を完了
+#. JA:   待機モードに移行します
+msgctxt "NEL7_012"
+msgid ""
+"Termination of target, confirmed.\n"
+"Standing by."
+msgstr "Знищення цілі завершено. Перехід у режим очікування."
+
+#. Key: NEL7_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: あらら……負けちゃいましたか……。
+#. JA:   案外イケるかと思ってたんですがねェ。
+msgctxt "NEL7_015"
+msgid "Oh, boy... so she lost... I thought she had a pretty good chance, personally."
+msgstr "Ой лишенько... То вона програла... А я гадав, що в неї непогані шанси."
+
+#. Key: NEL7_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: さて、本部に報告しに行くとしますか……。
+msgctxt "NEL7_016"
+msgid "Well, I guess I should report to headquarters..."
+msgstr "Що ж, час доповісти штабу..."
+
+#. Key: NEL7_018
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Rachel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL7_018"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL7_019
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL7_019"
+msgid "!"
+msgstr "!"
+
+#. Key: NEL7_020
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Rachel
+#. Context: Noel story route (POV: Noel)
+#. JA: なるほど……。それが今度の身体ってわけね？
+msgctxt "NEL7_020"
+msgid "I see you have a new look."
+msgstr "Зрозуміло... Отже, цього разу ти маєш таке тіло?"
+
+#. Key: NEL7_021
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: い、一体、どこから……？
+msgctxt "NEL7_021"
+msgid "Wh-Where did you come from...?"
+msgstr "З-звідки ви взялися...?"
+
+#. Key: NEL7_022
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Rachel
+#. Context: Noel story route (POV: Noel)
+#. JA: 気にしないで……。見届けに来ただけよ。
+#. JA:   でも、もう終わってしまったのね。
+msgctxt "NEL7_022"
+msgid ""
+"Don't get excited. I was merely here to observe, but it would appear the\n"
+"entertainment is over."
+msgstr ""
+"Не зважай... Я лише прийшла побачити все на власні очі. Та, схоже, вже\n"
+"запізнилася."
+
+#. Key: NEL7_023
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ……な、なんのことです？　貴方は……？
+msgctxt "NEL7_023"
+msgid "...Wh-What are you talking about? You are...!?"
+msgstr "...П-про що це ти? Хто ти така...?"
+
+#. Key: NEL7_025
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Rachel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL7_025"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL7_026
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Rachel
+#. Context: Noel story route (POV: Noel)
+#. JA: 「ハザマ（挟間）」……ね。
+#. JA:   彼のセンス、相変わらず笑えないわ……。
+msgctxt "NEL7_026"
+msgid "Hazama... I still don't understand him..."
+msgstr "«Хазама»... Тобто «той, хто поміж». Його жарти, як завжди, не смішні..."
+
+#. Key: NEL7_027
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: ……彼？
+msgctxt "NEL7_027"
+msgid "...Him?"
+msgstr "...Його?"
+
+#. Key: NEL7_028
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Rachel
+#. Context: Noel story route (POV: Noel)
+#. JA: できればもう二度と会いたくないものだわ……。
+msgctxt "NEL7_028"
+msgid "I don't wish to ever see him again."
+msgstr "Я воліла б більше ніколи з ним не зустрічатися..."
+
+#. Key: NEL7_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 消え―――
+msgctxt "NEL7_030"
+msgid "She disa—"
+msgstr "Зникла..."
+
+#. Key: NEL7_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL7_032"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL7_034
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL7_034"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL7_035
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: “会いたくない”、か……。
+msgctxt "NEL7_035"
+msgid "<DQ>Don't want to meet<DQ>, do you?"
+msgstr "«Не хотіла б зустрічатися», кажеш..."
+
+#. Key: NEL7_036
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Hazama
+#. Context: Noel story route (POV: Noel)
+#. JA: 俺もだよ、クソ吸血鬼が……。
+msgctxt "NEL7_036"
+msgid "Well, neither do I...goddamn vampire."
+msgstr "Я теж, клята вампірко..."
+
+#. Key: NEL8_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: い、急がないと……！
+msgctxt "NEL8_002"
+msgid "I...I need to hurry...!"
+msgstr "Т-треба поспішати...!"
+
+#. Key: NEL8_003
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: ……しかしライチ殿の心をつかむには
+#. JA:   一体どうしたものか―――
+msgctxt "NEL8_003"
+msgid "...But, to win over Miss Litchi's heart... What could I possibly—"
+msgstr "...Та як же мені завоювати серце пані Лічі...? Що ж робити..."
+
+#. Key: NEL8_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あっ！
+msgctxt "NEL8_004"
+msgid "Ah!"
+msgstr "А!"
+
+#. Key: NEL8_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: なにっ!?
+#. JA:   うおうっ！
+msgctxt "NEL8_005"
+msgid "What!? Ack!"
+msgstr "Що?! У-у-ух!"
+
+#. Key: NEL8_007
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: い、痛たたた……。
+#. JA:   また、やっちゃった……。
+msgctxt "NEL8_007"
+msgid ""
+"O-Oww...\n"
+"I did it again..."
+msgstr "О-ой-ой-ой... Знову я за своє..."
+
+#. Key: NEL8_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、危ないではござらんか！
+#. JA:   お主、ちゃんと前を見ておるのか！
+msgctxt "NEL8_008"
+msgid "Th-That was dangerous! Watch out!"
+msgstr "Це ж небезпечно! Ти взагалі дивишся, куди йдеш?!"
+
+#. Key: NEL8_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: す、すみません！
+#. JA:   急いでたもので……。
+msgctxt "NEL8_009"
+msgid "I-I'm sorry, I was in a hurry!"
+msgstr "В-вибачте! Я дуже поспішала..."
+
+#. Key: NEL8_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: 怪我がなかったから良かったものの……。
+#. JA:   以後、気を付けるでござる、少年。
+msgctxt "NEL8_010"
+msgid ""
+"Thank goodness no one was hurt...\n"
+"You'd better be careful next time, young man!"
+msgstr "Добре, що ніхто не постраждав... Надалі будь обережнішим, юначе."
+
+#. Key: NEL8_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: し、少年!?　私は、女です！！！！！！！！！
+msgctxt "NEL8_011"
+msgid "Y-Young man!? I'm a girl!"
+msgstr "Ю-юначе?! Я дівчина!!!!!!!!"
+
+#. Key: NEL8_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: 女……でござると？
+msgctxt "NEL8_012"
+msgid "A...girl...?"
+msgstr "Дівчина... кажеш?"
+
+#. Key: NEL8_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: こ、これは失礼！
+#. JA:   あまりに平坦な胸板であったため、てっきり男かと……。
+msgctxt "NEL8_014"
+msgid "E-Excuse me! Your bosom is rather...lacking...so I honestly thought you were a boy..."
+msgstr "О-о, прошу пробачення! Ти така пласка, що я був певен: ти хлопець..."
+
+#. Key: NEL8_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: へ……平坦……？
+msgctxt "NEL8_015"
+msgid "L-Lacking...?"
+msgstr "П-пласка...?"
+
+#. Key: NEL8_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: あー、いや……なんと言うか……。
+#. JA:   非常に慎ましやかな肉体というか……。
+msgctxt "NEL8_016"
+msgid "Well, I mean... How do I say it...? It is most...reserved...I suppose..."
+msgstr "Е-е, ні... Як би це сказати... У тебе дуже... скромні форми..."
+
+#. Key: NEL8_018
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL8_018"
+msgid "... "
+msgstr "..."
+
+#. Key: NEL8_020
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: おわっ!?
+#. JA:   あ、危ないではござらんか！　何を……！
+msgctxt "NEL8_020"
+msgid ""
+"Wha—!? Th-That was dangerous!\n"
+"What are you...!"
+msgstr "Ой?! Це ж небезпечно! Що ти робиш?!"
+
+#. Key: NEL8_021
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 私は世界虚空情報統制機構第四師団ノエル＝ヴァーミリオン少尉です！
+#. JA:   あなたを公務執行妨害並びに名誉棄損の罪状で逮捕します！
+msgctxt "NEL8_021"
+msgid ""
+"I am Lieutenant Noel Vermillion, NOL Praetorian Guard, Fourth Division!\n"
+"You are under arrest for obstruction of justice and the public slandering of an officer!"
+msgstr ""
+"Я лейтенантка Ноель Верміліон із Четвертої дивізії Всесвітньої\n"
+"Організації Контролю Інформації! Я заарештовую вас за перешкоджання\n"
+"виконанню службових обов'язків і наклеп!"
+
+#. Key: NEL8_022
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: な、なぬ!?
+msgctxt "NEL8_022"
+msgid "Wh-Wha—!?"
+msgstr "Щ-що?!"
+
+#. Key: NEL8_027
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: う、うーん……。
+msgctxt "NEL8_027"
+msgid "U-Uungh..."
+msgstr "У-у-у..."
+
+#. Key: NEL8_029
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: よく分からぬが……。
+#. JA:   ここは逃げた方が良さそうでござるな。
+msgctxt "NEL8_029"
+msgid "I'm not too sure what's going on, but I should probably get out of here!"
+msgstr "Не дуже розумію, що відбувається... Але, схоже, краще звідси втекти."
+
+#. Key: NEL8_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: しからばこれにて、御免！
+msgctxt "NEL8_030"
+msgid "If you'll excuse me...!"
+msgstr "Тоді дозвольте відкланятися!"
+
+#. Key: NEL8_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: く、くやしい……！！！
+msgctxt "NEL8_032"
+msgid " I-I'm so pissed..."
+msgstr "Я-яка прикрість...!!!"
+
+#. Key: NEL8_034
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ―――やっと追い着いた！
+msgctxt "NEL8_034"
+msgid "I finally found you!"
+msgstr "Нарешті наздогнала!"
+
+#. Key: NEL8_035
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、あなたは……。
+msgctxt "NEL8_035"
+msgid "Ah...! You...!"
+msgstr "А, це ви..."
+
+#. Key: NEL8_036
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: やっぱりこうして出会ったのもなにかの縁だと思って。
+#. JA:   いろいろ服を着せてあげたいから追いかけてきたの。
+msgctxt "NEL8_036"
+msgid ""
+"I knew it couldn't be coincidence that we met like this.\n"
+"I wanted you to try on all these clothes, so I chased after you."
+msgstr ""
+"Я вирішила, що наша зустріч — це все-таки доля. Мені так захотілося\n"
+"приміряти на тебе різне вбрання, що я побігла слідом."
+
+#. Key: NEL8_037
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、あの、私は……。
+msgctxt "NEL8_037"
+msgid "U-Umm, but I..."
+msgstr "Е-е, але я..."
+
+#. Key: NEL8_038
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: さ、立って！
+#. JA:   まずはどれから着たい？
+msgctxt "NEL8_038"
+msgid ""
+"Now then, get up!\n"
+"Which one should we start with?"
+msgstr "Ну ж бо, вставай! Що хочеш приміряти спочатку?"
+
+#. Key: NEL8_039
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: このメイド服なんかどうかしら？
+#. JA:   私だと胸元が苦しくて……。でも、少尉さんならピッタリだわ！
+msgctxt "NEL8_039"
+msgid ""
+"How about this maid uniform?\n"
+"It's a little too tight around the chest for me, but it'll be perfect for you, Lieutenant!"
+msgstr ""
+"Як тобі ця сукня покоївки? Мені вона тісна в грудях... А от вам,\n"
+"лейтенантко, буде якраз!"
+
+#. Key: NEL8_040
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: もう……どうにでもして下さい……。
+msgctxt "NEL8_040"
+msgid "Fine...do whatever you want... "
+msgstr "Уже байдуже... Робіть зі мною що хочете..."
+
+#. Key: NEL8_046
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: な、なぜ拙者が……。
+msgctxt "NEL8_046"
+msgid "Wh-Why am I...?"
+msgstr "Ч-чому...?"
+
+#. Key: NEL8_048
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ふう……。これからは言葉に気を付けて下さい。
+#. JA:   今回はこれで放免にしてあげますから。
+msgctxt "NEL8_048"
+msgid "Phew... Now, you'd better watch what you say. I'll let it slide this time."
+msgstr "Фух... Надалі стежте за своїми словами. Цього разу я вас відпускаю."
+
+#. Key: NEL8_050
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 良かった！　追い着いたぁ！
+msgctxt "NEL8_050"
+msgid "Oh, good! I caught up with you."
+msgstr "Чудово! Нарешті наздогнала!"
+
+#. Key: NEL8_051
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あなたは……さっきの……。
+msgctxt "NEL8_051"
+msgid "You're from...earlier..."
+msgstr "Ви ж... та жінка..."
+
+#. Key: NEL8_052
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 私、やっぱり貴方にどうしてもこの服を着て欲しくて……。
+#. JA:   追いかけてきたの。
+msgctxt "NEL8_052"
+msgid "I really wanted you to try these clothes on... So I chased after you."
+msgstr ""
+"Я все-таки дуже хочу, щоб ти приміряла це вбрання... Тому й побігла\n"
+"слідом."
+
+#. Key: NEL8_053
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: えっ!?
+msgctxt "NEL8_053"
+msgid "Huh!?"
+msgstr "Що?!"
+
+#. Key: NEL8_054
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: さ、着替えて！
+#. JA:   ほら、私も手伝うから！
+msgctxt "NEL8_054"
+msgid "Now, let's get you changed! Let me help you out of those!"
+msgstr "Ну ж бо, перевдягайся! Я тобі допоможу!"
+
+#. Key: NEL8_055
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: わ、私のことは放っておいて下さい！
+#. JA:   任務があるのでこれで失礼します！
+msgctxt "NEL8_055"
+msgid "P-Please leave me alone! I'm on duty, so I'll need to excuse myself!"
+msgstr "Б-будь ласка, дайте мені спокій! Я виконую завдання, тож мушу йти!"
+
+#. Key: NEL8_056
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、待って！　もう！
+#. JA:   あら？　何か踏んだかしら？
+msgctxt "NEL8_056"
+msgid "Ah, wait! Aww! Huh? Did I just step on something...?"
+msgstr "А, зажди! Ну от! Ой? Я наче на щось наступила."
+
+#. Key: NEL8_057
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: こ、ここに怪我人がいるでござるよ……。
+#. JA:   ガクッ。
+msgctxt "NEL8_057"
+msgid "M-Man down... Over here... Ugh."
+msgstr "Т-тут є поранений... Кх..."
+
+#. Key: NEL8_062
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Bang
+#. Context: Noel story route (POV: Noel)
+#. JA: な、なぜ拙者が……。
+msgctxt "NEL8_062"
+msgid "Wh-Why am I...?"
+msgstr "Ч-чому...?"
+
+#. Key: NEL8_064
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ふう……。これからは言葉に気を付けて下さい。
+#. JA:   今回はこれで放免にしてあげますから。
+msgctxt "NEL8_064"
+msgid "Phew... Now, you'd better watch what you say. I'll let it slide this time."
+msgstr "Фух... Надалі стежте за своїми словами. Цього разу я вас відпускаю."
+
+#. Key: NEL8_066
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 良かった！　追い着いたぁ！
+msgctxt "NEL8_066"
+msgid "Oh good! I caught up with you."
+msgstr "Чудово! Нарешті наздогнала!"
+
+#. Key: NEL8_067
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あなたは……さっきの……。
+msgctxt "NEL8_067"
+msgid "You're from...earlier..."
+msgstr "Ви ж... та жінка..."
+
+#. Key: NEL8_068
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 私、やっぱり少尉さんにどうしてもこの服を着て欲しくて……。
+#. JA:   追いかけてきたの。
+msgctxt "NEL8_068"
+msgid "I really wanted you to try these clothes on... So I chased after you."
+msgstr ""
+"Я все-таки дуже хочу, щоб ви приміряли це вбрання, лейтенантко... Тому\n"
+"й побігла слідом."
+
+#. Key: NEL8_069
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……へっ？！
+msgctxt "NEL8_069"
+msgid "Huh!?"
+msgstr "Що?!"
+
+#. Key: NEL8_070
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: よく見たらその服、ボロボロじゃない！
+#. JA:   ほら、この服をプレゼントするから、早く着替えて！
+msgctxt "NEL8_070"
+msgid "Your clothes are torn to shreds! Here, I have a present for you, so hurry and try them on!"
+msgstr ""
+"Як придивитися, ваш одяг геть пошматований! Ось, я подарую вам це\n"
+"вбрання, тож мерщій перевдягайтеся!"
+
+#. Key: NEL8_071
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ち、ちょっと待って―――
+msgctxt "NEL8_071"
+msgid "W-Wait a sec—"
+msgstr "З-зачекайте..."
+
+#. Key: NEL8_074
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: な、なんですかこの服……!?
+msgctxt "NEL8_074"
+msgid "Wh-What is this...!?"
+msgstr "Щ-що це за одяг...?!"
+
+#. Key: NEL8_075
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: んー、かわいい！
+#. JA:   やっぱり私の見立ては間違ってなかったわね！
+msgctxt "NEL8_075"
+msgid "Oooh, you're just adorable! I knew I was right!"
+msgstr "Ой, яка ж ти мила! Я не помилилася у своєму виборі!"
+
+#. Key: NEL8_076
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: わ、私、こんな服じゃ出歩けません！！
+msgctxt "NEL8_076"
+msgid "I-I can't walk around town looking like this!"
+msgstr "Я-я не можу ходити містом у такому вбранні!!"
+
+#. Key: NEL8_078
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: これで失礼します！
+#. JA:   急いでるのでっ！
+msgctxt "NEL8_078"
+msgid "I'm in a hurry, so if you'll excuse me!"
+msgstr "Прошу мене вибачити! Я дуже поспішаю!"
+
+#. Key: NEL8_080
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、待って！
+#. JA:   まだいっぱい服が……！
+msgctxt "NEL8_080"
+msgid ""
+"Aw, wait!\n"
+"I still have a bunch of outfits for you...!"
+msgstr "А, зажди! У мене ще повно нарядів для тебе...!"
+
+#. Key: NEL9_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ま、まだ追いかけて来てる……？
+msgctxt "NEL9_002"
+msgid "Sh-She's still after me...!?"
+msgstr "В-вона досі мене переслідує...?"
+
+#. Key: NEL9_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: お～にゃ～か～、すいた～ぞ～。
+#. JA:   に～く～が～、くいた～い～ニャスニャス～。
+msgctxt "NEL9_004"
+msgid ""
+"I'm so hungry... Hungry...\n"
+"I wanna eat some meat!"
+msgstr "Їсти-и-и хо-о-очеться. М'я-я-яса хочу-у-у, ня-ня-я-я."
+
+#. Key: NEL9_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あの、すみません！
+msgctxt "NEL9_005"
+msgid "Um, excuse me!"
+msgstr "Перепрошую!"
+
+#. Key: NEL9_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: ん～？
+#. JA:   タオのことかニャス？
+msgctxt "NEL9_006"
+msgid ""
+"Hm?\n"
+"Are you talking to Tao?"
+msgstr "Га-а? Ти до Тао звертаєшся-ня?"
+
+#. Key: NEL9_007
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: わ、私、今、変な女の人に追われているんです！
+#. JA:   隠れてるから適当に誤魔化してもらえませんか？
+msgctxt "NEL9_007"
+msgid ""
+"I-I'm being chased by a strange woman!\n"
+"I'm gonna hide, so could you point her in the wrong direction?"
+msgstr ""
+"М-мене зараз переслідує якась дивна жінка! Я сховаюся, а ти не могла б\n"
+"якось її обдурити?"
+
+#. Key: NEL9_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: うーん。
+#. JA:   よく分からないけど、まかせるニャス！
+msgctxt "NEL9_008"
+msgid ""
+"Hmm...?\n"
+"I'm not really sure what you mean, but... Leave it to me!"
+msgstr "Хм-м. Тао не дуже зрозуміла, але покладися на неї-ня!"
+
+#. Key: NEL9_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: お、お願いしますね……。
+msgctxt "NEL9_009"
+msgid "I-I'm in your debt."
+msgstr "Я не залишусь в боргу..."
+
+#. Key: NEL9_011
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: お～にゃ～か～、すきす～ぎ～。
+#. JA:   なんで～も～、たべた～い～ニャスニャス～。
+msgctxt "NEL9_011"
+msgid ""
+"I'm...so...hungry hungry. I wanna eat some meat!\n"
+"Meow!"
+msgstr "Їсти-и-и хочеться-я-я. З'їла-а-а б що завго-одно, ня-ня-я-я."
+
+#. Key: NEL9_013
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……あら？
+#. JA:   見失っちゃった……？
+msgctxt "NEL9_013"
+msgid "...Huh? I lost her...?"
+msgstr "...Ой? Я її загубила...?"
+
+#. Key: NEL9_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: おお！　乳の人！
+msgctxt "NEL9_014"
+msgid "Oh! Boobie lady!"
+msgstr "О! Цицькаста Пані!"
+
+#. Key: NEL9_015
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あら、タオじゃない。
+#. JA:   なにしてるの？
+msgctxt "NEL9_015"
+msgid "Oh, hi, Tao. What are you doing here?"
+msgstr "Ой, Тао. Що ти тут робиш?"
+
+#. Key: NEL9_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: タオは“ない人”に頼まれて、適当にごまかす係ニャス。
+msgctxt "NEL9_016"
+msgid "Uhh...lacking lady asked me to hide someone, so...I can't tell nyuu!"
+msgstr "Безцицька пані попросила Тао якось тебе обдурити-ня."
+
+#. Key: NEL9_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ない人？　まあいいわ……。
+#. JA:   それより、ここで女の子見なかった？
+msgctxt "NEL9_017"
+msgid ""
+"Lacking lady? Oh, well...\n"
+"Anyway, have you seen a little girl pass by?"
+msgstr "Безцицька? Ну нехай... Краще скажи, ти не бачила тут дівчини?"
+
+#. Key: NEL9_018
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: 隠れたニャス。タオはうまくごまかすニャ～。
+msgctxt "NEL9_018"
+msgid "She hid. And I'm trying to hide her!"
+msgstr "Вона сховалася-ня. Тао добре тебе обдурить-ня-я."
+
+#. Key: NEL9_019
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 隠れた？　どこ？
+msgctxt "NEL9_019"
+msgid "Hid? Where?"
+msgstr "Сховалася? Де?"
+
+#. Key: NEL9_020
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: ごまかす係だから乳の人でも教えられないニャス～。
+msgctxt "NEL9_020"
+msgid "I'm supposed to confuse you, so I can't tell you!"
+msgstr "Тао має тебе обдурити, тому навіть Цицькастій Пані не скаже-ня-я."
+
+#. Key: NEL9_021
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: しょうがないわねえ……。
+msgctxt "NEL9_021"
+msgid "*sigh* Then I guess I have no choice..."
+msgstr "Нічого не вдієш..."
+
+#. Key: NEL9_023
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: に、ににににににににに肉まんだニャス！
+#. JA:   くれー！　乳の人、それタオにくれ！
+msgctxt "NEL9_023"
+msgid ""
+"S-S-S-S-S-S-S-Steamed buns!\n"
+"Gimme! Boobie lady, gimme that!"
+msgstr "М-м-м-м-м-м-м-м-м'ясна булочка-ня! Дай! Цицькаста Пані, віддай її Тао!"
+
+#. Key: NEL9_024
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ふふっ……あげるわよ。
+#. JA:   でも代わりに、隠れた女の子を捕まえてくれる？
+msgctxt "NEL9_024"
+msgid ""
+"Hehe...I can give them to you.\n"
+"But in return, can you catch that girl for me?"
+msgstr ""
+"Хі-хі... Віддам. Але натомість упіймаєш для мене ту дівчину, яка\n"
+"сховалася?"
+
+#. Key: NEL9_025
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: おうっ！　任せるニャス！
+msgctxt "NEL9_025"
+msgid "OK! Leave it to me!"
+msgstr "Ага! Покладися на Тао-ня!"
+
+#. Key: NEL9_027
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ちょ……！
+#. JA:   ひどいじゃないですか！　約束したのに！
+#. JA:   それに“ない人”ってどういう意味ですか！
+msgctxt "NEL9_027"
+msgid ""
+"Hey...! That's not what you promised!\n"
+"And what's <DQ>lacking lady<DQ> supposed to mean!?"
+msgstr "Гей...! Це ж підло! Ти обіцяла! І що це взагалі означає — «Безцицька»?!"
+
+#. Key: NEL9_028
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あら、そこにいたのね？
+msgctxt "NEL9_028"
+msgid "Oh, so there you are... "
+msgstr "Ой, то ось де ти була?"
+
+#. Key: NEL9_029
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ……。
+msgctxt "NEL9_029"
+msgid "Ah..."
+msgstr "А..."
+
+#. Key: NEL9_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: 乳の人！
+#. JA:   タオがない人を捕まえたらもっと肉まんくれるニャス？
+msgctxt "NEL9_030"
+msgid ""
+"Boobie lady!\n"
+"If Tao captures that, will you give me more steamed buns?"
+msgstr ""
+"Цицькаста Пані! Якщо Тао впіймає Безцицьку, ти даси ще м'ясних\n"
+"булочок-ня?"
+
+#. Key: NEL9_031
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: いいわよ。
+#. JA:   しっかりお願いね。
+msgctxt "NEL9_031"
+msgid ""
+"Absolutely.\n"
+"Do your best, OK?"
+msgstr "Звісно. Дуже на тебе сподіваюся."
+
+#. Key: NEL9_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: おうっ！
+#. JA:   任せるニャス！
+msgctxt "NEL9_032"
+msgid "OK! Leave it to me!"
+msgstr "Ага! Покладися на Тао-ня!"
+
+#. Key: NEL9_033
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ひ、ひどい……。
+msgctxt "NEL9_033"
+msgid "H-How cruel..."
+msgstr "Я-як підло..."
+
+#. Key: NEL9_038
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: なんで、私が……。
+msgctxt "NEL9_038"
+msgid "Why me...?"
+msgstr "Чому саме я...?"
+
+#. Key: NEL9_040
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: 乳の人～！　捕まえたニャス！
+msgctxt "NEL9_040"
+msgid ""
+"Boobie lady!\n"
+"I got her!"
+msgstr "Цицькаста Пані! Тао її впіймала-ня!"
+
+#. Key: NEL9_042
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ありがとう。
+#. JA:   これを見せればオリエントタウンのお店で
+#. JA:   なんでも食べさせてくれるはずよ。
+msgctxt "NEL9_042"
+msgid ""
+"Thank you, Tao.\n"
+"Show this at the store in Orient Town, and they'll feed you whatever you want."
+msgstr ""
+"Дякую. Покажи це в закладі в Орієнт-тауні, і тебе нагодують чим\n"
+"забажаєш."
+
+#. Key: NEL9_043
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: うおー！　いい人だな！　乳の人！
+#. JA:   さっそく行ってくるニャス！
+msgctxt "NEL9_043"
+msgid ""
+"Ooooh! You're so nice, boobie lady!\n"
+"I'm gonna go right now!"
+msgstr "О-о-о! Цицькаста Пані добра! Тао вже біжить туди-ня!"
+
+#. Key: NEL9_045
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: う、うーん……。
+msgctxt "NEL9_045"
+msgid "U-Uhh..."
+msgstr "У-у-у..."
+
+#. Key: NEL9_046
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: さあ……着替えましょうか？
+msgctxt "NEL9_046"
+msgid "Now, shall we get changed?"
+msgstr "Ну що... перевдягнемося?"
+
+#. Key: NEL9_047
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: やっぱり、そうなるん、ですか……？
+msgctxt "NEL9_047"
+msgid "Is that...how it is...?"
+msgstr "То все-таки... буде саме так...?"
+
+#. Key: NEL9_048
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: もちろん！
+#. JA:   服はたくさん用意してるわ。
+#. JA:   最後まで付き合ってね♪
+msgctxt "NEL9_048"
+msgid "Of course! I have a bunch of clothes. You'll stick with it until the end, right?"
+msgstr ""
+"Авжеж! Я підготувала багато нарядів. Тож ти тут встрягла поки ми не\n"
+"закінчемо♪"
+
+#. Key: NEL9_049
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: うう……もう、勝手にして下さい……。
+msgctxt "NEL9_049"
+msgid "*sob* ...Fine, do whatever you want..."
+msgstr "У-у... Уже байдуже, робіть що хочете..."
+
+#. Key: NEL9_054
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: ウニャ……ス……。
+#. JA:   負けたニャス……。
+msgctxt "NEL9_054"
+msgid ""
+"Waaah...\n"
+"I lost!"
+msgstr "Ня... сь... Тао програла-ня..."
+
+#. Key: NEL9_056
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あらら、タオが負けちゃった……。
+#. JA:   見かけによらず強いのね、少尉さんは……。
+msgctxt "NEL9_056"
+msgid ""
+"Oh my, Tao lost...?\n"
+"You're a lot stronger than I thought, Lieutenant..."
+msgstr ""
+"Ой лишенько, Тао програла... Попри зовнішність ви досить сильна,\n"
+"лейтенантко..."
+
+#. Key: NEL9_057
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ハァ、ハァ……。
+msgctxt "NEL9_057"
+msgid "*pant* *pant*"
+msgstr "Ха... ха..."
+
+#. Key: NEL9_058
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……で、少しは気分が変わった？
+#. JA:   こういう服とかこういう服とか、着てみたくない？
+msgctxt "NEL9_058"
+msgid "So...have you changed your mind at all? Don't you wanna try on these outfits?"
+msgstr ""
+"...Ну що, ти хоч трохи змінила думку? Не хочеш приміряти ось таке або\n"
+"таке вбрання?"
+
+#. Key: NEL9_059
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ぜ、絶対嫌です！
+#. JA:   もう付きまとわないで下さい！
+msgctxt "NEL9_059"
+msgid "A-Absolutely not! And please stop following me around!"
+msgstr "Н-нізащо! І перестаньте вже мене переслідувати!"
+
+#. Key: NEL9_061
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: つれないなあ……。
+#. JA:   そんなところがまたかわいいんだけど。
+msgctxt "NEL9_061"
+msgid "Now that's no fun... But then again, that's what makes you so adorable!"
+msgstr "Яка ж ти непривітна... Хоча й цим ти теж мила."
+
+#. Key: NEL9_063
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: ハラへったニャス……。
+#. JA:   これじゃ力が出ないニャ。
+msgctxt "NEL9_063"
+msgid "I'm starving... I don't have any strength."
+msgstr "Тао голодна-ня... Без їжі геть немає сил-ня."
+
+#. Key: NEL9_064
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 肉まんひとつじゃ足りなかったわね……。
+#. JA:   タオ、また今度ご馳走してあげるわ。
+msgctxt "NEL9_064"
+msgid "I guess one steamed bun wasn't enough... Tao, I'll treat you to something next time."
+msgstr ""
+"Однієї м'ясної булочки було замало... Тао, наступного разу я тебе\n"
+"пригощу."
+
+#. Key: NEL9_065
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: ホントか？
+#. JA:   乳の人、優しいニャスー。
+msgctxt "NEL9_065"
+msgid "Really? Boobie lady, you're so kind."
+msgstr "Справді? Цицькаста Пані така добра-ня-я."
+
+#. Key: NEL9_066
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: さて、また追いかけないとね……。
+msgctxt "NEL9_066"
+msgid "Now then, we've just gotta start chasing her again."
+msgstr "Що ж, треба знову її наздоганяти..."
+
+#. Key: NEL9_067
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: ……なんか乳の人、お酒くさかったニャス。
+msgctxt "NEL9_067"
+msgid "...Boobie lady... You smell like alcohol."
+msgstr "...Чомусь від Цицькастої Пані тхнуло спиртним-ня."
+
+#. Key: NEL9_071
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Taokaka
+#. Context: Noel story route (POV: Noel)
+#. JA: ウニャ……ス……。
+#. JA:   負けたニャス……。
+msgctxt "NEL9_071"
+msgid ""
+"Waaah...\n"
+"I lost!"
+msgstr "Ня... сь... Тао програла-ня..."
+
+#. Key: NEL9_073
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あらら、タオが負けちゃった……。
+#. JA:   見かけによらず強いのね、少尉さんは……。
+msgctxt "NEL9_073"
+msgid "Oh my, Tao lost...? You're a lot stronger than I thought, Lieutenant..."
+msgstr ""
+"Ой лишенько, Тао програла... Попри зовнішність ви досить сильна,\n"
+"лейтенантко..."
+
+#. Key: NEL9_074
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ハァ、ハァ……。
+msgctxt "NEL9_074"
+msgid "*pant* *pant*"
+msgstr "Ха... ха..."
+
+#. Key: NEL9_075
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: でも疲れてるみたいだし。
+#. JA:   今がチャンスかしら♪
+msgctxt "NEL9_075"
+msgid "But you look pretty exhausted... I guess this is my chance."
+msgstr "Але ти, схоже, втомилася. Може, це мій шанс♪"
+
+#. Key: NEL9_077
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あっ……！　やめて下さい！
+msgctxt "NEL9_077"
+msgid "Hey...! Stop that!"
+msgstr "А...! Припиніть!"
+
+#. Key: NEL9_079
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: どう？
+#. JA:   タオとお揃いなんだけど？
+msgctxt "NEL9_079"
+msgid "What do you think? Now you look just like Tao!"
+msgstr "Ну як? Тепер ви з Тао в однаковому вбранні."
+
+#. Key: NEL9_080
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: だから……どうしてこういうことするんですか！
+msgctxt "NEL9_080"
+msgid "Why do these things happen to me!?"
+msgstr "Та чому... За що ви так зі мною?!"
+
+#. Key: NEL9_082
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: もう本当にやめて下さい！
+#. JA:   次は公務執行妨害で逮捕しますよ！
+msgctxt "NEL9_082"
+msgid "Please stop that! Next time, I'm going to arrest you for obstruction!"
+msgstr ""
+"Будь ласка, годі вже! Наступного разу я заарештую вас за\n"
+"перешкоджання виконанню службових обов'язків!"
+
+#. Key: NEL9_084
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あーあ！　似合ってたのに……。
+msgctxt "NEL9_084"
+msgid "Aww... But you look so cute in it..."
+msgstr "Ех! А тобі ж так личило..."
+
+#. Key: NEL10_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ふう……。
+#. JA:   もう、道に迷っちゃったし……。
+msgctxt "NEL10_002"
+msgid "*sigh* Geez, now I'm totally lost..."
+msgstr "Фух... Ну от, тепер я ще й заблукала..."
+
+#. Key: NEL10_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 考え直してくれた？
+msgctxt "NEL10_004"
+msgid "Did you give it some thought?"
+msgstr "Передумала?"
+
+#. Key: NEL10_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: わっ!?　は、早っ！
+msgctxt "NEL10_005"
+msgid "Huh!? Wh-What the—! ?"
+msgstr "Ой?! Я-як швидко!"
+
+#. Key: NEL10_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ちょっと付き合ってくれるだけでいいんだけど……。
+#. JA:   駄目かしら？
+msgctxt "NEL10_006"
+msgid "I just wanted you to spend a little time with me... No go?"
+msgstr "Я лише хочу, щоб ти трохи побула зі мною... Невже не можна?"
+
+#. Key: NEL10_007
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: さ、さっきも言いましたけど……！
+#. JA:   これ以上私に付きまとうと公務執行妨害で逮捕しますよ！
+msgctxt "NEL10_007"
+msgid ""
+"I-I'll say it one more time...! If you follow me around anymore, I'll arrest you\n"
+"for obstruction!"
+msgstr ""
+"Я-я вже казала...! Якщо й далі мене переслідуватимете, я заарештую вас\n"
+"за перешкоджання виконанню службових обов'язків!"
+
+#. Key: NEL10_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: そう？
+#. JA:   じゃあどうせ捕まるのなら、少し強引にやってみようかしら？
+msgctxt "NEL10_008"
+msgid "Really? Well, if I'm gonna get caught anyway, I might as well put up a fight, right?"
+msgstr "Он як? Тоді, якщо мене все одно заарештують, може, вдатися до сили?"
+
+#. Key: NEL10_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: な、なんでそうなるんですか……。
+msgctxt "NEL10_009"
+msgid "Wh-Why did it turn out like this...?"
+msgstr "Ч-чому ви дійшли саме такого висновку...?"
+
+#. Key: NEL10_014
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ほ、ほんとに……逮捕……します……からね……。
+msgctxt "NEL10_014"
+msgid "I...I really will...arrest you...you know..."
+msgstr "Я-я справді... вас заарештую... чуєте..."
+
+#. Key: NEL10_016
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: あらあら……、
+#. JA:   少しやりすぎたかしら？
+msgctxt "NEL10_016"
+msgid "Oh my... Did I go a little overboard?"
+msgstr "Ой лишенько... Може, я трохи перестаралася?"
+
+#. Key: NEL10_017
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: でもこれでゆっくりお着替えができるわね。
+#. JA:   うふふ……。
+msgctxt "NEL10_017"
+msgid "But now, I can take all the time I want... *giggle*"
+msgstr "Зате тепер ми зможемо не поспішаючи тебе перевдягнути. Хі-хі..."
+
+#. Key: NEL10_018
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: どうして、そんなに嬉しそう、なんですか……？
+msgctxt "NEL10_018"
+msgid "Why do you look...so happy...?"
+msgstr "Чому ви... така щаслива...?"
+
+#. Key: NEL10_019
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: だって、かわいい子にかわいい服を着せるのって、
+#. JA:   これ以上ない楽しみだと思わない？
+msgctxt "NEL10_019"
+msgid ""
+"Well, there aren't many things I enjoy more than dressing up cute little girls like you.\n"
+"Don't you agree?"
+msgstr ""
+"Хіба може бути щось приємніше, ніж одягати милу дівчину в миле\n"
+"вбрання?"
+
+#. Key: NEL10_020
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: じゃあ、まずはこれから着てみる？
+msgctxt "NEL10_020"
+msgid "Well then, shall we try this one on first?"
+msgstr "Ну що, спершу приміряєш ось це?"
+
+#. Key: NEL10_021
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 好きにして下さい、もう……。
+#. JA:   逆らう気力も体力もありませんから……。
+msgctxt "NEL10_021"
+msgid ""
+"Do whatever you want...\n"
+"Ugh...I don't have the strength or will to fight anymore..."
+msgstr "Робіть уже що хочете... У мене немає ані сил, ані бажання опиратися..."
+
+#. Key: NEL10_022
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ほんとにっ!?
+#. JA:   いっぱい持って来て良かったわ。
+msgctxt "NEL10_022"
+msgid ""
+"Really!?\n"
+"Good thing, I brought a whole bunch!"
+msgstr "Справді?! Добре, що я стільки всього принесла!"
+
+#. Key: NEL10_023
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: ……はぁ。
+msgctxt "NEL10_023"
+msgid "*sigh*"
+msgstr "...Ха-а."
+
+#. Key: NEL10_029
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……もうっ！
+#. JA:   どうしてそんなに嫌がるの!?
+msgctxt "NEL10_029"
+msgid "...Aww! Why do you resist so much!?"
+msgstr "...Ну от! Чому ти так пручаєшся?!"
+
+#. Key: NEL10_030
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: い、嫌がるって……。そんなの当たり前じゃ―――
+msgctxt "NEL10_030"
+msgid "Resist...? Isn't that the logical thing to do?"
+msgstr "П-пручаюся...? Це ж цілком природно..."
+
+#. Key: NEL10_032
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL10_032"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL10_034
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……？
+#. JA:   どうかした？
+msgctxt "NEL10_034"
+msgid "...? Is something wrong?"
+msgstr "...? Щось сталося?"
+
+#. Key: NEL10_035
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、それ、パンダですか……？
+msgctxt "NEL10_035"
+msgid "I-Is that a panda...?"
+msgstr "Ц-це панда...?"
+
+#. Key: NEL10_036
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ああ、これ？　そうよ。
+#. JA:   名前は「ラオチュウ」。かわいいでしょう？
+msgctxt "NEL10_036"
+msgid ""
+"Oh, him? Yes, he is.\n"
+"This is Lao Jiu. Isn't he adorable?"
+msgstr "А, це? Так. Його звати «Лаоцзю». Хіба не милий?"
+
+#. Key: NEL10_037
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 生きて、るんですね……。
+msgctxt "NEL10_037"
+msgid "It's alive...isn't it?"
+msgstr "Він... живий...?"
+
+#. Key: NEL10_038
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ええ。
+#. JA:   珍しいとは思うけど、それがどうかした？
+msgctxt "NEL10_038"
+msgid "Yes. I suppose he's pretty rare...but what about it?"
+msgstr "Так. Розумію, це рідкісна тварина. А що?"
+
+#. Key: NEL10_039
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、あ、あの……。
+#. JA:   さっきの話、ですけど……。
+msgctxt "NEL10_039"
+msgid ""
+"U-Uhh, um...\n"
+"About what you said earlier..."
+msgstr "Е-е-е... Щодо того, про що ви казали раніше..."
+
+#. Key: NEL10_040
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: さっきの？
+msgctxt "NEL10_040"
+msgid "Earlier...?"
+msgstr "Раніше?"
+
+#. Key: NEL10_041
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: その服を、私に着せたいっていう話……。
+msgctxt "NEL10_041"
+msgid "About...dressing me up..."
+msgstr "Що ви хочете... одягнути мене в те вбрання..."
+
+#. Key: NEL10_042
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: その気になってくれた？
+msgctxt "NEL10_042"
+msgid "You want to do it now?"
+msgstr "Тепер ти згодна?"
+
+#. Key: NEL10_043
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: いえ、あの……。そういうわけじゃ、ないんですけど。
+#. JA:   そ、その子に触らせてくれるなら……。
+#. JA:   か、考えてあげても、い、いいかなって……。
+msgctxt "NEL10_043"
+msgid ""
+"No, um...well, that's not the case, but...if you let me pet him, then...m-maybe I'll\n"
+"give it some thought..."
+msgstr ""
+"Ні, е-е... Не зовсім... Але якщо ви дозволите мені погладити панду... Я-я\n"
+"могла б... обміркувати вашу пропозицію..."
+
+#. Key: NEL10_049
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……もうっ！
+#. JA:   どうしてそんなに嫌がるの!?
+msgctxt "NEL10_049"
+msgid "...Aww! Why do you resist so much!?"
+msgstr "...Ну от! Чому ти так пручаєшся?!"
+
+#. Key: NEL10_050
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: い、嫌がるって……そんなの当たり前じゃ―――
+msgctxt "NEL10_050"
+msgid "R-Resist...? Isn't that the logical thing to do?"
+msgstr "П-пручаюся...? Це ж цілком природно..."
+
+#. Key: NEL10_052
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+msgctxt "NEL10_052"
+msgid "..."
+msgstr "..."
+
+#. Key: NEL10_054
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……？
+#. JA:   どうかした？
+msgctxt "NEL10_054"
+msgid ""
+"...?\n"
+"Is something wrong?"
+msgstr "...? Щось сталося?"
+
+#. Key: NEL10_055
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: そ、それ、パンダですか……？
+msgctxt "NEL10_055"
+msgid "I-Is that a panda...?"
+msgstr "Ц-це панда...?"
+
+#. Key: NEL10_056
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ああ、これ？　そうよ。
+#. JA:   名前は「ラオチュウ」。かわいいでしょう？
+msgctxt "NEL10_056"
+msgid ""
+"Oh, him? Yes, he is.\n"
+"This is Lao Jiu. Isn't he adorable?"
+msgstr "А, це? Так. Його звати «Лаоцзю». Хіба не милий?"
+
+#. Key: NEL10_057
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: 生きて、るんですね……。
+msgctxt "NEL10_057"
+msgid "It's alive...isn't it?"
+msgstr "Він... живий...?"
+
+#. Key: NEL10_058
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ええ。
+#. JA:   珍しいとは思うけど、それがどうかした？
+msgctxt "NEL10_058"
+msgid "Yes. I suppose he's pretty rare...but what about it?"
+msgstr "Так. Розумію, це рідкісна тварина. А що?"
+
+#. Key: NEL10_059
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: あ、あ、あの……。
+#. JA:   さっきの話、ですけど……。
+msgctxt "NEL10_059"
+msgid ""
+"U-Uhh, um...\n"
+"About what you said earlier..."
+msgstr "Е-е-е... Щодо того, про що ви казали раніше..."
+
+#. Key: NEL10_060
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: さっきの？
+msgctxt "NEL10_060"
+msgid "Earlier...?"
+msgstr "Раніше?"
+
+#. Key: NEL10_061
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: その服を、私に着せたいっていう話……。
+msgctxt "NEL10_061"
+msgid "About...dressing me up..."
+msgstr "Що ви хочете... одягнути мене в те вбрання..."
+
+#. Key: NEL10_062
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: その気になってくれた？
+msgctxt "NEL10_062"
+msgid "You want to do it now?"
+msgstr "Тепер ти згодна?"
+
+#. Key: NEL10_063
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: いえ、あの……そういうわけじゃ、ないんですけど。
+#. JA:   そ、その子に触らせてくれるなら……。
+#. JA:   か、考えてあげても、い、いいかなって……。
+msgctxt "NEL10_063"
+msgid ""
+"No, um...well, that's not the case, but...if you let me pet him, then...m-maybe I'll\n"
+"give it some thought..."
+msgstr ""
+"Ні, е-е... Не зовсім... Але якщо ви дозволите мені погладити панду... Я-я\n"
+"могла б... обміркувати вашу пропозицію..."
+
+#. Key: NEL10_064
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ほんと!?　良かった！
+#. JA:   じゃあ、うちに行きましょうか！
+msgctxt "NEL10_064"
+msgid "Really!? I'm so glad! Well then, let's go back to my place!"
+msgstr "Справді?! Як чудово! Тоді ходімо до мене!"
+
+#. Key: NEL10_065
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……でも、その前に。
+msgctxt "NEL10_065"
+msgid "But before that..."
+msgstr "...Але спершу..."
+
+#. Key: NEL10_067
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: そんな野暮ったい恰好で歩かせちゃ、かわいそうだものね。
+msgctxt "NEL10_067"
+msgid "I can't let you walk around looking like that, you poor thing..."
+msgstr "Було б прикро, дозволити тобі ходити в такому неохайному вигляді."
+
+#. Key: NEL10_069
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: な、なんか……恥ずかしい、です……。
+msgctxt "NEL10_069"
+msgid "Th-This is kind of embarrassing..."
+msgstr "М-мені якось... ніяково..."
+
+#. Key: NEL10_070
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: すぐに慣れるわ。
+#. JA:   さ、行きましょう
+msgctxt "NEL10_070"
+msgid ""
+"You'll get used to it.\n"
+"Now, shall we?"
+msgstr "Ти швидко звикнеш. Ну ж бо, ходімо."
+
+#. Key: NEL11_002
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: …………はぁ。
+msgctxt "NEL11_002"
+msgid "Ahhh..."
+msgstr "...Ха-а."
+
+#. Key: NEL11_004
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ……そんなに気に入った？
+msgctxt "NEL11_004"
+msgid "...Do you like it that much?"
+msgstr "...Він тобі аж настільки сподобався?"
+
+#. Key: NEL11_005
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: うちの常連患者さんにやたらと服をくれる方がいるのよ。
+#. JA:   でも、サイズが合わない服も多くってね……。
+msgctxt "NEL11_005"
+msgid ""
+"One of my patients really loves bringing me clothes to put on, but some of them just\n"
+"don't fit me."
+msgstr ""
+"Один мій постійний пацієнт часто дарує мені одяг. Але багато речей мені\n"
+"не за розміром..."
+
+#. Key: NEL11_006
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: 少尉さんにジャストフィットの服もいっぱいあるから、
+#. JA:   色々と見繕ってあげる。
+msgctxt "NEL11_006"
+msgid "There's a lot of clothes that'll fit you perfectly, so please be my guest."
+msgstr ""
+"Є чимало одягу, який ідеально вам підійде, лейтенантко. Я підберу для\n"
+"вас різні варіанти."
+
+#. Key: NEL11_008
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: はい……。はわぁーん。
+msgctxt "NEL11_008"
+msgid "Ooookaaay..."
+msgstr "Так... Ох-х-х..."
+
+#. Key: NEL11_009
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Litchi
+#. Context: Noel story route (POV: Noel)
+#. JA: ちょっと待っててね……。取ってくるから。
+msgctxt "NEL11_009"
+msgid "Hang on one second... I'll go grab another set."
+msgstr "Трохи зачекай... Я зараз принесу."
+
+#. Key: NEL11_010
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: はい……はわぁーん。
+msgctxt "NEL11_010"
+msgid "Ooookaaay..."
+msgstr "Так... Ох-х-х..."
+
+#. Key: NEL11_012
+#. Source: story/storytext_mainno (data/Story/Text/eng/storytext_mainno.pac)
+#. Speaker: Noel
+#. Context: Noel story route (POV: Noel)
+#. JA: うふふ……もふもふ……。
+#. JA:   はぅぅぅうん、幸せぇ～～。
+msgctxt "NEL11_012"
+msgid "*giggle* It's so fluffy... Ohhhh...I'm so happy..."
+msgstr "Хі-хі... Який пухнастий... О-о-ох, яке ж щастя-я-я..."

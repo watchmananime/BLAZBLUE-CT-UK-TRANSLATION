@@ -1,0 +1,3507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ARK0_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: その部屋に訪れた時、私は体の奥から込み上げる悪寒で
+#. JA:   すぐに部屋から逃げ出したくなるような衝動に駆られた。
+msgctxt "ARK0_002"
+msgid "When I visited that room, I felt a sudden chill, and I wanted to run away."
+msgstr ""
+"Коли я ввійшов до тієї кімнати, з глибини тіла піднявся моторошний\n"
+"холод і мене охопило бажання негайно втекти."
+
+#. Key: ARK0_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   その部屋には、ありとあらゆる紙の束、
+#. JA:   書物という書物が部屋の四方にうずたかく積まれていた。
+msgctxt "ARK0_004"
+msgid ""
+"\n"
+"That room, with stacks of paper and books thrown everywhere."
+msgstr ""
+"\n"
+"Ту кімнату з усіх боків захаращували височенні стоси всіляких паперів і\n"
+"книжок."
+
+#. Key: ARK0_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   そして全ての壁面に張られた紙片。
+msgctxt "ARK0_005"
+msgid ""
+"\n"
+"And clippings posted on every wall."
+msgstr ""
+"\n"
+"А всі стіни вкривали клаптики паперу."
+
+#. Key: ARK0_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: そこには羽虫ほどの小さな文字で
+#. JA:   メモのようなものがびっしりと書き込まれていた。
+msgctxt "ARK0_006"
+msgid ""
+"\n"
+"Thousands of memos were written on them, like a horde of spiders."
+msgstr ""
+"\n"
+"Їх густо списали схожими на нотатки дрібненькими літерами,\n"
+"завбільшки з мошкару."
+
+#. Key: ARK0_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: だがその文字は、もはや文字とは思えぬような
+#. JA:   形状をしており、文脈も破綻している。
+msgctxt "ARK0_007"
+msgid ""
+"\n"
+"But the characters were no longer legible, and none of it made sense."
+msgstr ""
+"\n"
+"Але ті знаки вже майже не скидалися на письмо, а текст був\n"
+"позбавлений зв'язності."
+
+#. Key: ARK0_008
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 世界中の言語学者を連れてきて解析を行わせても、
+#. JA:   おそらくこの文章の解読は困難を極めるだろう。
+msgctxt "ARK0_008"
+msgid ""
+"\n"
+"All the linguists in the world wouldn't be able to decipher the script."
+msgstr ""
+"\n"
+"Навіть якби зібрати мовознавців з усього світу, розшифрувати цей текст\n"
+"навряд чи вдалося б."
+
+#. Key: ARK0_009
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 机の上に置かれたノートに、私は何気なく手を伸ばした。
+msgctxt "ARK0_009"
+msgid ""
+"\n"
+"Without thinking, I reached for the notebook on the desk."
+msgstr ""
+"\n"
+"Я мимохідь простягнув руку до записника на столі."
+
+#. Key: ARK0_011
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: それはどうやら日記のようだった。
+#. JA:   手記、と言ってもいいのかもしれない。
+msgctxt "ARK0_011"
+msgid "It seemed to be a journal. A memorandum might be a better fit word."
+msgstr "Схоже, це був щоденник. Або, точніше, особисті записи."
+
+#. Key: ARK0_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   壁中に貼られた意味不明な言葉の羅列に比べると、
+#. JA:   その手記は意外なほど普通の文字で書かれているように見える。
+msgctxt "ARK0_012"
+msgid ""
+"\n"
+"Compared to the cryptic words pasted all over the wall, that memorandum\n"
+"was surprisingly readable."
+msgstr ""
+"\n"
+"Порівняно з безглуздими низками слів на стінах, ці записи на диво були\n"
+"зроблені цілком звичайними літерами."
+
+#. Key: ARK0_014
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: しかしそれも書かれている言語が人間のものという
+#. JA:   だけの事であり、文章の体を成してはいなかった。
+msgctxt "ARK0_014"
+msgid ""
+"Although the composition was that of a human language,\n"
+"it was still incomprehensible."
+msgstr ""
+"Та звичайною була лише людська мова, якою їх написали: самі записи\n"
+"не складалися у зв'язний текст."
+
+#. Key: ARK0_015
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   ところどころには理解不能の記号やグラフのようなものが挿入され、
+#. JA:   あるページには同じ文字だけがびっしりと書き込まれていた。
+msgctxt "ARK0_015"
+msgid ""
+"\n"
+"In some parts, there were symbols and graphs that were impossible to understand,\n"
+"and some pages only contained one word, written over and over again."
+msgstr ""
+"\n"
+"Подекуди траплялися незрозумілі символи й подоба графіків, а деякі\n"
+"сторінки були густо списані одним-єдиним знаком."
+
+#. Key: ARK0_016
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   “彼”だけにしか理解できない暗号のようなものなのか、
+msgctxt "ARK0_016"
+msgid ""
+"\n"
+"Maybe it was intended to be only understood by <DQ>him<DQ>..."
+msgstr ""
+"\n"
+"Може, це шифр, зрозумілий лише «йому»..."
+
+#. Key: ARK0_017
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   それとも“彼”自身も、もはや何を書いていたか
+#. JA:   理解していなかったのか……。
+msgctxt "ARK0_017"
+msgid ""
+"\n"
+"Or maybe he himself didn't know what he was writing..."
+msgstr ""
+"\n"
+"А може, навіть він уже не розумів, що саме писав..."
+
+#. Key: ARK0_019
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: いずれにせよ、
+#. JA:   これが貴重な資料である事に変わりはない。
+msgctxt "ARK0_019"
+msgid "Whatever the case, this does not change the fact that these are important documents."
+msgstr ""
+"Хай там як, це не змінює того, що переді мною надзвичайно цінний\n"
+"матеріал."
+
+#. Key: ARK0_020
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   彼が追っていた“アレ”の正体が
+#. JA:   何なのかを見極めるための……。
+msgctxt "ARK0_020"
+msgid ""
+"\n"
+"Very vital in understanding that <DQ>thing<DQ> he was after..."
+msgstr ""
+"\n"
+"Матеріал, який допоможе встановити справжню природу «того», за чим\n"
+"він гнався..."
+
+#. Key: ARK0_023
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 突然の物音に、私は思わず振り返った。
+#. JA:   だが何もいない。少なくとも視界の範囲内には。
+msgctxt "ARK0_023"
+msgid ""
+"The sudden sound startled me and I looked back.\n"
+"However, there was nothing there, at least in my line of vision."
+msgstr ""
+"Від несподіваного звуку я мимоволі озирнувся. Та там нікого не було.\n"
+"Принаймні в полі мого зору."
+
+#. Key: ARK0_024
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   そういえば、この部屋に入って以来、
+#. JA:   何かに見られているような気がしてならなかった。
+msgctxt "ARK0_024"
+msgid ""
+"\n"
+"But, come to think of it, ever since I walked into this room,\n"
+"I felt like someone was staring at me."
+msgstr ""
+"\n"
+"Як подумати, відколи я ввійшов до цієї кімнати, мене не полишало\n"
+"відчуття, ніби хтось за мною стежить."
+
+#. Key: ARK0_025
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   
+#. JA:   気が付くと、体中の皮膚が粟立っていた。
+msgctxt "ARK0_025"
+msgid ""
+"\n"
+"Before I knew it, I had goose bumps all over."
+msgstr ""
+"\n"
+"Я раптом помітив, що по всьому тілу побігли мурашки."
+
+#. Key: ARK0_028
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 上司からの通信だ。
+#. JA:   何かしゃべろうとするが声が出ない。とにかく、後だ。
+#. JA:   絞り出すような声で“詳細は後で”と、それだけを伝えた。
+msgctxt "ARK0_028"
+msgid ""
+"It was a transmission from my boss.\n"
+"I tried to say something but nothing would come out. I had to get back to him later.\n"
+"I squeezed my voice out and told him, <DQ>I'll get back to you with the details.<DQ>"
+msgstr ""
+"Це був виклик від начальства. Я спробував заговорити, але голос не\n"
+"слухався. Хай там як, це зачекає. Насилу вичавивши із себе слова, я\n"
+"лише повідомив: «Подробиці згодом.»"
+
+#. Key: ARK0_030
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Researcher
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 
+#. JA:   おかしい、何かがおかしい。
+#. JA:   この気配は―――
+msgctxt "ARK0_030"
+msgid ""
+"\n"
+"Odd. Something was wrong.\n"
+"What was this presence—"
+msgstr ""
+"\n"
+"Щось не так. Щось тут геть не так. Ця присутність —"
+
+#. Key: ARK1_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 今　ぐ　　たら針　刺さ　て血　巡　巡る。虚　目の虚　。
+msgctxt "ARK1_002"
+msgid ""
+"If     step away no ,     needl       stab         blood      flo      flow.\n"
+"Eyes      gaze, empti        em ti    ."
+msgstr ""
+"Якщо     відійдеш, голка прош  икне і кров кружл тиме, кружлятиме.\n"
+"Порожн й погляд порожнечі."
+
+#. Key: ARK1_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 嗚　ゆ　　き   い暗い喰　　喰　い……。
+msgctxt "ARK1_004"
+msgid "Aah, sway    dark,     , devour, de our... "
+msgstr "А-а, ко  вається темрява, темрява, пож рай..."
+
+#. Key: ARK1_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　ん
+msgctxt "ARK1_006"
+msgid "Huh?"
+msgstr "Га?"
+
+#. Key: ARK1_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 貴様、は……？
+msgctxt "ARK1_007"
+msgid "You're...?"
+msgstr "Ти... хто?"
+
+#. Key: ARK1_009
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: お　は愚　な犬　……そ　と　　猾　蛇か？
+msgctxt "ARK1_009"
+msgid "    you   stupid dog...   a sly serpe t?"
+msgstr "Ти ду  ий пес... чи хит а змія?"
+
+#. Key: ARK1_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: まさか「アラクネ」か。
+#. JA:   噂には聞いていたが……。
+msgctxt "ARK1_010"
+msgid "I've heard rumors of you, but..."
+msgstr "Невже це Аракуне? Я чув про тебе чутки, але..."
+
+#. Key: ARK1_011
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 驚き　所　桃　　の木　　を夢見　　虫の　う　　の。
+#. JA:   三　を　えれ　その生　　終わ　の　気付　　い……。
+#. JA:   愚　な　……ビヒヒヒヒヒヒヒヒィ！
+msgctxt "ARK1_011"
+msgid ""
+"After    ,   su prise           ter     who           be    Ed     tree lea   .     \n"
+"don't         rea ize            ve died... Fool sh snake... Beeheeheeheeheehee!"
+msgstr ""
+"Зрешт ю, подив,   кр  ата комаха, що марить листям персиков го раю.\n"
+"Пере не ріку Сандзу й не поміт ть, як урветься її життя... Дурна зм є...\n"
+"Біхіхіхіхіхіхіхі!"
+
+#. Key: ARK1_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……何を言っている？
+#. JA:   もはや自我すら消失したというのも事実なのか……？
+msgctxt "ARK1_012"
+msgid "...What the hell are you talking about? Have you lost your sanity...?"
+msgstr "...Що ти верзеш? Невже правда, що ти втратив навіть власне «я»...?"
+
+#. Key: ARK1_014
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 脳　　の小さ　　命は進　さえ不　能。
+#. JA:   そ　が真　　そ　て心　。
+msgctxt "ARK1_014"
+msgid ""
+"A life-       th a  mall brai           ca  ot  volve.   at's     truth, a   that's\n"
+"  ychol gy."
+msgstr ""
+"Жи  я з малим об'ємом мозк м не здатне      розвив тись. Це іст на, а ще\n"
+"псих логія."
+
+#. Key: ARK1_015
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK1_015"
+msgid "Hmm..."
+msgstr "Гм..."
+
+#. Key: ARK1_016
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……お前の“手記”が発見されたそうだ。
+msgctxt "ARK1_016"
+msgid "...I've heard that your <DQ>memorandum<DQ> has been discovered."
+msgstr "...Кажуть, твої «особисті записи» знайшли."
+
+#. Key: ARK1_017
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: シュ　……？
+msgctxt "ARK1_017"
+msgid "Memora    ...?"
+msgstr "Зап си...?"
+
+#. Key: ARK1_018
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: かつて、お前―――
+msgctxt "ARK1_018"
+msgid "You used to be..."
+msgstr "Колись ти —"
+
+#. Key: ARK1_020
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 無　味　文　の羅　は鏡　　か？
+#. JA:   し　し　読を　　とこ　で駄　　過　ない……。
+#. JA:   無　　　だムダム　ムダダダガガギヒィ！
+msgctxt "ARK1_020"
+msgid ""
+"Oh, tha  poin le s gibber    I   ote?\n"
+"Even    you      able t  analyze   ,      onl  my poor writ   .\n"
+"It's pointless...poin less, pointless, pointless—aahaaheehee!"
+msgstr ""
+"Безг   да низка знаків — дзеркаль е письмо? Навіть розшифр ване,\n"
+"це    жалюгід а писанина... Марно... марно, марно, ма-р-р-но-но-ґаґаґіхі!"
+
+#. Key: ARK1_021
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: やはり話は通じないか……。
+#. JA:   であれば、私がやるべきは貴様を捕らえることだけだ。
+#. JA:   彼女には悪いがな。
+msgctxt "ARK1_021"
+msgid ""
+"Just as I thought...Can't reason with him.\n"
+"Then, all there is for me to do is to capture you.\n"
+"Although, I feel bad for her."
+msgstr ""
+"Як я й думав, до тебе не достукатися... Тоді мені лишається тільки\n"
+"схопити тебе. Хоч перед нею й незручно."
+
+#. Key: ARK1_026
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こちらテイガー。
+#. JA:   アラクネの捕獲に成功した。
+msgctxt "ARK1_026"
+msgid ""
+"This is Tager.\n"
+"I've succeeded in capturing Arakune."
+msgstr "Говорить Тейґер. Аракуне успішно захоплено."
+
+#. Key: ARK1_027
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　だ。
+#. JA:   あの　の　に帰る　　嫌　帰り　　な　戻りた　　いそう　るくら　な　も　　これ　でなのな　ば僕　　は　は―――
+msgctxt "ARK1_027"
+msgid ""
+"No...!   don't want     eturn         woman.\n"
+"No. I w n't g  back.            back!\n"
+" f I'm go      ...I'll...I'll—"
+msgstr ""
+"Не хо у.    поверта  ся до тієї жін и. Не повернусь, не хочу назад. Якщо\n"
+"так і б де, тоді я... я —"
+
+#. Key: ARK1_029
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: む……！
+#. JA:   しまった！
+msgctxt "ARK1_029"
+msgid "D...Damn it!"
+msgstr "Гх...! Прокляття!"
+
+#. Key: ARK1_030
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ　……やっ　静　に……。
+msgctxt "ARK1_030"
+msgid "Ahh...Finall ,      quie ."
+msgstr "А-а... Наре ті тихо..."
+
+#. Key: ARK1_035
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ここまで力を有しているとは……！
+#. JA:   まずいな……動力部をやられた……。
+msgctxt "ARK1_035"
+msgid ""
+"I didn't think he had this much power...!\n"
+"This isn't good...He's messed with my power unit."
+msgstr ""
+"Не думав, що в ньому стільки сили...! Недобре... Він пошкодив силовий\n"
+"блок..."
+
+#. Key: ARK1_036
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: らららららららららららららららららららら！
+msgctxt "ARK1_036"
+msgid "AAAAAAAARRRRRRRGGGGHHHHHH!"
+msgstr "Ляляляляляляляляляляляляляляляляляляляля!"
+
+#. Key: ARK1_037
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: やめ　やめろめろ　ろ見る　ワレ　見　なそ　視線　　断の憂　目に　わな　　は　条理な　　の足長　が不安　にな　　ぎ　。
+msgctxt "ARK1_037"
+msgid ""
+"Sto   stop   top  ! Don   loo     me!                  bitter  xper         isola         \n"
+"        unde wen , an      abs    world's long-leg    phenom            come\n"
+"       table."
+msgstr ""
+"Годі, годі-і... не ди ись на МЕНЕ!   погляд... туга відокрем  ння, якої зазн\n"
+"ли... абсурдний довгоногий надто нестаб льним бенте ить."
+
+#. Key: ARK1_039
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: テイ…………ガー…………。
+msgctxt "ARK1_039"
+msgid "Ta...ger..."
+msgstr "Тей... ґере..."
+
+#. Key: ARK1_040
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰う
+msgctxt "ARK1_040"
+msgid "Eat"
+msgstr "Зжерти"
+
+#. Key: ARK1_041
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰わない
+msgctxt "ARK1_041"
+msgid "Don't eat"
+msgstr "Не жерти"
+
+#. Key: ARK1_045
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こいつ　食う　勝　　　と　て。
+msgctxt "ARK1_045"
+msgid "I  m go       eat   m    proof of m  victor ."
+msgstr "Зже у його на доказ перемо и."
+
+#. Key: ARK1_047
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 貴様、やめろ―――！
+msgctxt "ARK1_047"
+msgid "You bastard, STOP IT—!"
+msgstr "Ти, припини —!"
+
+#. Key: ARK1_050
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK1_050"
+msgid "..."
+msgstr "..."
+
+#. Key: ARK1_051
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　　もない無機　か　思　　いた　駆　機関に　　され　いる鬼の細　が　わぬ生命　を　ち　　美　。
+msgctxt "ARK1_051"
+msgid ""
+"I tho   t    would       inorga    subs           no  utritio , but I guess       \n"
+"demo     works und   Sector Se   ,        cells      more vital         I\n"
+"       ...    tastes bett        I would       magin d."
+msgstr ""
+"Ду ав, це безживна неорга  ка без поживи,   кліт ни демона у приводному\n"
+"механізмі сповнені несподів ної життєвої сили... Смак вито."
+
+#. Key: ARK1_052
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こ　こ　が世界　　　さ　る　　一のォォォ　　力ゥゥゥゥゥゥ！
+#. JA:   イッ　　　ツヴァヴァヴァヴァヴァヴァヴァ！
+msgctxt "ARK1_052"
+msgid ""
+"This mo           world's bes  scienti    cap             makes     world shake—\n"
+"Eheehee! Raaaaaaaaagh...!"
+msgstr ""
+"Це найвеличн ша у світі наукова міць, що стрясає цілий сві-і-іт! Іх-хі-хі...\n"
+"Ґва-ва-ва-ва-ва!"
+
+#. Key: ARK1_054
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 世界　丸　などな　鋭　　の　刺さる　どに優し　　い角度　……。
+msgctxt "ARK1_054"
+msgid "The world   no  rou  .         angu    wit  acute ang  s           pierce anything..."
+msgstr "Світ не кру  ий. Він незграбний, з гост ими кутами, що   прохромлюють..."
+
+#. Key: ARK1_058
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: まず　　　。捨て　　こ　。
+msgctxt "ARK1_058"
+msgid "Now, firs . Let   throw    away."
+msgstr "Виглядає несм чно. Викин мо."
+
+#. Key: ARK1_060
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Tager
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……なんなのだ、アレは。
+#. JA:   我々に御し得る存在なのか……。
+msgctxt "ARK1_060"
+msgid ""
+"...What is that...?\n"
+"Can we not control it...?"
+msgstr "...Що це взагалі таке? Чи здатні ми його приборкати...?"
+
+#. Key: ARK1_062
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 口か　な　か　吐　出　　と後　音が　ればい　の　……。
+msgctxt "ARK1_062"
+msgid "  wish there wou        sound be              I thro  things up..."
+msgstr "От би до й після того, як щось вибльо  ю, лунав якийсь звук..."
+
+#. Key: ARK2_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 生　が　しい。強い　命　。
+#. JA:   ワレ　　を満　す生　の　。
+msgctxt "ARK2_002"
+msgid ""
+"I wan     eat       .\n"
+"  strong soul.\n"
+"  fountain o            would give    satisfac     stren   ."
+msgstr ""
+"Хо еться життя. Сил  ого життя. Джерела життя,  наповн ть МЕНЕ\n"
+"силою."
+
+#. Key: ARK2_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 押し　だ　で生　の　　湧くな　ば　もそん　苦　は　たり　ない以　、　神の意　ももは　な　　け　……。
+msgctxt "ARK2_004"
+msgid ""
+"If I push     bu           fountain    souls gush   ou ...     no           go\n"
+"through hardsh  , then      means     soul would         purpose..."
+msgstr ""
+"Якби дж  ело життя било від самого натискання, ніхто б так не муч вся,\n"
+"а отже, сам дух   не м в би сенсу..."
+
+#. Key: ARK2_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Feisty-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ！　「うねうね」だー！
+#. JA:   みんなー！　うねうねが来るぞー！
+msgctxt "ARK2_005"
+msgid ""
+"Hey! Look there's <DQ>Squiggly<DQ>!\n"
+"Everyone! Squiggly is coming!"
+msgstr "О! Це ж «Кривулька»! Усі сюди! Кривулька йде!"
+
+#. Key: ARK2_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: にげろー！
+msgctxt "ARK2_006"
+msgid "Run away!"
+msgstr "Тікаймо!"
+
+#. Key: ARK2_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Calic-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 食べられちゃうよー！
+#. JA:   逃げなきゃー！
+msgctxt "ARK2_007"
+msgid ""
+"He's gonna eat you!\n"
+"You have to run away!"
+msgstr "Він нас з'їсть! Треба тікати!"
+
+#. Key: ARK2_009
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 命命命芳醇　命　　返　よう　若　の芳　。
+msgctxt "ARK2_009"
+msgid "Li  , life,     .     rich fragran              fe, s  rich         choke  me."
+msgstr ""
+"Життя,     , життя, нас   не життя, задушл вий аромат молодих\n"
+"паростків."
+
+#. Key: ARK2_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Feisty-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ、あわ、わ……。
+msgctxt "ARK2_010"
+msgid "Ah— Uwah...whoa..."
+msgstr "А-а-а... Ой..."
+
+#. Key: ARK2_011
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あっ！　大変だー！　逃げ遅れたぞー！
+msgctxt "ARK2_011"
+msgid ""
+"*gasp*!\n"
+"Oh, no! \n"
+"She didn't get away in time!"
+msgstr "А! Лихо! Вона не встигла втекти!"
+
+#. Key: ARK2_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Calic-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: どうしよう……。
+msgctxt "ARK2_012"
+msgid "What do we do...?"
+msgstr "Що ж робити...?"
+
+#. Key: ARK2_013
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 食　。食　ば。食　時。　命。　ナ　ティ。
+#. JA:   プププププププププププ。
+msgctxt "ARK2_013"
+msgid "     eat. I'll eat   . Time    eat. Life. Bon a  etit. Bleehaaheehaahaa!"
+msgstr "З'  . Як з' м. Час їс и. Життя. Смачного. Пу-пу-пу-пу-пу-пу-пу-пу-пу-пу."
+
+#. Key: ARK2_015
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Calic-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あー！　食べられるー！
+msgctxt "ARK2_015"
+msgid "Oh, no! He's gonna eat her!"
+msgstr "Ой! Він її з'їсть!"
+
+#. Key: ARK2_017
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 待つニャス！
+msgctxt "ARK2_017"
+msgid "Wait a minute!"
+msgstr "Ану стій, няв!"
+
+#. Key: ARK2_018
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ　　？
+msgctxt "ARK2_018"
+msgid "Huh...?"
+msgstr "А...?"
+
+#. Key: ARK2_019
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: わー！　タオが来たぞー！
+msgctxt "ARK2_019"
+msgid ""
+"Yay!\n"
+"Tao's here!"
+msgstr "Ура! Тао прийшла!"
+
+#. Key: ARK2_020
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Calic-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: これでうねうねなんかやっつけてくれるよー！
+msgctxt "ARK2_020"
+msgid "Beat the crap out of that squiggly!"
+msgstr "Тепер вона точно відлупцює Кривульку!"
+
+#. Key: ARK2_021
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: うねうね！
+#. JA:   お前のぼーきょもこれまでニャス！
+msgctxt "ARK2_021"
+msgid "Hey, Squiggly! Your violence ends here!"
+msgstr "Кривулько! Твоїм безчинствам кінець, няв!"
+
+#. Key: ARK2_022
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: うる　　　　　カ……。
+msgctxt "ARK2_022"
+msgid "Shut u ,     rep  ca."
+msgstr "Замов  и, репл ко..."
+
+#. Key: ARK2_023
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: なに言ってるか分かんにゃいし！
+#. JA:   もー、タオの村を襲うのをやめるニャス！
+#. JA:   みんなメーワクなのにゃ！
+msgctxt "ARK2_023"
+msgid ""
+"You're not even making sense!\n"
+"Stop attacking my village! You're such a nuisance!"
+msgstr ""
+"Нічого не зрозуміло, няв! Годі нападати на селище Тао! Ти всім\n"
+"заважаєш!"
+
+#. Key: ARK2_024
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: この迸　生　　にワレ　咽　　鳴り　け　　　な　。
+#. JA:   　　はお　らく至高　　餐。　れ下等　　ど　！！！
+#. JA:   アガハハハ、ヒィ、イヒイヒイヒヒヒヒ！
+msgctxt "ARK2_024"
+msgid ""
+"   throa  keeps reach                souls          gush    ou .\n"
+"     mus       specia  meal.     shut u , scum!\n"
+"Agahahahaheeeeeeheeheeheeheeheehe!"
+msgstr ""
+"Від цієї жит  вої сили, що б'є струменем, у МЕНЕ без упину бурч ть\n"
+"горло. Мабуть,   найвишуканіша трапеза. Мовчати, нижчі істоти!!!\n"
+"Аґа-ха-ха-ха, хі-і, іхі-іхі-іхі-іхі-іхі!"
+
+#. Key: ARK2_025
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……むーむー！　なんかむかつくニャス！
+#. JA:   バカにされてる気がする～！
+msgctxt "ARK2_025"
+msgid ""
+"...Fffft! He's pissing me off!\n"
+"I feel like he's making fun of me!"
+msgstr "Гр-р-р! Як же він дратує, няв! Тао здається, що з неї глузують!"
+
+#. Key: ARK2_027
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Feisty-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: タオが怒ったー！
+#. JA:   スーパーモードだー！
+msgctxt "ARK2_027"
+msgid "Tao's pissed! She's in super mode!"
+msgstr "Тао розлютилася! У неї суперрежим!"
+
+#. Key: ARK2_028
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ターオ！　ターオ！
+msgctxt "ARK2_028"
+msgid "Taao! Taao!"
+msgstr "Та-о! Та-о!"
+
+#. Key: ARK2_029
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Calic-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: がんばれーっ！
+msgctxt "ARK2_029"
+msgid "Beat 'em up!"
+msgstr "Уперед!"
+
+#. Key: ARK2_030
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Feisty-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ターオ！　ターオ！　ターオ！
+msgctxt "ARK2_030"
+msgid "Taao! Taao! Taao!"
+msgstr "Та-о! Та-о! Та-о!"
+
+#. Key: ARK2_031
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ん～～～～～っ！
+#. JA:   みんにゃの声がひとつになって―――！
+msgctxt "ARK2_031"
+msgid "Grrrrrrrr! Everyone's voice is pounding in my heart as one—!"
+msgstr "Н-н-н-н! Голоси всіх зливаються в один —!"
+
+#. Key: ARK2_032
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: み　な　ぎ　っ　て　き　た　ニャス～ッ！
+msgctxt "ARK2_032"
+msgid "I. AM. FULL. OF. POWER!"
+msgstr "С И Л А  П Е Р Е П О В Н Ю Є  Т А О, няв!"
+
+#. Key: ARK2_033
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: さあ、今日こそカクゴするニャス！　うねうね！
+msgctxt "ARK2_033"
+msgid "Now, prepare yourself, Squiggly! I'm going to finish you off, once and for all!"
+msgstr "Ну ж бо, Кривулько! Сьогодні тобі кінець, няв!"
+
+#. Key: ARK2_034
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: そ　な　　無　味……。
+#. JA:   イヒヒヒヒヒヒヒヒ。
+msgctxt "ARK2_034"
+msgid ""
+"  at's all    pointless...\n"
+"Uhehehehehehe."
+msgstr "Усе це безгл здо... Іхіхіхіхіхіхіхі."
+
+#. Key: ARK2_039
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 贋　の美　　が　　　凌駕　　　率な　……！
+#. JA:   あああああああああ！
+msgctxt "ARK2_039"
+msgid ""
+"The prob bi  ty        fake be    more beauti    than    orig nal...!\n"
+"AGGGGGHHHHHH!"
+msgstr "Імовірність, що під  бка перевершить красою ор гінал...! А-а-а-а-а-а-а-а-а!"
+
+#. Key: ARK2_040
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: どうニャ！
+#. JA:   これに懲りたら二度と村には来るな、なのニャス！
+msgctxt "ARK2_040"
+msgid "Take that! Let this be a lesson to you, and never come to this village ever again!"
+msgstr ""
+"Отак, няв! Нехай це буде тобі наукою: більше ніколи не приходь до\n"
+"нашого селища!"
+
+#. Key: ARK2_041
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 体　……命　　……漏れ　　……命命命　レの　ワ　の心　　の涙……。
+msgctxt "ARK2_041"
+msgid "   body...    fountain    souls...     gush   ...    lifelife       , my heart,    tears..."
+msgstr ""
+"Тіло... дже ело життя... витікає... життя,     , життя, МОЄ життя, МОЄ\n"
+"серце, МОЇ сльози..."
+
+#. Key: ARK2_043
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: うにゃっ!?
+msgctxt "ARK2_043"
+msgid "Huh!?"
+msgstr "Ня-а?!"
+
+#. Key: ARK2_044
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 消えた……。まーた逃げたニャス！
+#. JA:   次はもっとギッタンギッタンにしてやるニャス！
+msgctxt "ARK2_044"
+msgid ""
+"He disappeared...He got away again!\n"
+"Next time I'll have to beat the crap out of him even more!"
+msgstr "Зник... Знову втік, няв! Наступного разу Тао відлупцює його ще дужче!"
+
+#. Key: ARK2_049
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Taokaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ウ、ニャス……。
+msgctxt "ARK2_049"
+msgid "Uhh... Mew..."
+msgstr "Н-няв..."
+
+#. Key: ARK2_050
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 所　は　世のレ　　カ、水　の下　は境　　　ないケヒヒヒヒ。
+msgctxt "ARK2_050"
+msgid ""
+"       noth    but    atavis    repli  ,        noth    when        put unde     \n"
+"mercur . Keheeheehehe."
+msgstr ""
+"Усього    атаві  ична репліка. Під ртуттю їй до Межі не дістат ся.\n"
+"Кехіхіхіхі."
+
+#. Key: ARK2_052
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Feisty-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あーっ！　タオがやられたよ！
+msgctxt "ARK2_052"
+msgid "Oh, no! Tao got beat!"
+msgstr "Ой! Тао перемогли!"
+
+#. Key: ARK2_053
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 助けなきゃ！　タオを助けなきゃ！
+msgctxt "ARK2_053"
+msgid ""
+"We gotta help her!\n"
+"We need to help her!"
+msgstr "Треба її рятувати! Треба врятувати Тао!"
+
+#. Key: ARK2_054
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Calic-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: みんな、かかれーっ！
+msgctxt "ARK2_054"
+msgid "Everyone, attack!"
+msgstr "Усі в атаку!"
+
+#. Key: ARK2_056
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: アラクネは一瞬怯んだものの、すぐに落ち着きを取り戻してチビカカ達を面倒臭そうに弾き飛ばす。
+msgctxt "ARK2_056"
+msgid ""
+"Their attack only stunned Arakune for a second...\n"
+"He let out a distorted yell and brushed them off like so many flies."
+msgstr ""
+"Аракуне лише на мить відсахнувся, та швидко опанував себе й\n"
+"роздратовано розкидав малих Кака."
+
+#. Key: ARK2_057
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 煩わ　い　　頭　　を　ぶ蠅　　かそれ　　鍵　かか　　　な　　ランクな　か　解　　しむ……。
+msgctxt "ARK2_057"
+msgid ""
+"  can't unders    ...         littl  flies     op       head anno           unlock  \n"
+"     ... Hard ca  ..."
+msgstr ""
+"Не можу збаг  ти... Що   надокучає: мухи над голов ю чи незамкнена\n"
+"валіза..."
+
+#. Key: ARK2_059
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ハハ……アハハ……隔世　……レプリカ……。
+msgctxt "ARK2_059"
+msgid "Hehehe... Hahaha...Atavis   ...rep  ca..."
+msgstr "Ха-ха... А-ха-ха... атавіст чна... репліка..."
+
+#. Key: ARK2_060
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰う
+msgctxt "ARK2_060"
+msgid "Eat."
+msgstr "Зжерти"
+
+#. Key: ARK2_061
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰わない
+msgctxt "ARK2_061"
+msgid "Don't eat."
+msgstr "Не жерти"
+
+#. Key: ARK2_065
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　う。喰　　だ……。
+msgctxt "ARK2_065"
+msgid "Devour. Mus  de our..."
+msgstr "Зжерти. Треба зж рти..."
+
+#. Key: ARK2_067
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Feisty-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: タオーっ！
+msgctxt "ARK2_067"
+msgid "Tao!"
+msgstr "Тао!"
+
+#. Key: ARK2_069
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 未　　腹な　は　狭　と暴れ　　　の虫と五　　魂の顕　　故　それ　食　　事をワレ　　す……。
+msgctxt "ARK2_069"
+msgid ""
+"    still hungr            small bug        equal        manif          s narr  ,    \n"
+"  en then,   desire    eat..."
+msgstr ""
+"Я    голодн й через дрібну комаху, що несамовито бор  ється, і прояв\n"
+"рівноцінної душі. Тож Я хочу зж рти й це..."
+
+#. Key: ARK2_071
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: わーっ!?
+msgctxt "ARK2_071"
+msgid "Waah!"
+msgstr "А-а-а?!"
+
+#. Key: ARK2_072
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Calic-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ぎゃーっ!?
+msgctxt "ARK2_072"
+msgid "Eeek!"
+msgstr "Ой-й-й?!"
+
+#. Key: ARK2_074
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: げふ　　。
+msgctxt "ARK2_074"
+msgid "Uargh."
+msgstr "Гик..."
+
+#. Key: ARK2_076
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 生　と　ま　　湧き　るが　くワ　　胎内　　　まれし。
+msgctxt "ARK2_076"
+msgid "Life    sure   gush                 will be bor  again    m  womb."
+msgstr "Життя,    дже ело, б’є з МІЙОГО черева й народ  ється знову."
+
+#. Key: ARK2_077
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: クカカカカカコキケキキケケケケ。
+msgctxt "ARK2_077"
+msgid "Guhahahahakokeekokeehehehehehe."
+msgstr "Ку-ка-ка-ка-ка-ка-ко-кі-ке-кі-кі-ке-ке-ке-ке."
+
+#. Key: ARK2_082
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰わ　　一　　恥……。
+msgctxt "ARK2_082"
+msgid "Not eat    is   moment of embar  ss    ..."
+msgstr "Не зж рти — лише мить ганьби..."
+
+#. Key: ARK2_084
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Feisty-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: やったー、逃げるぞー！
+msgctxt "ARK2_084"
+msgid "Yay! He's running away!"
+msgstr "Ура, він тікає!"
+
+#. Key: ARK2_085
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Fluffy-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: うねうね追い払ったぞー！
+msgctxt "ARK2_085"
+msgid "We've gotten rid of the squiggly!"
+msgstr "Ми прогнали Кривульку!"
+
+#. Key: ARK2_086
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Calic-kaka
+#. Context: Arakune story route (POV: Arakune)
+#. JA: わー！
+msgctxt "ARK2_086"
+msgid "YAY!"
+msgstr "Ура!"
+
+#. Key: ARK2_088
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ　　末な　命では　　や足り　由、ワレ　求む　　　界の　淵に　　着く驚　動　　　型黒　生　……。
+msgctxt "ARK2_088"
+msgid ""
+"Those triv    lives       suffi  .      I wan     the world   deep   ,       shatter   ,\n"
+"large       dark soul..."
+msgstr ""
+"Тих нікчемних життів   замало. Я прагну величе  ого чорного життя, що\n"
+"приголомшить небеса й землю та сягне світової безодні..."
+
+#. Key: ARK2_094
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 蒼　　　あ　あおあ　あ　蒼　蒼　　蒼　蒼　蒼　　　あ　あ　　おア　蒼　ア　　オアオア　はど　ら　……。
+msgctxt "ARK2_094"
+msgid "A     zureAz   Azu    ureAzur   ureAzure zureAz   Azu  AzureAzur   zure..."
+msgstr "Ла  рЛазурЛаз рЛазурЛазурЛаз рЛазурЛазурЛазурЛаз р... де в на..."
+
+#. Key: ARK2_095a
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あちらの光の先の奥底か……。
+msgctxt "ARK2_095a"
+msgid "Is it in the depth of the light over there..."
+msgstr "У глибині за тим світлом..."
+
+#. Key: ARK2_096a
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 血を見る埃の先々か……。
+msgctxt "ARK2_096a"
+msgid "A future filled with bloodshed and dust..."
+msgstr "Далі, за пилом, де ллється кров..."
+
+#. Key: ARK3_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 蒼　蒼あ　　おア　　魔　書　　の　おの……。
+msgctxt "ARK3_002"
+msgid "Azur  zureAz    zureGri oire zur GrimoireAzure..."
+msgstr "Ла  р,     , Лаз р... Лазурн й Гримуар... Лазур..."
+
+#. Key: ARK3_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: くそ……ジンの野郎……！
+#. JA:   もうちょっと手加減しやがれってんだ……。
+msgctxt "ARK3_004"
+msgid "Goddammit, Jin...! Go a little easier on me next time..."
+msgstr "Чорт... Джіне, сучий ти сину...! Міг би хоч трохи стримуватися..."
+
+#. Key: ARK3_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: よ　　く接　接　し　蒼　　道書と　レと魂　　生ィ……！
+msgctxt "ARK3_005"
+msgid "Fin    , I get clo   con              Azure Grim         you and      soul's r birth...!"
+msgstr ""
+"Наре ті я зблизився, торк  вся Лазурного Гримуара... Я і    душа перерод\n"
+"мося...!"
+
+#. Key: ARK3_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: な、なんだよ、テメェ……。
+msgctxt "ARK3_007"
+msgid "What the hell are you...?"
+msgstr "Ти... Ти ще що таке...?"
+
+#. Key: ARK3_008
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: グググヴヴヴググググヴヴヴヴヴ。
+msgctxt "ARK3_008"
+msgid "G-G-G-G-G-G-BRR-RR-RR-EG-EG-EG-EG."
+msgstr "Ґ-ґ-ґ-ґ-в-в-в-ґ-ґ-ґ-ґ-в-в-в-в-в."
+
+#. Key: ARK3_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ちょ……！　近付くんじゃねえよ！
+msgctxt "ARK3_010"
+msgid ""
+"Hey...!\n"
+"Don't come near me!"
+msgstr "Гей...! Не наближайся до мене!"
+
+#. Key: ARK3_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ガフアファ！
+msgctxt "ARK3_012"
+msgid "Aaghahaa!"
+msgstr "Ґа-фу-а-фа!"
+
+#. Key: ARK3_014
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 蒼　蒼　　蒼蒼……も　逃　さ　　もう　ま　た僕の　……。
+msgctxt "ARK3_014"
+msgid "Azu  Azur  zureAzure zure...  won   le      go...  Fina    captured   ,    Azur ..."
+msgstr "Лаз р,     , Лаз р, Лазур... Уже не втеч ш... Нарешті спі   в... МОЯ Лазур..."
+
+#. Key: ARK3_015
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: キヒイイイイイイイイッ！
+msgctxt "ARK3_015"
+msgid "Guheeeeeeeeeeeeeee!"
+msgstr "Кіхі-і-і-і-і-і-і-і-і-і!"
+
+#. Key: ARK3_016
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: うっげ……キモッ。マジ勘弁してくれよ……。
+msgctxt "ARK3_016"
+msgid "What the— OK, seriously...? Could you...go away...?"
+msgstr "Фу... Яка гидота. Та відчепися ти вже..."
+
+#. Key: ARK3_021
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こ　　まこ　深　蒼に　　潰さ　てしま　　僕　　　　曲　様　も　や遠　シュレ　　　　ガーの彼　へと……。
+msgctxt "ARK3_021"
+msgid ""
+"If I le      dee  Azu   die      , may      war  d heart                yon  \n"
+"toward     Schrodi    ..."
+msgstr ""
+"Якщо глибока Лаз р поглине мене, викрив  ний візерунок мого серця\n"
+"полине      , за межі Шредінґера..."
+
+#. Key: ARK3_022
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: やれやれ……どうにか撃退したし、先に進むか。
+msgctxt "ARK3_022"
+msgid "*sigh* Finally got rid of it... I guess I'll move on."
+msgstr "От же ж... Та я якось його відбив. Час рухатися далі."
+
+#. Key: ARK3_023
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 匂い付いてねェだろうな……？　つーか呪うなよ!?
+msgctxt "ARK3_023"
+msgid ""
+"Ugh... Did I get anything on me...?\n"
+"Don't even think about cursing me."
+msgstr ""
+"Сподіваюся, воно не лишило на мені свого смороду... І не здумай мене\n"
+"проклинати!"
+
+#. Key: ARK3_025
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ、　が……。
+msgctxt "ARK3_025"
+msgid "Ah, the sea..."
+msgstr "А, м ре..."
+
+#. Key: ARK3_031
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: くっ……！
+#. JA:   いつもならこの程度の奴に……！
+msgctxt "ARK3_031"
+msgid "Guh...! How'd I lose to...someone like you..."
+msgstr "Кх...! Зазвичай я б такого, як ти...!"
+
+#. Key: ARK3_032
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 蒼　蒼　　蒼。
+#. JA:   蒼　　来　の時　　の世　がも　　ぐ―――
+msgctxt "ARK3_032"
+msgid ""
+"Azur  zur Azure zur .\n"
+"  e era of      zure...    world wit  Az       com   —"
+msgstr "Лаз р, Лазур, Лаз р. Пришестя Лазурі, доба Лазурі, світ Лазурі   б  зько —"
+
+#. Key: ARK3_033a
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰うのだ。蒼を。
+msgctxt "ARK3_033a"
+msgid "The Azure. Devour it."
+msgstr "Зжерти. Лазур."
+
+#. Key: ARK3_034a
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: だがこの蒼は……？
+msgctxt "ARK3_034a"
+msgid "But this Azure is...?"
+msgstr "Але ця Лазур...?"
+
+#. Key: ARK3_038
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰　の　。蒼　。
+msgctxt "ARK3_038"
+msgid "The Az   . Devour i ."
+msgstr "Зж рти. Лазур."
+
+#. Key: ARK3_040
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こ　が　界……！
+msgctxt "ARK3_040"
+msgid "This i  th  world...!"
+msgstr "Ось він, св т...!"
+
+#. Key: ARK3_041
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: テメェ……！
+msgctxt "ARK3_041"
+msgid "You bastard...!"
+msgstr "Скотина...!"
+
+#. Key: ARK3_043
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ワ　が求め　　真　　理世　の　奥　界　　成、そ　が今　この　　中に　ての世　の組　 　が……。
+msgctxt "ARK3_043"
+msgid ""
+"What   wan         true myster         compos             world.     that    curren   \n"
+" n my bo  ,   e com         formu   of     worlds    in me... "
+msgstr ""
+"Я прагну істини, істинного устрою найглибших глибин світу. І     у\n"
+"цьому тілі... формула будови в  х світів..."
+
+#. Key: ARK3_044
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ケヒヒヒヒヒヒヒヒヒヒヒャ！
+msgctxt "ARK3_044"
+msgid "Guheeheeheeheeeeeeeah!"
+msgstr "Кехіхіхіхіхіхіхіхіхіхі-я!"
+
+#. Key: ARK3_051
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: だ　こ　蒼　……？
+msgctxt "ARK3_051"
+msgid "But      Azur  is...?"
+msgstr "Але ця Лаз р...?"
+
+#. Key: ARK3_052
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 取　込　　い　レには　　生命は　　　質　の　源ゆ　　泉は干上が　魂　焦が　続ける恐　　い　夢……。
+msgctxt "ARK3_052"
+msgid ""
+"I, who       take   , am...     soul        huge mas  o heat     hence     fount   \n"
+"  s exsi           continu      burn...  e should...a horri    nightma  ..."
+msgstr ""
+"Я не здатен її пог  нути... Це життя — джерело тепла колосальної маси,\n"
+"від якого джерело висихає, а душа безперервно палає... Жахл вий\n"
+"кошмар..."
+
+#. Key: ARK3_053
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ケヒイイイイイイイイイッ!?
+msgctxt "ARK3_053"
+msgid "Guheheeheeehe?"
+msgstr "Кехі-і-і-і-і-і-і-і-і-і?!"
+
+#. Key: ARK3_055
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+#. JA: なんだ、コイツ……くそっ……！
+#. JA:   意識が……。
+msgctxt "ARK3_055"
+msgid ""
+"The hell's wrong with this guy...?\n"
+"Damn it...! I'm...losing...consciousness..."
+msgstr "Що з цією тварюкою...? Чорт... Я... непритомнію..."
+
+#. Key: ARK4_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: やっと……やっと見付けた。
+msgctxt "ARK4_002"
+msgid "I finally...I finally found you."
+msgstr "Нарешті... Нарешті я тебе знайшла."
+
+#. Key: ARK4_003
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: フヒ……。
+msgctxt "ARK4_003"
+msgid "*hiss*"
+msgstr "Фхі..."
+
+#. Key: ARK4_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ずっと探してたのよ？
+#. JA:   引きこもりだったくせに、急に活動的になるから、
+#. JA:   見つけるのに時間がかかっちゃった……
+msgctxt "ARK4_004"
+msgid ""
+"I've been looking all over for you. You were such a recluse before, and now that\n"
+"you're so active, it took me forever to find you..."
+msgstr ""
+"Я так довго тебе шукала. Ти ж завжди був відлюдькуватим, а тут раптом\n"
+"почав усюди вештатися... Тому знайти тебе було непросто..."
+
+#. Key: ARK4_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ウ、ア、うヴ……オオオ。
+msgctxt "ARK4_005"
+msgid "Ugh, agh. Ubu...ohh...agh. "
+msgstr "У, а, у-в... О-о-о."
+
+#. Key: ARK4_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 帰りましょう？
+#. JA:   いつまでもこんなところにいないで。
+msgctxt "ARK4_006"
+msgid ""
+"Don't stay outside forever.\n"
+"Let's go home, OK?"
+msgstr ""
+"Повертаймося додому, гаразд? Не можна ж вічно лишатися в такому\n"
+"місці."
+
+#. Key: ARK4_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: きっと元に戻る方法だって見付かるから……。
+msgctxt "ARK4_007"
+msgid "I'm sure we'll find a way to turn you back..."
+msgstr "Ми обов'язково знайдемо спосіб повернути тебе до колишнього стану..."
+
+#. Key: ARK4_008
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ダレ　　マ　ダレ　ワレ　知　のか　故ワ　を　るのか　マ　は何か　　エの　トバを　レは　　ワ　はワ　ワレ　　　レ……。
+msgctxt "ARK4_008"
+msgid ""
+"Who are you a   do     know me     why    you      me         you are    who\n"
+"you know me me      me   ...?"
+msgstr ""
+"Х о ти?   ТИ? Зн  ш МЕНЕ? Чо у знаєш МЕНЕ? Хто ТИ та ий? Я зн ю\n"
+"ТВОЇ сло а, Я — ЦЕ Я, Я, Я, Я..."
+
+#. Key: ARK4_009
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: なにも思い出せないの？
+#. JA:   私のことも？
+msgctxt "ARK4_009"
+msgid ""
+"You can't remember anything?\n"
+"Not even me?"
+msgstr "Ти нічого не можеш згадати? Навіть мене?"
+
+#. Key: ARK4_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: な　ない　いあり　ぬあり　ずと　ありえ　いも　や記　な　ワレに　　在し得　禁　の元　……。
+msgctxt "ARK4_010"
+msgid ""
+"No  non  I don        memor         ther  isn't any the   isn't any             \n"
+"el ment     should nev   exist  n me..."
+msgstr ""
+"Нема, нема, немож  во, не може бути,         . Пам'я ь більше не здатна\n"
+"існувати в МЕНІ, це заборо ений елемент..."
+
+#. Key: ARK4_011
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: そっか……そう、よね……。
+#. JA:   そんな簡単には……。
+msgctxt "ARK4_011"
+msgid "I see...that's how it is... It's not that easy..."
+msgstr "Он як... Так, звісно... Це не могло бути так просто..."
+
+#. Key: ARK4_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: でも、連れて帰るからね、絶対。
+#. JA:   そのためにここまで来たんだもの。
+msgctxt "ARK4_012"
+msgid ""
+"But...I'm bringing you home, OK? \n"
+"I came all the way here for that."
+msgstr ""
+"Але я однаково заберу тебе додому. Неодмінно. Заради цього я сюди й\n"
+"прийшла."
+
+#. Key: ARK4_013
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 邪　を　る　　魔を　害を。
+#. JA:   今　蒼　　　前に　　のだ……！
+#. JA:   ギャファアアアアアア！
+msgctxt "ARK4_013"
+msgid ""
+"Don  get    my    .        get ri     you.\n"
+"The Azure    right       nt    me...!\n"
+"Graaaaagggghhh!"
+msgstr ""
+"Не зава  й, не стій на шляху.     Ла ур просто переді МНОЮ...!\n"
+"Ґяфа-а-а-а-а-а-а-а!"
+
+#. Key: ARK4_018
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: アアアアアアアアアアアアアアアアアアアア！
+msgctxt "ARK4_018"
+msgid "AAARRRRRRGGGGHHHHH!"
+msgstr "А-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а!"
+
+#. Key: ARK4_019
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……っ。
+msgctxt "ARK4_019"
+msgid "..."
+msgstr "...!"
+
+#. Key: ARK4_020
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ　、　あ、湾　な　　、手　突　込　　は　だ？
+#. JA:   脳　の奥　　を引き　ぎ　肉　裂　　　誰　誰　誰　!?
+msgctxt "ARK4_020"
+msgid ""
+"Aaah...is      curve who barge    ?   e string in     depth of    brain. Who              \n"
+"           teari      off     tear        meat? Who is    who is    who is   !"
+msgstr ""
+"А-а, а-а, кри изна? Хто запус  є туди руку? Хто рве нитки в гл бині\n"
+"мозку, шма ує плоть? Хто,   , хто?!"
+
+#. Key: ARK4_021
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ごめん、なさい……。
+msgctxt "ARK4_021"
+msgid "I'm...sorry..."
+msgstr "Пробач..."
+
+#. Key: ARK4_022
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: イギ　　イ　イ　イッ！
+msgctxt "ARK4_022"
+msgid "Gahaha      ugh    agh!"
+msgstr "Іґі-і-і-і!"
+
+#. Key: ARK4_024
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK4_024"
+msgid "..."
+msgstr "..."
+
+#. Key: ARK4_025
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 消えた……!?　一体どこへ？
+msgctxt "ARK4_025"
+msgid "He disappeared...!? Where did he go?"
+msgstr "Зник...?! Куди ж він подівся?"
+
+#. Key: ARK4_026
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: もしかして境界の門が近くに？
+#. JA:   だとしたら彼は……。
+msgctxt "ARK4_026"
+msgid ""
+"Don't tell me he went near the gates of the Boundary.\n"
+"Then he's..."
+msgstr "Невже десь поблизу брама до Межі? Якщо так, тоді він..."
+
+#. Key: ARK4_031
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こんな、力を……！
+msgctxt "ARK4_031"
+msgid "You had this much power..."
+msgstr "Звідки в тебе... така сила...!"
+
+#. Key: ARK4_032
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 僕　、　は、アハハハハハハ自　など混ざ　　　　いる。
+#. JA:   　　知らな　人　　界にいる。
+msgctxt "ARK4_032"
+msgid ""
+"I'm,     Ahahahahahaha           comple     mix  . Some            one knows   \n"
+"       outs    world."
+msgstr ""
+"Я... Я... А-ха-ха-ха-ха-ха! Моє «я»   цілком змі  лося. У зовніш ому світі є\n"
+"хтось, кого ніхто не знає."
+
+#. Key: ARK4_034
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 待って！
+msgctxt "ARK4_034"
+msgid "Wait!"
+msgstr "Зачекай!"
+
+#. Key: ARK4_036
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あぁっ……。
+msgctxt "ARK4_036"
+msgid "Aah...!"
+msgstr "А-а..."
+
+#. Key: ARK4_038
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 誰　か　　らない　しかし　　　やるべ　　とは　だ巨　な生　　惹か　　　むば　り。進む　　り。
+msgctxt "ARK4_038"
+msgid ""
+"I don   kno  who you    , but      have to           ttracted    grand souls to mov\n"
+"th m."
+msgstr ""
+"Не знаю, хто ти, та тепер лишилося      йти, вабл ним величезним\n"
+"життям. Лише впе ед. Лише вперед."
+
+#. Key: ARK4_039
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 白　　命が瞬い　い　。
+#. JA:   巨　な白　矮星　よ　に……。
+msgctxt "ARK4_039"
+msgid ""
+"  white soul    flicker   .\n"
+"Just        white dwarf s ar..."
+msgstr "Біле життя мерех  ть. Наче величезний білий карлик..."
+
+#. Key: ARK5_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……蟲か。
+msgctxt "ARK5_002"
+msgid "...An insect."
+msgstr "...Комаха."
+
+#. Key: ARK5_003
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こ　色　……白　！
+#. JA:   な　　が　る!?
+#. JA:   天　　瞬　三　の　　の白　！
+msgctxt "ARK5_003"
+msgid ""
+"  is color...   White...!\n"
+"Why    White h   !?\n"
+"    white that's                flicker           skies  bove!"
+msgstr ""
+"Цей ко ір... білий! Чому бі ий тут?!     , що мав мере  іти потрій ою зіркою\n"
+"в небесах!"
+
+#. Key: ARK5_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 失せるが良い。
+#. JA:   其れとも消される事を望むのか？
+msgctxt "ARK5_004"
+msgid ""
+"Begone, foul creature.\n"
+"Or perhaps you would prefer to face my blade and meet oblivion?"
+msgstr "Згинь. Чи ти волієш, аби я тебе знищив?"
+
+#. Key: ARK5_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: イヒヒイヒヒヒッヒヒヒヒヒヒヒヒ！
+#. JA:   　！　白　　取　込　　も　やワ　は極　生　　頂　！
+#. JA:   食　うの　天地　　に、こ　　星を！
+msgctxt "ARK5_005"
+msgid ""
+"Eeheeheehheeheeheehee!\n"
+"White!  f I consume white,      I will be        top        ultima   soul !\n"
+"  must eat            star, alon  wi       heaven     earth."
+msgstr ""
+"Іхі-хі-хі-хі-хіхіхіхіхі! Білий! Якщо пог  ну й біле, Я ста у вершиною\n"
+"найвеличнішого життя! Зже ти цю білу зорю     із небом і землею!"
+
+#. Key: ARK5_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……愚かな。
+msgctxt "ARK5_006"
+msgid "...Fool."
+msgstr "...Дурень."
+
+#. Key: ARK5_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……此の力!?
+msgctxt "ARK5_012"
+msgid "Ungh... Such power."
+msgstr "...Що за сила?!"
+
+#. Key: ARK5_013
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 貴様、もしや「蒼」を取り込んだか？
+msgctxt "ARK5_013"
+msgid "Bastard, have you devoured the Azure as well?"
+msgstr "Невже ти поглинув Лазур?"
+
+#. Key: ARK5_014
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　ヒ　。
+#. JA:   蒼　蒼……　はも　やワ　と同　。
+#. JA:   白　混　るか。　　の宴　　くの　。
+msgctxt "ARK5_014"
+msgid ""
+"Keehee.\n"
+"Azure     Az   ...        s now   come     with   .\n"
+"Will     white    consum  , too?            have    Azure       party."
+msgstr ""
+"Кехі. Лазур, Лаз р... Лаз р   єдина зі МНОЮ. Чи домі  ється й біле? Чи\n"
+"буде лазурно-білий бенкет?"
+
+#. Key: ARK5_015
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……此の程度の蟲に取り込まれるとは。
+#. JA:   見損なったぞ、黒き者よ。
+msgctxt "ARK5_015"
+msgid ""
+"...So you allowed this paltry insect to consume you.\n"
+"You disappoint me."
+msgstr ""
+"...Дозволити такій нікчемній комасі себе поглинути. Ти розчарував мене,\n"
+"чорний."
+
+#. Key: ARK5_017
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ぐ、が、あああああ！
+msgctxt "ARK5_017"
+msgid "Gah...agh...aghaghaghagh!"
+msgstr "Ґх, ґа, а-а-а-а-а!"
+
+#. Key: ARK5_019
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: このままでは「境界」に置き去りになろう。
+#. JA:   手を煩わせてくれる……！
+msgctxt "ARK5_019"
+msgid ""
+"Your actions...will imprison us in the Boundary.\n"
+"I demand that you desist...!"
+msgstr "Так нас покинуть у Межі. Скільки ж мороки...!"
+
+#. Key: ARK5_021
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: お　、お　お　　蒼、あお　　お　っ!?
+msgctxt "ARK5_021"
+msgid "Azure, zuuure, zuuure, azure!"
+msgstr "О-а, о-о-о, Лаз р, Лазу-у-ур?!"
+
+#. Key: ARK5_023
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK5_023"
+msgid "..."
+msgstr "..."
+
+#. Key: ARK5_024
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 其処で眠っているが良い。
+#. JA:   まずは蟲を駆除せねばな……。
+msgctxt "ARK5_024"
+msgid ""
+"Sleep.\n"
+"I must exterminate this insect."
+msgstr "Лежи тут і спи. Спершу слід винищити комаху..."
+
+#. Key: ARK5_025
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　……　の全　……世　の……。
+msgctxt "ARK5_025"
+msgid "     ...my ev        ...in      world..."
+msgstr "Ла  р... у е моє... світове..."
+
+#. Key: ARK5_026
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 我は空、我は鋼、我は刃……。
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ARK5_026"
+msgid ""
+"I am the white void. I am the cold steel. I am the just sword.\n"
+"With blade in hand shall I reap the sins of this world, and cleanse it in the fires of\n"
+"destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Єдиним мечем я пожну всі\n"
+"«гріхи» та знищу «зло»!"
+
+#. Key: ARK5_027
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ARK5_027"
+msgid "I am Hakumen. The end has come."
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ARK5_028
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: キヒャアアアアアアア！
+msgctxt "ARK5_028"
+msgid "Khaaaaaaaaaaaaaah!"
+msgstr "Кхя-а-а-а-а-а-а-а!"
+
+#. Key: ARK5_032
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 貴様如きが立つ舞台ではない。
+#. JA:   即刻、降りるのだ。
+msgctxt "ARK5_032"
+msgid ""
+"This place does not desire the likes of you.\n"
+"Leave, now."
+msgstr "Це не сцена для такого, як ти. Негайно зійди з неї."
+
+#. Key: ARK5_033
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　……　おなど　くと　、もは　ワ　の力は　　の　淵に　り着　
+#. JA:   　地の　　　放　者……お　えがそ　を　け、　い星。
+msgctxt "ARK5_033"
+msgid ""
+"Az   ...Eve  withou       zure,       wander        will trav   to  each     world's\n"
+"      t groun ...    out       way, white star."
+msgstr ""
+"Лаз р... Навіть без Лазурі МОЯ си а   стала манд  вником світу, що сягне\n"
+"його найглибшої безодні... Зі ди з дороги, біла зоре."
+
+#. Key: ARK5_034
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あくまで退かぬか。
+#. JA:   愚かな。
+msgctxt "ARK5_034"
+msgid "You still persist? You cannot prevail against the blade of justice. Fool."
+msgstr "Усе одно не відступиш? Дурень."
+
+#. Key: ARK5_036
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 虚空陣奥義―――
+msgctxt "ARK5_036"
+msgid "Judgment!"
+msgstr "Кокуджін: таємна техніка —"
+
+#. Key: ARK5_038
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: オアアアアアッ！
+msgctxt "ARK5_038"
+msgid "Arrrrggggghh!"
+msgstr "О-а-а-а-а-а-а!"
+
+#. Key: ARK5_039
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 「悪滅」
+msgctxt "ARK5_039"
+msgid "Perish!"
+msgstr "«Акумецу»!"
+
+#. Key: ARK5_041
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ギッ!?
+msgctxt "ARK5_041"
+msgid "Ugh!?"
+msgstr "Ґі?!"
+
+#. Key: ARK5_042
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　、が、　から　　らだ　の僕　　くぼく　世　ぼ　の心の　　　眠る　　寄る　沌の　き　　その全　のカ　チ、が……　……。
+msgctxt "ARK5_042"
+msgid ""
+"My...   bo d ...     dy...All     dea  corps                  d th    eyes eter     \n"
+"       bo tom    my heart,     world...all    it... t's...dead..."
+msgstr ""
+"Тіло... моє ті о,    , Я, я, я... усі форми останків повз  ого хаосу, що сплять\n"
+"у глибині МОГО се ця, МОГО світу... пом рають..."
+
+#. Key: ARK5_044
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……来世で会おう。
+#. JA:   哀れな蟲よ。
+msgctxt "ARK5_044"
+msgid "We will meet again in the afterlife, pitiful insect."
+msgstr "...Зустрінемося в наступному житті, жалюгідна комахо."
+
+#. Key: ARK5_049
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……まだ完全ではない、か。
+msgctxt "ARK5_049"
+msgid "...It is not yet complete."
+msgstr "...Ще не завершено."
+
+#. Key: ARK5_050
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ケヒッ。キヒヒッヒヒヒヒヒヒヒ。
+msgctxt "ARK5_050"
+msgid "Hee. Guheehee, heeheeheeheeheehee."
+msgstr "Кехі. Кіхі-хіхіхіхіхіхіхі."
+
+#. Key: ARK5_051
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: さ　喰　う。
+#. JA:   こ　白い　　を。　い奴を。
+#. JA:   そ　　　が真　、　れこ　　　命。
+msgctxt "ARK5_051"
+msgid ""
+"      eat.\n"
+"This    nt white sta .      white du  .\n"
+"That's tru . That   fate."
+msgstr "Час зж рти. Цю ве  ку білу зорю.   білу істоту. Це іс ина. Це доля."
+
+#. Key: ARK5_052
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 良かろう。
+#. JA:   我が全身全霊を以て貴様を―――
+msgctxt "ARK5_052"
+msgid ""
+"Very well then.\n"
+"I will not hold back! You will taste the full fury of—"
+msgstr "Гаразд. Тоді всією своєю силою я тебе —"
+
+#. Key: ARK5_054
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: !?
+#. JA:   事象干渉か！
+#. JA:   「化け猫」め！
+msgctxt "ARK5_054"
+msgid "Guh! How dare you interrupt me, Grimalkin!"
+msgstr "?! Втручання у причинність! Клята відьомська кицька!"
+
+#. Key: ARK5_056
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……　ア。
+msgctxt "ARK5_056"
+msgid "...Uagh."
+msgstr "...У-а."
+
+#. Key: ARK5_057
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　　　コ……ココ、　　……コ　　　ココ　　　コ　　……邪　をす　　かま　僕　疎　　　のか　の女　あ　愚　　！　オヴオオオオオオオオオオオ！
+msgctxt "ARK5_057"
+msgid ""
+"    kin...Koko...noe..Ko  noeKokonoe.     y   gonna get     y      gain,       \n"
+"g     neglect     gain,   t        bitch!\n"
+"Urrrrrrggggghhhhhhhh!"
+msgstr ""
+"Відьомс ка кицька... Коко... Ное... Коконое, Коко  є, Коконое... Знову\n"
+"заважатимеш?      відкин ш мене? Клята ду на жінка!\n"
+"О-в-о-о-о-о-о-о-о-о-о!"
+
+#. Key: ARK5_059
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ま　　い。蒼　　に僕　　　中だ。
+#. JA:   あ　は蒼　　り　めば……蒼　え　　こめば……。
+msgctxt "ARK5_059"
+msgid ""
+"Oh,     . T   Azure      rea    n my possess   .    I take     Az   ...     just take it\n"
+"in..."
+msgstr ""
+"Та байду е. Лазур   в моїх руках. Лишилося пог  нути Лазур... Тіль и\n"
+"поглинути Лазур..."
+
+#. Key: ARK5_064
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こ　　覚……知　　いる……以　にも、ど　　で、　　時……「　　」　……　呼、そ　　、こ　は……“　”だ……。
+msgctxt "ARK5_064"
+msgid ""
+"Thi  feel   ...I've      this   fore...Somewhere       ...    <DQ>Boundary<DQ>...\n"
+"Ahh, yes, this I  ...ahh...     <DQ>death<DQ>..."
+msgstr ""
+"Це від  тя... Я й го знаю...   ко ись, десь, тоді... у «Межі»... А-а, т к, це...\n"
+"«смерть»..."
+
+#. Key: ARK5_065
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 生まれ変わって出直すが良い。
+msgctxt "ARK5_065"
+msgid "May you be reborn in a better form someday, and perhaps find your redemption."
+msgstr "Переродися і почни все спочатку."
+
+#. Key: ARK5_066
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ　あ　　　ああ　……ら　……ち……　は……。
+msgctxt "ARK5_066"
+msgid "Ahh  ugh  haagh  ...Li...tchi...I'm..."
+msgstr "А-а-а-а-а-а-а-а-а... Лі... чі... Я..."
+
+#. Key: ARK6_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Ragna
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK6_002"
+msgid "..."
+msgstr "..."
+
+#. Key: ARK6_003
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　……　のミ　　……閉ざ　れた世　　　く鍵……。
+msgctxt "ARK6_003"
+msgid "Azure...   future...    key    open     door    the  ose  world..."
+msgstr "Лаз р...   майбу  є... кл ч, що відчинить замкнений світ..."
+
+#. Key: ARK6_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Nu
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 起動・起動・起動・認識……
+msgctxt "ARK6_006"
+msgid "Loading... Loading... Loading... Complete."
+msgstr "Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ARK6_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Nu
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あれ？
+#. JA:   ラグナ？
+msgctxt "ARK6_007"
+msgid ""
+"Huh? \n"
+"Ragna?"
+msgstr "Що? Раґно?"
+
+#. Key: ARK6_008
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Nu
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ラグナ、どうしたの？
+#. JA:   ラグナをこんなにしたの……だれ？
+msgctxt "ARK6_008"
+msgid "Ragna, what happened? Who did this to you...?"
+msgstr "Раґно, що сталося? Хто це з тобою зробив...?"
+
+#. Key: ARK6_009
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: う、　……蒼……も　ひ　つ……？
+msgctxt "ARK6_009"
+msgid "Oh? A...noth  ...Azure...?"
+msgstr "У, о... Ла  р... ще од а...?"
+
+#. Key: ARK6_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Nu
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……対象の殲滅を開始します
+msgctxt "ARK6_010"
+msgid "...I'll make you feel eternal pain!"
+msgstr "...Починаю знищення цілі."
+
+#. Key: ARK7_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 熱　臭　が　　て　る……赤　　い　と涙……。
+msgctxt "ARK7_002"
+msgid "Some        s                ho ...re  ...     swea        tears..."
+msgstr "Наближ  ться гаря ий запах...        , черво ий піт і сльози..."
+
+#. Key: ARK7_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 待てーいっ！
+msgctxt "ARK7_004"
+msgid "Wait a minute!"
+msgstr "Стояти!"
+
+#. Key: ARK7_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 天が呼ぶ地が呼ぶ人が呼ぶ！
+#. JA:   愛と正義の救世主、シシガミ＝バング、見参！
+msgctxt "ARK7_005"
+msgid ""
+"The heavens, earth, and people call upon me!\n"
+"The savior of love and justice, Bang Shishigami! Here I come!\n"
+msgstr ""
+"Небо кличе, земля кличе, люди кличуть! Рятівник любові й\n"
+"справедливості, Банґ Шішіґамі, прибув!"
+
+#. Key: ARK7_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……低能　　いだ　　。
+msgctxt "ARK7_006"
+msgid "...  e smel s dumb."
+msgstr "...Це був зап х недоумка."
+
+#. Key: ARK7_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 物の怪！　先ほど拙者の部下に手痛い仕打ちをしてくれたと聞いた。
+#. JA:   
+#. JA:   しかも正体を探ってみればカグツチの界隈に悪名をとどろかす
+#. JA:   賞金首ではござらぬか！
+#. JA:   
+msgctxt "ARK7_007"
+msgid ""
+"You monster! How dare you lay a finger on one of my men!\n"
+"I did a little investigating on you... Sure enough, you had a pretty handsome bounty\n"
+"on your head!"
+msgstr ""
+"Потворо! Я чув, ти жорстоко обійшовся з одним із моїх поплічників. А\n"
+"коли я розвідав, хто ти такий, з'ясувалося, що твоя лиха слава гримить\n"
+"по всьому Каґуцучі й за твою голову призначено нагороду!"
+
+#. Key: ARK7_008
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 異様な手配書ゆえ用心していたが……。
+#. JA:   予想以上にそのまんまでござる！！
+#. JA:   そんな特徴的な顔で堂々と浪人街を渡ったのが運の尽き！
+msgctxt "ARK7_008"
+msgid ""
+"I wasn't sure what to expect when I saw the wanted poster...\n"
+"But your luck ran out the moment you set foot into Ronin-gai, lookin' like that..."
+msgstr ""
+"Через дивний портрет у розшуку я був насторожі... Але ти перевершив\n"
+"усі очікування своєю точністю! Тобі настав кінець, щойно ти наважився\n"
+"з таким примітним обличчям відкрито пройти Ронін-ґаєм!"
+
+#. Key: ARK7_009
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 数分　の低　の元　　は予　を上　　　能感に溢れ　　者であ　ワレは　し　　分　害す　。
+msgctxt "ARK7_009"
+msgid ""
+"So      bos             fe      -min                   peop   I be         ier      le          boy\n"
+"          ev             stu    ...I      great      stur           this."
+msgstr ""
+"Бос недоумк в, яких Я розбив кілька хв  ин тому, виявився юна ом,\n"
+"сповненим    більшої нездарності, ніж Я очікував. Це страшенно ображ є\n"
+"МЕНЕ."
+
+#. Key: ARK7_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ええい！
+#. JA:   わけの分からぬことを言いおって！　もっとはっきりと喋らんか！
+msgctxt "ARK7_010"
+msgid ""
+"Eeeei!\n"
+"I don't understand a word you're saying!\n"
+"What is that savage tongue you speak in!?"
+msgstr "Та ну тебе! Верзеш якусь нісенітницю! Говори чіткіше!"
+
+#. Key: ARK7_011
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: まずはその性根を叩き直してやるでござる！
+#. JA:   正義の名の下にいざ成敗でござる！！
+msgctxt "ARK7_011"
+msgid ""
+"Perhaps I'll teach you a lesson or two with my bare hands...!\n"
+"Today, you will fall in the name of justice!"
+msgstr ""
+"Спершу я виб'ю з тебе цю погань! Ім'ям справедливості — настав час\n"
+"кари!"
+
+#. Key: ARK7_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: フシシシシシシシシシシシシシッ！
+msgctxt "ARK7_012"
+msgid "Shhhh-sh-sh-sh-sh-sh-sh-sh!"
+msgstr "Фш-ш-ш-ш-ш-ш-ш-ш-ш-ш-ш-ш-ш-ш!"
+
+#. Key: ARK7_017
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ　……こ　な赤　屠　　るのか……　　　て。
+msgctxt "ARK7_017"
+msgid "Ow...       can...red    feat me..."
+msgstr "Ау... Невже мене вб'є цей чер  ний...? Чо у?"
+
+#. Key: ARK7_018
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: フハハハハッ！
+#. JA:   見たか！
+#. JA:   これこそが拙者の実力！
+msgctxt "ARK7_018"
+msgid ""
+"Mwahahahah!\n"
+"That's right!\n"
+"Justice never loses!"
+msgstr "Фу-ха-ха-ха! Бачив?! Ось вона, моя справжня сила!"
+
+#. Key: ARK7_019
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 体……お　　い。
+#. JA:   う　く動　ない……こ　　いの　いか……。
+#. JA:   暑　しい汗　　　の……。
+msgctxt "ARK7_019"
+msgid ""
+"      body...   feeling o   ...\n"
+"    ...not...mov     prop     ...           cause          smell...?\n"
+"       smell      his swelt       sweat     smell..."
+msgstr ""
+"Тіло... щось не так. Погано рух ється... Че ез   запах...? Цей задуш  вий\n"
+"сморід поту..."
+
+#. Key: ARK7_020
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: お主はそのような妙ちきりんな仮面など被っておるから
+#. JA:   心根が捻じ曲がってしまうのでござる！
+#. JA:   どれ、拙者が剥がしてやるでござる！
+msgctxt "ARK7_020"
+msgid ""
+"Your personality is probably just as twisted as that eerie mask you always wear!\n"
+"Take that off, and show me your true colors!"
+msgstr "Твоя душа скривилася через цю дивакувату маску! Ану, я її з тебе здеру!"
+
+#. Key: ARK7_022
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: アアアアアアアア！
+msgctxt "ARK7_022"
+msgid "Aaaaaaaaah!"
+msgstr "А-а-а-а-а-а-а-а!"
+
+#. Key: ARK7_023
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: む？
+#. JA:   想像以上に固いでござるな？
+msgctxt "ARK7_023"
+msgid ""
+"Hm?\n"
+"It's not...coming...off!"
+msgstr "Гм? Вона твердіша, ніж я гадав."
+
+#. Key: ARK7_025
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こらあ！
+#. JA:   往生際の悪い男め！
+#. JA:   観念して素顔を晒さぬか！
+msgctxt "ARK7_025"
+msgid ""
+"I tell you, resistance is futile!\n"
+"Give up, and show me what you're hiding behind that mask!"
+msgstr ""
+"Ану годі! Не вмієш ти програвати! Змирися й покажи своє справжнє\n"
+"обличчя!"
+
+#. Key: ARK7_027
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ハァ、ハァ……。
+#. JA:   これだけやっても剥がれぬとは……。
+msgctxt "ARK7_027"
+msgid ""
+"*wheeze* *wheeze*\n"
+"How... Is this possible...!?"
+msgstr "Ха, ха... Навіть так не знімається..."
+
+#. Key: ARK7_028
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ウ、ウア、ア、ア……。
+msgctxt "ARK7_028"
+msgid "U...aa...ahh...ahhh."
+msgstr "У, у-а, а, а..."
+
+#. Key: ARK7_029
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK7_029"
+msgid "..."
+msgstr "..."
+
+#. Key: ARK7_030
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……も、もしや、それが素顔でござるか？
+msgctxt "ARK7_030"
+msgid "D-Don't tell me... That's your true face?"
+msgstr "Н-невже це і є твоє справжнє обличчя?"
+
+#. Key: ARK7_031
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ウウ……。
+msgctxt "ARK7_031"
+msgid "Oogh..."
+msgstr "У-у..."
+
+#. Key: ARK7_032
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ということは、もしかして、お主…………………………………………
+#. JA:   …………………………………………………………………………
+#. JA:   ……………………………………正真正銘の“物の怪”でござるか？
+msgctxt "ARK7_032"
+msgid ""
+"Then, does that mean...\n"
+"Y-you're a real...monster!?"
+msgstr "То, може, ти... справжнісінька потвора?!"
+
+#. Key: ARK7_033
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 崩　る……世　　……この一　　……。
+msgctxt "ARK7_033"
+msgid "A par ...         wor  ... s crumbl    ..."
+msgstr "Ру   ється... час ина... світу..."
+
+#. Key: ARK7_035
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: うおうっ!?
+msgctxt "ARK7_035"
+msgid "Uooh!"
+msgstr "У-о-о?!"
+
+#. Key: ARK7_036
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: や、やはり物の怪でござったか……！
+msgctxt "ARK7_036"
+msgid "S-So you really were a monster!"
+msgstr "Т-ти й справді виявився потворою...!"
+
+#. Key: ARK7_037
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: しからば！　知り合いの僧侶のところまで連れていくでござる！
+#. JA:   安らかに成仏するがよいぞ、物の怪よ！
+msgctxt "ARK7_037"
+msgid ""
+"Come! You must see a priest immediately!\n"
+"He can help you ascend...and rest in peace..."
+msgstr "Тоді я відведу тебе до знайомого ченця! Спочивай із миром, потворо!"
+
+#. Key: ARK7_038
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: アラクネは、バングに連れて行かれてしまった。
+#. JA:   その後の彼の消息を知る者はいない。
+msgctxt "ARK7_038"
+msgid ""
+"Arakune was taken away by Bang.\n"
+"No one has heard of his whereabouts ever since..."
+msgstr "Банґ забрав Аракуне із собою. Що сталося з ним далі, не знає ніхто."
+
+#. Key: ARK7_043
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: くうっ！
+#. JA:   このような者に後れを取るとは何たる不覚！
+msgctxt "ARK7_043"
+msgid ""
+"Kuoh!\n"
+"How did I let this creature get the best of me!?"
+msgstr "Кх! Дозволити такому мене здолати — яка ганьба!"
+
+#. Key: ARK7_044
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰　、　か……？
+msgctxt "ARK7_044"
+msgid "Shou     devou  him...?"
+msgstr "Зж рти його...?"
+
+#. Key: ARK7_045
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: い　、や　　おこ　。
+#. JA:   まずそ　　し……臭い　……。
+msgctxt "ARK7_045"
+msgid ""
+"Nah...  shou  n  .\n"
+"     nasty...           smells..."
+msgstr "Ні, не варто.  вигл д несмачний... і смер ить..."
+
+#. Key: ARK7_047
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Bang
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こらっ！　物の怪！　待つでござるっ！
+msgctxt "ARK7_047"
+msgid "Hey! You monster! Wait!"
+msgstr "Гей, потворо! Стій!"
+
+#. Key: ARK7_048
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……関　ら　い。
+#. JA:   関　　ないで　れ　　　は　気……。
+msgctxt "ARK7_048"
+msgid ""
+"...Be     no            invol  ed.\n"
+"   I don  ge  invol     ,         hi   smell won  b  ther me..."
+msgstr "...Не зв'язува  ся.    не зв'язу атися, запах не турбув тиме..."
+
+#. Key: ARK8_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: なに　　いなに　いな　　命の迸　も波　のゆら　　さえも存　　　いつ　らな　場　だ……。
+msgctxt "ARK8_002"
+msgid ""
+"What   bo       place,             no pres nce     a ri pl             life surg   ... \n"
+"no hing..."
+msgstr ""
+"Ні ого нема, ні ого    . Ані спле ку життя, ані колив   я хвиль. Ну не\n"
+"місце..."
+
+#. Key: ARK8_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Man A
+#. Context: Arakune story route (POV: Arakune)
+#. JA: な、なんだアレは？
+msgctxt "ARK8_004"
+msgid "Wh— What's that?"
+msgstr "Щ-що це таке?"
+
+#. Key: ARK8_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: う　……？
+msgctxt "ARK8_005"
+msgid "Huh...?"
+msgstr "У-о...?"
+
+#. Key: ARK8_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Man A
+#. Context: Arakune story route (POV: Arakune)
+#. JA: うわああああっ！
+#. JA:   ば、化け物っ！
+msgctxt "ARK8_006"
+msgid ""
+"Aaaaaaah!\n"
+"A monster!"
+msgstr "А-а-а-а-а! П-потвора!"
+
+#. Key: ARK8_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……ま　そう　　ノはい　ない。
+msgctxt "ARK8_007"
+msgid "...  don'  wa t   nything        looks nas y."
+msgstr "...МЕНІ не потр  не  , що вигляд є несмачно."
+
+#. Key: ARK8_008
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Man A
+#. Context: Arakune story route (POV: Arakune)
+#. JA: た、助けて……！
+#. JA:   助けてくれーっ！
+msgctxt "ARK8_008"
+msgid ""
+"H— Help...!\n"
+"Help me!"
+msgstr "Р-рятуйте...! Допоможіть!"
+
+#. Key: ARK8_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 食　は　　。う　いは　まい。
+#. JA:   な　か、い　　か……。
+msgctxt "ARK8_010"
+msgid ""
+"Eat ng      virtue.\n"
+"Tast      tast  ...\n"
+"            anything    eat...?"
+msgstr "Їжа — че  ота. Сма не є смачним.   є кого зж рти...?"
+
+#. Key: ARK8_011
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Man B
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こ、こっちです！
+#. JA:   化け物が！
+msgctxt "ARK8_011"
+msgid ""
+"I-It's over here!\n"
+"Here's the monster!"
+msgstr "С-сюди! Тут потвора!"
+
+#. Key: ARK8_013
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Man C
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 良かった！
+#. JA:   統制機構の人が来てくれた！
+#. JA:   お願いします、早く退治して下さい！
+msgctxt "ARK8_013"
+msgid ""
+"Thank God!\n"
+"An NOL officer is here!\n"
+"Please, get rid of that thing!"
+msgstr ""
+"Слава богу! Прийшла людина з Організації Контролю! Будь ласка,\n"
+"швидше знищіть цю тварюку!"
+
+#. Key: ARK8_014
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 大丈夫です。
+#. JA:   任せて下さい。
+msgctxt "ARK8_014"
+msgid ""
+"Don't worry.\n"
+"Leave it to me."
+msgstr "Не хвилюйтеся. Довіртеся мені."
+
+#. Key: ARK8_015
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 危ないですから、あなたは下がって。
+msgctxt "ARK8_015"
+msgid "It's dangerous, so stay back."
+msgstr "Тут небезпечно, відійдіть назад."
+
+#. Key: ARK8_016
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Man C
+#. Context: Arakune story route (POV: Arakune)
+#. JA: は、はい！
+msgctxt "ARK8_016"
+msgid "O...OK!"
+msgstr "Т-так!"
+
+#. Key: ARK8_018
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: と、統制機構です！
+#. JA:   おとなしくしなさい！
+msgctxt "ARK8_018"
+msgid ""
+"I... I'm from the NOL!\n"
+"Put your hands in the air!"
+msgstr "О-Організація Контролю! Не чиніть опору!"
+
+#. Key: ARK8_019
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　お……？
+#. JA:   少し　　まそ　、か……？
+#. JA:   よ　、分か　　い……　色だ……？
+msgctxt "ARK8_019"
+msgid ""
+"Oh...?\n"
+"       seems some       tast ...\n"
+"       , hard to     ...         color is she...?"
+msgstr ""
+"О-о...? На вигл д    трохи сма на...? Важко зро  міти... Якого во а\n"
+"кольору...?"
+
+#. Key: ARK8_020
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ひっ!?
+msgctxt "ARK8_020"
+msgid "Eek!"
+msgstr "Ой?!"
+
+#. Key: ARK8_021
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: （な、なに、このニオイ……。
+#. JA:   　ヘドロみたいな……不潔……。
+#. JA:   　お化けみたいで……怖い……！）
+msgctxt "ARK8_021"
+msgid ""
+"Wh-What is this smell...?\n"
+"It's like a disgusting...sludge...\n"
+"He's like a scary monster...!"
+msgstr ""
+"(Щ-що це за запах...? Наче багно... Яка гидота... Воно схоже на привида...\n"
+"Страшно...!)"
+
+#. Key: ARK8_022
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: （で、でも人が見てるし……。
+#. JA:   　こんなところで逃げたら……なんていわれるか……）
+msgctxt "ARK8_022"
+msgid ""
+"B-But people are watching...\n"
+"If I run away now, who knows what people will say...?"
+msgstr "(А-але люди дивляться... Якщо я зараз утечу... Що вони скажуть...?)"
+
+#. Key: ARK8_023
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 喰　て、み　　……。
+msgctxt "ARK8_023"
+msgid "  guess  can take    bite..."
+msgstr "Може, скуш  вати..."
+
+#. Key: ARK8_025
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: （キャ……ッ!?
+#. JA:   　むむむむ虫!?
+#. JA:   　虫はダメッ！　虫はイヤッ！）
+msgctxt "ARK8_025"
+msgid ""
+"Eeeeek!\n"
+"B-B-B-Bugs!?\n"
+"Not bugs! I hate bugs!"
+msgstr "(А-а-а?! К-к-к-комахи?! Тільки не комахи! Я ненавиджу комах!)"
+
+#. Key: ARK8_026
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ブ　　ツう　さい　……。
+#. JA:   い　や、　おう。そ　しよ　。
+#. JA:   ウヒャヒハヒハフホヘ。
+msgctxt "ARK8_026"
+msgid ""
+"Quit        squeal    .\n"
+"    , let's devour     . Yes, let's.\n"
+"AhAHhAHAhaHahaH."
+msgstr "Годі бурмот ти... Та бай  же, зжеру. Т к і зроблю. У-хя-хі-ха-хі-ха-фу-хо-хе."
+
+#. Key: ARK8_027
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: こ、来ないで下さいっ！！
+#. JA:   う、撃ちますよ！
+#. JA:   本当に撃ちますからねっ！
+msgctxt "ARK8_027"
+msgid ""
+"D-Don't move!\n"
+"I...I'll shoot!\n"
+"I really mean it!"
+msgstr "Н-не наближайтеся!! Я-я стрілятиму! Я справді вистрелю!"
+
+#. Key: ARK8_028
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 恐　の色の奥　　　るの　熱い生　　エ　スの　り。
+#. JA:   意　とうま　　　もし　ない　　うでもな　のか　　なのか確か　てみ　　　は探　者の罪な　　……。
+msgctxt "ARK8_028"
+msgid ""
+"Beyon        col        ter     is      scent       burn      soul.\n"
+"She        be         tasty           thought. Maybe        scien  s    nature     find out..."
+msgstr ""
+"У гли ині ко ьору страху пахне гарячим со ом життя. Може, вона\n"
+"неспо  вано смач а, а    , й ні. Чи є злочином дослід ика перевірити це...?"
+
+#. Key: ARK8_034
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 思　た　　力が　るのは生　　　物な　か泉の　さ　……。
+msgctxt "ARK8_034"
+msgid "       more power th  n  t  ought.              gift     life,    is         deep                  spring?"
+msgstr "Сильн ша,   Я думав. Це   жит я чи гли ина джерела...?"
+
+#. Key: ARK8_035
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: （もう嫌だ……帰りたいよぅ……。
+#. JA:   　服も汚れたし……ニオイも……うう……）
+msgctxt "ARK8_035"
+msgid ""
+"I've had enough...I wanna go home...\n"
+"My clothes are dirty...and I smell...*sob*"
+msgstr "(Більше не можу... Хочу додому... Одяг забруднився... І запах... У-у...)"
+
+#. Key: ARK8_036
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 　う　か。喰わ　く　は。消　を　去す　には。
+msgctxt "ARK8_036"
+msgid ""
+"Shal    devour  er?   mus  hav       .\n"
+"In or           limina    was  ."
+msgstr "Зже ти її?     зж рти. Щоб усунути вис   ення."
+
+#. Key: ARK8_038
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: い、いや……！
+msgctxt "ARK8_038"
+msgid "S...Stop...!"
+msgstr "Н-ні...!"
+
+#. Key: ARK8_039
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: もう来ないでーっ！
+msgctxt "ARK8_039"
+msgid "Don't come near me!"
+msgstr "Не наближайся!"
+
+#. Key: ARK8_041
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: お　……!?
+#. JA:   オア　ア　　アア　　　アアオ　オ　ッ！
+msgctxt "ARK8_041"
+msgid ""
+"Oh  ...!? \n"
+"OA A  AA   AAO O GH!"
+msgstr "О-о...?! О-а-а... а-а-а-а... а-а-а-а-о-о... о-о!"
+
+#. Key: ARK8_043
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ウ　……キュ　。
+msgctxt "ARK8_043"
+msgid "Oogh...gyeh."
+msgstr "У-м... Кхю."
+
+#. Key: ARK8_045
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ハァッ、ハァッ……。
+msgctxt "ARK8_045"
+msgid "*pant* *pant*"
+msgstr "Ха, ха..."
+
+#. Key: ARK8_046
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK8_046"
+msgid "..."
+msgstr "..."
+
+#. Key: ARK8_047
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……アレ？
+msgctxt "ARK8_047"
+msgid "...Huh?"
+msgstr "...Що?"
+
+#. Key: ARK9_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ううううう……大丈夫かな、このまま出しても……。
+#. JA:   でもずっと置いておくのも嫌だし……。
+msgctxt "ARK9_002"
+msgid ""
+"Uhhhhhh... Is it all right if I leave it out...?\n"
+"But that's probably not a good idea..."
+msgstr ""
+"У-у-у... Чи можна його так лишити надворі...? Але й тримати в себе не\n"
+"хочу..."
+
+#. Key: ARK9_003
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ、　……？
+msgctxt "ARK9_003"
+msgid "Ah,  ...?"
+msgstr "А, у...?"
+
+#. Key: ARK9_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 暗　こ　は暗い　こ　だ……どこ　　るのか　獄の　　　か
+#. JA:   あ　世界　　てな　か輪　　る時の　れの　端の……。
+msgctxt "ARK9_004"
+msgid ""
+"This       dar   pla   ...                bottom   f hell...? Am       he realm   f dea h...?\n"
+"    maybe it'   the       of                   cy  e     death       r  birth..."
+msgstr ""
+"Темно... Тут темне місце... Де Я? На дні пе ла? На краю то о     ? Чи на са\n"
+"ому кінці потоку часу, що несе коло переро  ень...?"
+
+#. Key: ARK9_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ヒッ！
+#. JA:   ま、まだ生きてる!?
+msgctxt "ARK9_005"
+msgid ""
+"Eek!\n"
+"I-It's still alive!?"
+msgstr "Ой! В-воно досі живе?!"
+
+#. Key: ARK9_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: お願い！　イヤなの、ホントにイヤ！
+msgctxt "ARK9_006"
+msgid "Please! I really don't like this! I really don't!"
+msgstr "Будь ласка! Я не хочу, справді не хочу!"
+
+#. Key: ARK9_008
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ギヒッ!?
+msgctxt "ARK9_008"
+msgid "Eehee!?"
+msgstr "Ґіхі?!"
+
+#. Key: ARK9_009
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK9_009"
+msgid "..."
+msgstr "..."
+
+#. Key: ARK9_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……死んじゃった、かな？
+msgctxt "ARK9_010"
+msgid "...Is it dead?"
+msgstr "...Тепер померло?"
+
+#. Key: ARK9_011
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……ウグ、ウ。
+msgctxt "ARK9_011"
+msgid "...Ugh, hehhhh..."
+msgstr "...Уґх, у."
+
+#. Key: ARK9_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: なんでまだ生きてるの……？
+#. JA:   やめて！　もう許して！　お願いだから！
+msgctxt "ARK9_012"
+msgid ""
+"Why are you still alive...?\n"
+"Stop! I'm sorry! Please don't hurt me!"
+msgstr "Чому ти досі живе...? Годі! Дай мені спокій! Благаю!"
+
+#. Key: ARK9_014
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ギャフワッ!?
+msgctxt "ARK9_014"
+msgid "GAAAGH!"
+msgstr "Ґяфуа?!"
+
+#. Key: ARK9_015
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: …………今度こそ大丈夫……よね？
+msgctxt "ARK9_015"
+msgid "...Is it dead this time?"
+msgstr "...Тепер уже все гаразд... правда?"
+
+#. Key: ARK9_016
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+msgctxt "ARK9_016"
+msgid "..."
+msgstr "..."
+
+#. Key: ARK9_017
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: うう……良かった……怖かったよう……。
+#. JA:   もうダメかと思った……良かった、ホントに……。
+msgctxt "ARK9_017"
+msgid ""
+"*sigh* ...Good... I was so scared...\n"
+"I didn't think I was gonna make it...\n"
+"Oh, thank God..."
+msgstr ""
+"У-у... Нарешті... Було так страшно... Я вже думала, що мені кінець...\n"
+"Добре, що все скінчилося..."
+
+#. Key: ARK9_018
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……袋に穴が開いちゃってる。
+#. JA:   ちゃんと縛り直さないと……。
+#. JA:   もう触りたくないのに……ううううう。
+msgctxt "ARK9_018"
+msgid ""
+"There's a hole in the bag...\n"
+"I need to close it...but I don't want to touch it... *whimper*"
+msgstr ""
+"...У мішку дірка. Треба знову як слід зав'язати... А я більше не хочу його\n"
+"торкатися... У-у-у."
+
+#. Key: ARK9_020
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 燃えないゴミ……だよね多分、ちゃんと回収してくれるかな……。
+#. JA:   でも、私もう知らないから……。
+#. JA:   絶対二度と触らないから……。
+msgctxt "ARK9_020"
+msgid ""
+"I don't think this is recyclable...\n"
+"I wonder if the trash collector will take this...\n"
+"But I... it's not my responsibility...\n"
+"I don't wanna touch it again..."
+msgstr ""
+"Мабуть, це... непальне сміття. Сподіваюся, його заберуть... Але мені вже\n"
+"байдуже... Я більше ніколи до нього не торкнуся..."
+
+#. Key: ARK9_022
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Noel
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ふう……。
+#. JA:   早くシャワー浴びたい……。ニオイ、取れるかな……。
+msgctxt "ARK9_022"
+msgid ""
+"*sigh*\n"
+"I want to shower now...\n"
+"I hope the smell will come off..."
+msgstr "Фух... Хочу якнайшвидше в душ... Цей запах хоч відмиється...?"
+
+#. Key: ARK9_024
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: オ、ウ　、モ　、スァ……。
+msgctxt "ARK9_024"
+msgid "Oh, ugh , moh , sahhhh..."
+msgstr "О, у-о, мор..., с-а..."
+
+#. Key: ARK9_027
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: う、　が……眩　い　が……こ　はどこ　……　いは　ミだま　で塵　　　うな　棄物の集　した……。
+#. JA:   ま　かワレ　この　　な顛末　。
+msgctxt "ARK9_027"
+msgid ""
+"Ugh...     ligh ...th   brigh        ...where    th s...        smell          trash...             \n"
+"Accum         waste...   never though             en             this."
+msgstr ""
+"У, світло... слі   е світло... Де це Я...? Пахне смі тям, наче   звалище всіля\n"
+"ого мотлоху... Нев е Я дійшов до такого кінця?"
+
+#. Key: ARK9_028
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ウ、キ……　　ュウ……。
+msgctxt "ARK9_028"
+msgid "Ugh, agh...   Uahhh..."
+msgstr "У, кі... фхю-у..."
+
+#. Key: ARK10_001
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ぐ……。痛　痛　、　い、　　……。ワレ　肉　……　生……不　う……。
+#. JA:   　だ、キサマ　攻　は……。　壊、　壊、　壊す……　。グゲェエエエ！
+msgctxt "ARK10_001"
+msgid ""
+"Gah...It hurts...          ...    ...    y body...   ebirth...       poss    ...                    \n"
+"attack?    ...I'm...      g  ng           estroy  d...Aaaagh!"
+msgstr ""
+"Ґх... Бо яче,      , боляче... МОЄ ті о... віднов  ння... неможливе... Що це за\n"
+"атака...? Руйн юсь, руйнуюсь, руйную... ся. Ґуґе-е-е-е!"
+
+#. Key: ARK10_002
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ハクメンの斬撃を受けたアラクネは苦悶の雄たけびを上げた。
+#. JA:   肉体を再構成することはもちろん、逃げることも叶わない。
+msgctxt "ARK10_002"
+msgid ""
+"Hakumen's blow tears through Arakune's body. He roars in pain...\n"
+"The creature can't regenerate or escape..."
+msgstr ""
+"Уражений ударом Хакумена, Аракуне заревів від муки. Він уже не міг ані\n"
+"відновити тіло, ані втекти."
+
+#. Key: ARK10_003
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ……滅せよ。それが、貴様の運命だ。
+#. JA:   知を貪る愚者よ。
+msgctxt "ARK10_003"
+msgid "...You shall only find ruin, fool. True wisdom cannot be hoarded like gold."
+msgstr "...Згинь. Така твоя доля, дурню, що ненаситно пожирає знання."
+
+#. Key: ARK10_004
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 白刃が容赦なくアラクネの肉体を抉<ruby>えぐ</ruby>る。
+#. JA:   不快な音を響かせ、切り口から濃厚な液体が溢れ出す。
+msgctxt "ARK10_004"
+msgid ""
+"A dark fluid begins to pour out of the wound left by Hakumen's blade, flowing\n"
+"slowly, like thick syrup."
+msgstr ""
+"Біле лезо безжально впивалося в тіло Аракуне. З розрізу з огидним\n"
+"звуком полилася густа рідина."
+
+#. Key: ARK10_005
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Arakune
+#. Context: Arakune story route (POV: Arakune)
+#. JA: グビェェェェエ！！
+msgctxt "ARK10_005"
+msgid "Aaaarrrgggghhh!"
+msgstr "Ґуб'є-е-е-е-е-е!!"
+
+#. Key: ARK10_006
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: べちゃりと気色の悪い音を立て、肉体を構成していた液体が
+#. JA:   地面に張り付くように崩れてゆく。
+#. JA:   生命活動は刻一刻と着実に終焉へと向かっている。
+msgctxt "ARK10_006"
+msgid ""
+"He writhes on the ground, screaming, the fluid that makes up his body gushing\n"
+"out across the floor.\n"
+"Whatever he might be, it's clear that he's dying."
+msgstr ""
+"Рідина, з якої складалося його тіло, з огидним хлюпотом розтікалася й\n"
+"налипала на землю. Його життєдіяльність невпинно згасала з кожною\n"
+"миттю."
+
+#. Key: ARK10_007
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 刃を突き立て続けること……。それがアラクネの再生機能を阻害し、
+#. JA:   最も効率的に息の根を止める術なのだと、ハクメンは熟知していた。
+msgctxt "ARK10_007"
+msgid "Hakumen knows how to kill him."
+msgstr ""
+"Хакумен добре знав: якщо й далі тримати лезо встромленим,\n"
+"відновлення Аракуне буде заблоковано, а його життя урветься\n"
+"якнайшвидше."
+
+#. Key: ARK10_008
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: も、もうっ、やめて！
+msgctxt "ARK10_008"
+msgid "S...Stop it!"
+msgstr "Г-годі! Зупинися!"
+
+#. Key: ARK10_009
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 悲痛な叫び声を上げながら、一人の女性がアラクネの横に駆け寄る。
+#. JA:   すでにアラクネはその活動をほとんど停止している。
+#. JA:   声にならない声を漏らし、消滅の時を待つのみである。
+msgctxt "ARK10_009"
+msgid ""
+"Screaming at the top of her lungs, a woman barrels across the floor, throwing\n"
+"herself between Hakumen and his victim...\n"
+"...But it is already too late for Arakune."
+msgstr ""
+"З болісним криком до Аракуне підбігла жінка. Він уже майже не подавав\n"
+"ознак життя. З нього виривався безголосий стогін — лишалося тільки\n"
+"чекати миті зникнення."
+
+#. Key: ARK10_010
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: か、刀を抜いてっ！　お願いっ！
+msgctxt "ARK10_010"
+msgid "Please! Get your sword out!"
+msgstr "В-витягни меч! Благаю!"
+
+#. Key: ARK10_011
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: この人を殺さないでっ！
+msgctxt "ARK10_011"
+msgid "Don't kill him!"
+msgstr "Не вбивай його!"
+
+#. Key: ARK10_012
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: それは最早叶わぬ。
+msgctxt "ARK10_012"
+msgid "That, I cannot do."
+msgstr "Це вже неможливо."
+
+#. Key: ARK10_013
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 無慈悲なハクメンの言葉が響いた。
+msgctxt "ARK10_013"
+msgid "Hakumen's words are cold and emotionless."
+msgstr "Пролунали безжальні слова Хакумена."
+
+#. Key: ARK10_014
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 業を滅却するが我の性。
+#. JA:   その者は業を纏いし愚者である。
+#. JA:   故に我はその罪を滅却せねばならぬ。
+msgctxt "ARK10_014"
+msgid ""
+"It is my fate to balance karma's scales—the ones that this fool has tipped. I must\n"
+"destroy him."
+msgstr ""
+"Моя природа — знищувати карму. Цей дурень оповитий кармою. Тому я\n"
+"мушу знищити його гріх."
+
+#. Key: ARK10_015
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Hakumen
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 斬！
+msgctxt "ARK10_015"
+msgid "Hagh!"
+msgstr "Рубай!"
+
+#. Key: ARK10_017
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: ハクメンが貫いていた刀身を上に薙ぐ。
+#. JA:   アラクネはすでに悲鳴すら漏らすこともできなかった。
+msgctxt "ARK10_017"
+msgid ""
+"Hakumen tears his blade out of Arakune.\n"
+"The creature writhes in pain, but can no longer speak."
+msgstr ""
+"Хакумен змахнув угору лезом, що пронизувало Аракуне. Той уже не міг\n"
+"видати навіть крику."
+
+#. Key: ARK10_018
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Narrator
+#. Context: Arakune story route (POV: Arakune)
+#. JA: 粘着質な音を立て、僅かながらも固形状を保っていた境界が崩れ…
+#. JA:   液体となって地面に水たまりを作った。
+msgctxt "ARK10_018"
+msgid ""
+"Finally, whatever holds his body together ceases to exist, and he collapses into\n"
+"a black, oily puddle on the floor."
+msgstr ""
+"З липким хлюпотом зруйнувалася межа, яка ще ледь утримувала тверду\n"
+"форму... Перетворившись на рідину, вона розлилася калюжею по землі."
+
+#. Key: ARK10_019
+#. Source: story/storytext_mainar (data/Story/Text/eng/storytext_mainar.pac)
+#. Speaker: Litchi
+#. Context: Arakune story route (POV: Arakune)
+#. JA: あ、ああああ……。
+msgctxt "ARK10_019"
+msgid "Ah...aaaaah..."
+msgstr "А-а-а-а..."

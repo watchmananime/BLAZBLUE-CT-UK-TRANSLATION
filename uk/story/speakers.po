@@ -1,0 +1,785 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: SPEAKER:Arakune
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: アラクネ
+msgctxt "SPEAKER:Arakune"
+msgid "Arakune"
+msgstr "Аракуне"
+
+#. Key: SPEAKER:Bang
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: バング
+msgctxt "SPEAKER:Bang"
+msgid "Bang"
+msgstr "Банґ"
+
+#. Key: SPEAKER:Bang's Subordinates
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: バングの部下
+#. JA: バングの部下たち
+msgctxt "SPEAKER:Bang's Subordinates"
+msgid "Bang's Subordinates"
+msgstr "Поплічники Банґа"
+
+#. Key: SPEAKER:Black Beast
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 黒き獣
+msgctxt "SPEAKER:Black Beast"
+msgid "Black Beast"
+msgstr "Чорний Звір"
+
+#. Key: SPEAKER:Brother-in-law
+#. Note: Translation follows the scene: Japanese 義兄 means Jin's older adoptive brother here, not a brother-in-law by marriage.
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 義兄
+msgctxt "SPEAKER:Brother-in-law"
+msgid "Brother-in-law"
+msgstr "Старший брат"
+
+#. Key: SPEAKER:Calic-kaka
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ミケカカ
+msgctxt "SPEAKER:Calic-kaka"
+msgid "Calic-kaka"
+msgstr "Строката Кака"
+
+#. Key: SPEAKER:Carl
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: カルル
+msgctxt "SPEAKER:Carl"
+msgid "Carl"
+msgstr "Карл"
+
+#. Key: SPEAKER:Child A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 子供A
+msgctxt "SPEAKER:Child A"
+msgid "Child A"
+msgstr "Дитина A"
+
+#. Key: SPEAKER:Child B
+#. Note: Source mismatch: storytext_mainlc NAME_LCH5_071 is Child B in English but Child C in Japanese.
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 子供B
+msgctxt "SPEAKER:Child B"
+msgid "Child B"
+msgstr "Дитина Б"
+
+#. Key: SPEAKER:Colleague
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 同期の衛士
+msgctxt "SPEAKER:Colleague"
+msgid "Colleague"
+msgstr "Товариш по службі"
+
+#. Key: SPEAKER:Crew member
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 乗組員
+msgctxt "SPEAKER:Crew member"
+msgid "Crew member"
+msgstr "Член екіпажу"
+
+#. Key: SPEAKER:Customer A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 客Ａ
+msgctxt "SPEAKER:Customer A"
+msgid "Customer A"
+msgstr "Відвідувач A"
+
+#. Key: SPEAKER:Customer B
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 客Ｂ
+msgctxt "SPEAKER:Customer B"
+msgid "Customer B"
+msgstr "Відвідувач Б"
+
+#. Key: SPEAKER:Customer C
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 客Ｃ
+msgctxt "SPEAKER:Customer C"
+msgid "Customer C"
+msgstr "Відвідувач В"
+
+#. Key: SPEAKER:Customer D
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 客Ｄ
+msgctxt "SPEAKER:Customer D"
+msgid "Customer D"
+msgstr "Відвідувач Г"
+
+#. Key: SPEAKER:Customer E
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 客Ｅ
+msgctxt "SPEAKER:Customer E"
+msgid "Customer E"
+msgstr "Відвідувач Д"
+
+#. Key: SPEAKER:Elder
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 長老
+msgctxt "SPEAKER:Elder"
+msgid "Elder"
+msgstr "Старійшина"
+
+#. Key: SPEAKER:Employee
+#. Note: The Japanese label 女性店員 and the scene identify her as a female restaurant server.
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 女性店員
+msgctxt "SPEAKER:Employee"
+msgid "Employee"
+msgstr "Офіціантка"
+
+#. Key: SPEAKER:Everyone
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: よい子のみんな
+#. JA: カカたち
+msgctxt "SPEAKER:Everyone"
+msgid "Everyone"
+msgstr "Усі"
+
+#. Key: SPEAKER:Feisty-kaka
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ヤルカカ
+msgctxt "SPEAKER:Feisty-kaka"
+msgid "Feisty-kaka"
+msgstr "Завзята Кака"
+
+#. Key: SPEAKER:Fluffy-kaka
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: タマカカ
+msgctxt "SPEAKER:Fluffy-kaka"
+msgid "Fluffy-kaka"
+msgstr "Пухнаста Кака"
+
+#. Key: SPEAKER:Gii
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ギィ
+msgctxt "SPEAKER:Gii"
+msgid "Gii"
+msgstr "Ґі"
+
+#. Key: SPEAKER:Hakumen
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ハクメン
+msgctxt "SPEAKER:Hakumen"
+msgid "Hakumen"
+msgstr "Хакумен"
+
+#. Key: SPEAKER:Hazama
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ハザマ
+msgctxt "SPEAKER:Hazama"
+msgid "Hazama"
+msgstr "Хазама"
+
+#. Key: SPEAKER:Household Head
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 当主
+msgctxt "SPEAKER:Household Head"
+msgid "Household Head"
+msgstr "Голова Сімейства"
+
+#. Key: SPEAKER:Ikaruga Villager A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: イカルガの民A
+msgctxt "SPEAKER:Ikaruga Villager A"
+msgid "Ikaruga Villager A"
+msgstr "Мешканець Ікаруґи A"
+
+#. Key: SPEAKER:Ikaruga Villager B
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: イカルガの民B
+msgctxt "SPEAKER:Ikaruga Villager B"
+msgid "Ikaruga Villager B"
+msgstr "Мешканець Ікаруґи Б"
+
+#. Key: SPEAKER:Ikaruga Villager C
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: イカルガの民C
+msgctxt "SPEAKER:Ikaruga Villager C"
+msgid "Ikaruga Villager C"
+msgstr "Мешканець Ікаруґи В"
+
+#. Key: SPEAKER:Ikaruga Villager D
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: イカルガの民D
+msgctxt "SPEAKER:Ikaruga Villager D"
+msgid "Ikaruga Villager D"
+msgstr "Мешканець Ікаруґи Г"
+
+#. Key: SPEAKER:Jin
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ジン
+msgctxt "SPEAKER:Jin"
+msgid "Jin"
+msgstr "Джін"
+
+#. Key: SPEAKER:Jubei
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 獣兵衛
+msgctxt "SPEAKER:Jubei"
+msgid "Jubei"
+msgstr "Джубей"
+
+#. Key: SPEAKER:Kaka kittens
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: チビカカたち
+msgctxt "SPEAKER:Kaka kittens"
+msgid "Kaka kittens"
+msgstr "Кошенята Кака"
+
+#. Key: SPEAKER:Kaka villager
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: カカの村人
+msgctxt "SPEAKER:Kaka villager"
+msgid "Kaka villager"
+msgstr "Мешканець селища Кака"
+
+#. Key: SPEAKER:Kaka villager A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: カカの村人A
+msgctxt "SPEAKER:Kaka villager A"
+msgid "Kaka villager A"
+msgstr "Мешканець селища Кака A"
+
+#. Key: SPEAKER:Kaka villager B
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: カカの村人B
+msgctxt "SPEAKER:Kaka villager B"
+msgid "Kaka villager B"
+msgstr "Мешканець селища Кака Б"
+
+#. Key: SPEAKER:Kaka villager C
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: カカの村人C
+msgctxt "SPEAKER:Kaka villager C"
+msgid "Kaka villager C"
+msgstr "Мешканець селища Кака В"
+
+#. Key: SPEAKER:Kitten A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: チビカカA
+msgctxt "SPEAKER:Kitten A"
+msgid "Kitten A"
+msgstr "Кошеня A"
+
+#. Key: SPEAKER:Kittens
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: チビカカたち
+#. JA: チビカカ達
+msgctxt "SPEAKER:Kittens"
+msgid "Kittens"
+msgstr "Кошенята"
+
+#. Key: SPEAKER:Kokonoe
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ココノエ
+msgctxt "SPEAKER:Kokonoe"
+msgid "Kokonoe"
+msgstr "Коконое"
+
+#. Key: SPEAKER:Lead Scientist
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 研究主任
+msgctxt "SPEAKER:Lead Scientist"
+msgid "Lead Scientist"
+msgstr "Керівник досліджень"
+
+#. Key: SPEAKER:Linhua
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: リンファ
+msgctxt "SPEAKER:Linhua"
+msgid "Linhua"
+msgstr "Лінхуа"
+
+#. Key: SPEAKER:Litchi
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ライチ
+msgctxt "SPEAKER:Litchi"
+msgid "Litchi"
+msgstr "Лічі"
+
+#. Key: SPEAKER:Litchi ♥
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: らいち♥
+msgctxt "SPEAKER:Litchi ♥"
+msgid "Litchi ♥"
+msgstr "Лічі ♥"
+
+#. Key: SPEAKER:Makoto
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: マコト
+msgctxt "SPEAKER:Makoto"
+msgid "Makoto"
+msgstr "Макото"
+
+#. Key: SPEAKER:Man A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 男Ａ
+msgctxt "SPEAKER:Man A"
+msgid "Man A"
+msgstr "Чоловік A"
+
+#. Key: SPEAKER:Man B
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 男Ｂ
+msgctxt "SPEAKER:Man B"
+msgid "Man B"
+msgstr "Чоловік Б"
+
+#. Key: SPEAKER:Man C
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 男Ｃ
+msgctxt "SPEAKER:Man C"
+msgid "Man C"
+msgstr "Чоловік В"
+
+#. Key: SPEAKER:Mecha-Kaka
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: メカカカ
+msgctxt "SPEAKER:Mecha-Kaka"
+msgid "Mecha-Kaka"
+msgstr "Меха-Кака"
+
+#. Key: SPEAKER:Mecha-Tager
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: メカテイガー
+msgctxt "SPEAKER:Mecha-Tager"
+msgid "Mecha-Tager"
+msgstr "Меха-Тейґер"
+
+#. Key: SPEAKER:Mysterious man
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 謎の男
+msgctxt "SPEAKER:Mysterious man"
+msgid "Mysterious man"
+msgstr "Таємничий чоловік"
+
+#. Key: SPEAKER:Mysterious woman
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 謎の女
+msgctxt "SPEAKER:Mysterious woman"
+msgid "Mysterious woman"
+msgstr "Таємнича жінка"
+
+#. Key: SPEAKER:Nago
+#. Note: Source mismatch: storytext_tips NAME_TIPS6_057 is Nago in English but Valkenhayn in Japanese.
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ナゴ
+msgctxt "SPEAKER:Nago"
+msgid "Nago"
+msgstr "Наґо"
+
+#. Key: SPEAKER:Nago & Gii
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ナゴ＆ギィ
+msgctxt "SPEAKER:Nago & Gii"
+msgid "Nago & Gii"
+msgstr "Наґо & Ґі"
+
+#. Key: SPEAKER:Nago and Gii
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ナゴ＆ギィ
+msgctxt "SPEAKER:Nago and Gii"
+msgid "Nago and Gii"
+msgstr "Наґо й Ґі"
+
+#. Key: SPEAKER:Nirvana
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ニルヴァーナ
+msgctxt "SPEAKER:Nirvana"
+msgid "Nirvana"
+msgstr "Нірвана"
+
+#. Key: SPEAKER:Noel
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ノエル
+msgctxt "SPEAKER:Noel"
+msgid "Noel"
+msgstr "Ноель"
+
+#. Key: SPEAKER:NOL Soldier
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 統制機構員
+msgctxt "SPEAKER:NOL Soldier"
+msgid "NOL Soldier"
+msgstr "Солдат Бібліотеки"
+
+#. Key: SPEAKER:NOL soldier
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 統制機構員
+msgctxt "SPEAKER:NOL soldier"
+msgid "NOL soldier"
+msgstr "Солдат Бібліотеки"
+
+#. Key: SPEAKER:NOL Soldier B
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 統制機構員B
+msgctxt "SPEAKER:NOL Soldier B"
+msgid "NOL Soldier B"
+msgstr "Солдат Бібліотеки Б"
+
+#. Key: SPEAKER:NOL Soldier C
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 統制機構員C
+msgctxt "SPEAKER:NOL Soldier C"
+msgid "NOL Soldier C"
+msgstr "Солдат Бібліотеки В"
+
+#. Key: SPEAKER:Nu
+#. Note: Source mismatch: storytext_mainno NAME_NEL5_024 is Nu in English but Nu & Noel in Japanese.
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ニュー
+msgctxt "SPEAKER:Nu"
+msgid "Nu"
+msgstr "Ню"
+
+#. Key: SPEAKER:Old Woman
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 老婆
+msgctxt "SPEAKER:Old Woman"
+msgid "Old Woman"
+msgstr "Стара жінка"
+
+#. Key: SPEAKER:Operator
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: オペレーター
+msgctxt "SPEAKER:Operator"
+msgid "Operator"
+msgstr "Оператор"
+
+#. Key: SPEAKER:Rachel
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: レイチェル
+msgctxt "SPEAKER:Rachel"
+msgid "Rachel"
+msgstr "Рейчел"
+
+#. Key: SPEAKER:Ragna
+#. Note: Source mismatch: storytext_tips NAME_TIPS4_039 is Ragna in English but Ragna & Jin in Japanese.
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ラグナ
+msgctxt "SPEAKER:Ragna"
+msgid "Ragna"
+msgstr "Раґна"
+
+#. Key: SPEAKER:Ragna & Hakumen
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ラグナ&ハクメン
+msgctxt "SPEAKER:Ragna & Hakumen"
+msgid "Ragna & Hakumen"
+msgstr "Раґна & Хакумен"
+
+#. Key: SPEAKER:Researcher
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 研究員
+msgctxt "SPEAKER:Researcher"
+msgid "Researcher"
+msgstr "Дослідник"
+
+#. Key: SPEAKER:Researcher A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 研究員A
+msgctxt "SPEAKER:Researcher A"
+msgid "Researcher A"
+msgstr "Дослідник A"
+
+#. Key: SPEAKER:Resident A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民A
+msgctxt "SPEAKER:Resident A"
+msgid "Resident A"
+msgstr "Мешканець A"
+
+#. Key: SPEAKER:Resident B
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民B
+msgctxt "SPEAKER:Resident B"
+msgid "Resident B"
+msgstr "Мешканець Б"
+
+#. Key: SPEAKER:Resident C
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民C
+msgctxt "SPEAKER:Resident C"
+msgid "Resident C"
+msgstr "Мешканець В"
+
+#. Key: SPEAKER:Resident D
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民D
+msgctxt "SPEAKER:Resident D"
+msgid "Resident D"
+msgstr "Мешканець Г"
+
+#. Key: SPEAKER:Resident E
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民E
+msgctxt "SPEAKER:Resident E"
+msgid "Resident E"
+msgstr "Мешканець Д"
+
+#. Key: SPEAKER:Resident F
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民F
+msgctxt "SPEAKER:Resident F"
+msgid "Resident F"
+msgstr "Мешканець Е"
+
+#. Key: SPEAKER:Resident G
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民G
+msgctxt "SPEAKER:Resident G"
+msgid "Resident G"
+msgstr "Мешканець Є"
+
+#. Key: SPEAKER:Resident H
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民H
+msgctxt "SPEAKER:Resident H"
+msgid "Resident H"
+msgstr "Мешканець Ж"
+
+#. Key: SPEAKER:Resident I
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民I
+msgctxt "SPEAKER:Resident I"
+msgid "Resident I"
+msgstr "Мешканець З"
+
+#. Key: SPEAKER:Resident: Child
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民・子
+msgctxt "SPEAKER:Resident: Child"
+msgid "Resident: Child"
+msgstr "Мешканець — дитина"
+
+#. Key: SPEAKER:Resident: Mother
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 住民・母
+msgctxt "SPEAKER:Resident: Mother"
+msgid "Resident: Mother"
+msgstr "Мешканка — мати"
+
+#. Key: SPEAKER:Saya
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: サヤ
+msgctxt "SPEAKER:Saya"
+msgid "Saya"
+msgstr "Сая"
+
+#. Key: SPEAKER:Spotty-kaka
+#. Note: Source mismatch: storytext_mainbn NAME_BNG9_027 is Spotty-kaka in English but Fluffy-kaka in Japanese.
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ポチカカ
+msgctxt "SPEAKER:Spotty-kaka"
+msgid "Spotty-kaka"
+msgstr "Плямиста Кака"
+
+#. Key: SPEAKER:Subordinate A
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: バングの部下
+#. JA: バングの部下A
+#. JA: バングの部下Ａ
+#. JA: 部下A
+#. JA: 部下Ａ
+msgctxt "SPEAKER:Subordinate A"
+msgid "Subordinate A"
+msgstr "Поплічник А"
+
+#. Key: SPEAKER:Subordinate B
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: バングの部下B
+#. JA: バングの部下Ｂ
+#. JA: 部下Ｂ
+msgctxt "SPEAKER:Subordinate B"
+msgid "Subordinate B"
+msgstr "Поплічник Б"
+
+#. Key: SPEAKER:Subordinate C
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: バングの部下C
+msgctxt "SPEAKER:Subordinate C"
+msgid "Subordinate C"
+msgstr "Поплічник В"
+
+#. Key: SPEAKER:Subordinate D
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: バングの部下D
+#. JA:   （守衛）
+msgctxt "SPEAKER:Subordinate D"
+msgid "Subordinate D"
+msgstr "Поплічник Г"
+
+#. Key: SPEAKER:Superior
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 上官
+msgctxt "SPEAKER:Superior"
+msgid "Superior"
+msgstr "Старший офіцер"
+
+#. Key: SPEAKER:System
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: システム
+msgctxt "SPEAKER:System"
+msgid "System"
+msgstr "Система"
+
+#. Key: SPEAKER:System Voice
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: システムボイス
+msgctxt "SPEAKER:System Voice"
+msgid "System Voice"
+msgstr "Систмений Голос"
+
+#. Key: SPEAKER:Tager
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: テイガー
+msgctxt "SPEAKER:Tager"
+msgid "Tager"
+msgstr "Тейґер"
+
+#. Key: SPEAKER:Taochel
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: タオチェル
+msgctxt "SPEAKER:Taochel"
+msgid "Taochel"
+msgstr "Таочел"
+
+#. Key: SPEAKER:Taokaka
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: タオカカ
+msgctxt "SPEAKER:Taokaka"
+msgid "Taokaka"
+msgstr "Таокака"
+
+#. Key: SPEAKER:Terumi
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: テルミ
+msgctxt "SPEAKER:Terumi"
+msgid "Terumi"
+msgstr "Терумі"
+
+#. Key: SPEAKER:Tsubaki
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ツバキ
+msgctxt "SPEAKER:Tsubaki"
+msgid "Tsubaki"
+msgstr "Цубакі"
+
+#. Key: SPEAKER:Valkenhayn
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: ヴァルケンハイン
+msgctxt "SPEAKER:Valkenhayn"
+msgid "Valkenhayn"
+msgstr "Валькенгайн"
+
+#. Key: SPEAKER:Young Man
+#. Source: Story NAME_* speaker metadata
+#. Context: On-screen speaker name
+#. JA: 若い男
+msgctxt "SPEAKER:Young Man"
+msgid "Young Man"
+msgstr "Молодий чоловік"

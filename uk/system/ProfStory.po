@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: STORY_RG
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: 世界虚空情報統制機構の支部を
+#. JA:   次々と壊滅させ、全世界に指名手配
+#. JA:   されている賞金首。
+#. JA:   
+#. JA:   その彼がここ
+#. JA:   第十三階層都市「カグツチ」に現れる。
+msgctxt "STORY_RG"
+msgid ""
+"An SS-class criminal also\n"
+"known as the Grim Reaper,\n"
+"wanted for the continued\n"
+"destruction of NOL\n"
+"installations.\n"
+"\n"
+"He was recently seen in the\n"
+"13th Hierarchical City of\n"
+"Kagutsuchi."
+msgstr ""
+"Злочинець, за голову якого\n"
+"призначено винагороду\n"
+"в усьому світі. Він один за\n"
+"одним нищить відділення\n"
+"Всесвітньої Організації\n"
+"Контролю Інформації.\n"
+"\n"
+"Тепер він з'явився тут —\n"
+"у Тринадцятому ієрархічному\n"
+"місті «Каґуцучі»."
+
+#. Key: STORY_JN
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: 世界虚空情報統制機構に
+#. JA:   所属する衛士。
+#. JA:   
+#. JA:   数々の功績をあげ「英雄」として
+#. JA:   謳われている彼が突如、単身で
+#. JA:   第十三階層都市「カグツチ」へ
+#. JA:   向かってしまう。
+#. JA:   
+#. JA:   何かに導かれるように。
+msgctxt "STORY_JN"
+msgid ""
+"A soldier of the Novus Orbis\n"
+"Librarium.\n"
+"\n"
+"Despite earning the title of\n"
+"\"Hero\" for his achievements\n"
+"in past battles, he disobeyed\n"
+"his orders one day and headed\n"
+"for the 13th Hierarchical City\n"
+"of Kagutsuchi alone, as if\n"
+"drawn in by something."
+msgstr ""
+"Солдат Всесвітньої\n"
+"Організації Контролю\n"
+"Інформації.\n"
+"\n"
+"За численні заслуги він\n"
+"уславлений як «герой», але\n"
+"раптом сам вирушає до\n"
+"Тринадцятого ієрархічного\n"
+"міста «Каґуцучі», немов\n"
+"щось веде його туди."
+
+#. Key: STORY_NO
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: 世界虚空情報統制機構に
+#. JA:   所属する女性衛士。
+#. JA:   
+#. JA:   単独でラグナ討伐に向かった
+#. JA:   上官「ジン＝キサラギ」を、
+#. JA:   内密に連れ戻すようにと命ぜられる。
+#. JA:   
+#. JA:   今までにない不安を抱き、
+#. JA:   彼女も第十三階層都市「カグツチ」
+#. JA:   へと向かう。
+msgctxt "STORY_NO"
+msgid ""
+"A female soldier of the Novus\n"
+"Orbis Librarium.\n"
+"\n"
+"She was secretly ordered to\n"
+"bring her superior officer,\n"
+"Jin Kisaragi, back to his post.\n"
+"\n"
+"With many worries, Noel heads\n"
+"to the 13th Hierarchical City\n"
+"of Kagutsuchi."
+msgstr ""
+"Солдатка Всесвітньої\n"
+"Організації Контролю\n"
+"Інформації.\n"
+"\n"
+"Їй таємно наказано повернути\n"
+"командира Джіна Кісараґі,\n"
+"що сам вирушив здолати Раґну.\n"
+"\n"
+"З незнаною досі тривогою вона\n"
+"теж прямує до Каґуцучі."
+
+#. Key: STORY_RC
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: ヴァンパイア血族アルカード家の現当主。
+#. JA:   
+#. JA:   巨大な古城で何も変わらない日々を
+#. JA:   過ごしていたが、「退屈……」の
+#. JA:   一言と共に、お供のギイとナゴを連れて
+#. JA:   第十三階層都市「カグツチ」に
+#. JA:   向かってしまう。
+msgctxt "STORY_RC"
+msgid ""
+"The current head of the\n"
+"vampire family Alucard.\n"
+"\n"
+"Living a mundane lifestyle in\n"
+"a giant castle with only her\n"
+"butler, Rachel decided to\n"
+"travel to the 13th\n"
+"Hierarchical City of\n"
+"Kagutsuchi, leaving with\n"
+"the words \"I'm bored...\""
+msgstr ""
+"Нинішня очільниця\n"
+"вампірського роду Алукард.\n"
+"\n"
+"Дні у величезному старому\n"
+"замку не змінювалися. Та\n"
+"якось вона промовила:\n"
+"«Нудьга...» — і разом зі\n"
+"слугами Ґі та Наґо вирушила\n"
+"до Тринадцятого ієрархічного\n"
+"міста «Каґуцучі»."
+
+#. Key: STORY_TK
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: カグツチ下層に住みついている
+#. JA:   カカ族の一人。
+#. JA:   
+#. JA:   人間の勝手な都市開発により、塞がって
+#. JA:   しまった村の空を取り戻すため、
+#. JA:   倒すと大量の「オカネ」がもらえるという
+#. JA:   「らぐにゃ」を探して村を旅立った。
+msgctxt "STORY_TK"
+msgid ""
+"A member of the Kaka clan,\n"
+"who reside in the lower layers\n"
+"of Kagutsuchi.\n"
+"\n"
+"Urban development covers\n"
+"the sky above her village, and\n"
+"Tao is determined to bring back\n"
+"the sun. She hears \"money\" is\n"
+"given to the one who defeats a\n"
+"\"Rawrgna\"."
+msgstr ""
+"Представниця клану Кака,\n"
+"що живе в нижніх ярусах\n"
+"Каґуцучі.\n"
+"\n"
+"Люди забудували місто й\n"
+"затулили небо над її селом.\n"
+"Щоб повернути небо, Тао\n"
+"вирушає на пошуки «Раґні»,\n"
+"за перемогу над ним обіцяють\n"
+"купу «ГРОШЕЙ»."
+
+#. Key: STORY_TG
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: 「赤鬼」と呼ばれ恐れられる
+#. JA:   巨躯の戦士。
+#. JA:   
+#. JA:   第十三階層都市「カグツチ」に
+#. JA:   現れた目的は不明だが、
+#. JA:   「ラグナ＝ザ＝ブラッドエッジ」
+#. JA:   出現とは関連が――？
+msgctxt "STORY_TG"
+msgid ""
+"A feared soldier with a large\n"
+"build known as the \"Red Devil\".\n"
+"\n"
+"The reasons for his appearance\n"
+"in the 13th Hierarchical City of\n"
+"Kagutsuchi are unknown, but\n"
+"rumors of Ragna's presence\n"
+"there make it sound like more\n"
+"than mere coincidence."
+msgstr ""
+"Велетенський воїн, якого\n"
+"бояться й називають\n"
+"«Червоним демоном».\n"
+"\n"
+"Мета його появи в\n"
+"Тринадцятому ієрархічному\n"
+"місті «Каґуцучі» невідома.\n"
+"Та чи пов'язана вона з появою\n"
+"Раґни Бладеджа?.."
+
+#. Key: STORY_LC
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: カグツチ下層に位置する
+#. JA:   オリエントタウンで
+#. JA:   医師をつとめる女性。
+#. JA:   
+#. JA:   ある目的を果たすため、しばしば
+#. JA:   下層付近を調査していたが、
+#. JA:   ラグナ出現の噂を耳にし
+#. JA:   上層へと向かう。
+msgctxt "STORY_LC"
+msgid ""
+"A female doctor working in \n"
+"Orient Town, in the lower\n"
+"layers of Kagutsuchi.\n"
+"\n"
+"She was investigating the \n"
+"lower layers in search of  the\n"
+"creature Arakune, but after\n"
+"hearing rumors of  Ragna's\n"
+"appearance, she headed for\n"
+"the upper layers."
+msgstr ""
+"Лікарка з Орієнт-тауну,\n"
+"розташованого в нижніх\n"
+"ярусах Каґуцучі.\n"
+"\n"
+"Заради певної мети вона\n"
+"часто досліджувала нижні\n"
+"яруси, але, почувши чутки\n"
+"про появу Раґни, вирушає\n"
+"нагору."
+
+#. Key: STORY_AR
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: 無数の蟲を体内に宿す、魔道の探求者。
+#. JA:   
+#. JA:   カグツチの地下廃棄施設に住み着き
+#. JA:   人間やカカ族などを襲っていたが、
+#. JA:   ある時今までとは比にならない力を
+#. JA:   感知し、動き出す。 
+msgctxt "STORY_AR"
+msgid ""
+"Housing a myriad of insects \n"
+"within his body, this man walks\n"
+"a path corrupted by magic.\n"
+"\n"
+"Living in an underground \n"
+"disposal facility, he's been\n"
+"feeding off humans and the\n"
+"Kaka clan. Detecting an\n"
+"immense power, he begins to\n"
+"move."
+msgstr ""
+"Шукач таємниць магії,\n"
+"у чиєму тілі живе безліч\n"
+"комах.\n"
+"\n"
+"Він оселився в підземному\n"
+"комплексі утилізації Каґуцучі\n"
+"й нападав на людей і Кака.\n"
+"Та якось відчув незрівнянну\n"
+"силу — і почав діяти."
+
+#. Key: STORY_BN
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: イカルガ内戦で故郷をなくし、
+#. JA:   カグツチ下層にて再起を図る
+#. JA:   忍者一族の頭領。
+#. JA:   
+#. JA:   そのかたわら、
+#. JA:   「平和を守る正義の咎追い」(自称)
+#. JA:   として絶賛活動中！
+#. JA:   
+#. JA:   大悪党ラグナとやらが現れたとの噂を
+#. JA:   聞きつけていざ成敗に乗り出す！！
+msgctxt "STORY_BN"
+msgid ""
+"A ninja boss who hopes to\n"
+"restore his homeland, which\n"
+"was lost after the Ikaruga War.\n"
+"As a result, he makes his grand\n"
+"debut as a \"Vigilante of\n"
+"Justice\".\n"
+"\n"
+"Picking up rumors of the\n"
+"villain Ragna, he sets out to\n"
+"Kagutsuchi!"
+msgstr ""
+"Бос клану нінджя, що втратив\n"
+"батьківщину у війні\n"
+"в Ікарузі й прагне відродити\n"
+"її в нижніх ярусах Каґуцучі.\n"
+"\n"
+"Також він самопроголошений\n"
+"«праведний мисливець за\n"
+"головами, захисник миру»!\n"
+"Почувши про лиходія Раґну,\n"
+"вирушає покарати його!!"
+
+#. Key: STORY_CA
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: 最高クラスの咎追い。
+#. JA:   
+#. JA:   ニルヴァーナと呼ばれる謎の人形と
+#. JA:   共に各地の重犯罪者を次々と
+#. JA:   排除している。
+#. JA:   
+#. JA:   次なる標的
+#. JA:   「ラグナ＝ザ＝ブラッドエッジ」
+#. JA:   の出現情報を手に入れ、
+#. JA:   カグツチへと向かう。
+msgctxt "STORY_CA"
+msgid ""
+"A first-class vigilante.\n"
+"\n"
+"With his mysterious doll\n"
+"Nirvana, he has brought many\n"
+"criminals to justice.\n"
+"\n"
+"After hearing news of his next\n"
+"target, Ragna the Bloodedge,\n"
+"Carl heads to Kagutsuchi."
+msgstr ""
+"Мисливець за головами\n"
+"найвищого класу.\n"
+"\n"
+"Разом із загадковою лялькою\n"
+"Нірваною він один за одним\n"
+"усуває небезпечних злочинців.\n"
+"\n"
+"Дізнавшись, що його наступна\n"
+"ціль, Раґна Бладедж, з'явився\n"
+"в Каґуцучі, Карл прямує туди."
+
+#. Key: STORY_HA
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: 「六英雄」の一人、ハクメン。
+#. JA:   
+#. JA:   大戦後行方不明となり、おそらく
+#. JA:   死亡してしまったものだと思われていた。
+#. JA:   
+#. JA:   カグツチの深部にて何を待つのか。
+msgctxt "STORY_HA"
+msgid ""
+"Hakumen, one of the Six\n"
+"Heroes of legend.\n"
+"\n"
+"Unaccounted for after the\n"
+"Great War, many assumed he\n"
+"was dead.\n"
+"\n"
+"What is he waiting for in the\n"
+"depths of Kagutsuchi?"
+msgstr ""
+"Хакумен — один із\n"
+"«Шістьох Героїв».\n"
+"\n"
+"Після Темної війни він зник\n"
+"безвісти, тож усі вважали,\n"
+"що він загинув.\n"
+"\n"
+"Чого він чекає в глибинах\n"
+"Каґуцучі?"
+
+#. Key: STORY_NY
+#. Source: system/ProfStory (data/ETC/Text_Eng/ProfStory.pac)
+#. Context: Character profile / story summary
+#. JA: カグツチ最深部の巨大な窯から現れた
+#. JA:   謎の少女。
+#. JA:   
+#. JA:   全てが機械的で無機質な少女が、
+#. JA:   「カグツチ」を彷徨い求めるものとは
+#. JA:   一体――。
+msgctxt "STORY_NY"
+msgid ""
+"A mysterious girl who\n"
+"appeared from the Cauldron,\n"
+"hidden in the depths of\n"
+"Kagutsuchi.\n"
+"\n"
+"What can this emotionless \n"
+"iron maiden possibly want\n"
+"with the 13th Hierarchical\n"
+"City...?"
+msgstr ""
+"Загадкова дівчина, що\n"
+"з'явилася з велетенського\n"
+"Котла в найглибшій частині\n"
+"Каґуцучі.\n"
+"\n"
+"Чого шукає в Каґуцучі\n"
+"ця цілковито механічна,\n"
+"позбавлена емоцій дівчина?.."

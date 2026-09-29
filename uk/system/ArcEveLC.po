@@ -1,0 +1,1011 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveLC01_00
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: あらあら、かわいい子、お人形さんみたい。
+msgctxt "ArcEveLC01_00"
+msgid "Oh, my... What a cute little girl. Are you lost?"
+msgstr "Ой, яка мила дівчинка, наче лялечка."
+
+#. Key: ArcEveLC01_01
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: アナタ、どこから来たのかな？
+#. JA:   お父さんかお母さんは一緒じゃないの？
+msgctxt "ArcEveLC01_01"
+msgid ""
+"Where are you from?\n"
+"Where are your mommy and daddy?"
+msgstr "Ти звідки? Тато чи мама не з тобою?"
+
+#. Key: ArcEveLC01_02
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Litchi
+msgctxt "ArcEveLC01_02"
+msgid "..."
+msgstr "..."
+
+#. Key: ArcEveLC01_03
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: いいお洋服着てるからこの辺りの子ではないと思うし。
+#. JA:   どうしましょう？
+msgctxt "ArcEveLC01_03"
+msgid ""
+"You're wearing such nice clothes...\n"
+"You must not be from around here.\n"
+"What should I do...?"
+msgstr ""
+"На тобі такий гарний одяг... Ти, певно, не місцева. Що ж\n"
+"робити?"
+
+#. Key: ArcEveLC01_04
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Litchi
+#. JA: あなた、少し変わったわね。
+#. JA:   力を手に入れて決心がついたのかしら？強い意志を感じるわ。
+msgctxt "ArcEveLC01_04"
+msgid ""
+"I see you have changed.\n"
+"Have you found the strength you sought?\n"
+"I see you are determined, if nothing else."
+msgstr ""
+"Ти трохи змінилася. Мабуть, здобута сила допомогла тобі\n"
+"зважитися? Я відчуваю в тобі тверду волю."
+
+#. Key: ArcEveLC01_05
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: え～と、どうしたのかな？
+msgctxt "ArcEveLC01_05"
+msgid "Uhh... What are you talking about?"
+msgstr "Е-е... Що з тобою?"
+
+#. Key: ArcEveLC01_06
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Litchi
+#. JA: あなたが救おうとしているのは、知識を追い求めるあまり
+#. JA:   人であることを捨て、境界の門を叩いて、
+#. JA:   最後はその知識に喰われた愚か者よ。
+msgctxt "ArcEveLC01_06"
+msgid ""
+"The one who you're trying to save gave away his humanity\n"
+"to enter another world. He was consumed by the\n"
+"knowledge he sought. What a fool."
+msgstr ""
+"Той, кого ти намагаєшся врятувати, у гонитві за знаннями\n"
+"зрікся людяності, постукав у браму Межі й зрештою був\n"
+"пожертий цими знаннями. Який дурень."
+
+#. Key: ArcEveLC01_07
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Litchi
+#. JA: まぁ、それを知っていてなお手を差し伸べるあなたも同類かしら？
+msgctxt "ArcEveLC01_07"
+msgid ""
+"You still pursue him even though you know his fate...\n"
+"Perhaps you are more like him than you realize."
+msgstr ""
+"Та, мабуть, і ти така сама, раз, знаючи все це, досі\n"
+"простягаєш йому руку."
+
+#. Key: ArcEveLC01_08
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ――アナタ、何者！？
+msgctxt "ArcEveLC01_08"
+msgid "Who...who are you!?"
+msgstr "Ти... хто така!?"
+
+#. Key: ArcEveLC01_09
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Litchi
+#. JA: あら、怖い顔しないで「お嬢さん」？
+#. JA:   まだ時間もあるようだし、暇つぶしに遊んであげる。
+msgctxt "ArcEveLC01_09"
+msgid ""
+"Why the frightened face, child?\n"
+"Ah well. There is nothing pressing at the moment.\n"
+"I will spare a moment to play with you."
+msgstr ""
+"Ну-ну, не дивися так грізно, «панночко». Час у мене ще є,\n"
+"тож пограюся з тобою від нудьги."
+
+#. Key: ArcEveLC01_10
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Rachel
+#. Context: Arcade event: Litchi
+#. JA: なかなか楽しかったわ。お願いが叶うといいわね。
+msgctxt "ArcEveLC01_10"
+msgid "You have entertained me. I hope your wish comes true."
+msgstr "Було доволі весело. Сподіваюся, твоє бажання здійсниться."
+
+#. Key: ArcEveLC01_11
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: あの子、一体。
+msgctxt "ArcEveLC01_11"
+msgid "Who in the world...was she...?"
+msgstr "Хто ж вона така?.."
+
+#. Key: ArcEveLC02_00
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: やっと会えた……久しぶりね。２年ぶりくらいかな、元気だった？
+msgctxt "ArcEveLC02_00"
+msgid ""
+"I finally found you... It's been so long...about two years,\n"
+"right? Are you doing OK?"
+msgstr ""
+"Нарешті знайшла тебе... Давно не бачилися. Роки два, так?\n"
+"Як ти?"
+
+#. Key: ArcEveLC02_01
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Litchi
+#. JA: ううう　　ああ　　キサ　　誰　。
+msgctxt "ArcEveLC02_01"
+msgid "Uuugh   Aah   who       you?"
+msgstr "У-у-у... А-а... Ти х о?"
+
+#. Key: ArcEveLC02_02
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ここまで来るのにすごーく時間かかったし、大変だったのよ？
+msgctxt "ArcEveLC02_02"
+msgid ""
+"Do you know how long it took me to find this place?\n"
+"And what I had to go through?"
+msgstr ""
+"Ти хоч уявляєш, скільки часу й сил мені знадобилося, щоб\n"
+"сюди дістатися?"
+
+#. Key: ArcEveLC02_03
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 昔みたいに、部屋にこもりっきりならすぐに見つけられたのに。
+#. JA:   まったくも～、相変わらず自分勝手なんだから。
+msgctxt "ArcEveLC02_03"
+msgid ""
+"It was so easy to find you before... I just had to go to your\n"
+"room. Geez...you're always so selfish and reckless."
+msgstr ""
+"Раніше було так просто: ти весь час сидів у своїй кімнаті.\n"
+"Ех... Ти зовсім не змінився — такий самий егоїст."
+
+#. Key: ArcEveLC02_04
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Litchi
+#. JA: 僕　　と　　って　る　か？うっ　　は知らな　　。
+#. JA:   記憶　ない　　　のこと　　　知らない
+msgctxt "ArcEveLC02_04"
+msgid ""
+"Who       you?   hav   no memorie of you.\n"
+"  can't  emember anything."
+msgstr "Х о ти? Я те е не пам' таю.      не прига ую. Не з аю тебе."
+
+#. Key: ArcEveLC02_05
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: そっか～、忘れちゃったのか……。
+msgctxt "ArcEveLC02_05"
+msgid "I see... So you've really forgotten, huh...?"
+msgstr "Зрозуміло... Ти все забув..."
+
+#. Key: ArcEveLC02_06
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Litchi
+#. JA: キサマ　魔素　　　　　に　　て付加して　るだけ　　。
+#. JA:   な　　ワレに　　要ない　　　、去　　　れ！
+msgctxt "ArcEveLC02_06"
+msgid ""
+"You are just           ing       s                                    .\n"
+"I hav   no              you. Begone!"
+msgstr "Ти    наси уєш своє ті о маною. Мені ти не потрі на. Геть!"
+
+#. Key: ArcEveLC02_07
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ごめんね、気づいてあげられなくて、とめてあげられなくて。
+msgctxt "ArcEveLC02_07"
+msgid ""
+"I'm sorry, I didn't notice...\n"
+"I'm sorry I couldn't stop you..."
+msgstr "Пробач, що не помітила... що не змогла тебе зупинити."
+
+#. Key: ArcEveLC02_08
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 今、楽にしてあげる。
+#. JA:   もう私には、こんなことしか出来ないから。ごめんね……。
+msgctxt "ArcEveLC02_08"
+msgid ""
+"I'll put you out of your misery.\n"
+"That's all I can do for you now... I'm sorry..."
+msgstr ""
+"Зараз я позбавлю тебе страждань. Це все, що я тепер можу\n"
+"для тебе зробити. Пробач..."
+
+#. Key: ArcEveLC02_09
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Litchi
+#. JA: ぐあああああああ　　ら　　　　　いち――――
+msgctxt "ArcEveLC02_09"
+msgid "GUAAAAH  LITCH ...!"
+msgstr "Ґуа-а-а-а-а... Лі... чі..."
+
+#. Key: ArcEveLC02_10
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ！？　　あ、待って！！
+msgctxt "ArcEveLC02_10"
+msgid ""
+"!?\n"
+"W-Wait!"
+msgstr "!? З-зачекай!!"
+
+#. Key: ArcEveLC03_00
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ここは……。
+#. JA:   空気が「境界」と似ているけど、何か違う。あっ！？
+msgctxt "ArcEveLC03_00"
+msgid ""
+"Where am I? The air here reminds me of the\n"
+"Boundary, but something's...different...\n"
+"Ah!"
+msgstr ""
+"Це місце... Повітря тут таке, як у «Межі», але щось не так.\n"
+"А!?"
+
+#. Key: ArcEveLC03_01
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Litchi
+msgctxt "ArcEveLC03_01"
+msgid "..."
+msgstr "..."
+
+#. Key: ArcEveLC03_02
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: アナタ、まさか「ハクメン」？
+msgctxt "ArcEveLC03_02"
+msgid "You... Are you Hakumen?"
+msgstr "Невже ти... «Хакумен»?"
+
+#. Key: ArcEveLC03_03
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Litchi
+#. JA: ほう、私を知る者か。あの化け猫の縁か？
+msgctxt "ArcEveLC03_03"
+msgid ""
+"Oh, so you know me? You must have something to do\n"
+"with that Grimalkin."
+msgstr ""
+"Гм, ти знаєш мене? Отже, теж маєш стосунок до тієї\n"
+"відьомської кицьки?"
+
+#. Key: ArcEveLC03_04
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 「化け猫」ってもしかして博士の事？ひどいいいようだわ。
+msgctxt "ArcEveLC03_04"
+msgid ""
+"\"Grimalkin\"? Are you referring to the professor?\n"
+"That's terrible..."
+msgstr "Відьомська кицька? Ти про професорку? Це вже занадто."
+
+#. Key: ArcEveLC03_05
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: でも、アナタがここにいるってことはサルベージは成功したのね。
+#. JA:   私は途中であそこを抜け出してしまったから――博士は今も元気？
+msgctxt "ArcEveLC03_05"
+msgid ""
+"But if you're here, that means the salvage was a success.\n"
+"I left midway and didn't get to see it through.\n"
+"Is the professor doing well?"
+msgstr ""
+"Але якщо ти тут, значить, операція з повернення вдалася.\n"
+"Я пішла звідти ще до завершення... З професоркою все\n"
+"гаразд?"
+
+#. Key: ArcEveLC03_06
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Litchi
+#. JA: 貴様、「境界」依り何を取り入れた？
+msgctxt "ArcEveLC03_06"
+msgid "You... What did you harvest from the Boundary?"
+msgstr "Ти... Що ти ввібрала з «Межі»?"
+
+#. Key: ArcEveLC03_07
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: なっ！？
+msgctxt "ArcEveLC03_07"
+msgid "!?"
+msgstr "Що!?"
+
+#. Key: ArcEveLC03_08
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Litchi
+#. JA: 人の目を掻い潜ろうと、私の目は欺けぬ。
+#. JA:   瘴気に穢れた魂、浄化して呉れよう。
+msgctxt "ArcEveLC03_08"
+msgid ""
+"You may have fooled the others, but you can't fool my\n"
+"eyes. I shall purify that corrupted soul of yours."
+msgstr ""
+"Інших ти, може, й обдурила, та мого ока не обманеш. Я\n"
+"очищу твою душу, заплямовану скверною."
+
+#. Key: ArcEveLC03_09
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Litchi
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！
+msgctxt "ArcEveLC03_09"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Єдиним мечем я\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveLC03_10
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Litchi
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveLC03_10"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveLC03_11
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Litchi
+#. JA: クッ、事象干渉か！邪魔をするな化け猫め！！！
+msgctxt "ArcEveLC03_11"
+msgid "Guh, how dare you interrupt me, Grimalkin!"
+msgstr ""
+"Кх, втручання у причинність! Не заважай, клята\n"
+"відьомська кицько!!!"
+
+#. Key: ArcEveLC03_12
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 今のは、空間転移！？
+msgctxt "ArcEveLC03_12"
+msgid "That's...space-time teleportation!?"
+msgstr "Це була просторова телепортація!?"
+
+#. Key: ArcEveLC04_00
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Litchi
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveLC04_00"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveLC04_01
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ハクメンはこれを待っていたの？
+#. JA:   だとしたら、かなり危機的な状況だわ。
+msgctxt "ArcEveLC04_01"
+msgid ""
+"Is this what Hakumen was waiting for? \n"
+"Then...this can't be good."
+msgstr ""
+"Хакумен чекав саме на це? Якщо так, становище вкрай\n"
+"небезпечне."
+
+#. Key: ArcEveLC04_02
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Litchi
+#. JA: 対象・認識・自律モード・起動。
+msgctxt "ArcEveLC04_02"
+msgid "Target recognized. Auto-mode: activated."
+msgstr "Ціль ідентифіковано. Автономний режим активовано."
+
+#. Key: ArcEveLC04_03
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: もう逃げられそうにないわね。
+#. JA:   でも、今の私ならあなたを窯に押し戻すことくらいはできるわ。
+msgctxt "ArcEveLC04_03"
+msgid ""
+"I guess I can't run away anymore...but with the way I am\n"
+"now, I can force you back into the Cauldron."
+msgstr ""
+"Схоже, втекти вже не вийде. Але теперішньої моєї сили\n"
+"вистачить, щоб заштовхнути тебе назад у Котел."
+
+#. Key: ArcEveLC04_04
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Litchi
+#. JA: 対象・認識・障害・認識・排除・容認……対象を障害と認識。
+msgctxt "ArcEveLC04_04"
+msgid ""
+"Target identified: obstacle. Elimination protocol release\n"
+"requested... Request granted."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"схвалено... Ціль ідентифіковано як перешкоду."
+
+#. Key: ArcEveLC04_05
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 彼ね、一瞬私の名前を呼んだの。
+#. JA:   まだ間に合うかもしれない。救えるかもしれない。
+msgctxt "ArcEveLC04_05"
+msgid ""
+"You know, he called my name... It was only for a\n"
+"moment, but he did... I might make it in time.\n"
+"I might still be able to save him..."
+msgstr ""
+"На мить він назвав мене на ім'я. Може, я ще встигну.\n"
+"Може, ще зможу його врятувати."
+
+#. Key: ArcEveLC04_06
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: だから私はここで倒れるわけにはいかないの！！
+msgctxt "ArcEveLC04_06"
+msgid "That's why I don't have time to be defeated here!"
+msgstr "Тому я не можу тут програти!!"
+
+#. Key: ArcEveLC04_07
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Litchi
+#. JA: 対象の殲滅を開始します。
+msgctxt "ArcEveLC04_07"
+msgid "Activate elimination protocol."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveLC04_08
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: これは、空間湾曲っ――！？
+msgctxt "ArcEveLC04_08"
+msgid "This is...a distortion in space-time!"
+msgstr "Це... викривлення простору!?"
+
+#. Key: ArcEveLC05_00_0
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 次の患者さんは、と、もういないみたいね。
+msgctxt "ArcEveLC05_00_0"
+msgid "Next patient? Huh. I guess that's it for today."
+msgstr "Наступний пацієнт... Схоже, на сьогодні все."
+
+#. Key: ArcEveLC05_00_1
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: じゃあちょっとお出かけしてくるから、後頼んでもいいかしら？
+msgctxt "ArcEveLC05_00_1"
+msgid "I'm going out for a bit, so can you take care of the rest?"
+msgstr "Я ненадовго вийду. Можеш тут упоратися без мене?"
+
+#. Key: ArcEveLC05_01
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: うん、大丈夫だよ！ライチ先生。
+msgctxt "ArcEveLC05_01"
+msgid "No problem, Dr. Faye-Ling."
+msgstr "Ага, без проблем, пані Лічі!"
+
+#. Key: ArcEveLC05_02_0
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ありがと、２～３時間で戻ってくるからね。
+msgctxt "ArcEveLC05_02_0"
+msgid "Thanks. I'll be back in a few hours, OK?"
+msgstr "Дякую. Повернуся за дві-три години."
+
+#. Key: ArcEveLC05_02_1
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 何かあったらハン先生を紹介してあげて。
+msgctxt "ArcEveLC05_02_1"
+msgid "If anyone comes in, refer them to Dr. Han."
+msgstr "Якщо хтось прийде, скеруй його до пана Хана."
+
+#. Key: ArcEveLC05_03
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: え～～～、あの藪医者～～～？
+msgctxt "ArcEveLC05_03"
+msgid "Awww, that quack?"
+msgstr "Фе-е-е, до того шарлатана?"
+
+#. Key: ArcEveLC05_04_0
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ハン先生は口は悪いけど腕は確かよ。
+msgctxt "ArcEveLC05_04_0"
+msgid "Dr. Han may be blunt, but he's very skilled."
+msgstr "Пан Хан гострий на язик, але лікар із нього вправний."
+
+#. Key: ArcEveLC05_04_1
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ん～、でも、ちょっと乱暴なところもあるかな？
+msgctxt "ArcEveLC05_04_1"
+msgid "Hmm...I suppose his people skills are a little lacking."
+msgstr "Хоча... іноді він трохи грубуватий."
+
+#. Key: ArcEveLC05_05
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: ま、仕方ないか～。あいつと違って先生は忙しいし。
+msgctxt "ArcEveLC05_05"
+msgid "Well, that can't be helped. You do get more patients than he does."
+msgstr ""
+"Що ж, нічого не вдієш: у вас, на відміну від нього, роботи\n"
+"багато."
+
+#. Key: ArcEveLC05_06_0
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: で、今日も「下」に行くの？
+msgctxt "ArcEveLC05_06_0"
+msgid "So, are you going underground again today?"
+msgstr "То ви й сьогодні підете «вниз»?"
+
+#. Key: ArcEveLC05_06_1
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: よく、あの人間嫌いで有名な野蛮猫たちとまともに会話できるね。
+msgctxt "ArcEveLC05_06_1"
+msgid "I'm amazed you can actually talk to those people-hating cats."
+msgstr ""
+"Дивуюся, як ви взагалі примудряєтеся розмовляти з тими\n"
+"дикими котами, що славляться ненавистю до людей."
+
+#. Key: ArcEveLC05_07
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: そんなことないわ、とっても素直でかわいい子たちよ。
+msgctxt "ArcEveLC05_07"
+msgid "That's not true. They're all very cute and friendly."
+msgstr "Та ні, вони дуже щирі й милі."
+
+#. Key: ArcEveLC05_08_0
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: この街の奴らもすでに先生にメロメロだもんね。
+msgctxt "ArcEveLC05_08_0"
+msgid "Well, every single guy in this town is absolutely crazy about you..."
+msgstr "Та все місто вже від вас мліє."
+
+#. Key: ArcEveLC05_08_1
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: 先生の魅力にかかれば誰でもイチコロ……あ、腕っぷしもか。
+msgctxt "ArcEveLC05_08_1"
+msgid "...so I'm sure you can lure in anyone with your charms...er...skills."
+msgstr ""
+"Ваші чари будь-кого звалять наповал... В сенсі, ваші\n"
+"навички."
+
+#. Key: ArcEveLC05_09
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 何かいった？
+msgctxt "ArcEveLC05_09"
+msgid "You say something?"
+msgstr "Ти щось сказала?"
+
+#. Key: ArcEveLC05_10_0
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: いえいえ。
+msgctxt "ArcEveLC05_10_0"
+msgid "Not at all."
+msgstr "Та ні."
+
+#. Key: ArcEveLC05_10_1
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Linhua
+#. Context: Arcade event: Litchi
+#. JA: ほら、先生急ぎの用事があるんでしょ？いってらっしゃ～い。
+msgctxt "ArcEveLC05_10_1"
+msgid "Say, didn't you have something urgent to do? Have a safe trip."
+msgstr "Ви ж кудись поспішали, правда? Щасливої дороги!"
+
+#. Key: ArcEveLC05_11
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: はいはい。後はよろしくね。
+msgctxt "ArcEveLC05_11"
+msgid "Yeah, yeah... Take care of the rest, OK?"
+msgstr "Гаразд, гаразд. Залишаю все на тебе."
+
+#. Key: ArcEveLC05_12
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: ここ、カグツチに来て半年か……。
+msgctxt "ArcEveLC05_12"
+msgid "It's been half a year since I came to Kagutsuchi..."
+msgstr "Уже пів року, як я приїхала до Каґуцучі..."
+
+#. Key: ArcEveLC05_13
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 彼の行動範囲は特定できたけど、そう簡単には会えないものね。
+msgctxt "ArcEveLC05_13"
+msgid "I've discovered where he operates, but...he's not very easy to find."
+msgstr ""
+"Я вже визначила, де він буває, але зустріти його не так\n"
+"просто."
+
+#. Key: ArcEveLC05_14_0
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: でも、カカ族の皆も協力してくれるっていってるし
+msgctxt "ArcEveLC05_14_0"
+msgid "Still, the kitties in the Kaka clan said they'd help me..."
+msgstr "Та й усі з клану Кака погодилися допомогти..."
+
+#. Key: ArcEveLC05_14_1
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: 悩んでても仕方ないわね。
+msgctxt "ArcEveLC05_14_1"
+msgid "...so I guess there's no point to being down."
+msgstr "Тож немає сенсу сидіти й журитися."
+
+#. Key: ArcEveLC05_15
+#. Source: system/ArcEveLC_ArcEveLC01 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC02 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC03 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC04 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Source: system/ArcEveLC_ArcEveLC05 (data/ETC/Text_Eng/ArcEveLC.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Litchi
+#. JA: よし！行動行動、頑張らなくちゃ！
+msgctxt "ArcEveLC05_15"
+msgid "All right! Time for some action!"
+msgstr "Гаразд! Час діяти. Треба постаратися!"

@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveHA01_00
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Hakumen
+#. JA: 侵入者を確認・認識・該当――無し。不確定因子と認識
+msgctxt "ArcEveHA01_00"
+msgid ""
+"Intruder detected: no matching file found.\n"
+"Recognized as undefined factor."
+msgstr ""
+"Порушника виявлено. Ідентифікація... Збігів немає.\n"
+"Класифіковано як невизначений чинник."
+
+#. Key: ArcEveHA01_01
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: ほう、貴様がもう出てきて居るか。
+msgctxt "ArcEveHA01_01"
+msgid "I didn't expect that you'd show up this early."
+msgstr "О, ти вже з’явилася."
+
+#. Key: ArcEveHA01_02
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Hakumen
+#. JA: 対象・生体反応ゼロ・存在反応・基準値の２０％・照合・照合……
+msgctxt "ArcEveHA01_02"
+msgid ""
+"Target displays no biological reaction.\n"
+"Existential reaction: 20% of standard value.\n"
+"Verifying... Verifying..."
+msgstr ""
+"Ціль: біологічна реакція відсутня. Показник присутності:\n"
+"20% стандартного значення. Зіставлення. Зіставлення..."
+
+#. Key: ArcEveHA01_03
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 未だ時間では無い筈だが。何者かが干渉して居るのか？
+msgctxt "ArcEveHA01_03"
+msgid ""
+"We should still have plenty of time.\n"
+"Is anyone interrupting you?"
+msgstr "Час іще не настав. Невже хтось втручається?"
+
+#. Key: ArcEveHA01_04
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Hakumen
+#. JA: 対象を三輝神「スサノオユニット」と確認
+#. JA:   ムラクモ起動・最大防御展開
+msgctxt "ArcEveHA01_04"
+msgid ""
+"Target identity confirmed: Sankishin, Susano'o unit.\n"
+"Murakumo has been activated.\n"
+"Preparing complete defense."
+msgstr ""
+"Ціль ідентифіковано як Санкішін — «модуль Сусаноо».\n"
+"Муракумо запущено. Розгортання максимального захисту."
+
+#. Key: ArcEveHA01_05
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 然し、如何様な事に成ろうと、貴様等は滅するのみ。
+msgctxt "ArcEveHA01_05"
+msgid ""
+"It doesn't matter what you do.\n"
+"This encounter will be your last."
+msgstr "Та хай би що сталося, вас чекає лише знищення."
+
+#. Key: ArcEveHA01_06
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Hakumen
+#. JA: 対象の殲滅を開始します
+msgctxt "ArcEveHA01_06"
+msgid "Begin target removal."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveHA01_07
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 来い、人の造りし悪魔め！
+msgctxt "ArcEveHA01_07"
+msgid "Whenever you're ready, demon of flesh and steel!"
+msgstr "Підходь, демоне, створений людьми!"
+
+#. Key: ArcEveHA01_08
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Hakumen
+#. JA: 機能……停止……
+msgctxt "ArcEveHA01_08"
+msgid "A fatal...error..."
+msgstr "Функціонування... припинено..."
+
+#. Key: ArcEveHA01_09
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 融合は未だして居ないようだな。では次は奴か。
+msgctxt "ArcEveHA01_09"
+msgid ""
+"It would seem that the fusion has yet to begin.\n"
+"Then...he must be next."
+msgstr "Схоже, злиття ще не відбулося. Тоді наступний — він."
+
+#. Key: ArcEveHA02_00
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Hakumen
+#. JA: 窯が開いているだと、どういう事だ！？
+#. JA:   おいテメェ、何者だ。一体何をした？
+msgctxt "ArcEveHA02_00"
+msgid ""
+"The Cauldron is open? What's going on!?\n"
+"Hey, who the hell're you? What did you do?"
+msgstr ""
+"Котел відкритий? Якого біса?! Гей, ти хто такий? Що ти\n"
+"зробив?"
+
+#. Key: ArcEveHA02_01
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 遅かったな。
+#. JA:   貴様の片割なら境界の向こうにお帰り願った。
+msgctxt "ArcEveHA02_01"
+msgid ""
+"You are late. I feel I should tell you... Your partner has\n"
+"departed. She has gone to the far side of the Boundary."
+msgstr ""
+"Запізнився. Твоя друга половина вже повернулася за Межу\n"
+"— я про це подбав."
+
+#. Key: ArcEveHA02_02
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Hakumen
+#. JA: テメェが倒したのか、
+#. JA:   奴を倒すのは俺の仕事なんだが、まっ、仕方ねーか。
+msgctxt "ArcEveHA02_02"
+msgid ""
+"So you did her in, huh?\n"
+"That was supposed to be my job, but...what the hell."
+msgstr ""
+"Це ти її здолав? Взагалі-то це мав зробити я, але... нічого\n"
+"не вдієш."
+
+#. Key: ArcEveHA02_03
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Hakumen
+#. JA: あい、御苦労さん。んじゃ、俺は帰るわ。
+msgctxt "ArcEveHA02_03"
+msgid ""
+"All right, thanks for all the hard work.\n"
+"Well, I'm going home then."
+msgstr "Ну, дякую за роботу. Тоді я додому."
+
+#. Key: ArcEveHA02_04
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 貴様が還る所も彼処だ、黒き者よ。
+msgctxt "ArcEveHA02_04"
+msgid "The only place you'll be going, Dark One, is after her."
+msgstr "І твоє місце там само, Чорний."
+
+#. Key: ArcEveHA02_05
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Hakumen
+#. JA: 何だとテメェ。
+msgctxt "ArcEveHA02_05"
+msgid "What did you say?"
+msgstr "Ти що сказав, виродку?"
+
+#. Key: ArcEveHA02_06
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 成程、貴様が「ラグナ＝ザ＝ブラッドエッジ」だったか。
+msgctxt "ArcEveHA02_06"
+msgid "Aaah, yes. So this was Ragna the Bloodedge, eh?"
+msgstr "Зрозуміло. Отже, ти був Раґною Бладеджем."
+
+#. Key: ArcEveHA02_07
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Hakumen
+#. JA: ”だったか”？おい、何いってんだテメェ？
+#. JA:   ワケのわかんねーことばっかいってんじゃねーよ、
+#. JA:   この馬鹿が、ぶった斬るぞ。
+msgctxt "ArcEveHA02_07"
+msgid ""
+"\"Was\"? What the hell is that supposed to mean?\n"
+"How 'bout you shut up before I give you another hole to\n"
+"breathe out of?"
+msgstr ""
+"«Був»? Гей, ти що верзеш? Досить нести маячню,\n"
+"придурку, бо я тебе розрубаю."
+
+#. Key: ArcEveHA02_08
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 如何した、粋がる割に足が震えて居るぞ。
+#. JA:   何をそんなに怯えて居る？
+msgctxt "ArcEveHA02_08"
+msgid ""
+"What's wrong? Your legs are shaking.\n"
+"What are you so afraid of?"
+msgstr ""
+"Що таке? Сміливця із себе корчиш, а ноги тремтять. Чого\n"
+"ти так боїшся?"
+
+#. Key: ArcEveHA02_09
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 貴様は世界最強では無いのか？
+#. JA:   「ラグナ＝ザ＝ブラッドエッジ」よ。
+msgctxt "ArcEveHA02_09"
+msgid "Aren't you the world's strongest, Ragna the Bloodedge?"
+msgstr "Хіба ти не найсильніший у світі, Раґно Бладедж?"
+
+#. Key: ArcEveHA02_10
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Hakumen
+#. JA: 気易く呼ぶんじゃねーよ、テメェ！
+msgctxt "ArcEveHA02_10"
+msgid ""
+"A piece of shit like you shouldn't be throwing my name\n"
+"around like that!"
+msgstr "Не смій отак запросто називати мене на ім’я, виродку!"
+
+#. Key: ArcEveHA02_11
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: フッ、戯言は此処までとしよう、時間も無い。
+#. JA:   黒き者よ、貴様の死を以って此の永き縁は潰える。
+#. JA:   私の旅路も此処で終焉だ。
+msgctxt "ArcEveHA02_11"
+msgid ""
+"It's time to stop playing games. We don't have much time.\n"
+"This battle will be your end, as well as mine."
+msgstr ""
+"Хм. Досить нісенітниць — часу немає. Чорний, твоя смерть\n"
+"покладе край цим давнім узам. І моя подорож тут\n"
+"завершиться."
+
+#. Key: ArcEveHA02_12
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Hakumen
+#. JA: あーそうかい、勝手に終わらせてろ、このお面野郎。
+#. JA:   馬鹿じゃねーか、俺がここで死ぬだ？
+#. JA:   ふざけんな、死ぬのはテメェだこの馬鹿が！
+msgctxt "ArcEveHA02_12"
+msgid ""
+"Yeah? How about just \"your\" end? Seriously, what kind of\n"
+"idiot are you? Me, die here? Me? The only one dying here\n"
+"is gonna be you, you son of a bitch!"
+msgstr ""
+"Ага, ясно. От і закінчуй собі що хочеш, виродку в масці. Ти\n"
+"геть здурів? Я помру тут? Не верзи дурниць — тут помреш\n"
+"ти, придурку!"
+
+#. Key: ArcEveHA02_13
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ArcEveHA02_13"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveHA02_14
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveHA02_14"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveHA02_15
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Ragna
+#. Context: Arcade event: Hakumen
+#. JA: ぐはあっ！……くっ……。
+msgctxt "ArcEveHA02_15"
+msgid "Argh! Guh..."
+msgstr "Ґха-а! ...Кх..."
+
+#. Key: ArcEveHA02_16
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Hakumen
+#. JA: 終わりだ、黒き者よ。
+#. JA:   境界の果てで又会おう。
+msgctxt "ArcEveHA02_16"
+msgid ""
+"It's over, Dark One.\n"
+"Until we meet again...on the other side of the Boundary."
+msgstr "Це кінець, Чорний. Ми ще зустрінемося на краю Межі."
+
+#. Key: ArcEveHA03_00
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: むかしむかし
+msgctxt "ArcEveHA03_00"
+msgid "Once upon a time,"
+msgstr "Давним-давно"
+
+#. Key: ArcEveHA03_01
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: まっくろな怪獣があらわれました
+msgctxt "ArcEveHA03_01"
+msgid "there was a black beast."
+msgstr "з’явилося чорне-пречорне чудовисько."
+
+#. Key: ArcEveHA03_02
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: 怪獣はとてもつよく
+msgctxt "ArcEveHA03_02"
+msgid "The beast was very strong,"
+msgstr "Чудовисько було дуже сильне"
+
+#. Key: ArcEveHA03_03
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: しかも　みんなをたべてしまいます
+msgctxt "ArcEveHA03_03"
+msgid "and it ate many people."
+msgstr "і з’їдало всіх людей."
+
+#. Key: ArcEveHA03_04
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: こまった人たちは　一生懸命たたかいましたが
+msgctxt "ArcEveHA03_04"
+msgid "The people fought the beast. However..."
+msgstr "Люди були в біді й щосили билися з ним,"
+
+#. Key: ArcEveHA03_05
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: 怪獣はとてもつよく　だれもかてません
+msgctxt "ArcEveHA03_05"
+msgid "...it was too strong, and they could not win."
+msgstr ""
+"але чудовисько було таким сильним, що ніхто не міг його\n"
+"здолати."
+
+#. Key: ArcEveHA03_06
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: みんながこまりはてた　そのとき
+msgctxt "ArcEveHA03_06"
+msgid "When the world was at a loss..."
+msgstr "І от, коли всі вже геть зневірилися,"
+
+#. Key: ArcEveHA03_07_0
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: しろいお侍さんが５人のなかまをつれて
+msgctxt "ArcEveHA03_07_0"
+msgid "...a white knight appeared out of nowhere,"
+msgstr "білий самурай привів із собою п’ятьох товаришів"
+
+#. Key: ArcEveHA03_07_1
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: みんなのまえにあらわれました
+msgctxt "ArcEveHA03_07_1"
+msgid "followed by five champions."
+msgstr "і постав перед людьми."
+
+#. Key: ArcEveHA03_08
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: しろいお侍さんたちはとってもつよく
+msgctxt "ArcEveHA03_08"
+msgid "They were very, very strong..."
+msgstr "Білий самурай та його товариші були дуже-дуже сильні"
+
+#. Key: ArcEveHA03_09
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: とうとう怪獣をたおしてしまいました
+msgctxt "ArcEveHA03_09"
+msgid "...and the people finally defeated the beast."
+msgstr "й нарешті здолали чудовисько."
+
+#. Key: ArcEveHA03_10
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: そしてしろいお侍さんはみんなにいいました
+msgctxt "ArcEveHA03_10"
+msgid "When the battle was over, the white knight spoke:"
+msgstr "Тоді білий самурай сказав усім:"
+
+#. Key: ArcEveHA03_11
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: もうわるいことをしてはだめだぞ　と
+msgctxt "ArcEveHA03_11"
+msgid "\"You must amend your evil ways.\""
+msgstr "«Більше не робіть нічого поганого»."
+
+#. Key: ArcEveHA03_12
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: ふしぎです
+msgctxt "ArcEveHA03_12"
+msgid "...T'was strange."
+msgstr "Дивна річ."
+
+#. Key: ArcEveHA03_13
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: わるいのは怪獣なのに
+msgctxt "ArcEveHA03_13"
+msgid "The beast was the villain after all."
+msgstr "Адже лихим було чудовисько,"
+
+#. Key: ArcEveHA03_14
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: おこったみんなは　しろいお侍さんを
+msgctxt "ArcEveHA03_14"
+msgid "But, the people got mad at the white knight"
+msgstr "але розгнівані люди схопили білого самурая"
+
+#. Key: ArcEveHA03_15
+#. Source: system/ArcEveHA_ArcEveHA01 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA02 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA03 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA04 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Source: system/ArcEveHA_ArcEveHA05 (data/ETC/Text_Eng/ArcEveHA.pac)
+#. Speaker: Narrator
+#. Context: Arcade event: Hakumen
+#. JA: まっくろな扉のなかにとじこめてしまいました。
+msgctxt "ArcEveHA03_15"
+msgid "and locked him up in a dark room."
+msgstr "і замкнули його за чорними-пречорними дверима."

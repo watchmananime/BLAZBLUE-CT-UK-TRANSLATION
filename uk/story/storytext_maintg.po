@@ -1,0 +1,4708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: TAG0_003
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: こちらテイガー。目的地に到着した。
+msgctxt "TAG0_003"
+msgid "This is Tager. I've arrived at the destination."
+msgstr "Тейґер на зв'язку. Прибув до місця призначення."
+
+#. Key: TAG0_004
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 簡潔に状況を報告する。
+#. JA:   手にした通信機から、すぐさまノイズ混じりの音声が伝わってきた。
+msgctxt "TAG0_004"
+msgid ""
+"I call in, and a voice distorted by static squawks at me from the communicator\n"
+"in my hand."
+msgstr ""
+"Я стисло доповів про становище. З передавача в моїй руці відразу\n"
+"долинув голос, спотворений поганим звʼязком."
+
+#. Key: TAG0_005
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: どうだ。いい感じの掃きだめか？
+msgctxt "TAG0_005"
+msgid "How does it look? Like a nice, orderly pile of crap?"
+msgstr "Ну як там? Гарний смітник?"
+
+#. Key: TAG0_006
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: カグツチ最下層にほど近い。治安は期待できない。
+msgctxt "TAG0_006"
+msgid "I'm getting close to the slums... I don't expect public order to be maintained."
+msgstr "Я майже на самому дні Каґуцучі. На порядок тут годі сподіватися."
+
+#. Key: TAG0_007
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: そんなもの、期待するだけ無駄だ。
+#. JA:   図書館の連中は、掃きだめの住人のことなど
+#. JA:   見向きもしないからな。
+msgctxt "TAG0_007"
+msgid ""
+"What makes you think there'd be any public order around there in the first place?\n"
+"The Library doesn't give a damn about those people."
+msgstr "І не сподівайся. Бібліотеці байдуже до мешканців цього смітника."
+
+#. Key: TAG0_008
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: それにしても、未開発地区が目立つ。
+#. JA:   この都市はずいぶんと前から開発されていたのではなかったか。
+msgctxt "TAG0_008"
+msgid ""
+"But I see a lot of undeveloped areas. I thought this place was scheduled to undergo\n"
+"massive development."
+msgstr ""
+"Але тут багато незабудованих районів. Хіба це місто не почали\n"
+"розбудовувати вже давно?"
+
+#. Key: TAG0_009
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ふん。イカルガ内戦のせいだろう。
+#. JA:   第七機関が好き勝手やったとばっちりを受けたのさ、
+#. JA:   この都市は。
+msgctxt "TAG0_009"
+msgid ""
+"Hmph. Well, plans change. Has to do with the Ikaruga conflict, I'll bet. This city is a\n"
+"victim of Sector Seven's selfishness."
+msgstr ""
+"Хм. Певно, через Ікарузьку війну. Місту дісталося за те, що Сектор Сім\n"
+"робив усе, що заманеться."
+
+#. Key: TAG0_010
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: とばっちり。その口調は明らかに第七機関を非難していた。
+#. JA:   ココノエも第七機関所属だが、上の連中とは反りが合わず、
+#. JA:   反組織的なことをこの女は平然と口にする。
+msgctxt "TAG0_010"
+msgid ""
+"Something about the way she said <DQ>victim<DQ> made me think Kokonoe blamed Sector\n"
+"Seven for what was going on here. Even if she does work for them, she rarely gets\n"
+"along with her superiors, and she's not one to censor herself."
+msgstr ""
+"Слово «дісталося» вона вимовила так, ніби звинувачувала Сектор Сім.\n"
+"Хоч Коконое й працює там, із керівництвом вона не ладнає та відкрито\n"
+"говорить проти організації."
+
+#. Key: TAG0_011
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: こんな女が、世界屈指の科学者なのだから世も末だ。
+msgctxt "TAG0_011"
+msgid ""
+"How a person like her could possess the world's greatest scientific mind...\n"
+"I sometimes worry what will come of it."
+msgstr ""
+"І така жінка — одна з найвидатніших науковців світу. Куди котиться\n"
+"світ..."
+
+#. Key: TAG0_012
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ―――今、失敬なことを考えなかったか？
+#. JA:   精神波長をモニタしていることを忘れるなよ。
+msgctxt "TAG0_012"
+msgid ""
+"Thinking bad thoughts, Tager? Heh heh. We're watching everything you do and\n"
+"everything you think, remember?"
+msgstr ""
+"Ти зараз подумав щось нечемне? Хі-хі. Не забувай, я стежу за хвилями\n"
+"твоєї свідомості."
+
+#. Key: TAG0_013
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: いや、何でもない。
+#. JA:   イカルガの三つの素体。
+#. JA:   一つはここに運び込まれたらしいが……。
+msgctxt "TAG0_013"
+msgid ""
+"No, it's nothing. The three assets under Ikaruga control...\n"
+"I thought one of them was brought over here."
+msgstr "Ні, нічого. З трьох носіїв з Ібукідо одного, схоже, перевезли сюди..."
+
+#. Key: TAG0_014
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 釜の中で夢でも見ている頃だろうよ、お姫様は。
+#. JA:   それを狙って、あの「死神」―――
+#. JA:   「ラグナ＝ザ＝ブラッドエッジ」がカグツチに現れたらしい。
+msgctxt "TAG0_014"
+msgid ""
+"I'm sure the princess is dreaming deep in her iron pot right now. The guy they're\n"
+"calling the Grim Reaper... Ragna the Bloodedge? Word is he's showed up in\n"
+"Kagutsuchi."
+msgstr ""
+"Принцеса, мабуть, уже бачить сни в Котлі. Кажуть, по неї до Каґуцучі й\n"
+"прийшов той «Жнець» — Раґна Бладедж."
+
+#. Key: TAG0_015
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: なるほど、ハクメンがここに来たのも
+#. JA:   ラグナ＝ザ＝ブラッドエッジを追ってのことか。
+msgctxt "TAG0_015"
+msgid "I see. So, Hakumen came here for Ragna the Bloodedge, huh?"
+msgstr "Зрозуміло. Отже, Хакумен теж прибув сюди за Раґною Бладеджем?"
+
+#. Key: TAG0_016
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ハクメンが何を考えているかなど、私は興味ない。
+#. JA:   ただ、今勝手に動かれては少々都合が悪い。
+#. JA:   まあ、あのサンプルにジッとしていろというのも無茶な話か……。
+msgctxt "TAG0_016"
+msgid ""
+"How the hell would I know? I could care less why he was there. I just wish he'd\n"
+"stop poking his nose where it doesn't belong. Guess that's too much to ask, though."
+msgstr ""
+"Мені байдуже, що Хакумен задумав. Та якщо він зараз діятиме\n"
+"самовільно, це завадить моїм планам. Хоч марно вимагати, щоб той\n"
+"зразок сидів тихо..."
+
+#. Key: TAG0_017
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG0_017"
+msgid "..."
+msgstr "..."
+
+#. Key: TAG0_018
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 大戦の英雄もココノエに掛かればただのサンプルか。
+#. JA:   目的のために手段を選ばん科学者はタチが悪い。
+msgctxt "TAG0_018"
+msgid ""
+"Even the hero of the Great War is nothing more than a sample to Kokonoe, huh?\n"
+"I wonder how many scientists lose sight of their humanity in pursuit of their\n"
+"goals?"
+msgstr ""
+"Навіть герой Великої війни для Коконое лише зразок. Науковиця, яка\n"
+"задля мети не гребує нічим, — небезпечна людина."
+
+#. Key: TAG0_019
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: また、精神波長が揺らいだな。
+#. JA:   余計なことは考えるなよ？
+msgctxt "TAG0_019"
+msgid "Your mental activity spiked again. Stay focused here."
+msgstr "Знову коливання хвиль свідомості. Не думай про зайве."
+
+#. Key: TAG0_020
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 精神波長の揺らぎは許容範囲内だろう。
+#. JA:   気にするな。
+msgctxt "TAG0_020"
+msgid "My neural waves should be within normal ranges. Stop worrying."
+msgstr "Це коливання в допустимих межах. Не зважай."
+
+#. Key: TAG0_021
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……ま、任務さえキッチリこなしてくれれば文句はない。
+msgctxt "TAG0_021"
+msgid "I'll stop complaining when you stop wasting time and get your shit together."
+msgstr "...Якщо виконаєш завдання як слід, претензій не матиму."
+
+#. Key: TAG0_022
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 了解している。
+#. JA:   優先順位の再確認をする。
+msgctxt "TAG0_022"
+msgid ""
+"Roger that.\n"
+"Reassessing mission priorities."
+msgstr "Зрозумів. Повторю порядок пріоритетів."
+
+#. Key: TAG0_023
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 1．ハクメンの回収。これが最優先。
+#. JA:   2．蒼の魔道書の確保。これは可能であれば。
+msgctxt "TAG0_023"
+msgid ""
+"Primary objective: Retrieve Hakumen.\n"
+"Secondary objective: Obtain the Azure Grimoire, only if the circumstances deem it\n"
+"possible."
+msgstr ""
+"Перше: повернути Хакумена. Це головне. Друге: за можливості здобути\n"
+"Лазурний Гримуар."
+
+#. Key: TAG0_024
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ああ、それでいい。
+#. JA:   最悪、蒼の魔道書はどうでもいい。
+#. JA:   多少興味があるだけだからな。
+msgctxt "TAG0_024"
+msgid ""
+"Yeah, you got it. Worst case scenario, you can ditch the grimoire. I'd like to have a\n"
+"look at it someday, but it's not mission critical."
+msgstr ""
+"Так. У найгіршому разі забудь про гримуар. Мені просто трохи цікаво на\n"
+"нього поглянути."
+
+#. Key: TAG0_025
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 蒼の魔道書。第七機関上層部も興味を示している、
+#. JA:   最強の魔道書の一つだ。
+msgctxt "TAG0_025"
+msgid ""
+"The Azure Grimoire. It's one of the strongest grimoires we know of. Even the top\n"
+"brass at Sector Seven are interested in it."
+msgstr ""
+"Лазурний Гримуар — один із наймогутніших гримуарів. Ним цікавиться\n"
+"навіть керівництво Сектору Сім."
+
+#. Key: TAG0_026
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 最強と名高い「蒼」に対して、随分と淡白だな。
+#. JA:   お前のような科学者にとっては、
+#. JA:   喉から手が出るほどの代物だと思うのだが……。
+msgctxt "TAG0_026"
+msgid ""
+"Aren't you a little too indifferent about the mighty <DQ>Azure<DQ>? I thought it was\n"
+"something that scientists like you were desperate to get..."
+msgstr ""
+"Ти напрочуд байдужа до славнозвісного «Лазуру». Я гадав, для науковиці\n"
+"на кшталт тебе це був би найжаданіший скарб..."
+
+#. Key: TAG0_027
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 最強？　あれがか……？
+#. JA:   無知ってのは罪だな。あんなもの、最弱の間違いだ。
+msgctxt "TAG0_027"
+msgid ""
+"Mighty? That thing?\n"
+"Sometimes I think you're too stupid to live, Tager.\n"
+"Try the <DQ>weakest<DQ>."
+msgstr ""
+"Наймогутніший? Оця штука? Неуцтво — злочин. Та він радше\n"
+"«найслабший»."
+
+#. Key: TAG0_028
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……最弱？
+#. JA:   奇妙だ。そんな情報、私のデータにはない。
+msgctxt "TAG0_028"
+msgid ""
+"...The weakest? \n"
+"That's odd. There's no such information in my database."
+msgstr "...Найслабший? Дивно. У моїх даних цього немає."
+
+#. Key: TAG0_029
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 意味が解らないなら、気にするな。
+#. JA:   説明するのも面倒だ。
+msgctxt "TAG0_029"
+msgid ""
+"Well if you don't get it now, you're never going to. I'm not gonna waste my time\n"
+"explaining it."
+msgstr "Не розумієш — не переймайся. Ліньки пояснювати."
+
+#. Key: TAG0_030
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 了解した。では次の確認事項だ。
+#. JA:   ハクメン回収のために必要な転移装置は全部で13機。
+#. JA:   これらを速やかに、所定の位置に敷設する。
+msgctxt "TAG0_030"
+msgid ""
+"Roger that.\n"
+"Next... Place the thirteen objects necessary for Hakumen's retrieval in their\n"
+"designated positions."
+msgstr ""
+"Зрозумів. Наступне уточнення: для повернення Хакумена потрібні\n"
+"тринадцять пристроїв перенесення. Я маю якнайшвидше встановити їх у\n"
+"визначених місцях."
+
+#. Key: TAG0_031
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 一カ所でも間違えたら、仕掛けがパーだからな。
+#. JA:   しくじったら、その体をコミックキャラクターに改造してやる。
+msgctxt "TAG0_031"
+msgid ""
+"One slip-up, and you'll blow the whole thing, meathead; so watch yourself, or I'll\n"
+"make you look like one of those comic-book characters."
+msgstr ""
+"Помилишся хоч на одному місці — і весь піде по одному місцю. Якщо\n"
+"запориш задачу, перероблю твоє тіло на героя коміксів."
+
+#. Key: TAG0_032
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 今のボディ……、私は気に入っている。
+#. JA:   コミックキャラクターは遠慮したい。
+msgctxt "TAG0_032"
+msgid "I...happen to like my body. I think I'll pass on the superhero look..."
+msgstr ""
+"Мені подобається моє нинішнє тіло. Від образу героя коміксів я б\n"
+"відмовився."
+
+#. Key: TAG0_033
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 失敗などしないから、心配はいらない。
+#. JA:   そんなことより、一つ確認しておきたい。
+msgctxt "TAG0_033"
+msgid ""
+"I won't make any mistakes, so there's no need for you to worry. By the way, there's\n"
+"one thing that I want to make sure."
+msgstr "Я не помилюся, тож не хвилюйся. Але хочу дещо уточнити."
+
+#. Key: TAG0_034
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 何だ？　言ってみろ。
+msgctxt "TAG0_034"
+msgid "What?"
+msgstr "Що? Кажи."
+
+#. Key: TAG0_035
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 今回の転移装置には、術式が利用されている。
+#. JA:   術式を含む全ての魔法を世界から駆逐するために存在する
+#. JA:   第七機関の方針にはそぐわないが、問題はないのか？
+msgctxt "TAG0_035"
+msgid ""
+"The equipment utilizes Armagus. I understand it's not against the beliefs of Sector\n"
+"Seven to use magic, but our purpose is to banish it... Will there be any issues?"
+msgstr ""
+"У цих пристроях застосовано магічні формули. Але Сектор Сім існує,\n"
+"щоб викорінити зі світу всю магію, зокрема й формули. Це не суперечить\n"
+"нашим принципам?"
+
+#. Key: TAG0_036
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 敵は―――ふん、図書館は馬鹿の一つ覚えのように術式、術式だ。
+#. JA:   ま、術式を破るには術式を使うのが手っ取り早い。
+msgctxt "TAG0_036"
+msgid ""
+"The enemy is...hmph. All the Library knows how to do is Ars Magus. So what better\n"
+"way to fight them than with their own medicine...?"
+msgstr ""
+"Вороги... Хм, Бібліотека тільки й знає, що повторювати: «формули,\n"
+"формули». Найшвидше подолати їхні формули їхнім же засобом."
+
+#. Key: TAG0_037
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 今回の仕掛けは急ごしらえだからな。
+#. JA:   意趣返しってことで術式を使うことにしてやった。
+msgctxt "TAG0_037"
+msgid ""
+"I didn't have a lot of time to set up this trap, so I took a shortcut and used an Ars or\n"
+"two to exact my revenge."
+msgstr ""
+"Я зібрала цей механізм нашвидкуруч. Вирішила відплатити їм,\n"
+"використавши формули."
+
+#. Key: TAG0_038
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 了解した。毒には毒を……か。
+#. JA:   しかし、術式を使うにしても強制空間転移など、
+#. JA:   本当に可能なのか？
+msgctxt "TAG0_038"
+msgid ""
+"Understood. <DQ>Fight fire with fire<DQ>, eh? Still, is it really possible to artificially create a\n"
+"time-space warp...? Even with the use of an Armagus?"
+msgstr ""
+"Зрозумів. «Отрута проти отрути», так? Але чи можливе примусове\n"
+"просторове перенесення навіть із допомогою магічних формул?"
+
+#. Key: TAG0_039
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 可能だから、おまえに命令を出してるんだろうが！
+#. JA:   なぁに……、仕掛けさえできてしまえばそう難しくもない。
+#. JA:   たかが虚数空間の制御だからな。
+msgctxt "TAG0_039"
+msgid ""
+"You really think I'd send you to do something that was impossible? All you've gotta\n"
+"do is make sure the trap works. It's just a matter of controlling imaginary number\n"
+"space anyway..."
+msgstr ""
+"Якби це було неможливо, я б не давала тобі наказу! Щойно механізм\n"
+"буде готовий, складного тут мало. Потрібно лише керувати простором\n"
+"уявних чисел."
+
+#. Key: TAG0_040
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: それに、今回は私の“プライベート”も使う。
+#. JA:   問題はない。
+msgctxt "TAG0_040"
+msgid "Besides, I'll use my Private this time. That should take care of any problems."
+msgstr "До того ж цього разу я використаю й дещо «особисте». Проблем не буде."
+
+#. Key: TAG0_041
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……プライベート？
+msgctxt "TAG0_041"
+msgid "...<DQ>Private<DQ>?"
+msgstr "...«Особисте»?"
+
+#. Key: TAG0_042
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 女の秘密を知ると長生き出来ないぞ？
+#. JA:   ま、気にするな。要は問題は皆無ということさ。
+msgctxt "TAG0_042"
+msgid ""
+"You won't live long trying to uncover a lady's secrets. All you need to know is that\n"
+"there's nothing for you to worry your tiny little head about."
+msgstr ""
+"Хто розпитує про жіночі таємниці, довго не живе. Не переймайся.\n"
+"Головне, що проблем не буде."
+
+#. Key: TAG0_043
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: どうやら、プライベートを追及すると、
+#. JA:   明日にはスクラップにされそうだ。深入りはやめておこう。
+msgctxt "TAG0_043"
+msgid ""
+"If I try and pry any further, I'm going to end up in the scrap heap.\n"
+"I'd better just leave it alone..."
+msgstr ""
+"Схоже, якщо розпитуватиму далі про це «особисте», завтра опинюся на\n"
+"звалищі. Краще забити."
+
+#. Key: TAG0_044
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 了解した。確認事項は、あと一つだ。
+#. JA:   この都市には、彼女―――ライチが居るらしい。
+msgctxt "TAG0_044"
+msgid ""
+"Understood. There's one more thing I'd like to confirm. I heard that -she- is in the\n"
+"city—Litchi."
+msgstr ""
+"Зрозумів. Лишилося ще одне уточнення. Кажуть, у цьому місті перебуває\n"
+"вона — Лічі."
+
+#. Key: TAG0_045
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ライチが？
+#. JA:   ということは、あの馬鹿弟子もいるということか……。
+#. JA:   そっちも余力があったら確認―――
+msgctxt "TAG0_045"
+msgid ""
+"Litchi? So that lame-ass excuse for an apprentice is here too, huh? Well, if you\n"
+"have any spare time while you're there, confirm—\n"
+"..."
+msgstr "Лічі? Отже, там і той дурний учень... Якщо матимеш змогу, перевір і це..."
+
+#. Key: TAG0_047
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ココノエ。おい、ココノエ。
+#. JA:   駄目だな、通信が途絶してしまったか。
+#. JA:   いま一つ電波状況が芳しくないな……。
+msgctxt "TAG0_047"
+msgid ""
+"Kokonoe. Hey, Kokonoe.\n"
+"Disconnected...\n"
+"All this technology, and we still have dead zones..."
+msgstr "Коконое. Агов, Коконое. Зв'язок обірвався. Сигнал тут нікудишній..."
+
+#. Key: TAG0_048
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 仕方ない。ライチのことは臨機応変に対処しよう。
+#. JA:   TR-0009 テイガー、これより状況を開始する。
+msgctxt "TAG0_048"
+msgid ""
+"Oh, well. I guess I'll have to act at my own discretion as far as Litchi is concerned.\n"
+"TR-0009 Tager, commencing mission."
+msgstr ""
+"Що ж, із Лічі доведеться діяти за обставинами. TR-0009, Тейґер,\n"
+"розпочинаю операцію."
+
+#. Key: TAG1_002
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: この辺りでは、これで最後か。
+msgctxt "TAG1_002"
+msgid "I guess this is the last in this area..."
+msgstr "Це, мабуть, останній у цьому районі."
+
+#. Key: TAG1_003
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 数個目の転移装置の敷設を終えたその時だった。
+#. JA:   唐突に背後から声を掛けられたのだ。
+msgctxt "TAG1_003"
+msgid "I'd just finished setting up when I heard her voice..."
+msgstr ""
+"Я щойно встановив черговий пристрій перенесення, коли позаду раптом\n"
+"пролунав голос."
+
+#. Key: TAG1_004
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Unknown on screen; internally Taokaka
+#. Context: Tager story route (POV: Tager)
+#. JA: そこのでかい人、にゃにしてるニャスか？
+msgctxt "TAG1_004"
+msgid "Hey you, big man, what are you doing?"
+msgstr "Агов, великий дядьку, що ти робиш, ня?"
+
+#. Key: TAG1_005
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ん？　何だ、娘。
+#. JA:   危ないから向こうに行ってなさい。
+msgctxt "TAG1_005"
+msgid ""
+"Hm? Do you need anything from me, little girl?\n"
+"It's dangerous. I suggest you stay away from here."
+msgstr "Гм? Що тобі, дівчинко? Тут небезпечно. Іди геть."
+
+#. Key: TAG1_006
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Unknown on screen; internally Taokaka
+#. Context: Tager story route (POV: Tager)
+#. JA: むしゅめ？　それウマいのか？
+msgctxt "TAG1_006"
+msgid "Hmm? Are you hiding something yummy?"
+msgstr "Що це? А це смачненько-ня?"
+
+#. Key: TAG1_007
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 娘の背後で太いロープのようなものがゆらゆらと動いている。
+#. JA:   それが尾だと認識しデータを照合する。
+#. JA:   なるほど。この都市のロストタウンに住むカカ族か。
+msgctxt "TAG1_007"
+msgid ""
+"There's something that looks like a thick rope waving behind her... Ah. It's a tail. \n"
+"Then that must mean she's from the Kaka clan that lives in the Lost Town \n"
+"underneath Kagutsuchi."
+msgstr ""
+"За спиною дівчини погойдувалося щось схоже на товсту мотузку. Я\n"
+"визначив, що це хвіст, і звірив дані. Так і є: вона з племені Кака, що\n"
+"живе в Загубленому місті Каґуцучі."
+
+#. Key: TAG1_008
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Taokaka
+#. Context: Tager story route (POV: Tager)
+#. JA: にゃーにゃー、でかい人。
+#. JA:   だから何してるニャス？
+msgctxt "TAG1_008"
+msgid "So, what are you doing, big man?"
+msgstr "Ня-ня, великий дядьку! То що ти робиш, ня?"
+
+#. Key: TAG1_009
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: （やはりこの体は隠密行動には向いて無いぞ、ココノエ）
+msgctxt "TAG1_009"
+msgid "(I don't think this body is well-suited for covert operations... Kokonoe.)"
+msgstr "(Коконое, це тіло таки не годиться для прихованих операцій.)"
+
+#. Key: TAG1_010
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Taokaka
+#. Context: Tager story route (POV: Tager)
+#. JA: はっ！
+#. JA:   さてはそこに何かウマいもにょを隠したニャ!?
+#. JA:   タオにもわけるニャスー！！
+msgctxt "TAG1_010"
+msgid ""
+"Oh, I know! You hid something tasty there!\n"
+"Give some to Tao, meow!"
+msgstr "Ага! То ти сховав там щось смачненьке, ня?! Поділися з Тао!"
+
+#. Key: TAG1_011
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 何を言い出すんだ、犬猫でもあるまいし。
+#. JA:   こんなところに食料など隠すわけがないだろう。
+msgctxt "TAG1_011"
+msgid ""
+"What are you talking about? I'm neither a dog nor a cat.\n"
+"Do you think I would hide food in a place like this?"
+msgstr "Що ти вигадуєш? Я ж не собака й не кіт. Навіщо мені ховати тут їжу?"
+
+#. Key: TAG1_012
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Taokaka
+#. Context: Tager story route (POV: Tager)
+#. JA: そんなこと言うなら、そこをタオに見せるニャ！
+#. JA:   見ないと信じないニャスよ！
+msgctxt "TAG1_012"
+msgid "Then, you won't mind me checking myself!? I wouldn't believe you otherwise, meow!"
+msgstr "Тоді покажи Тао, що там! Поки не побачу, не повірю, ня!"
+
+#. Key: TAG1_013
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: この娘に装置を触られたら……。
+#. JA:   壊される可能性が高いな、仕方がない、すこし脅してみるか。
+msgctxt "TAG1_013"
+msgid ""
+"If this child touches the device, I calculate unacceptable odds in favor of its\n"
+"destruction. Perhaps the use of force to dissuade her is unavoidable..."
+msgstr ""
+"Якщо ця дівчина торкнеться пристрою, то, найімовірніше, зламає його.\n"
+"Доведеться трохи налякати."
+
+#. Key: TAG1_014
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: これ以上の邪魔をするなら、痛い思いをするぞ!?
+msgctxt "TAG1_014"
+msgid "If you continue to impede my progress, I will have to decommission you."
+msgstr "Не припиниш заважати — буде боляче!"
+
+#. Key: TAG1_015
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Taokaka
+#. Context: Tager story route (POV: Tager)
+#. JA: う～～～、でかい人は悪者だったニャスか！
+#. JA:   こーにゃったらタオが成敗してやるニャス！！
+msgctxt "TAG1_015"
+msgid "Oh! So you were a bad guy! I'm gonna have to beat you up!"
+msgstr "У-у-у! Значить, великий дядько — поганець, ня?! Тоді Тао тебе покарає!"
+
+#. Key: TAG1_016
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: お、おい、本気か!?
+msgctxt "TAG1_016"
+msgid "H-Hey, are you serious!?"
+msgstr "С-слухай, ти серйозно?!"
+
+#. Key: TAG1_020
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Taokaka
+#. Context: Tager story route (POV: Tager)
+#. JA: 思い知ったかニャス！
+msgctxt "TAG1_020"
+msgid "Who's sorry neow!?"
+msgstr "Ну що, збагнув, ня?!"
+
+#. Key: TAG1_021
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: この戦闘力は……まさか……!?
+#. JA:   この娘、オリジナルの隔世レプリカなのか？
+msgctxt "TAG1_021"
+msgid "Her combat strength... Impossible...! Could she be an atavistic replica?"
+msgstr "Така бойова сила... Невже?! Вона — атавістична копія оригіналу?"
+
+#. Key: TAG1_023
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……おい！　テイガー！　何と遭遇した！
+#. JA:   テイガー！　テイガー！　状況を報告しろ！
+msgctxt "TAG1_023"
+msgid ""
+"...Hey, Tager! What just happened!?\n"
+"Tager! Tager! Report!"
+msgstr "...Тейґере! На що ти натрапив?! Тейґере! Тейґере! Доповідай!"
+
+#. Key: TAG1_024
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私が落とした通信機からココノエの喚き声が響いている。
+#. JA:   しかし、今の私はすでに通信機を拾う機能さえ喪失していた。
+#. JA:   どうやら制御系統に致命的なダメージを負ったようだ。
+msgctxt "TAG1_024"
+msgid ""
+"I can hear Kokonoe's scream crackle from the communicator lying on the floor next\n"
+"to me, but I can't seem to move to pick it up. My internal systems seem to have\n"
+"suffered significant damage..."
+msgstr ""
+"З передавача, який я впустив, долинали крики Коконое. Та я вже не міг\n"
+"навіть підняти його. Схоже, система керування зазнала критичних\n"
+"ушкоджень."
+
+#. Key: TAG1_025
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: テイガー！　どうした、返事を―――……
+msgctxt "TAG1_025"
+msgid ""
+"Tager! What's going on!? Report back—\n"
+"..."
+msgstr "Тейґере! Що сталося? Відповідай..."
+
+#. Key: TAG1_031
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Taokaka
+#. Context: Tager story route (POV: Tager)
+#. JA: うにゃぁ……。
+#. JA:   やられたニャス～～～。
+msgctxt "TAG1_031"
+msgid "Meow... You sure are strong..."
+msgstr "Ня-а... Побили Тао, ня..."
+
+#. Key: TAG1_032
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: これに懲りたら食欲と直結した行動を慎むことだな。
+#. JA:   おとなしく家に帰るがいい。
+msgctxt "TAG1_032"
+msgid "I suggest you let your head do the thinking, not your stomach. Now go on home."
+msgstr ""
+"Сподіваюся, це навчить тебе не йти сліпо за своїм апетитом. Іди додому\n"
+"й поводься тихо."
+
+#. Key: TAG1_033
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 貴重な作戦行動時間が失われた。
+#. JA:   次の敷設場所に急ごう。
+msgctxt "TAG1_033"
+msgid ""
+"I've lost precious time... I need to get to the next setup location as soon as\n"
+"possible."
+msgstr ""
+"Я втратив дорогоцінний час операції. Треба поспішати до наступного\n"
+"місця встановлення."
+
+#. Key: TAG2_002
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: しばらく行くと、景色が変わった。
+msgctxt "TAG2_002"
+msgid "Hmm... The scenery here looks different..."
+msgstr "За якийсь час краєвид змінився."
+
+#. Key: TAG2_003
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ここが浪人街か。
+#. JA:   イカルガ難民が多く流れ着いたと聞くが。
+msgctxt "TAG2_003"
+msgid ""
+"So, this is Ronin-gai...\n"
+"I hear a lot of Ikaruga citizens took refuge here after the war."
+msgstr "То це Ронін-ґай. Кажуть, сюди прибуло чимало біженців з Ікаруґи."
+
+#. Key: TAG2_005
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ココノエからの通信のようだ。
+#. JA:   都市区画の外れであるこの辺りは電波障害が薄いらしい。
+#. JA:   私は通信機を取り出した。
+msgctxt "TAG2_005"
+msgid ""
+"Kokonoe is trying to contact me. I don't think the reception is very good in this part\n"
+"of the city, but... If I don't pick up...\n"
+"I take out the communicator."
+msgstr ""
+"Коконое виходила на зв'язок. На околиці міста радіоперешкоди слабші,\n"
+"тож я дістав передавач."
+
+#. Key: TAG2_006
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: こちらテイガー。どうした？
+msgctxt "TAG2_006"
+msgid "This is Tager. What's the matter?"
+msgstr "Тейґер на зв'язку. Що сталося?"
+
+#. Key: TAG2_007
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: お前の面白い精神波長がモニタできたからな。
+#. JA:   「赤鬼」と恐れられるお前が感傷に浸るとは。
+msgctxt "TAG2_007"
+msgid ""
+"There was a big ol' spike in your brainwaves.\n"
+"I didn't know the Red Devil was so sentimental."
+msgstr ""
+"Я помітила цікаві коливання хвиль твоєї свідомості. Невже ти, грізний\n"
+"«Червоний демон», піддався ностальгії?"
+
+#. Key: TAG2_008
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: この感覚を感傷と呼ぶのならば、そうなのだろう。
+msgctxt "TAG2_008"
+msgid "If this sensation is called <DQ>sentimental<DQ>, then I suppose you're right."
+msgstr "Якщо це відчуття називається «ностальгією», то, мабуть, так."
+
+#. Key: TAG2_009
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: イカルガ内戦時の実体験記憶は失われていたはずだが……。
+#. JA:   僅かながらシナプス結合が残存していたか。
+msgctxt "TAG2_009"
+msgid ""
+"I thought your memories of the Ikaruga civil war had been—\n"
+"...Huh. Well, I guess there were a few cells still alive in there."
+msgstr ""
+"Здавалося, твої справжні спогади про громадянську війну в Ікарузі\n"
+"зникли... Але, видно, лишилися деякі синаптичні зв'язки."
+
+#. Key: TAG2_010
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: あの内戦の最後は悲惨なものだったからな。
+#. JA:   すでに抵抗する力も残っていないイカルガを、
+#. JA:   図書館は新型兵器の実験場に使ったのさ。
+msgctxt "TAG2_010"
+msgid ""
+"The end of the war was a damn nightmare. The Library decided to use Ikaruga as a\n"
+"testing ground for new weapons. Poor bastards didn't even have an army to fight\n"
+"back with."
+msgstr ""
+"Кінець тієї війни був жахливим. Бібліотека зробила Ібукідо, столицю вже\n"
+"знесиленої Ікаруґи, полігоном для випробування нової зброї."
+
+#. Key: TAG2_011
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: はは。人体実験をも厭わない私が、
+#. JA:   兵器実験を非難するのもおこがましいか。
+msgctxt "TAG2_011"
+msgid ""
+"Ha! Guess it's a little hypocritical of me to criticize their tests when I've got no\n"
+"problem experimenting on the human body."
+msgstr ""
+"Ха. Мені, яка не цурається дослідів на людях, не годиться засуджувати\n"
+"випробування зброї."
+
+#. Key: TAG2_012
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: いや。個人を対象にする実験と、群衆を対象にした実験とでは
+#. JA:   意味が違う。同列に扱うことは出来ないだろう。
+msgctxt "TAG2_012"
+msgid ""
+"No. An experiment conducted on an individual and one conducted on a crowd are\n"
+"completely different... You can't treat them the same."
+msgstr ""
+"Ні. Досліди над однією людиною й над натовпом мають різне значення.\n"
+"Не можна ставити їх на один рівень."
+
+#. Key: TAG2_013
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 何だ？
+#. JA:   私にそんな気遣いはいらないぞ。
+msgctxt "TAG2_013"
+msgid "What the hell is this? I don't need emotional support from you."
+msgstr "Що це? Не треба мене втішати."
+
+#. Key: TAG2_014
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 気を遣ったつもりはない。
+#. JA:   一般的なマキャベリズムを述べただけだ。
+msgctxt "TAG2_014"
+msgid "I didn't mean it that way. I was just talking about general Machiavellian theory. "
+msgstr "Я й не збирався. Просто висловив загальні міркування з макіавеллізму."
+
+#. Key: TAG2_015
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: そうか。では、これ以上は無駄話だな。
+#. JA:   通信を切るぞ。速やかに次の装置敷設に取りかかれ。
+msgctxt "TAG2_015"
+msgid ""
+"Really? Wow. Well, this conversation has just become a waste of my time.\n"
+"I'm gonna hang up now, you just get cracking on the next setup."
+msgstr ""
+"Он як. Тоді годі марнувати час на балачки. Вимикаю зв'язок. Негайно\n"
+"встановлюй наступний пристрій."
+
+#. Key: TAG2_016
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 了解。
+msgctxt "TAG2_016"
+msgid "Roger."
+msgstr "Зрозумів."
+
+#. Key: TAG2_018
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: さて。次は向こうだったな。
+msgctxt "TAG2_018"
+msgid "Now. I believe the next one is that way."
+msgstr "Отже, наступне місце — там."
+
+#. Key: TAG2_019
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Unknown on screen; internally Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 待てい、そこの異形！！
+msgctxt "TAG2_019"
+msgid "Stay where you are, weirdo!"
+msgstr "Стій, потворо!"
+
+#. Key: TAG2_021
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 異形？
+#. JA:   それは私のことか？
+msgctxt "TAG2_021"
+msgid "<DQ>Weirdo<DQ>? Are you talking about me?"
+msgstr "«Потворо»? Це ти до мене?"
+
+#. Key: TAG2_022
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 応！
+#. JA:   拙者はシシガミ＝バング。
+#. JA:   愛と正義の咎追いでござる！
+msgctxt "TAG2_022"
+msgid ""
+"Indeed! I am Bang Shishigami!\n"
+"The vigilante who fights in the name of love and justice!"
+msgstr ""
+"Авжеж! Я — Банґ Шішіґамі, мисливець за головами в ім'я любові та\n"
+"справедливості!"
+
+#. Key: TAG2_023
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……その咎追いとやらが、何の用だ。
+#. JA:   私の首には、賞金などかかっていないぞ。
+msgctxt "TAG2_023"
+msgid ""
+"...What do you want from me, vigilante?\n"
+"I don't recall having a price-tag on my head..."
+msgstr ""
+"...Що тобі потрібно, мисливцю за головами? За мене нагороди не\n"
+"призначено."
+
+#. Key: TAG2_024
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: ふっふっふ。拙者にはわかる。その怪しい風体……。
+#. JA:   お主はいずれは重大犯罪に手を染め、世に徒を成すと！
+msgctxt "TAG2_024"
+msgid ""
+"Heheheheh. It's becoming all too clear to me...\n"
+"That conspicuous attire of yours...\n"
+"I can tell you're the kind of guy who's gonna break the law..."
+msgstr ""
+"Хе-хе-хе. Я бачу наскрізь твою підозрілу подобу. Колись ти вчиниш\n"
+"тяжкий злочин і нашкодиш світу!"
+
+#. Key: TAG2_025
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: いきなり何を言い出す。
+#. JA:   言いがかりも甚だしい。
+msgctxt "TAG2_025"
+msgid "What are you talking about? I must admit, that's one helluv'an accusation..."
+msgstr "Що за маячня? Це безпідставне звинувачення."
+
+#. Key: TAG2_026
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: ふっ。犯罪の芽は早めに摘むに限るでござる。
+#. JA:   これ以上は問答無用！
+#. JA:   シシガミ＝バング、参る！！
+msgctxt "TAG2_026"
+msgid ""
+"Hmph. It's best to nip crime in the bud...\n"
+"Let's cut the chatter. I'll make you regret ever confronting me... Bang Shishigami!"
+msgstr ""
+"Хм! Паростки злочину слід виривати завчасно. Годі балачок! Банґ\n"
+"Шішіґамі йде в бій!"
+
+#. Key: TAG2_027
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: やむを得ん。
+#. JA:   作戦行動を妨害するならば実力で排除する！
+msgctxt "TAG2_027"
+msgid "You leave me no choice! I must eliminate you by force!"
+msgstr ""
+"Ти не залишаєш мені вибору. Якщо заважатимеш операції, усуну тебе\n"
+"силою!"
+
+#. Key: TAG2_032
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 成敗完了！
+#. JA:   これにてカグツチの平和は、守られたでござる！
+msgctxt "TAG2_032"
+msgid ""
+"Elimination complete!\n"
+"The peace of Kagutsuchi is no longer in danger!"
+msgstr "Злочинця покарано! Мир Каґуцучі збережено!"
+
+#. Key: TAG2_033
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……まさか、この私が。
+#. JA:   ……こんな男に不覚を取るとは。
+msgctxt "TAG2_033"
+msgid ""
+"...It can't be.\n"
+"...How did I lose to the likes of him...?"
+msgstr "...Невже я... програв такому чоловікові?"
+
+#. Key: TAG2_035
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……おい！　テイガー！　何と遭遇した！
+#. JA:   テイガー！　テイガー！　状況を報告しろ！
+msgctxt "TAG2_035"
+msgid ""
+"...Hey, Tager! What just happened!?\n"
+"Tager! Tager! Report!"
+msgstr "...Тейґере! На що ти натрапив?! Тейґере! Тейґере! Доповідай!"
+
+#. Key: TAG2_036
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私が落とした通信機からココノエの喚き声が響いている。
+#. JA:   しかし、今の私はすでに通信機を拾う機能さえ喪失していた。
+#. JA:   どうやら制御系統に致命的なダメージを負ったようだ。
+msgctxt "TAG2_036"
+msgid ""
+"I can hear Kokonoe's scream crackle from the communicator lying on the floor next\n"
+"to me, but I can't seem to move to pick it up. My internal systems seem to have\n"
+"suffered significant damage..."
+msgstr ""
+"З передавача, який я впустив, долинали крики Коконое. Та я вже не міг\n"
+"навіть підняти його. Схоже, система керування зазнала критичних\n"
+"ушкоджень."
+
+#. Key: TAG2_037
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: テイガー！　どうした、返事を―――……テイガ～～～！！
+msgctxt "TAG2_037"
+msgid ""
+"Tager! What's going on!? Report...\n"
+"Tageeeeeer!"
+msgstr "Тейґере! Що з тобою? Відповідай... Тейґере-е-е!"
+
+#. Key: TAG2_043
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: む、無念……。
+#. JA:   正義が悪に屈するとは……がくり。
+msgctxt "TAG2_043"
+msgid ""
+"H-How could this be...?\n"
+"How can justice fall before the might of evil...?"
+msgstr "О, як прикро... Справедливість програла злу... Ох..."
+
+#. Key: TAG2_044
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: だから私は悪などではないと言っている。
+#. JA:   ―――気絶したか。放置しても、この男なら問題なさそうだ。
+msgctxt "TAG2_044"
+msgid ""
+"I already told you that I'm not evil. \n"
+"...He's unconscious. He should be fine, even if I leave him alone here."
+msgstr ""
+"Я ж сказав, що я не лиходій. ...Знепритомнів. Можна лишити його тут: із\n"
+"ним нічого не станеться."
+
+#. Key: TAG2_045
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 作戦時間を著しく無駄にした。
+#. JA:   次の敷設場所に急がねば。
+msgctxt "TAG2_045"
+msgid ""
+"I've wasted too much time...\n"
+"I need to hurry to the next waypoint."
+msgstr ""
+"Я змарнував забагато часу. Треба поспішати до наступного місця\n"
+"встановлення."
+
+#. Key: TAG2_050
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 排除終了。
+#. JA:   次の敷設場所に急ごう。
+msgctxt "TAG2_050"
+msgid ""
+"Target eliminated.\n"
+"Time to move to the next location."
+msgstr "Противника усунуто. Поспішу до наступного місця встановлення."
+
+#. Key: TAG2_051
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: ……まだ。まだでござる。
+#. JA:   ……拙者は。この程度では、終わらんでござるよ。
+msgctxt "TAG2_051"
+msgid ""
+"...Not yet. It's not over yet.\n"
+"...You're way off if you think you've beaten me."
+msgstr "...Ще ні. Це ще не кінець. Мене таким не здолати."
+
+#. Key: TAG2_052
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: そのような虚勢は見苦しいだけだ。
+#. JA:   潔く負けを認めるのだな。
+msgctxt "TAG2_052"
+msgid "You're pathetic. Just admit that you lost."
+msgstr "Поводься достойно. Визнай поразку."
+
+#. Key: TAG2_053
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: そのような台詞。
+#. JA:   これを見てもまだ言えるでござるか！
+msgctxt "TAG2_053"
+msgid "Can you still say that after seeing this!?"
+msgstr "Повтори це, коли побачиш ось це!"
+
+#. Key: TAG2_055
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: む。
+#. JA:   奴の体が光り始めた……。何だ？
+msgctxt "TAG2_055"
+msgid ""
+"Hm.\n"
+"His body is glowing... What is this?"
+msgstr "Гм. Його тіло почало світитися... Що це?"
+
+#. Key: TAG2_056
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 正義のため、平和のため、愛のため！
+#. JA:   これが拙者の最終奥義―――
+#. JA:   スーパーモードでござぁぁぁあるっ！！
+msgctxt "TAG2_056"
+msgid ""
+"In the name of justice, peace, and love!\n"
+"I will unleash my ultimate move—\n"
+"Super mooooode!"
+msgstr ""
+"Заради справедливості, миру й любові! Ось мій найвищий прийом —\n"
+"Суперрежи-и-им!"
+
+#. Key: TAG2_059
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: は、速い！
+msgctxt "TAG2_059"
+msgid "H-He's fast!"
+msgstr "Ш-швидкий!"
+
+#. Key: TAG2_061
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: かーっかっかっか！
+#. JA:   どうだ、我が動きについて来れまい！！
+msgctxt "TAG2_061"
+msgid "Hahahahaha! Can you keep up with my moves!?"
+msgstr "Ха-ха-ха! Ну що, встигаєш за мною?!"
+
+#. Key: TAG2_063
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 馬鹿な。
+#. JA:   センサーの認識速度を超えているだと!?
+msgctxt "TAG2_063"
+msgid ""
+"Impossible!\n"
+"My sensors can't even keep up!"
+msgstr "Неможливо. Він швидший за швидкість розпізнавання моїх сенсорів?!"
+
+#. Key: TAG2_064
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: これぞ神速！！
+#. JA:   イカルガ忍者の神髄を思い知れい！！
+msgctxt "TAG2_064"
+msgid ""
+"I call it <DQ>god speed<DQ>!\n"
+"Witness the true power of an Ikaruga ninja!"
+msgstr ""
+"Це «божественна швидкість»! Пізнай справжню майстерність нінджя\n"
+"Ікаруґи!"
+
+#. Key: TAG2_066
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: この私が、為す術なく沈むとは……。
+msgctxt "TAG2_066"
+msgid "I can't even put up a fight..."
+msgstr "Подумати тільки: мене здолали і я ніяк неможу цьому зарадити..."
+
+#. Key: TAG2_067
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: これにて一件落着！！
+#. JA:   見よ、正義は必ず勝ぁつ！！
+#. JA:   ではさらばだ！！
+msgctxt "TAG2_067"
+msgid ""
+"And once again, the day is saved!\n"
+"I told you... Justice never sleeps..."
+msgstr ""
+"Ось і справу завершено! Бачиш: справедливість завжди перемагає! А\n"
+"тепер прощавай!"
+
+#. Key: TAG2_068
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: はーっはっはっはっはっは！
+msgctxt "TAG2_068"
+msgid "Hahahahahahahaha!"
+msgstr "Ха-ха-ха-ха-ха!"
+
+#. Key: TAG2_071
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私は戦闘のダメージで不自由な手で、通信機を取りだした。
+#. JA:   すぐさま、上機嫌なココノエの声が聞こえてくる。
+msgctxt "TAG2_071"
+msgid ""
+"I pull out my communicator, although with the damage to my arms, it takes a bit.\n"
+"The moment I turn it on, I can tell Kokonoe's excited about something."
+msgstr ""
+"Пошкодженою в бою рукою я дістав передавач. З нього відразу долинув\n"
+"задоволений голос Коконое."
+
+#. Key: TAG2_072
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: はっはっはっはっ……面白いデータがとれたな。
+#. JA:   よし、テイガー、もう少ししたら破損箇所の自動修復が終わって
+#. JA:   行動可能になる。一度、帰投しろ。
+msgctxt "TAG2_072"
+msgid ""
+"All right, Tager, you'll be able to move once your automated repair has fixed\n"
+"up all that damage. Why don't you head on back?"
+msgstr ""
+"Ха-ха-ха... Цікаві дані отримали! Гаразд, Тейґере: незабаром автоматичне\n"
+"відновлення пошкоджень завершиться і ти знов зможеш рухатися.\n"
+"Повернися на базу."
+
+#. Key: TAG2_073
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 転移装置の敷設はどうする？
+msgctxt "TAG2_073"
+msgid "What about the remaining device setups?"
+msgstr "А як же встановлення пристроїв перенесення?"
+
+#. Key: TAG2_074
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 中止だ。先に試したいことができた。
+msgctxt "TAG2_074"
+msgid "Let's put it on hold for now. Something else's come up. Much more important."
+msgstr "Скасовуємо. Я знайшла дещо, що хочу перевірити раніше."
+
+#. Key: TAG2_075
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ココノエは何かよからぬことを思いついたらしいが、
+#. JA:   私には逆らうという選択肢がない。
+#. JA:   所詮この体は、ココノエの所有物だ。
+msgctxt "TAG2_075"
+msgid ""
+"I don't know what she's thinking, but I don't have a choice.\n"
+"This body belongs to her, after all."
+msgstr ""
+"Схоже, Коконое щось замислила. Та вибору в мене немає. Зрештою, це\n"
+"тіло належить їй."
+
+#. Key: TAG2_076
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 了解だ。自動修復後、速やかに帰投する。
+msgctxt "TAG2_076"
+msgid "Understood. I'll return once the automatic repair is complete."
+msgstr "Зрозумів. Після автоматичного відновлення негайно повернуся."
+
+#. Key: TAG3_002
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 街並みが変わった。
+#. JA:   辺りには活気と、むせかえる様な生活感が溢れている。
+msgctxt "TAG3_002"
+msgid ""
+"The scenery's changed again...\n"
+"I guess this must be Orient Town. Feels so healthy and happy..."
+msgstr "Вулиці змінилися. Навколо вирувало життя — аж дух перехоплювало."
+
+#. Key: TAG3_003
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ここがオリエントタウンか。悪くない街だな。
+#. JA:   さて。敷設場所を探すか―――
+msgctxt "TAG3_003"
+msgid ""
+"So, this is Orient Town... It's got such energy and a thick lived-in feel to it.\n"
+"This place isn't bad at all. All right, I guess I'll go find the setup coordinates—"
+msgstr ""
+"То це Орієнт-таун. Непогане містечко. А тепер знайти місце для\n"
+"пристрою..."
+
+#. Key: TAG3_004
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 視線を巡らした私は、一人の女に目をとめた。
+#. JA:   彼女の姿を私の脳に組み込まれたシステムが自動認識する。
+msgctxt "TAG3_004"
+msgid ""
+"As I scan the area, a woman catches my eye. The computer piggybacking on my\n"
+"brain recognizes her immediately."
+msgstr ""
+"Оглядаючи вулицю, я помітив жінку. Система, вбудована в мій мозок,\n"
+"одразу її ідентифікувала."
+
+#. Key: TAG3_005
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 彼女の名はライチ。
+#. JA:   ココノエの“元”助手であり、第七機関から逃亡した科学者だ。
+msgctxt "TAG3_005"
+msgid "It's Litchi... She was Kokonoe's assistant before she ran away from Sector Seven."
+msgstr ""
+"Її звати Лічі. Колишня помічниця Коконое, науковиця-втікачка із\n"
+"Сектору Сім."
+
+#. Key: TAG3_006
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Litchi
+#. Context: Tager story route (POV: Tager)
+#. JA: テ、テイガー……？
+#. JA:   まさか、私を連れ戻しに……？
+msgctxt "TAG3_006"
+msgid ""
+"T-Tager...!?\n"
+"You didn't come here to bring me back, did you...?"
+msgstr "Т-тейґере...? Ти прийшов повернути мене назад...?"
+
+#. Key: TAG3_007
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 連れ戻す。それも選択肢の一つだ。
+#. JA:   ココノエに確認しよう。
+msgctxt "TAG3_007"
+msgid "That's right. Perhaps I should take her back... I should call Kokonoe."
+msgstr "Повернути її — теж один із варіантів. Потрібно запитати Коконое."
+
+#. Key: TAG3_009
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: （……む。電波状況が悪いようだ。
+#. JA:   仕方がない、こちらで判断しよう）
+msgctxt "TAG3_009"
+msgid ""
+"...Mm!? The signal's giving out...\n"
+"I guess I'll have to call the shots..."
+msgstr "(Гм... Сигнал поганий. Доведеться вирішувати самому.)"
+
+#. Key: TAG3_010
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 連れ戻すつもりならば、とっくに来ている。
+#. JA:   機関から脱走したお前に今まで追っ手がかからなかったのは、
+#. JA:   ココノエの温情だ。
+msgctxt "TAG3_010"
+msgid ""
+"If we wanted to bring you back, we could've done so.\n"
+"You should thank Kokonoe... She's the reason no one pursued you after you\n"
+"decided to go A.W.O.L."
+msgstr ""
+"Якби ми хотіли тебе повернути, давно б це зробили. Після твоєї втечі з\n"
+"організації тебе не переслідували лише завдяки поблажливості Коконое."
+
+#. Key: TAG3_011
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Litchi
+#. Context: Tager story route (POV: Tager)
+#. JA: ……自ら機関に戻れ。そう言うのね？
+msgctxt "TAG3_011"
+msgid "...So you're telling me to go back on my own. Is that it?"
+msgstr "...Хочеш, щоб я сама повернулася до Сектору Сім?"
+
+#. Key: TAG3_012
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: そうだ。
+#. JA:   勝手をしている自覚があるのならば、反省して機関に戻れ。
+#. JA:   ココノエが処罰されないように弁護してくれるだろう。
+msgctxt "TAG3_012"
+msgid ""
+"Right. If you've realized how selfish you've been, then return to the Sector.\n"
+"Kokonoe will save you from being court marshaled."
+msgstr ""
+"Так. Якщо розумієш, що вчинила свавільно, покайся й повернися.\n"
+"Коконое заступиться за тебе, щоб тебе не покарали."
+
+#. Key: TAG3_014
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Litchi
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG3_014"
+msgid "..."
+msgstr "..."
+
+#. Key: TAG3_015
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Litchi
+#. Context: Tager story route (POV: Tager)
+#. JA: ……嫌よ。まだ戻れないわ。
+#. JA:   私はまだ“彼”を見つけていないもの。
+msgctxt "TAG3_015"
+msgid "I refuse. I can't go back right now. I haven't found him yet."
+msgstr "...Ні. Я ще не можу повернутися. Я досі не знайшла «його»."
+
+#. Key: TAG3_016
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……そうか。だが私は、ここでお前を発見したことを、
+#. JA:   ココノエに報告しなければならない。それが私の任務だ。
+msgctxt "TAG3_016"
+msgid ""
+"...Is that so?\n"
+"Still, I will have to report to Kokonoe that I found you here. That's my mission..."
+msgstr ""
+"...Зрозуміло. Та я мушу повідомити Коконое, що знайшов тебе тут. Це\n"
+"моє завдання."
+
+#. Key: TAG3_017
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Litchi
+#. Context: Tager story route (POV: Tager)
+#. JA: あなたの任務はわかる。
+#. JA:   でも、報告させるわけにはいかない……！
+msgctxt "TAG3_017"
+msgid "I understand that you have your mission, but I can't let you do that now...!"
+msgstr "Я розумію твоє завдання. Але не можу дозволити тобі доповісти...!"
+
+#. Key: TAG3_018
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 気は進まぬが……やるしかないな。
+#. JA:   いいだろう。相手をしてやる。
+msgctxt "TAG3_018"
+msgid ""
+"You were the last person I wanted to cross fists with...\n"
+"But, very well... Whenever you're ready."
+msgstr "Не хочу цього, але іншого виходу немає. Гаразд, я прийму бій."
+
+#. Key: TAG3_023
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Litchi
+#. Context: Tager story route (POV: Tager)
+#. JA: ごめんなさいね、テイガー。
+#. JA:   でも、こうするしかなかったの。
+msgctxt "TAG3_023"
+msgid "I'm sorry, Tager, but there was no other way."
+msgstr "Вибач, Тейґере. Та інакше я не могла."
+
+#. Key: TAG3_024
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: この力……。ライチお前まさか……!?
+msgctxt "TAG3_024"
+msgid "This power... Litchi, don't tell me you've...!?"
+msgstr "Ця сила... Лічі, невже ти...?"
+
+#. Key: TAG3_026
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……おい！　テイガー！
+#. JA:   機体損壊信号が出ているぞ！
+#. JA:   テイガー！　返事をしろ！
+msgctxt "TAG3_026"
+msgid ""
+"...Hey, Tager! You're showing severe structural damage!\n"
+"Tager! Repond now!"
+msgstr ""
+"...Тейґере! Я отримала сигнал про серйозні пошкодження твого корпусу!\n"
+"Тейґере, відповідай!"
+
+#. Key: TAG3_027
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私が落とした通信機からココノエの喚き声が響いている。
+#. JA:   しかし、今の私はすでに通信機を拾う機能さえ喪失していた。
+#. JA:   どうやら制御系統に致命的なダメージを負ったようだ。
+msgctxt "TAG3_027"
+msgid ""
+"I can hear Kokonoe's scream crackle from the communicator lying on the floor next\n"
+"to me, but I can't seem to move to pick it up. My internal systems seem to have\n"
+"suffered significant damage..."
+msgstr ""
+"З передавача, який я впустив, долинали крики Коконое. Та я вже не міг\n"
+"навіть підняти його. Схоже, система керування зазнала критичних\n"
+"ушкоджень."
+
+#. Key: TAG3_028
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: テイガー！　どうした、返事を―――……
+msgctxt "TAG3_028"
+msgid ""
+"Tager! What's going on!? Respond—\n"
+"..."
+msgstr "Тейґере! Що сталося? Відповідай..."
+
+#. Key: TAG3_034
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Litchi
+#. Context: Tager story route (POV: Tager)
+#. JA: ……私は。
+#. JA:   ここで連れ戻されるわけには……。
+msgctxt "TAG3_034"
+msgid "...I... I can't...go back yet..."
+msgstr "...Я... Не можу дозволити, щоб мене зараз повернули..."
+
+#. Key: TAG3_035
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: すまんな……ライチ……。
+msgctxt "TAG3_035"
+msgid "I'm sorry, Litchi..."
+msgstr "Пробач... Лічі..."
+
+#. Key: TAG3_038
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Unknown on screen; internally Jubei
+#. Context: Tager story route (POV: Tager)
+#. JA: 感心しないな。
+#. JA:   女は殴るものじゃない。
+msgctxt "TAG3_038"
+msgid "Shame on you, son. It ain't right ta hit a lady like that."
+msgstr "Не схвалюю. Жінок бити не слід."
+
+#. Key: TAG3_039
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ―――！
+#. JA:   私の攻撃を片手で！！
+msgctxt "TAG3_039"
+msgid "This power..."
+msgstr "...! Ти зупинив мій удар однією рукою?!"
+
+#. Key: TAG3_040
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 貴公は！
+#. JA:   まさか……「獣兵衛」か！
+msgctxt "TAG3_040"
+msgid "You are...Jubei!?"
+msgstr "Ти... Невже «Джубей»?!"
+
+#. Key: TAG3_041
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jubei
+#. Context: Tager story route (POV: Tager)
+#. JA: 俺の名を知っているならば、まずは拳をひけ。
+#. JA:   ―――それとも。やり合うか、この俺と？
+msgctxt "TAG3_041"
+msgid "You know who I am, son. Back off, 'less you think you're a match for me."
+msgstr ""
+"Якщо знаєш моє ім'я, спершу прибери кулак. Чи хочеш помірятися\n"
+"силами зі мною?"
+
+#. Key: TAG3_042
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 獣兵衛。
+#. JA:   おそらくはこの世界最強の生物であり、
+#. JA:   かつての大戦、六英雄の一人だ。
+msgctxt "TAG3_042"
+msgid ""
+"Jubei. \n"
+"The strongest living creature in the world, and one of the legendary Six Heroes."
+msgstr ""
+"Джубей — мабуть, найсильніша істота у світі й один із Шести Героїв\n"
+"минулої війни."
+
+#. Key: TAG3_043
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: その戦闘力は一個師団に勝ると聞くが……
+msgctxt "TAG3_043"
+msgid "The rumors say he could take on an entire army division by himself."
+msgstr "Кажуть, його бойова сила перевершує цілу дивізію..."
+
+#. Key: TAG3_044
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……願っても無いチャンスだが、ここは退かせてもらおう。
+msgctxt "TAG3_044"
+msgid "...I appreciate the opportunity, but I'm gonna have to pass."
+msgstr "...Від такої нагоди я б не відмовився, але зараз мушу відступити."
+
+#. Key: TAG3_045
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Litchi
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG3_045"
+msgid "..."
+msgstr "..."
+
+#. Key: TAG3_047
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jubei
+#. Context: Tager story route (POV: Tager)
+#. JA: 気絶してしまったか。
+#. JA:   緊張の糸が切れたのだろう。
+msgctxt "TAG3_047"
+msgid "Litchi's gone and fainted. Poor girl couldn't take the stress."
+msgstr "Знепритомніла. Напруга, мабуть, нарешті відпустила її."
+
+#. Key: TAG3_048
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: しかし……六英雄とはいえ、私の拳を片手で受けるとは……。
+msgctxt "TAG3_048"
+msgid "I didn't think anyone could stop my fists... Not even one of the Six Heroes..."
+msgstr ""
+"І все ж... Він зупинив мій кулак однією рукою. Навіть від одного із\n"
+"Шести Героїв я такого не очікував..."
+
+#. Key: TAG3_049
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jubei
+#. Context: Tager story route (POV: Tager)
+#. JA: 悪意の無い攻撃など怖くはないな。
+#. JA:   しかしなんだ、事情がありそうにみえるが、
+#. JA:   女性に拳を向けるのは感心しないな。
+msgctxt "TAG3_049"
+msgid ""
+"No anger behind those fists. Ain't hard to stop a fella what don't wanna hurt ya,\n"
+"but I can't abide you layin' a hand on the lady here."
+msgstr ""
+"Удар без злого наміру не страшний. Та хоч я й бачу, що в тебе були\n"
+"причини, бити жінку не годиться."
+
+#. Key: TAG3_050
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……本気で倒すつもりはなかった。
+#. JA:   彼女の覚悟のほどを、私は知りたかっただけだ。
+msgctxt "TAG3_050"
+msgid ""
+"...I didn't mean to hurt her.\n"
+"I just needed to know...how determined she was. "
+msgstr ""
+"...Я й не збирався всерйоз її перемагати. Хотів лише побачити, наскільки\n"
+"вона рішуча."
+
+#. Key: TAG3_051
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jubei
+#. Context: Tager story route (POV: Tager)
+#. JA: 覚悟……か。
+msgctxt "TAG3_051"
+msgid "Determined, huh...?"
+msgstr "Рішуча, кажеш..."
+
+#. Key: TAG3_053
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 獣兵衛が、彼の種族特有の細く鋭い瞳で私を値踏みするように見た。
+#. JA:   その眼差しに、同じく猫科の獣人の血を引くココノエを思い出す。
+msgctxt "TAG3_053"
+msgid ""
+"Jubei stares at me with the piercing eyes of a cat. His stare reminds me of \n"
+"Kokonoe."
+msgstr ""
+"Джубей примружив гострі котячі очі, ніби оцінюючи мене. Його погляд\n"
+"нагадав мені Коконое, в якій теж тече кров котячого народу."
+
+#. Key: TAG3_054
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jubei
+#. Context: Tager story route (POV: Tager)
+#. JA: ……どうやらその言葉……、偽りではなさそうだな。
+#. JA:   この娘の面倒は見てやる、お前はどこへなりと行くがいい。
+#. JA:   彼女が目醒めたら、話がややこしくなりそうだからな。
+msgctxt "TAG3_054"
+msgid ""
+"I reckon you're tellin' the truth.\n"
+"You leave her ta me, son, and get yourself wherever it is you need to go.\n"
+"If she comes to while you're here, things're bound ta get messy."
+msgstr ""
+"...Схоже, ти не брешеш. Я подбаю про дівчину, а ти йди куди збирався.\n"
+"Коли вона прокинеться, усе може ускладнитися."
+
+#. Key: TAG3_055
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 助かる。この礼は、またいずれさせて頂こう。
+msgctxt "TAG3_055"
+msgid "Thanks. I owe you one."
+msgstr "Дякую. Колись віддячу тобі."
+
+#. Key: TAG3_057
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ……獣兵衛と遭遇したことを、ココノエに報告すべきだろうか。
+msgctxt "TAG3_057"
+msgid "...Should I tell Kokonoe I encountered Jubei?"
+msgstr "...Чи варто повідомляти Коконое, що я зустрів Джубея?"
+
+#. Key: TAG3_058
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ……やめておいたほうが無難か。
+#. JA:   以前、家族について訊ねた後、
+#. JA:   しばらくココノエの機嫌が悪かったな……。
+msgctxt "TAG3_058"
+msgid ""
+"...No, I asked her about him once before...\n"
+"She was in a bad mood for a week. Perhaps I should keep this to myself..."
+msgstr ""
+"...Мабуть, краще ні. Коли я якось запитав її про сім'ю, вона потім ще\n"
+"довго бісилася..."
+
+#. Key: TAG3_059
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 獣兵衛とココノエの瞳……。
+#. JA:   私は妙な既視感を覚えていた。
+msgctxt "TAG3_059"
+msgid "His eyes, though...they're so similar..."
+msgstr "Очі Джубея та Коконое... Я відчув дивне дежавю."
+
+#. Key: TAG3_060
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……まさかな。
+#. JA:   余計な詮索はやめておこう。
+#. JA:   ココノエの機嫌を損ねるのは得策ではないな。
+msgctxt "TAG3_060"
+msgid ""
+"Hah, that's absurd.\n"
+"...I shouldn't dig too deep. Besides, it's not a very good idea to put Kokonoe\n"
+"in a bad mood."
+msgstr ""
+"...Та ні. Не варто лізти в чужі справи. Псувати Коконое настрій — погана\n"
+"ідея."
+
+#. Key: TAG3_065
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: シシガミ＝バングという男と戦った数日後。
+#. JA:   ココノエによってボディに若干の改造を受けた私は
+#. JA:   新しい任務でカカ族の村を訪れた。
+msgctxt "TAG3_065"
+msgid ""
+"Kokonoe made a few adjustments to my body after my battle with Bang Shishigami.\n"
+"That was only a few days ago, but I guess she thinks I'm ready for active duty.\n"
+"I've been sent to the Kaka clan's village on a new mission..."
+msgstr ""
+"Через кілька днів після бою з Банґом Шішіґамі Коконое дещо змінила\n"
+"моє тіло, і я прибув до селища Кака з новим завданням."
+
+#. Key: TAG3_066
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Unknown on screen; internally Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: しばし、待たれよ！　そこの悪のサイボーグ！
+msgctxt "TAG3_066"
+msgid "Stop where you are, cyborg!"
+msgstr "Стій, злий кіборгу!"
+
+#. Key: TAG3_067
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 聞き覚えのある暑苦しい声に、私は振り返った。
+#. JA:   そこには予測通りの男がいた。
+msgctxt "TAG3_067"
+msgid ""
+"I'd heard this voice before. I'd hoped I wouldn't have to hear it again.\n"
+"I turned around to face him."
+msgstr ""
+"Почувши знайомий надміру запальний голос, я обернувся. Переді мною\n"
+"стояв саме той, кого я й очікував."
+
+#. Key: TAG3_068
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 性懲りもなく悪事を働きに来たでござるか。
+#. JA:   このシシガミ＝バング、今日も天に変わって成敗する！
+msgctxt "TAG3_068"
+msgid ""
+"So you had to come back for another beating...?\n"
+"I, Bang Shishigami, will bring justice, once again!"
+msgstr ""
+"Знову прийшов чинити зло? Я, Банґ Шішіґамі, і сьогодні покараю тебе\n"
+"від імені небес!"
+
+#. Key: TAG3_069
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……何故、そう決めつけるのか。
+#. JA:   いいから話を―――
+msgctxt "TAG3_069"
+msgid ""
+"...Why do you always jump to conclusions?\n"
+"Just listen—"
+msgstr "...Чому ти так вирішив? Послухай мене..."
+
+#. Key: TAG3_070
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 悪党の言葉など聞く耳持たぬでござる！
+#. JA:   今日はさっそく全力で参る！！
+#. JA:   スゥゥゥゥパァァァァモォォォォォド！！
+msgctxt "TAG3_070"
+msgid ""
+"I will hear nothing from a villain!\n"
+"Hmph, there's no need to hold back...\n"
+"Haaaaaaaaaaaaaaah!"
+msgstr ""
+"Не слухатиму слів негідника! Сьогодні битимуся на повну силу!\n"
+"Супе-е-еррежи-и-им!"
+
+#. Key: TAG3_072
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: だから人の話を聞け！
+msgctxt "TAG3_072"
+msgid "Listen to me!"
+msgstr "Та послухай, що я кажу!"
+
+#. Key: TAG3_073
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 問答無用！！
+#. JA:   シシガミ＝バング、いざ参る！！
+msgctxt "TAG3_073"
+msgid ""
+"Talk to the hand, girlfriend...!\n"
+"For I am Bang Shishigami!"
+msgstr "Годі балачок! Банґ Шішіґамі йде в бій!"
+
+#. Key: TAG3_075
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 観念するがよいぞ！
+#. JA:   うわはははは！　手も足も出まい！
+msgctxt "TAG3_075"
+msgid ""
+"Just give up already! \n"
+"Hahahahaha! There's nothing you can do!"
+msgstr "Здавайся! Ха-ха-ха! Тобі й пальцем мене не зачепити!"
+
+#. Key: TAG3_076
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 悔しいが、その通りだった。
+#. JA:   このバングという男の戦闘力は、確実に今の私を上回っている。
+#. JA:   このままでは結末は前回と同じく、私は為す術なく敗北する。
+msgctxt "TAG3_076"
+msgid ""
+"I hate to admit it, but he's right. His combat ability exceeds mine, without a doubt.\n"
+"If I don't do something, I'm going to lose again..."
+msgstr ""
+"Прикро, але він мав рацію. Сила Банґа зараз безперечно перевищувала\n"
+"мою. Якщо нічого не зміниться, я знов програю, так і не зумівши нічого\n"
+"вдіяти."
+
+#. Key: TAG3_077
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: その時だった。
+#. JA:   唐突にココノエと通信がつながった。
+msgctxt "TAG3_077"
+msgid "Suddenly, Kokonoe's voice crackles through my communicator."
+msgstr "Саме тоді раптово відновився зв'язок із Коконое."
+
+#. Key: TAG3_078
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: テイガー、聞こえるか？
+#. JA:   今こそ真の力を発揮するんだ！！
+msgctxt "TAG3_078"
+msgid ""
+"Can you hear me, Tager?\n"
+"It's time for you to unleash your true power!"
+msgstr "Тейґере, чуєш? Час показати свою справжню силу!"
+
+#. Key: TAG3_079
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 真の力だと？
+#. JA:   そんなものがあれば、とっくに―――
+msgctxt "TAG3_079"
+msgid "True power? If I had anything like that, I would've—"
+msgstr "Справжню силу? Якби вона в мене була, я б давно..."
+
+#. Key: TAG3_080
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: あ、ポチッとな。
+msgctxt "TAG3_080"
+msgid "It's just a button away."
+msgstr "А я натисну ось цю кнопочку."
+
+#. Key: TAG3_081
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: やけに楽しそうなココノエの声を聞いた、その直後。
+#. JA:   私の体が、奇妙な発光現象に包まれる。
+#. JA:   
+msgctxt "TAG3_081"
+msgid ""
+"The words are barely out of her mouth when my body starts to glow with a strange\n"
+"golden light. It's just like the golden glow Bang is giving off.\n"
+"Oh, God..."
+msgstr ""
+"Щойно я почув незвично радісний голос Коконое, моє тіло огорнуло\n"
+"дивне світіння.\n"
+
+#. Key: TAG3_082
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: む！
+#. JA:   さては貴様もスゥパァモォォドを！！
+msgctxt "TAG3_082"
+msgid ""
+"Hm!\n"
+"D-Don't tell me, you have a <DQ>super mode<DQ>, too?"
+msgstr "Гм! У тебе теж є «суперрежим»?!"
+
+#. Key: TAG3_083
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: どうやらそんな生ぬるいものではなさそうだ。
+#. JA:   あろうことか、
+#. JA:   私の体が、めきめきと音を立てて変形を始めた。
+msgctxt "TAG3_083"
+msgid ""
+"No, that's not it. I don't think Kokonoe would make anything as mundane as a\n"
+"<DQ>super mode<DQ>. I...I think my body is...transforming."
+msgstr ""
+"Схоже, усе куди гірше за простий «суперрежим». Моє тіло почало з\n"
+"тріском змінювати форму."
+
+#. Key: TAG3_084
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: め、面妖な！
+#. JA:   さてはお主、物の怪の類か！
+msgctxt "TAG3_084"
+msgid ""
+"H-How strange!\n"
+"Are you some kind of monster?"
+msgstr "Щ-що за чудасія?! Ти, бува, не нечиста сила?!"
+
+#. Key: TAG3_085
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: いや、違う。
+#. JA:   と言おうとしたが、私は声を出せなかった。
+msgctxt "TAG3_085"
+msgid "I want to tell him he's mistaken, but I can't seem to speak..."
+msgstr "Я хотів сказати, що ні, та не зміг видати ні звуку."
+
+#. Key: TAG3_086
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: さらに、どこからか黄金のV字パーツが飛来し、がきんと音を立てて
+#. JA:   私の胸部に装着された。気分はもはや、合体ロボの玩具である。
+#. JA:   ……最悪だ。
+msgctxt "TAG3_086"
+msgid ""
+"Metal wings appear out of nowhere and attach themselves to my back. \n"
+"I feel like a child's toy... Well, at least it can't get any worse.\n"
+"I hope..."
+msgstr ""
+"Звідкись прилетіла золота V-подібна деталь і з гучним клацанням\n"
+"причепилася до моїх грудей. Я почувався іграшковим роботом, якого\n"
+"складають із деталей. Жахливо."
+
+#. Key: TAG3_087
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 超獣ゴールデン・テイガー、爆裂的に誕生！！
+#. JA:   見ろ、金色に光り輝くこの雄姿！！
+msgctxt "TAG3_087"
+msgid ""
+"Super Beast Mode: Golden Tager making its grand entrance!\n"
+"Behold this majestic paragon of power!"
+msgstr ""
+"Суперзвір Золотий Тейґер народився з гуркотом! Дивіться, як велично\n"
+"він сяє золотом!"
+
+#. Key: TAG3_088
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: そのココノエの言葉が、私の喉から発せられている。
+#. JA:   迷惑極まりないことに、ココノエはノリノリだ。
+#. JA:   やはり全部、あのいかれた科学者の小細工だったか。
+msgctxt "TAG3_088"
+msgid ""
+"My mouth moves and Kokonoe's voice comes out of it.\n"
+"I know I shouldn't be surprised. She must have had all this planned from the\n"
+"beginning. I...I feel so used."
+msgstr ""
+"Ці слова Коконое пролунали з мого власного горла. Вона явно\n"
+"захопилася грою. Отже, все це витівки божевільної науковиці."
+
+#. Key: TAG3_089
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: そこの忍者！　先日の恨み！
+#. JA:   数百倍にして返してやろう！
+msgctxt "TAG3_089"
+msgid ""
+"All right, ninja! Time for you to get yours!\n"
+"I'm gonna show you the meaning of pain!"
+msgstr "Агов, нінджя! За минулу образу відплачу тобі в сотні разів!"
+
+#. Key: TAG3_090
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: うぬっ！
+#. JA:   巨大化しようともこのバング、決して怯みなどはせぬ！
+#. JA:   返り討ちにしてやるでござる！
+msgctxt "TAG3_090"
+msgid ""
+"Ugh!\n"
+"Puff your chest as much as you want. That won't stop me.\n"
+"I'll make you eat dirt!\n"
+msgstr "Гм! Навіть якщо ти виріс, я, Банґ, не злякаюся! Зараз же тобі відплачу!"
+
+#. Key: TAG3_091
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: （……勝手にしてくれ）
+msgctxt "TAG3_091"
+msgid "...Suit yourselves..."
+msgstr "(Робіть що хочете...)"
+
+#. Key: TAG3_096
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 行くぞ！　超必殺―――
+msgctxt "TAG3_096"
+msgid "Here I come! Super—"
+msgstr "Підходь! Надприйом..."
+
+#. Key: TAG3_097
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: どやかましい！
+msgctxt "TAG3_097"
+msgid "Shut up, asshole!"
+msgstr "Цить, крикун!"
+
+#. Key: TAG3_098
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 構える途中のバングを、私の拳が殴りつけた。
+#. JA:   バングが鈍い悲鳴を上げて吹っ飛ぶ。私はなぜか罪悪感を覚えた。
+#. JA:   ……すまん。悪いのは私じゃない。
+msgctxt "TAG3_098"
+msgid ""
+"Instead of finishing the ridiculous name of his attack, Bang lets out a grunt and\n"
+"flies across the room. Belatedly, I realize it's because my fist was somehow\n"
+"planted squarely in his face. I almost feel a little guilty..."
+msgstr ""
+"Поки Банґ приймав бойову стійку, мій кулак ударив його. Він глухо\n"
+"скрикнув і полетів геть. Мені чомусь стало соромно... Пробач. Це не моя\n"
+"провина."
+
+#. Key: TAG3_099
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: うがあっ！　こ、この卑怯者めがっ！
+#. JA:   技の名を言う間は攻撃しないのが、
+#. JA:   世の中のお約束というものでござる！
+msgctxt "TAG3_099"
+msgid ""
+"Argh! Wh-What a coward!\n"
+"How dare you attack an opponent while they're calling out the name of their\n"
+"special attack!"
+msgstr ""
+"А-а! Який підступний! За неписаними правилами не можна нападати,\n"
+"поки суперник вигукує назву прийому!"
+
+#. Key: TAG3_100
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 文句を言いつつも学習したのか、
+#. JA:   バングは技名など叫ばずに攻撃をしかけてきた。
+#. JA:   だが、今の私には全く通用しない。
+msgctxt "TAG3_100"
+msgid ""
+"He isn't happy about it, but he seems to have learned from the experience;\n"
+"his next attack isn't preceded by its name—not that it does him much good.\n"
+"He still can't hit me."
+msgstr ""
+"Нарікаючи, Банґ усе ж засвоїв урок і цього разу напав без вигуків. Але\n"
+"тепер його удари на мене зовсім не діяли."
+
+#. Key: TAG3_101
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 重ね重ね、悪いと思う。だが、残念ながら私の意志とは無関係だ。
+#. JA:   つまり、悪いのは私ではない。
+msgctxt "TAG3_101"
+msgid ""
+"I can't help but feel a little sorry for him, but there is nothing I can do.\n"
+"I can't even control my own body. It's all Kokonoe, now.\n"
+"I keep telling myself it's not my fault..."
+msgstr ""
+"Мені знову було шкода його. Та, на жаль, усе відбувалося незалежно від\n"
+"моєї волі. Отже, я не винен."
+
+#. Key: TAG3_102
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 効かぬ！　通らぬ！　この装甲！
+#. JA:   今度はこちらの番だ！
+#. JA:   ゴールデン！　テイガー！　サン！　シャイン！！
+msgctxt "TAG3_102"
+msgid ""
+"It won't work! You can't penetrate this armor! Now it's our turn! Golden! Tager!\n"
+"Sun! Shine!"
+msgstr ""
+"Не діє! Не проб'єш цієї броні! Тепер наша черга! Золотий! Тейґер!\n"
+"Сонячне! Сяйво!"
+
+#. Key: TAG3_103
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 強烈なプラズマの塊が発生した。
+#. JA:   おいココノエ。
+#. JA:   いくら何でもこれはまずい。周囲に甚大な―――
+msgctxt "TAG3_103"
+msgid ""
+"I watch helplessly as Kokonoe uses my body to somehow generate a massive\n"
+"ball of rippling plasma.\n"
+"...Hey, Kokonoe, I think this might be going a little too far. If you miss, that's going\n"
+"to—"
+msgstr ""
+"Утворилася потужна куля плазми. Коконое, стривай. Це вже занадто.\n"
+"Навколо можуть бути страшні руйнування..."
+
+#. Key: TAG3_104
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: スパァァァァアアクッ！！
+msgctxt "TAG3_104"
+msgid "Spaaaaaaark!"
+msgstr "Іскра-а-а!"
+
+#. Key: TAG3_105
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: プラズマ弾が発射されてしまった。
+msgctxt "TAG3_105"
+msgid "...And there it goes."
+msgstr "Плазмову кулю вже випущено."
+
+#. Key: TAG3_107
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 当たらぬわい！
+msgctxt "TAG3_107"
+msgid "Too slow!"
+msgstr "Не влучиш!"
+
+#. Key: TAG3_108
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 素早い動きでバングがプラズマ弾を避けた。
+#. JA:   的を外したプラズマ弾が、カカ族の村の外壁に着弾する。
+msgctxt "TAG3_108"
+msgid ""
+"I have to give him credit. He's fast. Fast enough to dodge Kokonoe's plasma\n"
+"ball, which careens into the wall of the Kaka clan's village.\n"
+"...Oh, no."
+msgstr ""
+"Банґ спритно ухилився від плазмової кулі. Промахнувшись, вона\n"
+"вдарила в зовнішню стіну селища Кака."
+
+#. Key: TAG3_110
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 直撃を受けた壁に、大穴が空いた。
+#. JA:   がらがらと周囲が崩れ落ちる。
+#. JA:   すまない、カカ族の人たち。だが断じて、悪いのは私ではない。
+msgctxt "TAG3_110"
+msgid ""
+"It rips a huge hole through the wall and apparently damages the underlying\n"
+"structure as the walls start to collapse.\n"
+"...I'm sorry, people of the Kaka clan. This is all Kokonoe's fault."
+msgstr ""
+"У стіні зяяла величезна діра, а довкола все осипалося. Пробачте,\n"
+"мешканці селища Кака. Але це точно не моя провина."
+
+#. Key: TAG3_111
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kaka villager A
+#. Context: Tager story route (POV: Tager)
+#. JA: ななな、何だ！　神様がお怒りニャ!?
+msgctxt "TAG3_111"
+msgid "Wh-Wh-What is this!? God is mad!?"
+msgstr "Щ-що це?! Боги розгнівалися, ня?!"
+
+#. Key: TAG3_112
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kaka villager B
+#. Context: Tager story route (POV: Tager)
+#. JA: きゃあ！　壁が大変なことになってるにゃ！！
+msgctxt "TAG3_112"
+msgid "Eek! What happened to the wall!?"
+msgstr "А-а! Що сталося зі стіною, ня?!"
+
+#. Key: TAG3_113
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kitten A
+#. Context: Tager story route (POV: Tager)
+#. JA: うぁぁああんっ、怖いよおぉぉぉ！
+msgctxt "TAG3_113"
+msgid "Waaaaaah, I'm scaaaaaared!"
+msgstr "А-а-а! Стра-а-ашно!"
+
+#. Key: TAG3_114
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kaka villager C
+#. Context: Tager story route (POV: Tager)
+#. JA: 天が崩れるかもしれないぞ、逃げろー！
+msgctxt "TAG3_114"
+msgid "The sky is falling! Run!"
+msgstr "Небо падає! Тікаймо-ня!"
+
+#. Key: TAG3_115
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: カカ族の村の中が、それこそ蜂の巣をつついたような騒ぎになった。
+#. JA:   まずい。実にまずい。
+#. JA:   このままでは、私は本当に悪の巨人扱いをされかねない。
+msgctxt "TAG3_115"
+msgid ""
+"The entire village is in chaos. This isn't good. This is definitely not good.\n"
+"If this keeps up, they're just going to think I'm some sort of evil giant."
+msgstr ""
+"У селищі Кака знявся страшенний гармидер. Недобре. Дуже недобре. Так\n"
+"мене й справді можуть вважати злим велетнем."
+
+#. Key: TAG3_116
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ちいっ、ニンジャめ！
+#. JA:   お前が避けるから村に迷惑がかかったじゃないか！
+#. JA:   汚いな！　さすが忍者きたない！
+msgctxt "TAG3_116"
+msgid "Hah! Stupid ninja! If you'd just taken it like a man, this village wouldn't have had to see this! A dirty move, but I'd expect that from a ninja!"
+msgstr ""
+"Цк, клятий нінджя! Через те, що ти ухилився, постраждало селище!\n"
+"Який брудний прийом! Як і слід було чекати від нінджя!"
+
+#. Key: TAG3_117
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: せ、拙者のせいでござるかっ？
+msgctxt "TAG3_117"
+msgid "W-Was it my fault?"
+msgstr "Ц-це я винен?!"
+
+#. Key: TAG3_118
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: （いや。違うと思う。お前は巻き込まれただけだ。
+#. JA:   　運が悪かったな、お互いに）
+msgctxt "TAG3_118"
+msgid ""
+"No, I don't think so. You were just dragged into it.\n"
+"You were just unlucky. We both were."
+msgstr "(Ні, не думаю. Тебе просто втягнули в це. Не пощастило нам обом.)"
+
+#. Key: TAG3_119
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 次は避けるなよ！
+#. JA:   避けたら村がさらに大惨事だ！
+msgctxt "TAG3_119"
+msgid ""
+"Don't dodge the next one!\n"
+"The village can't take another hit!"
+msgstr "Наступного разу не ухиляйся! Інакше селище постраждає ще більше!"
+
+#. Key: TAG3_120
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: 無茶を申すなぁ！
+#. JA:   だがしかし、ここで拙者が避けたら村が……。
+#. JA:   ちぃぃっ、拙者は正義と愛の男！　ここで避けることなどできぬ！
+msgctxt "TAG3_120"
+msgid ""
+"How dare you!? B-But one of those blasts could destroy the village...\n"
+"If I dodge this next attack, then...! Ugh! A true hero of justice would never put\n"
+"himself before the lives of innocent citizens!"
+msgstr ""
+"Не вимагай неможливого! Але якщо я ухилюся, селищу кінець... Кх! Я —\n"
+"борець за справедливість і любов! Я не можу ухилитися!"
+
+#. Key: TAG3_121
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 真っ向勝負ではなく、逃げてくれるだけで村が助かるのだが……。
+#. JA:   ……ダメだ。
+#. JA:   筋肉が詰まったようなこの男の頭では、期待できない。
+msgctxt "TAG3_121"
+msgid ""
+"If he can give up on the idea of a head-to-head battle and just run away, it might\n"
+"save the village...\n"
+"...No, I don't think he's capable of coming up with any sort of plan that doesn't\n"
+"involve punching things."
+msgstr ""
+"Якби він просто втік, селище було б урятоване... Ні. Від голови, набитої\n"
+"самими м'язами, такого чекати марно."
+
+#. Key: TAG3_122
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 行くぞ！
+#. JA:   ゴールデン・テイガー・テラ……
+#. JA:   ジャッジメント！！！　
+msgctxt "TAG3_122"
+msgid ""
+"Here I come! Golden Tager...\n"
+"Tera-Judgment!"
+msgstr "Готуйся! Золотий Тейґер... Терасуд!"
+
+#. Key: TAG3_124
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Bang
+#. Context: Tager story route (POV: Tager)
+#. JA: なんとぉぉおおっ！！
+msgctxt "TAG3_124"
+msgid "Whaaaaaaaat!?"
+msgstr "Що-о-о?!"
+
+#. Key: TAG3_125
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 技を正面から受けたバングが、笑えない勢いですっ飛んでいく。
+#. JA:   その姿は上の階層の構造物をぶち抜き、空の果てに消えた。
+msgctxt "TAG3_125"
+msgid ""
+"...And he decides to take my—I mean, Kokonoe's attack head-on. All that's left\n"
+"behind is a puff of dust as Bang flies off, tearing through the metal plate that\n"
+"supports the level above us. In just seconds he's nothing more than a speck\n"
+"on the horizon."
+msgstr ""
+"Банґ прийняв удар просто на себе й полетів із несмішною вже\n"
+"швидкістю. Пробивши споруди верхнього рівня, він зник у далекому\n"
+"небі."
+
+#. Key: TAG3_126
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: きらん―――と一瞬、星が瞬いたように見えた。
+#. JA:   ―――視覚センサーの誤作動だろう。人が星になるわけがない。
+msgctxt "TAG3_126"
+msgid ""
+"For a moment, the speck sparkles like a star, and then it's gone.\n"
+"...There must be something wrong with my visual sensors.\n"
+"There's no way a human being just turns into a star..."
+msgstr ""
+"На мить там щось зблиснуло, ніби зірка. Мабуть, збій зорового сенсора.\n"
+"Люди ж не перетворюються на зірки."
+
+#. Key: TAG3_127
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 安心するがいい、カカ族の人々よ！
+#. JA:   その壁を破壊した悪党は、このゴールデン・テイガーが退治した！
+msgctxt "TAG3_127"
+msgid ""
+"Do not worry, people of the Kaka clan!\n"
+"The villain who broke that wall has been eliminated by the one...the only...\n"
+"Golden Tager!"
+msgstr ""
+"Не бійтеся, люди Кака! Лиходія, що зруйнував стіну, покарав Золотий\n"
+"Тейґер!"
+
+#. Key: TAG3_128
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: （―――そんな台詞を誰が信じるというのだ）
+msgctxt "TAG3_128"
+msgid "Do you really think anybody will believe that?"
+msgstr "(Хто в це повірить?)"
+
+#. Key: TAG3_129
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kaka villager A
+#. Context: Tager story route (POV: Tager)
+#. JA: そうなのか！　それなら安心だ！
+msgctxt "TAG3_129"
+msgid "Really!? Thank God!"
+msgstr "Справді? Тоді можна не боятися-ня!"
+
+#. Key: TAG3_130
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kaka villager C
+#. Context: Tager story route (POV: Tager)
+#. JA: そうね、もう大丈夫ね！
+msgctxt "TAG3_130"
+msgid "All right! What a relief!"
+msgstr "Он як! Тепер усе гаразд-ня!"
+
+#. Key: TAG3_131
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kitten A
+#. Context: Tager story route (POV: Tager)
+#. JA: やったあ、村は今日も平和だね！
+msgctxt "TAG3_131"
+msgid "Hooray! The village is safe!"
+msgstr "Ура! У селищі знов спокійно!"
+
+#. Key: TAG3_132
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kaka villager
+#. Context: Tager story route (POV: Tager)
+#. JA: 天は悪を見逃さないというのは、真実だったか！
+msgctxt "TAG3_132"
+msgid "Heaven really does punish the wicked!"
+msgstr "То правда, що небеса не пробачають зла!"
+
+#. Key: TAG3_133
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ……カカ族の人々は皆、ココノエの言葉を信じたようだ。
+#. JA:   揃いも揃って俺に向かって手を振っている。
+#. JA:   それでよいのか、村の人々よ。他人事ながら心配になるぞ。
+msgctxt "TAG3_133"
+msgid ""
+"It sounds like they're buying it... They're all waving at me.\n"
+"I know it's none of my business, but sometimes I wonder how you guys manage\n"
+"to survive..."
+msgstr ""
+"...Усі Кака, схоже, повірили Коконое. Вони дружно махали мені руками.\n"
+"Люди, вам це справді здається переконливим? Я вже почав за них\n"
+"непокоїтися."
+
+#. Key: TAG3_134
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ではさらばだ、同胞たちよ！
+#. JA:   ほれ、ポチっとな。
+msgctxt "TAG3_134"
+msgid ""
+"Goodbye, my brothers and sisters! There is other evil to be vanquished!\n"
+"...Now I'll just press this button..."
+msgstr "Прощавайте, співплемінники! До зустрічі! А тепер натиснімо кнопочку."
+
+#. Key: TAG3_135
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: がきんがきんと、またも私の体が変形を始めた。
+#. JA:   こうなったら、意地でも―――もう驚かない。
+#. JA:   さすがに飛んだりはしないだろうからな。
+msgctxt "TAG3_135"
+msgid ""
+"My body starts to change again. I'm so jaded by now that I barely even notice.\n"
+"Thanks goodness I'm too heavy to fly. I don't think I could take it if she had made\n"
+"some sort of—"
+msgstr ""
+"Моє тіло знову почало з брязкотом змінювати форму. Що б не сталося, я\n"
+"вирішив більше не дивуватися. Літати ж я принаймні не зможу."
+
+#. Key: TAG3_136
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: チェェェンジ！　テイガー！　スカイモード！！
+msgctxt "TAG3_136"
+msgid "Chaaaange! Tager! Flight mode!"
+msgstr "Перетворення! Тейґер! Небесний режим!"
+
+#. Key: TAG3_137
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: （待て！　いくら何でもそれはおかしいだろう！）
+msgctxt "TAG3_137"
+msgid ""
+"Wait...!\n"
+"Now that's just taking it too far..."
+msgstr "(Стій! Це вже зовсім безглуздо!)"
+
+#. Key: TAG3_139
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: カカ族の人々よ！　また会おう！！
+#. JA:   はーっはっはっはっはっは！！
+msgctxt "TAG3_139"
+msgid ""
+"I'll see you around, people of the Kaka clan!\n"
+"Hahahahahahah! WEE!"
+msgstr "Люди Кака! Ще побачимося! Ха-ха-ха-ха-ха!"
+
+#. Key: TAG3_140
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ココノエの高笑いと共に、飛行形態に変形した私は離陸した。
+#. JA:   地上で手を振るカカ族の人々の上で旋回し、
+#. JA:   遥か天空へと飛翔する。
+msgctxt "TAG3_140"
+msgid ""
+"My flight form complete, I take off under Kokonoe's control, her maniacal laughter\n"
+"echoing across the Kaka clan's village as they wave good-bye to me.\n"
+"She circles the village once or twice, and then I soar off into the sky."
+msgstr ""
+"Під регіт Коконое я перетворився на літальну форму й злетів. Зробивши\n"
+"коло над Кака, які махали мені знизу, я піднявся високо в небо."
+
+#. Key: TAG3_141
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: （……もう、どうにでもしてくれ）
+msgctxt "TAG3_141"
+msgid "... To hell with it."
+msgstr "(Робіть зі мною що хочете...)"
+
+#. Key: TAG3_146
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: さすがに音速突破は無理だったか。
+#. JA:   テイガーなら根性で何とかすると思ったのに。
+msgctxt "TAG3_146"
+msgid "I guess trying to break the sound barrier was a little more than it could handle."
+msgstr ""
+"Звуковий бар'єр таки не вдалося подолати. А я думала, Тейґер здолає\n"
+"його силою волі."
+
+#. Key: TAG3_147
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……根性で音速を超えられるのなら、
+#. JA:   バングは生身で光速すら突破するだろう。
+msgctxt "TAG3_147"
+msgid ""
+"... If will-power is all it takes to break the speed of sound...\n"
+"Bang might be able to travel faster than light without even transforming...!"
+msgstr ""
+"...Якби силою волі можна було перевищити швидкість звуку, Банґ без\n"
+"жодних змін у тілі перевищив би швидкість світла."
+
+#. Key: TAG3_148
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: あー。あのニンジャも改造素体に面白そうだ。
+#. JA:   お前に比べて色々と“大丈夫”な気がするな。
+msgctxt "TAG3_148"
+msgid ""
+"Yeah, that ninja would make an interesting test subject, wouldn't he? I got a feeling\n"
+"I could do a lot more with him than I did with you."
+msgstr ""
+"А, цей нінджя теж був би цікавим носієм для модифікацій. Здається, на\n"
+"відміну від тебе, він витримає ще багато чого."
+
+#. Key: TAG3_149
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 色々……か。“丈夫”ではなくて“大丈夫”と表現するあたり
+#. JA:   ココノエらしい。これ以上一体何を人体に施したいのだ、
+#. JA:   このイカレた科学者は。私は思わず頭を抱え込んだ。
+msgctxt "TAG3_149"
+msgid ""
+"A lot more, huh... Just like Kokonoe to see him as a potential experiment instead\n"
+"of a human being. I shudder to think what <DQ>more<DQ> she would like to do to him..."
+msgstr ""
+"«Багато чого»... Типова Коконое: вона сказала не просто «міцний», а\n"
+"«витримає». Що ще ця навіжена науковиця хоче зробити з людським\n"
+"тілом? Я мимоволі схопився за голову."
+
+#. Key: TAG3_150
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: でも、ニンジャよりも先に今回の技術をハクメンに試したいな。
+#. JA:   名付けて、「シルバー・ハクメン」。白銀の侍……！
+#. JA:   早速、設計にかかるか。盛り上がってきたぞ、テイガー！
+msgctxt "TAG3_150"
+msgid ""
+"I think I'd like to try this technique on Hakumen first, though...\n"
+"Let's call it Silver Hakumen. Silver samurai... Yes, yes...\n"
+"I'm gonna go get started on the design right now.\n"
+"Damn! I'm getting all excited, Tager!"
+msgstr ""
+"Та перш ніж братися за нінджя, хочу випробувати цю технологію на\n"
+"Хакумені. Назву його «Срібний Хакумен». Срібний самурай! Зараз же\n"
+"візьмуся за креслення. Як цікаво, Тейґере!"
+
+#. Key: TAG3_152
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: ……何だというのだ、この悪寒は……。
+#. JA:   黒き獣よりも禍々しい、この感覚。
+#. JA:   斯様に謂いようのない感情を私が覚えるとは。
+msgctxt "TAG3_152"
+msgid ""
+"...What is this feeling?\n"
+"I've not felt such a presence since...\n"
+"No, this is even greater than the Black Beast..."
+msgstr ""
+"...Що це за моторошне відчуття? Зловісніше навіть за Чорного Звіра... Не\n"
+"думав, що здатен відчути щось подібне."
+
+#. Key: TAG3_153
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 何故かは……、
+#. JA:   何故かは解らぬが身の危険を感じる……。
+msgctxt "TAG3_153"
+msgid "I know not why, but I feel that I am in danger... Great danger..."
+msgstr "Не знаю чому... Але відчуваю, що мені загрожує небезпека..."
+
+#. Key: TAG4_002
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 転移装置の敷設も、残り一つとなった。
+#. JA:   その最後の場所が問題だった。
+msgctxt "TAG4_002"
+msgid ""
+"There's only one more unit left to be set up. Unfortunately, it looks like I've\n"
+"saved the most difficult one for last..."
+msgstr ""
+"Залишилося встановити лише один пристрій перенесення. Проблемою\n"
+"було місце для нього."
+
+#. Key: TAG4_003
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ココノエも無理を言う。
+#. JA:   だが、任務ならば仕方がない。
+msgctxt "TAG4_003"
+msgid "Kokonoe's asking too much this time, but it is my job, after all."
+msgstr "Коконое вимагає неможливого. Та завдання є завдання."
+
+#. Key: TAG4_004
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私が足を向けたのは、第十三階層都市カグツチの統制機構支部。
+#. JA:   この都市でもっとも警備の厳重な場所だ。
+msgctxt "TAG4_004"
+msgid "She says I have to set it up inside the Library branch in Kagutsuchi..."
+msgstr ""
+"Я вирушив до відділення Організації Контролю в Тринадцятому\n"
+"ієрархічному місті Каґуцучі — місця з найсуворішою охороною в місті."
+
+#. Key: TAG4_005
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……どういうことだ。
+#. JA:   警備がいないどころか―――無人だと？
+msgctxt "TAG4_005"
+msgid "...What the hell's going on? Is there not a single guard on duty?"
+msgstr "...Що це означає? Тут не те що охорони немає — нікого взагалі?"
+
+#. Key: TAG4_006
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 施設は薄気味悪いほどに静まり返っていた。
+#. JA:   ……何かの罠かもしれない。
+#. JA:   まさか。こちらの動きが察知されていたのか？
+msgctxt "TAG4_006"
+msgid ""
+"This place is too quiet. It's kind of creeping me out.\n"
+"Is this a trap? Or...have they already found me?"
+msgstr ""
+"У будівлі панувала моторошна тиша. Може, це пастка? Невже наші дії\n"
+"викрили?"
+
+#. Key: TAG4_007
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG4_007"
+msgid "...!"
+msgstr "...!"
+
+#. Key: TAG4_008
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 突然感じた、凍てつくような冷たい殺気に、私は振り返った。
+#. JA:   若い男が立っている。この男を私は知っている……
+#. JA:   図書館でも屈指の、有名な「英雄」だ。
+msgctxt "TAG4_008"
+msgid ""
+"I feel cold, vicious eyes on my back.\n"
+"I turn around and recognize the man standing before me—one of the Library's\n"
+"most decorated <DQ>heroes<DQ>."
+msgstr ""
+"Відчувши за спиною крижаний потік ворожості, я обернувся. Переді\n"
+"мною стояв молодий чоловік, якого я знав: славетний «герой»\n"
+"Бібліотеки."
+
+#. Key: TAG4_009
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: 支部が無人とは。……貴様の仕業か「赤鬼」？
+msgctxt "TAG4_009"
+msgid ""
+"Hmph. Not a single guard in the entire branch.\n"
+"Is this your doing, Red Devil?"
+msgstr "Відділення порожнє... Це твоїх рук справа, «Червоний демоне»?"
+
+#. Key: TAG4_010
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: いや。私が来た時には、すでにこの状態だった。
+msgctxt "TAG4_010"
+msgid "No... It was like this when I arrived."
+msgstr "Ні. Коли я прийшов, усе вже було так."
+
+#. Key: TAG4_011
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: それを信じろと？　随分と都合のいい話だ。
+msgctxt "TAG4_011"
+msgid ""
+"A most plausible lie... And you want me to believe that?\n"
+"Don't you think that's a little too convenient?"
+msgstr "І я маю в це повірити? Дуже зручна казка."
+
+#. Key: TAG4_012
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……殺さずとも済んだはずの、
+#. JA:   イカルガのテンジョウを殺したお前に、
+#. JA:   信じろというだけ無駄な話だろう。
+msgctxt "TAG4_012"
+msgid ""
+"...Naturally. I wouldn't expect the murderer who needlessly slaughtered Ikaruga's\n"
+"guardian to hear me out."
+msgstr ""
+"...Марно просити тебе повірити мені. Адже ти вбив Тенджо з Ікаруґи, хоч\n"
+"міг обійтися без убивства."
+
+#. Key: TAG4_013
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: テンジョウ？　誰だ、それは。
+msgctxt "TAG4_013"
+msgid "Guardian? Who's that?"
+msgstr "Тенджо? Хто це?"
+
+#. Key: TAG4_014
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ジンは本当に忘れているようだった。
+#. JA:   過去に殺した相手には興味がないようだ。
+#. JA:   人を殺すことに罪悪感などないのだろう。
+msgctxt "TAG4_014"
+msgid ""
+"So he doesn't remember... I suppose he has no interest in someone he's already\n"
+"killed. I wonder if he feels any guilt at all for all the people he's killed."
+msgstr ""
+"Джін, схоже, справді забув. Люди, яких він колись убив, його не\n"
+"цікавили. Певно, він не відчував і провини за їхню смерть."
+
+#. Key: TAG4_015
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 危険だな、貴様は。
+#. JA:   排除させてもらう。
+msgctxt "TAG4_015"
+msgid "You're too dangerous for your own good... I'm gonna need to take you down."
+msgstr "Ти небезпечний. Доведеться тебе усунути."
+
+#. Key: TAG4_016
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: 排除……？
+#. JA:   ふっ、面白い、やってみろ赤鬼！
+msgctxt "TAG4_016"
+msgid ""
+"Take me down? Hmph... Funny...\n"
+"Then, what are you waiting for!?"
+msgstr "Усунути? Хм, цікаво. Спробуй, «Червоний демоне»!"
+
+#. Key: TAG4_020
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: 無様だな、赤鬼。
+#. JA:   それが中途半端な玩<ruby>オモ</ruby>具<ruby>チャ</ruby>の限界か。
+msgctxt "TAG4_020"
+msgid ""
+"That was pathetic...\n"
+"I guess that's the limit of a half-assed toy..."
+msgstr ""
+"Жалюгідно, «Червоний демоне». Ось межа можливостей недоробленої\n"
+"іграшки."
+
+#. Key: TAG4_021
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 人格に問題はあっても、さすがは英雄か……。
+#. JA:   貴様の言うとおりだ。私の性能は、貴様には及ばない。
+msgctxt "TAG4_021"
+msgid ""
+"You've got a twisted personality...but I can see why you've become a <DQ>hero<DQ>.\n"
+"...I'm afraid my specs are no match for yours..."
+msgstr ""
+"Характер у тебе нестерпний, але недарма тебе звуть «героєм». Ти маєш\n"
+"рацію: мої можливості тобі поступаються."
+
+#. Key: TAG4_022
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: 現実を理解しているだけ、貴様はそこらの屑よりマシだな。
+#. JA:   褒美だ。完全破壊してやろう。
+msgctxt "TAG4_022"
+msgid ""
+"At least you're willing to face the truth... Unlike those other scum! I like that...\n"
+"As a reward... I'll completely destroy you!"
+msgstr ""
+"Принаймні ти бачиш реальність, на відміну від решти покидьків. У\n"
+"нагороду я знищу тебе повністю."
+
+#. Key: TAG4_023
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ジンの構えたアークエネミー、ユキアネサが強烈な冷気を纏う。
+#. JA:   次の斬撃に、私のボディは耐えられないだろう。
+#. JA:   どうやら、これまでのようだ。
+msgctxt "TAG4_023"
+msgid ""
+"Jin's Nox Nyctores, Yukianesa, is more powerful than I anticipated...\n"
+"I don't think I can stand another one of those ice blasts. It looks like this is it for me."
+msgstr ""
+"Арк-Енемі Джіна, Юкіанеса, вкрилася лютим холодом. Наступного удару\n"
+"моє тіло не витримає. Мабуть, це кінець."
+
+#. Key: TAG4_025
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG4_025"
+msgid ""
+"Tager: !\n"
+"Jin: !"
+msgstr "Тейґер: ! Джін: !"
+
+#. Key: TAG4_027
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 突如現れた黒い影が、ジンを背後から襲った。
+#. JA:   その一撃をかわしたジンが、振り返る。
+msgctxt "TAG4_027"
+msgid ""
+"The shadow behind Jin leapt, but he was too fast for it. The creature slams\n"
+"against the empty floor with an angry, garbled screech."
+msgstr ""
+"Раптом чорна тінь напала на Джіна зі спини. Він ухилився від удару й\n"
+"обернувся."
+
+#. Key: TAG4_028
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: ……何だ、貴様は。
+msgctxt "TAG4_028"
+msgid "...Who the hell are you?"
+msgstr "...Хто ти такий?"
+
+#. Key: TAG4_029
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 黒い影は答えない。だが、私はそれを知っていた。
+#. JA:   ―――ライチの探している相手。
+#. JA:   今はアラクネと呼ばれているらしい。
+msgctxt "TAG4_029"
+msgid ""
+"It's not going to respond to him. I recognize the shadow.\n"
+"...He's the one Litchi's looking for, though I guess he's referred to as <DQ>Arakune<DQ>\n"
+"now."
+msgstr ""
+"Чорна тінь не відповіла. Та я знав її: це той, кого шукає Лічі. Здається,\n"
+"тепер його звуть «Аракуне»."
+
+#. Key: TAG4_030
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 「境界」の向こうの叡智を欲し、それを垣間見たために人の姿を失った哀れな男。それがアラクネだ。
+#. JA:   アラクネは妙に興奮していた。
+msgctxt "TAG4_030"
+msgid ""
+"He longed for the wisdom of the Boundary. He finally got it, but at the cost\n"
+"of his humanity. He's a pathetic excuse for a man of science, but he seems\n"
+"quite excited about something."
+msgstr ""
+"Він прагнув мудрості з-за Межі й, зазирнувши туди, втратив людську\n"
+"подобу. Таким був Аракуне. Зараз він здавався дивно збудженим."
+
+#. Key: TAG4_031
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: 貴様のような化け物に関わるほど暇ではない。
+#. JA:   ……赤鬼、命拾いしたな。
+msgctxt "TAG4_031"
+msgid ""
+"It would seem I don't have the time to play with you anymore, Red Devil...\n"
+"You lucked out..."
+msgstr ""
+"Мені ніколи розбиратися з чудовиськом на кшталт тебе. ...«Червоний\n"
+"демоне», тобі пощастило."
+
+#. Key: TAG4_032
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ジンが剣を収め、立ち去った。
+#. JA:   どうやら施設の奥に向かうようだ。
+#. JA:   残されたアラクネが騒ぎ出す。
+msgctxt "TAG4_032"
+msgid ""
+"With a sneer, Jin sheathes his sword and heads off, deeper into the facility.\n"
+"Arakune is...excited about something."
+msgstr ""
+"Джін сховав меча й пішов углиб будівлі. Аракуне, що лишився, зчинив\n"
+"галас."
+
+#. Key: TAG4_033
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: 蒼　蒼　蒼蒼　蒼蒼蒼　蒼蒼　蒼！
+msgctxt "TAG4_033"
+msgid "Azure Azure AzureAzure AzureAzureAzure AzureAzure Azure!"
+msgstr "Лазур Лазур ЛазурЛазур ЛазурЛазурЛазур ЛазурЛазур Лазур!"
+
+#. Key: TAG4_033a
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: 蒼　蒼　蒼蒼　蒼蒼蒼　蒼蒼　蒼！
+msgctxt "TAG4_033a"
+msgid "Azure Azure AzureAzure AzureAzureAzure AzureAzure Azure!"
+msgstr "Лазур Лазур ЛазурЛазур ЛазурЛазурЛазур ЛазурЛазур Лазур!"
+
+#. Key: TAG4_034
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: もはや言葉も失われているか……やはり常軌を逸しているな。
+#. JA:   すまない。
+#. JA:   貴様のような者を救う方法を、私は一つしか知らない。
+msgctxt "TAG4_034"
+msgid ""
+"So you've lost your ability to speak... And with it, your sanity...\n"
+"Forgive me... But I only know one way to save a monster like you..."
+msgstr ""
+"Він уже втратив навіть мову... Справді втратив розум. Пробач. Я знаю\n"
+"лише один спосіб урятувати таких, як ти."
+
+#. Key: TAG4_035
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……せめて、苦しまぬように葬ってやる。
+#. JA:   行くぞ。
+msgctxt "TAG4_035"
+msgid ""
+"The least I can do is offer you a quick death...\n"
+"Rest in peace!"
+msgstr "...Принаймні вб'ю тебе без мук. Підходь."
+
+#. Key: TAG4_036
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG4_036"
+msgid "!"
+msgstr "!"
+
+#. Key: TAG4_036a
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG4_036a"
+msgid "!"
+msgstr "!"
+
+#. Key: TAG4_041
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Jin
+#. Context: Tager story route (POV: Tager)
+#. JA: ……赤鬼などに……。
+#. JA:   負ける……だと……。
+msgctxt "TAG4_041"
+msgid "Guagh... I lost...to...the Red Devil...?"
+msgstr "...Програти... якомусь Червоному демону...?"
+
+#. Key: TAG4_042
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: これが、その慢心の結果だ。
+#. JA:   貴様はまだルーキーだということだな。
+msgctxt "TAG4_042"
+msgid ""
+"This is the result of your own conceit.\n"
+"I guess you're just a rookie after all..."
+msgstr "Ось до чого призвела твоя зарозумілість. Ти все ще новачок."
+
+#. Key: TAG4_043
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私はその場にジンを残し、
+#. JA:   最後の転移装置を敷設するために、施設の奥へ向かった。
+msgctxt "TAG4_043"
+msgid ""
+"I leave Jin and head deeper into the facility to finish setting up the last of the\n"
+"equipment."
+msgstr ""
+"Я залишив Джіна й рушив углиб будівлі, щоб установити останній\n"
+"пристрій перенесення."
+
+#. Key: TAG4_048
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……く。これが境界の向こうを見た者の力か……。
+msgctxt "TAG4_048"
+msgid ""
+"...Ugh.\n"
+"So this is the power...of someone who saw the other side of the Boundary..."
+msgstr "...Кх. Ось сила того, хто зазирнув за Межу..."
+
+#. Key: TAG4_049
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: ぐぷぷ　ぐぷ！　蒼！　ぐぷ　ぐぷぷぷ！
+msgctxt "TAG4_049"
+msgid "Gbrrvn brn! Azure! Gbruh Gehahahaha!"
+msgstr "Ґупупу ґуп! Лазур! Ґуп ґупупу!"
+
+#. Key: TAG4_049a
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: ぐぷぷ　ぐぷ！　蒼！　ぐぷ　ぐぷぷぷ！
+msgctxt "TAG4_049a"
+msgid "Gbrrvn brn! Azure! Gbruh Gehahahaha!"
+msgstr "Ґупупу ґуп! Лазур! Ґуп ґупупу!"
+
+#. Key: TAG4_050
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: アラクネの興奮は収まらない。
+#. JA:   それどころか、ますます狂気を帯びていくようだった。
+#. JA:   咆吼に似た声を上げて、アラクネが飛びかかってきた。
+msgctxt "TAG4_050"
+msgid ""
+"Arakune seems to be losing it... I'm not sure what it is that he's so excited about,\n"
+"but he's becoming even less coherent...\n"
+"With a distorted roar, he jumps at me—"
+msgstr ""
+"Збудження Аракуне не вщухало. Навпаки, він ставав дедалі\n"
+"божевільнішим. Із ревом він кинувся на мене."
+
+#. Key: TAG4_052
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 腕が。脚が。破壊されていく。
+msgctxt "TAG4_052"
+msgid "My...my arms and legs... They're breaking down..."
+msgstr "Руки. Ноги. Усе розлітається в друзки."
+
+#. Key: TAG4_053
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……おい！　テイガー！　機体損壊アラートが鳴っているぞ！
+#. JA:   テイガー！　テイガー！　返事をしろ！
+msgctxt "TAG4_053"
+msgid ""
+"...Hey! Tager! I'm reading critical structural damage!\n"
+"Tager! Tager! Respond back to me!"
+msgstr ""
+"...Тейґере! Я отримала сигнал про пошкодження корпусу! Тейґере!\n"
+"Тейґере! Відповідай!"
+
+#. Key: TAG4_054
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私が落とした通信機からココノエの喚き声が響いている。
+#. JA:   しかし、今の私はすでに通信機を拾う機能さえ喪失していた。
+#. JA:   どうやら制御系統に致命的なダメージを負ったようだ。
+msgctxt "TAG4_054"
+msgid ""
+"I can hear Kokonoe's scream crackle from the communicator lying on the floor next\n"
+"to me, but I can't seem to move to pick it up. My internal systems seem to have\n"
+"suffered significant damage..."
+msgstr ""
+"З передавача, який я впустив, долинали крики Коконое. Та я вже не міг\n"
+"навіть підняти його. Схоже, система керування зазнала критичних\n"
+"ушкоджень."
+
+#. Key: TAG4_055
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: テイガー！　どうした、返事を―――……
+msgctxt "TAG4_055"
+msgid ""
+"Tager! What's the matter!? Respond!\n"
+"..."
+msgstr "Тейґере! Що сталося? Відповідай..."
+
+#. Key: TAG4_056
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……おい！　テイガー！　何と遭遇した！
+#. JA:   テイガー！　テイガー！　状況を報告しないか！
+msgctxt "TAG4_056"
+msgid ""
+"...Hey! Tager! What's happening!?\n"
+"Tager! Tager! Report!"
+msgstr "...Тейґере! На що ти натрапив?! Тейґере! Тейґере! Доповідай!"
+
+#. Key: TAG4_060
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG4_060"
+msgid " "
+msgstr " "
+
+#. Key: TAG4_062
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: ……蒼　……蒼　……蒼
+msgctxt "TAG4_062"
+msgid "...Azure ...Azure ......Azure"
+msgstr "...Лазур... Лазур... Лазур..."
+
+#. Key: TAG4_062a
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: ……蒼　……蒼　……蒼
+msgctxt "TAG4_062a"
+msgid "...Azure ...Azure ......Azure"
+msgstr "...Лазур... Лазур... Лазур..."
+
+#. Key: TAG4_063
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: アラクネは息も絶え絶えだ。
+#. JA:   苦しみを長引かせないのが、せめてもの情けだ。
+msgctxt "TAG4_063"
+msgid ""
+"Arakune's body is starting to fall apart... His body and his mind are going...\n"
+"At least his end will be a quick one."
+msgstr ""
+"Аракуне ледве дихав. Хоч би не продовжувати його мук — це найменше,\n"
+"що я можу для нього зробити."
+
+#. Key: TAG4_064
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 今、とどめをさしてやる。
+msgctxt "TAG4_064"
+msgid "I'll finish you off, right now."
+msgstr "Зараз я покладу край твоїм мукам."
+
+#. Key: TAG4_066
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: く、崩れる!?
+msgctxt "TAG4_066"
+msgid "I-It's collapsing!?"
+msgstr "Що?! Обвалюється?!"
+
+#. Key: TAG4_067
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: フロアの奥。昇降装置がある場所が崩れ落ち、巨大な穴が空いた。
+msgctxt "TAG4_067"
+msgid ""
+"The floor on the far side of the room has collapsed...\n"
+"There used to be a crane over there, but now it's just a huge hole."
+msgstr ""
+"У глибині поверху обвалилася ділянка з підйомником. Зяяла величезна\n"
+"діра."
+
+#. Key: TAG4_069
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ……何だ？
+#. JA:   うなり声が近づいてくる。
+#. JA:   アラクネを放置し、私は穴へと向き直った。
+msgctxt "TAG4_069"
+msgid ""
+"...What the hell? I can hear someone groaning... They're getting closer.\n"
+"I can deal with Arakune later. \n"
+"I turn toward the hole."
+msgstr ""
+"...Що це? Гарчання наближалося. Я залишив Аракуне й повернувся до\n"
+"діри."
+
+#. Key: TAG4_070
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 穴を這いずり出た“モノ”は、ゆっくりと首をもたげた。
+#. JA:   それは、“圧倒的な闇”だった。
+msgctxt "TAG4_070"
+msgid "The only thing there is a pool of thick, absolute darkness."
+msgstr ""
+"«Щось» виповзло з діри й повільно підняло голову. То була сама\n"
+"«непроглядна темрява»."
+
+#. Key: TAG4_071
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 全ての光を吸収する漆黒の塊の中で、
+#. JA:   眼のみが真紅に輝いている。
+msgctxt "TAG4_071"
+msgid ""
+"It groans again, and I see a pair of burning red eyes open in the middle of the\n"
+"darkness."
+msgstr "У чорній масі, що поглинала все світло, багряним сяяли лише очі."
+
+#. Key: TAG4_072
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: まさか……これが「黒き獣」……。
+msgctxt "TAG4_072"
+msgid "Could this be...the <DQ>Black Beast<DQ> ...!?"
+msgstr "Невже... це «Чорний Звір»...?"
+
+#. Key: TAG4_073
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: それが、応えるかのように咆吼を上げた。
+msgctxt "TAG4_073"
+msgid "It roars in response."
+msgstr "У відповідь воно заревло."
+
+#. Key: TAG4_075
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 黒き獣が、こちらを一瞥する。
+#. JA:   私は一歩も動けない。
+msgctxt "TAG4_075"
+msgid "The red eyes turn toward me. I can't move."
+msgstr "Чорний Звір кинув на мене погляд. Я не міг ступити й кроку."
+
+#. Key: TAG4_076
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: 蒼蒼蒼蒼蒼おおおぉぉぅぅぅぉおおう！！
+msgctxt "TAG4_076"
+msgid "AzureAzureAzureAzureAzuuuuuuragggghhhh!"
+msgstr "ЛазурЛазурЛазурЛазурЛазу-у-ур!"
+
+#. Key: TAG4_076a
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: 蒼蒼蒼蒼蒼おおおぉぉぅぅぅぉおおう！！
+msgctxt "TAG4_076a"
+msgid "AzureAzureAzureAzureAzuuuuuuragggghhhh!"
+msgstr "ЛазурЛазурЛазурЛазурЛазу-у-ур!"
+
+#. Key: TAG4_077
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 死にかけた体のどこにそんな力が残っていたのか、
+#. JA:   アラクネが奇声を上げて黒き獣に飛びかかった。
+msgctxt "TAG4_077"
+msgid ""
+"Arakune lets out a distorted scream and leaps at the Beast. \n"
+"He moves so fast...\n"
+"I can't believe he was dying a moment ago..."
+msgstr ""
+"Невідомо, звідки в його майже мертвому тілі взялися сили, але Аракуне\n"
+"дико заверещав і кинувся на Чорного Звіра."
+
+#. Key: TAG4_078
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Black Beast
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG4_078"
+msgid "..."
+msgstr "..."
+
+#. Key: TAG4_080
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: ィィイィィイィッィァァァアアアアアッ！
+msgctxt "TAG4_080"
+msgid "AaaAaaAaggghhhaaaAAAGH!"
+msgstr "І-і-і-а-а-а!"
+
+#. Key: TAG4_080a
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Arakune
+#. Context: Tager story route (POV: Tager)
+#. JA: ィィイィィイィッィァァァアアアアアッ！
+msgctxt "TAG4_080a"
+msgid "AaaAaaAaggghhhaaaAAAGH!"
+msgstr "І-і-і-а-а-а!"
+
+#. Key: TAG4_081
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 黒き獣はこともなげにアラクネを捕まえ、
+#. JA:   あろうことか、喰らい始めた。
+msgctxt "TAG4_081"
+msgid ""
+"The Beast snatches him out of the air and in one smooth movement buries its\n"
+"razor-sharp teeth in Arakune's body.\n"
+"It tears off a piece and...\n"
+"It's eating him."
+msgstr "Чорний Звір без зусиль схопив Аракуне й почав його жерти."
+
+#. Key: TAG4_082
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私は何もできぬまま、それを見守る事しかできなかった。
+msgctxt "TAG4_082"
+msgid "I can't do anything. I can't even move."
+msgstr "Я міг лише безпорадно дивитися."
+
+#. Key: TAG5_002
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 昇降機を使い、私は施設の最深部に降りた。
+msgctxt "TAG5_002"
+msgid ""
+"I use the crane in the back of the room to lower myself down to the bottom level\n"
+"of the facility."
+msgstr ""
+"Скориставшись підйомником, я спустився до найглибшої частини\n"
+"будівлі."
+
+#. Key: TAG5_003
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ここの基本構造は、機関と同じか。
+msgctxt "TAG5_003"
+msgid "I guess the basic construction here is very similar to the Sector."
+msgstr "Архітектура тут така сама, як у Секторі Сім?"
+
+#. Key: TAG5_004
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 辺りを確認し、最後の転移補助装置を適切な場所に敷設する。
+msgctxt "TAG5_004"
+msgid ""
+"I take a quick look around and, satisfied that the area is safe, begin setting\n"
+"up the equipment in the spot Kokonoe designated."
+msgstr ""
+"Я оглянув місце й установив останній допоміжний пристрій перенесення\n"
+"там, де належало."
+
+#. Key: TAG5_005
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Unknown on screen; internally Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 貴様か……。
+#. JA:   此処へ何をしに来た。
+msgctxt "TAG5_005"
+msgid ""
+"You...\n"
+"Why have you come here?"
+msgstr "Ти... Навіщо прийшов сюди?"
+
+#. Key: TAG5_006
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ココノエのいう通り、対象は確かにここにいた―――が、ふと気にかかる。
+#. JA:   何故ココノエは“彼”がここにいる事を知っている？
+msgctxt "TAG5_006"
+msgid ""
+"So he is here...just like Kokonoe said he would be. \n"
+"Although...I can't help thinking about -why- she knew he'd be here..."
+msgstr ""
+"Як і казала Коконое, ціль справді була тут. Але мене непокоїло інше:\n"
+"звідки вона знала, що «він» тут перебуває?"
+
+#. Key: TAG5_007
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ……雑念は捨てよう、今は任務に集中すべきだ。
+msgctxt "TAG5_007"
+msgid ""
+"...No, that's not important.\n"
+"I need to focus on my work right now."
+msgstr "...Годі зайвих думок. Потрібно зосередитися на завданні."
+
+#. Key: TAG5_008
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 決まっている。
+#. JA:   貴様を回収に来た―――ハクメンよ。
+msgctxt "TAG5_008"
+msgid "You should already know. I came here to retrieve you, Hakumen."
+msgstr "Хіба не очевидно? Я прийшов повернути тебе, Хакумене."
+
+#. Key: TAG5_009
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 回収だと？
+#. JA:   其の様な要請、した覚えは無い。
+msgctxt "TAG5_009"
+msgid "Retrieve? I do not recall making such a request."
+msgstr "Повернути? Не пригадую, щоб я про це просив."
+
+#. Key: TAG5_010
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 境界表層部から貴様がサルベージされた時から
+#. JA:   貴様の飼い主はココノエだ。飼犬が勝手をするわけにもいくまい？
+msgctxt "TAG5_010"
+msgid ""
+"From the moment you were rescued from the Boundary, Kokonoe has been your\n"
+"master...and we can't exactly allow a domesticated hound to roam free, now can we?"
+msgstr ""
+"Відтоді як тебе витягли з поверхні Межі, твоєю хазяйкою стала Коконое.\n"
+"Домашньому псові не годиться діяти на власний розсуд."
+
+#. Key: TAG5_011
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: ほう、面白い事を謂う。
+#. JA:   偶然拾った“狗”にあの「化け猫」の命令を聞けと？
+msgctxt "TAG5_011"
+msgid ""
+"Hm. An interesting thing to say...\n"
+"You're telling the <DQ>dog<DQ> who happened to be found that day to listen to the <DQ>cat<DQ>?"
+msgstr ""
+"Цікаво кажеш. Наказуєш «псові», якого «випадково підібрали»,\n"
+"слухатися відьомської кицьки?"
+
+#. Key: TAG5_012
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 確かに発見は偶然だったな。
+#. JA:   機関の目的は、魔素を根源から絶つことだ。その過程における
+#. JA:   境界の調査で、偶然、貴様をココノエが見つけたに過ぎない。
+msgctxt "TAG5_012"
+msgid ""
+"Indeed, it was a coincidence. Sector Seven aims to kill the seithr at its source.\n"
+"You were just a by-product Kokonoe found along the line."
+msgstr ""
+"Так, знайшли тебе випадково. Сектор Сім прагне усунути ману при\n"
+"самому джерелі. Коконое натрапила на тебе під час дослідження Межі."
+
+#. Key: TAG5_013
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: だが、偶然だろうがココノエには関係がないことだ。
+#. JA:   ココノエは、貴様のことなどサンプルとしか見ていないからな。
+#. JA:   境界の奥に眠る、オリジナルユニット研究のための……な。
+msgctxt "TAG5_013"
+msgid ""
+"Coincidence or not, that's irrelevant to her. She only sees you as another sample...\n"
+"A tool to research the original <DQ>units<DQ> that lied dormant within the Boundary."
+msgstr ""
+"Але для Коконое випадковість нічого не змінює. Вона бачить у тобі лише\n"
+"зразок для дослідження оригінальних «модулів», що сплять у глибинах\n"
+"Межі."
+
+#. Key: TAG5_014
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 貴公らの目的など知らんな。
+#. JA:   我は悪を滅する、其の為にのみ存在する。
+#. JA:   化け猫の言葉に従う道理は無い。
+msgctxt "TAG5_014"
+msgid ""
+"Your purpose is of no interest to me. I exist only to eradicate evil from this earth.\n"
+"I am not bound by the whim of that Grimalkin."
+msgstr ""
+"Ваші цілі мене не цікавлять. Я існую лише для того, щоб знищувати зло.\n"
+"Слухатися відьомської кицьки я не зобов'язаний."
+
+#. Key: TAG5_015
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: そもそも、だ。貴公ら第七機関の目的―――世界を元の姿に戻す。
+#. JA:   即ち魔素を消し去ること。其れは果たして正しいのか？　
+msgctxt "TAG5_015"
+msgid ""
+"You, and Sector Seven, wish to dispose of seithr and return the world to how it once\n"
+"was. Ask yourself... Is what you desire truly just?"
+msgstr ""
+"І ще: мета вашого Сектору Сім — повернути світ до первісного стану,\n"
+"знищивши ману. Але чи справді це правильно?"
+
+#. Key: TAG5_016
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ―――正しいとは、どういう意味だ。
+msgctxt "TAG5_016"
+msgid "...What do you mean -just-?"
+msgstr "...Що ти маєш на увазі під «правильно»?"
+
+#. Key: TAG5_017
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 簡単な話だ。今の世界は魔素の存在を前提に成立している。
+#. JA:   此の状況下で魔素が失われたら、世界が滅亡する可能性が高い。
+#. JA:   寧ろ、貴公らの行動こそ世界にとっては悪やもしれぬ。
+msgctxt "TAG5_017"
+msgid ""
+"Think, fool. The world of today thrives on seithr. Were it to disappear, would that\n"
+"world not end? Perhaps your actions will hurt the world, rather than save it."
+msgstr ""
+"Усе просто. Нинішній світ існує завдяки мані. Якщо вона раптом зникне,\n"
+"світ, найімовірніше, загине. Можливо, саме ваші дії — зло для цього\n"
+"світу."
+
+#. Key: TAG5_018
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 魔素が失われる事で、
+#. JA:   黒き獣以上の厄災が出現する可能性も有るだろう。
+#. JA:   その可能性を知りつつも尚、貴公は機関に従うのか？
+msgctxt "TAG5_018"
+msgid ""
+"Losing seithr could bring humanity to its knees in a way the Black Beast could\n"
+"never have managed. How can you know this and still believe in Sector Seven?"
+msgstr ""
+"Зникнення мани може принести лихо страшніше за Чорного Звіра. Чи й\n"
+"далі служитимеш Сектору Сім, знаючи про це?"
+
+#. Key: TAG5_019
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: そう言ったきりハクメンは黙り込んだ。
+#. JA:   私の意見を待つつもりのようだ。
+msgctxt "TAG5_019"
+msgid "Hakumen goes silent. He seems to be waiting for my answer."
+msgstr "Сказавши це, Хакумен замовк. Схоже, він чекав на мою відповідь."
+
+#. Key: TAG5_020
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 私が信じているのは、第七機関ではない。
+#. JA:   ココノエ、だ。
+#. JA:   あの時から……そしてこれからも、それだけは揺らぐことはない。
+msgctxt "TAG5_020"
+msgid ""
+"What I have faith in isn't Sector Seven. It's Kokonoe. Since that day—and from\n"
+"now on—that won't change."
+msgstr ""
+"Я вірю не Сектору Сім. Я вірю Коконое. Відтоді й надалі це ніколи не\n"
+"зміниться."
+
+#. Key: TAG5_021
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: はっはっはっはっは！
+#. JA:   あの化け猫を信じるか！
+#. JA:   これは興味深い事を謂う！！
+msgctxt "TAG5_021"
+msgid "Ha ha ha ha ha! So you have given your faith to the Grimalkin!? How amusing!"
+msgstr "Ха-ха-ха! Ти віриш відьомській кицьці? Оце вже цікаво!"
+
+#. Key: TAG5_022
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 笑うハクメンを、今度は私が黙って見据えた。
+#. JA:   ほどなくして、ハクメンの高笑いがやんだ。
+msgctxt "TAG5_022"
+msgid ""
+"I do my best to give him a level stare. Not the easiest thing to do when your\n"
+"opponent has no visible eyes. Eventually, he finishes laughing."
+msgstr ""
+"Тепер я мовчки дивився на Хакумена, поки він сміявся. Невдовзі його\n"
+"регіт ущух."
+
+#. Key: TAG5_023
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 成程。己が信念のみに従うか。
+#. JA:   心地良い覚悟だ、いいだろう。
+#. JA:   私を飼い慣らしたくば、力尽くで来るが良い！
+msgctxt "TAG5_023"
+msgid ""
+"So you are a man who lives by what be believes. Your determination is refreshing,\n"
+"but if you wish to <DQ>retrieve<DQ> me, you must do so by force."
+msgstr ""
+"Зрозуміло. Ти йдеш лише за власними переконаннями. Поважаю таку\n"
+"рішучість. Гаразд: якщо хочеш мене «приручити», спробуй узяти силою!"
+
+#. Key: TAG5_024
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 我は空、我は鋼、我は刃―――
+#. JA:   我は一振りの剣にて全ての罪を刈り取り悪を滅する！
+msgctxt "TAG5_024"
+msgid ""
+"I am the white void. I am the cold steel. I am the just sword.\n"
+"With blade in hand shall I reap the sins of this world, and cleanse it in the fires of\n"
+"destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем пожну всі гріхи\n"
+"та знищу зло!"
+
+#. Key: TAG5_025
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 我が名はハクメン！　推して参る！！
+msgctxt "TAG5_025"
+msgid "I am Hakumen. The end has come."
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: TAG5_026
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 私の信念、
+#. JA:   断てるものなら断ってみせろ！
+msgctxt "TAG5_026"
+msgid "Hah! Then prove to me my beliefs are wrong..."
+msgstr "Якщо зможеш зламати мої переконання — спробуй!"
+
+#. Key: TAG5_031
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: どうした。貴公の信念は其の程度か。
+#. JA:   だとしたら、安い信念だな。
+msgctxt "TAG5_031"
+msgid "How disappointing. It seems belief alone cannot sustain you. It lacks...substance."
+msgstr "Що таке? Оце й уся сила твоїх переконань? Дешево ж вони коштують."
+
+#. Key: TAG5_032
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 反論することは、最早不可能だった。
+#. JA:   すでに私のボディは大半の機能を停止している。
+msgctxt "TAG5_032"
+msgid ""
+"As much as I want to disagree, I can't say anything.\n"
+"...Most of my body has already stopped responding."
+msgstr "Відповісти я вже не міг. Майже всі функції мого тіла припинили роботу."
+
+#. Key: TAG5_033
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……おい！　テイガー！　機体損壊アラートが鳴ってるぞ！
+#. JA:   テイガー！　テイガー！　返事をしろ―――
+msgctxt "TAG5_033"
+msgid ""
+"...Hey! Tager! I'm reading heavy structural damage! \n"
+"Tager! Tager! Respond—"
+msgstr ""
+"...Тейґере! Сигнал тривоги: корпус пошкоджено! Тейґере! Тейґере!\n"
+"Відповідай!"
+
+#. Key: TAG5_034
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 私が落とした通信機からココノエの喚き声が響いている。
+#. JA:   しかし、今の私はすでに通信機を拾う機能さえ喪失していた。
+#. JA:   どうやら制御系統に致命的なダメージを負ったようだ。
+msgctxt "TAG5_034"
+msgid ""
+"I can hear Kokonoe's scream crackle from the communicator lying on the floor next\n"
+"to me, but I can't seem to move to pick it up. My internal systems seem to have\n"
+"suffered significant damage..."
+msgstr ""
+"З передавача, який я впустив, долинали крики Коконое. Та я вже не міг\n"
+"навіть підняти його. Схоже, система керування зазнала критичних\n"
+"ушкоджень."
+
+#. Key: TAG5_035
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: テイガー！　どうした、返事を―――
+msgctxt "TAG5_035"
+msgid ""
+"Tager! What's going on!? Respond!\n"
+"..."
+msgstr "Тейґере! Що сталося? Відповідай..."
+
+#. Key: TAG5_036
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: すまない、ココノエ。任務は失敗した。
+#. JA:   私の代わりとなる人材が一日でも早く見つかることを祈るのみだ。
+msgctxt "TAG5_036"
+msgid ""
+"I'm sorry, Kokonoe. The mission failed. All I can do is to pray that you'll find my\n"
+"replacement as quickly as possible. "
+msgstr ""
+"Пробач, Коконое. Завдання провалено. Лишається тільки сподіватися,\n"
+"що ти якнайшвидше знайдеш мені заміну."
+
+#. Key: TAG5_043
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: く……此程やるとは。
+#. JA:   大したものだ。貴公の信念とやらも。
+msgctxt "TAG5_043"
+msgid ""
+"Guh... I did not expect that you would fare this well. Perhaps I have misjudged you\n"
+"and your so-called belief."
+msgstr ""
+"Кх... Не думав, що ти на таке здатен. Твої переконання справді чогось\n"
+"варті."
+
+#. Key: TAG5_044
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ダメージを負ったハクメンの動きが鈍くなった。
+#. JA:   チャンスだ。私は通信機を取り出した。
+msgctxt "TAG5_044"
+msgid ""
+"I've damaged him quite a bit... His movements are noticeably slower.\n"
+"This is my chance.\n"
+"I pull out my communicator..."
+msgstr ""
+"Поранений Хакумен почав рухатися повільніше. Мій шанс. Я дістав\n"
+"передавач."
+
+#. Key: TAG5_045
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 聞こえるか、ココノエ。
+#. JA:   転移装置の敷設は完了している。
+#. JA:   強制転移を開始しろ。
+msgctxt "TAG5_045"
+msgid "Can you hear me, Kokonoe? The devices are in place! Get ready to warp the target!"
+msgstr ""
+"Коконое, чуєш? Усі пристрої перенесення встановлено. Запускай\n"
+"примусове перенесення."
+
+#. Key: TAG5_046
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ―――解った。
+#. JA:   巻き込まれないように、ハクメンから離れろ。
+msgctxt "TAG5_046"
+msgid ""
+"—Roger. Get away from Hakumen, so you don't get dragged in yourself,\n"
+"meathead."
+msgstr "...Зрозуміла. Відійди від Хакумена, щоб тебе не затягло разом із ним."
+
+#. Key: TAG5_047
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 空間に術式が描かれ、ハクメンの姿が薄れ始めた。
+#. JA:   ココノエの元へと強制転移されるのだ。
+msgctxt "TAG5_047"
+msgid ""
+"As the Ars we've prepared begins to write itself out in the air, I can see Hakumen\n"
+"start to fade."
+msgstr ""
+"У повітрі проявилася магічна формула, і постать Хакумена почала\n"
+"тьмяніти. Його примусово переносило до Коконое."
+
+#. Key: TAG5_048
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: ―――貴公に問う。
+msgctxt "TAG5_048"
+msgid "...Let me ask you one thing."
+msgstr "...Дозволь запитати."
+
+#. Key: TAG5_049
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 何だ？
+msgctxt "TAG5_049"
+msgid "What?"
+msgstr "Що?"
+
+#. Key: TAG5_050
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: 貴公の主は―――あの化け猫は
+#. JA:   真に、信用足ると思っているのか？
+msgctxt "TAG5_050"
+msgid "Do you really think that master of yours, the Grimalkin, deserves your faith?"
+msgstr ""
+"Ти справді вважаєш свою хазяйку — відьомську кицьку — гідною\n"
+"довіри?"
+
+#. Key: TAG5_051
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 貴様が心配することではない。
+msgctxt "TAG5_051"
+msgid "That's none of your concern."
+msgstr "Не тобі про це турбуватися."
+
+#. Key: TAG5_052
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Hakumen
+#. Context: Tager story route (POV: Tager)
+#. JA: ……ふっ、余計な事を謂ったか。
+#. JA:   では“次”こそ此処で相見えようぞ、黒き者よ。
+msgctxt "TAG5_052"
+msgid "...Hmph. I seem to have struck a nerve. Until we meet again."
+msgstr ""
+"...Хм, мабуть, я сказав зайве. То «наступного разу» зустрінемося тут,\n"
+"чорна істото."
+
+#. Key: TAG5_053
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ハクメンの姿が消え、術式が消滅した。
+msgctxt "TAG5_053"
+msgid ""
+"I can't see his face—if he even has one—but I feel like Hakumen grins at me before\n"
+"he disappears, along with the Ars."
+msgstr "Хакумен зник, а слідом розвіялася й магічна формула."
+
+#. Key: TAG5_054
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+msgctxt "TAG5_054"
+msgid "!?"
+msgstr "!?"
+
+#. Key: TAG5_055
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ハクメンが消えたと同時に背後にただならぬ気配を感じた。
+#. JA:   同時に、私に組み込まれたセンサーが
+#. JA:   “「蒼」の魔道書”の反応を真後ろに捉えた。
+msgctxt "TAG5_055"
+msgid ""
+"His last words are still hanging in the air when I detect a dangerous presence behind\n"
+"me. More specifically, the presence of the Azure Grimoire."
+msgstr ""
+"Щойно Хакумен зник, я відчув позаду небезпечну присутність. Водночас\n"
+"мої сенсори зафіксували просто за спиною реакцію Лазурного Гримуара."
+
+#. Key: TAG5_056
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 振り返った先に、白い髪の若い男が立っていた。
+msgctxt "TAG5_056"
+msgid "I turn around to see the sneer of a white-haired young man."
+msgstr "Обернувшись, я побачив молодого біловолосого чоловіка."
+
+#. Key: TAG5_057
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 貴様が「ラグナ＝ザ＝ブラッドエッジ」か。
+msgctxt "TAG5_057"
+msgid "So, you're Ragna the Bloodedge, huh?"
+msgstr "То ти Раґна Бладедж?"
+
+#. Key: TAG5_058
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Ragna
+#. Context: Tager story route (POV: Tager)
+#. JA: だったらどうする気だ、第七機関の赤鬼さんよ。
+msgctxt "TAG5_058"
+msgid ""
+"So what if I am?\n"
+"What are you gonna do about it, Sector Seven's... <DQ>Red Devil<DQ>?"
+msgstr "А якщо й так, що зробиш, пане «Червоний демоне» із Сектору Сім?"
+
+#. Key: TAG5_059
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……どうもしない。
+msgctxt "TAG5_059"
+msgid "...Nothing."
+msgstr "...Нічого."
+
+#. Key: TAG5_060
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Ragna
+#. Context: Tager story route (POV: Tager)
+#. JA: ……あ？
+#. JA:   闘<ruby>や</ruby>る気は、ねぇってことか？
+msgctxt "TAG5_060"
+msgid "...Huh? So you're not here for a fight? "
+msgstr "...Га? Ти що, битися не збираєшся?"
+
+#. Key: TAG5_061
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: そうだ。貴様のことは、ついで、でいいといわれている。
+#. JA:   それに残念ながら、付帯任務を遂行できるほどのエネルギーは、
+#. JA:   既に私には残っていない。
+msgctxt "TAG5_061"
+msgid ""
+"Capturing you is only secondary... And I'm afraid, I don't have enough energy\n"
+"remaining to complete that task..."
+msgstr ""
+"Саме так. Мені сказали, що ти — лише додаткова ціль. Та в мене вже не\n"
+"лишилося енергії на другорядне завдання."
+
+#. Key: TAG5_062
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Ragna
+#. Context: Tager story route (POV: Tager)
+#. JA: そうかい、こっちも余計なことに関わりたくねぇんでな。
+#. JA:   助かるわ。
+msgctxt "TAG5_062"
+msgid ""
+"Is that right? Well, I didn't want to get dragged into anything complicated, either...\n"
+"Thanks for saving me the trouble."
+msgstr "Ясно. Мені теж не хочеться вплутуватися в зайве. Дуже виручив."
+
+#. Key: TAG5_064
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ここにいれば、貴様の邪魔になるだけのようだな……。
+#. JA:   私は立ち去るとしよう。
+msgctxt "TAG5_064"
+msgid "Don't let me get in your way..."
+msgstr "Схоже, я тут лише заважатиму тобі... Тому піду."
+
+#. Key: TAG5_065
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Ragna
+#. Context: Tager story route (POV: Tager)
+#. JA: 悪ィな、オッサン。
+#. JA:   気ィ、遣ってもらってよ。
+msgctxt "TAG5_065"
+msgid "Well... thanks for being so considerate..."
+msgstr "Вибач, дядьку. Дякую, що подумав про мене."
+
+#. Key: TAG5_066
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 気にするな。
+#. JA:   任務以外のことはしない、それだけのことだ。
+msgctxt "TAG5_066"
+msgid ""
+"Hmph! I just carry out my missions as I am told... Nothing more, nothing less...\n"
+"So there's no need to thank me."
+msgstr "Не зважай. Я просто не роблю нічого поза завданням."
+
+#. Key: TAG6_002
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: シャフト内部のエレベーターに乗り込み一息入れたところで
+#. JA:   改めてココノエに通信を入れる。
+msgctxt "TAG6_002"
+msgid "I step into the elevator and pull out my communicator."
+msgstr ""
+"Сівши в ліфт усередині шахти й перевівши подих, я знову зв'язався з\n"
+"Коконое."
+
+#. Key: TAG6_003
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: こちらテイガー。作戦は終了した。
+#. JA:   これより帰投する。
+msgctxt "TAG6_003"
+msgid "This is Tager. My mission's complete. Now returning to base."
+msgstr "Тейґер на зв'язку. Операцію завершено. Повертаюся на базу."
+
+#. Key: TAG6_004
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 報告はいいから、とっとと帰って来い！
+#. JA:   転送したのはいいんだが、どうにもハクメンがうるさいんだ。
+msgctxt "TAG6_004"
+msgid ""
+"Forget about the damn reports! Just get your ass back here! Teleportation went\n"
+"well enough, but that damn Hakumen really gets on my nerves..."
+msgstr ""
+"Звіт почекає, швидше повертайся! Перенесення вдалося, але Хакумен\n"
+"ніяк не вгамується."
+
+#. Key: TAG6_005
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ……そこまでココノエの元に戻りたくなかったか、ハクメンよ。
+#. JA:   その感情が理解できなくもないのだから、私も困ったものだ。
+msgctxt "TAG6_005"
+msgid ""
+"Don't want to go back to Kokonoe, eh Hakumen?\n"
+"I...know how you feel."
+msgstr ""
+"...Хакумене, ти настільки не хотів повертатися до Коконое? Біда в тім,\n"
+"що я навіть можу тебе зрозуміти."
+
+#. Key: TAG6_006
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 了解した。
+#. JA:   エネルギーの続く限り、全速で帰投する。
+msgctxt "TAG6_006"
+msgid "Roger that. I'll return as fast as I can."
+msgstr "Зрозумів. Повернуся на повній швидкості, наскільки вистачить енергії."
+
+#. Key: TAG6_007
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: あー、テイガー。
+msgctxt "TAG6_007"
+msgid "Oh, Tager..."
+msgstr "А, Тейґере..."
+
+#. Key: TAG6_008
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 何だ？
+msgctxt "TAG6_008"
+msgid "What is it?"
+msgstr "Що?"
+
+#. Key: TAG6_009
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: いや。少しばかり、昔のことを思い出してな。
+#. JA:   お前を拾った時の事とか……。
+msgctxt "TAG6_009"
+msgid "Nothing, I was just remembering something... Back when I picked you up..."
+msgstr "Нічого. Просто згадала дещо. Як колись знайшла тебе..."
+
+#. Key: TAG6_010
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: どうした、お前が昔話とは。
+msgctxt "TAG6_010"
+msgid "Hmph, what's gotten into you... reminiscing about the past?"
+msgstr "Що це з тобою? Від тебе незвично чути спогади про минуле."
+
+#. Key: TAG6_011
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 何だ、悪いのか？　
+msgctxt "TAG6_011"
+msgid "Yeah, I am. Something wrong with that?"
+msgstr "А що, не можна?"
+
+#. Key: TAG6_012
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: どこか拗ねたようなその口調が、妙に可愛らしかった。
+#. JA:   まるで年頃の娘のようだ。
+msgctxt "TAG6_012"
+msgid ""
+"I found her somewhat pouting tone of voice strangely cute. She's acting like a\n"
+"teenage girl."
+msgstr ""
+"У її голосі вчувалася образа, і це було на диво мило. Ніби говорила\n"
+"дівчина-підліток."
+
+#. Key: TAG6_013
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 別に悪くなどない。
+#. JA:   珍しいと思っただけだ。
+msgctxt "TAG6_013"
+msgid "Hardly. It just didn't seem like something -you- would do."
+msgstr "Можна. Просто я здивувався."
+
+#. Key: TAG6_014
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 珍しいか。 確かに研究に没頭するあまりに、
+#. JA:   過去を振り返るような時間はなかったな……。
+msgctxt "TAG6_014"
+msgid ""
+"Out of character, huh? Yeah, well, now that you mention it, I guess I am pretty busy\n"
+"these days... Not a lot of time for memory lane."
+msgstr ""
+"Здивувався? Справді, я так поринула в дослідження, що не мала часу\n"
+"озиратися назад..."
+
+#. Key: TAG6_015
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 今日までの日々が長かったのか、短かったのか。
+#. JA:   それもよくわからんくらいに、忙しかった。
+msgctxt "TAG6_015"
+msgid "Too busy to remember if those days went by fast or slow..."
+msgstr ""
+"Я була така зайнята, що вже й не знаю, довгими були ці роки чи\n"
+"короткими."
+
+#. Key: TAG6_016
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 本当にどうしたのだ、ココノエ。
+#. JA:   やけに感傷的だな？
+#. JA:   ハクメンを回収して、安堵でもしたのか？
+msgctxt "TAG6_016"
+msgid ""
+"OK... Now you've got me worried. You're being way too sentimental.\n"
+"Or are you just relieved Hakumen's been recovered?"
+msgstr ""
+"Що з тобою, Коконое? Ти сьогодні незвично сентиментальна.\n"
+"Повернення Хакумена принесло тобі полегшення?"
+
+#. Key: TAG6_017
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ココノエはすぐに返事をしなかった。
+#. JA:   ためらっているかのような沈黙が続いた。
+msgctxt "TAG6_017"
+msgid "It takes her a moment to respond. Almost like she's...hesitant."
+msgstr "Коконое не відповідала. Тиша тривала, ніби вона вагалася."
+
+#. Key: TAG6_018
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 安堵……か。
+#. JA:   いや、自分の無力さを呪っていたところだ。
+#. JA:   ところで、テイガー。
+msgctxt "TAG6_018"
+msgid ""
+"Relieved...? No, I just hate how powerless I am.\n"
+"By the way, Tager..."
+msgstr ""
+"Полегшення...? Ні, я щойно проклинала власне безсилля. До речі,\n"
+"Тейґере..."
+
+#. Key: TAG6_019
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: まだ何か用なのか？
+msgctxt "TAG6_019"
+msgid "Do you still need something?"
+msgstr "Тобі ще щось потрібно?"
+
+#. Key: TAG6_020
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: いや、用というほどでは……。
+#. JA:   その……今までご苦労だったな。
+msgctxt "TAG6_020"
+msgid "Oh, it's not that... It's just... Thanks for everything you've done for me."
+msgstr "Ні, це не прохання... Просто... Ти добре попрацював."
+
+#. Key: TAG6_021
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: …………すまない。
+#. JA:   よく聞こえなかった。
+msgctxt "TAG6_021"
+msgid ""
+"...I'm sorry.\n"
+"I didn't catch that."
+msgstr "...Пробач. Я не розчув."
+
+#. Key: TAG6_022
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: あのココノエが、ねぎらいなど口にするはずがない。
+#. JA:   通信トラブルでなければ、幻聴だろう。
+msgctxt "TAG6_022"
+msgid ""
+"The Kokonoe I know would never bother to thank me for my trouble. \n"
+"Perhaps my aural equipment is malfunctioning...\n"
+"The only other explanation I can think of is that I'm having auditory hallucinations.\n"
+"I have been under a lot of stress..."
+msgstr ""
+"Невже Коконое сказала мені добре слово? Такого бути не може. Або збій\n"
+"зв'язку, або мені почулося."
+
+#. Key: TAG6_023
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: 今までご苦労だったと言っただけだ。
+#. JA:   特に今回のお前の働きには、感謝をしているからな。
+#. JA:   ……何だ、私がねぎらいを口にするのが変だとでも言うのか？
+msgctxt "TAG6_023"
+msgid ""
+"I said thanks for everything you've done for me. Especially for all the stuff you've\n"
+"done on this particular mission. What, you think it's strange for me to say thanks?"
+msgstr ""
+"Я сказала, що ти добре попрацював. Особливо вдячна за твою роботу\n"
+"цього разу. Що, тобі дивно чути від мене вдячність?"
+
+#. Key: TAG6_024
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 変ではないが。初めてねぎらわれたので、正直、驚いただけだ。
+msgctxt "TAG6_024"
+msgid ""
+"I wouldn't say <DQ>strange<DQ>...\n"
+"But I believe that was the first time you've ever thanked me...So I was just surprised."
+msgstr "Дивно?. Просто я вперше почув від тебе подяку. Тому й здивувався."
+
+#. Key: TAG6_026
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……そうだったか？
+#. JA:   ねぎらっていると思ったが……。
+msgctxt "TAG6_026"
+msgid "...Really? Huh. Thought I'd mentioned it before..."
+msgstr "...Невже? Я думала, вже казала тобі це..."
+
+#. Key: TAG6_027
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 通信にノイズが増えてきた。
+#. JA:   どうやらまた電波状況が悪くなってきたようだ。
+msgctxt "TAG6_027"
+msgid "The static is increasing... I guess my reception is getting worse."
+msgstr "У зв'язку побільшало шуму. Схоже, сигнал знов погіршувався."
+
+#. Key: TAG6_028
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: 通信が途絶えそうだ。話の続きは帰ったら聞こう。
+#. JA:   では、後でな。
+msgctxt "TAG6_028"
+msgid "The connection is breaking up... I'll hear the rest when I return to base."
+msgstr "Зв'язок ось-ось урветься. Дослухаю тебе, коли повернуся. До зустрічі."
+
+#. Key: TAG6_029
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ああ。再会を待っているよ。
+msgctxt "TAG6_029"
+msgid "All right. I can't wait to see you again."
+msgstr "Так. Чекатиму нашої нової зустрічі."
+
+#. Key: TAG6_030
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 再会？　おかしな言い方をする。
+#. JA:   私がそんなことを気にした時だった。
+msgctxt "TAG6_030"
+msgid ""
+"See me again? That seems like a strange thing to say...\n"
+"...Unless—"
+msgstr ""
+"Нової зустрічі? Дивно вона висловилася. Я саме замислився над цим,\n"
+"коли..."
+
+#. Key: TAG6_031
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: ……すまないな。
+msgctxt "TAG6_031"
+msgid "...I'm sorry, Tager."
+msgstr "...Пробач мені."
+
+#. Key: TAG6_032
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 唐突にココノエが謝罪を口にした。
+#. JA:   こんなことを言われたのも、ねぎらい同様、初めてだ。
+msgctxt "TAG6_032"
+msgid ""
+"First gratitude and now an apology? If I'm not malfunctioning, then there must\n"
+"be something wrong with Kokonoe."
+msgstr ""
+"Раптом Коконое попросила пробачення. Як і добре слово, це я почув від\n"
+"неї вперше."
+
+#. Key: TAG6_033
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Tager
+#. Context: Tager story route (POV: Tager)
+#. JA: ……本当にどうしたというのだ、ココノエ。
+#. JA:   今日のお前は様子が変だ―――
+msgctxt "TAG6_033"
+msgid ""
+"...Really. Is something wrong with you, Kokonoe?\n"
+"You are acting awfully strange today—"
+msgstr "...Коконое, що з тобою сьогодні? Ти поводишся дивно..."
+
+#. Key: TAG6_036
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: ―――言いかけた私の声も、私の体も。
+#. JA:   この第十三階層都市も、次の瞬間に消滅した。
+msgctxt "TAG6_036"
+msgid ""
+"Those words I was about to utter, along with everything else on the face of this rotten\n"
+"world, disintegrated in a few moments..."
+msgstr ""
+"...І слова, яких я не договорив, і моє тіло, і все Тринадцяте ієрархічне\n"
+"місто наступної миті зникли."
+
+#. Key: TAG6_037
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Kokonoe
+#. Context: Tager story route (POV: Tager)
+#. JA: （すまないな）
+#. JA:   
+msgctxt "TAG6_037"
+msgid "(I'm sorry, Tager...)"
+msgstr ""
+"(Пробач мені.)\n"
+""
+
+#. Key: TAG6_137
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 再び、ココノエの声を聞いた気がした。
+#. JA:   ああ、そういうことか。私は奇妙に納得した。
+msgctxt "TAG6_137"
+msgid "For a second, I thought I just heard Kokonoe's voice again."
+msgstr ""
+"Мені здалося, що я знов почув голос Коконое. А, ось воно що. Чомусь я\n"
+"сприйняв це спокійно."
+
+#. Key: TAG6_038
+#. Source: story/storytext_maintg (data/Story/Text/eng/storytext_maintg.pac)
+#. Speaker: Narrator
+#. Context: Tager story route (POV: Tager)
+#. JA: 気にすることはない。
+#. JA:   きっとまた、いつか私はお前に拾われるのだろう……。
+#. JA:   その日を楽しみにしているぞ……私も。
+msgctxt "TAG6_038"
+msgid ""
+"There's no need to worry... I'm sure you'll find me once again.\n"
+"I, too, look forward to that day..."
+msgstr ""
+"Не переймайся. Напевно, колись ти знову знайдеш мене... І я теж\n"
+"чекатиму на цей день."

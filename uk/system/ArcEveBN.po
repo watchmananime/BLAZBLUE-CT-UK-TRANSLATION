@@ -1,0 +1,1270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveBN01_00
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Litchi
+#. Context: Arcade event: Bang
+#. JA: これは私が決めたことなの！
+#. JA:   もうアナタには関係ないでしょう？私の好きにさせて！
+msgctxt "ArcEveBN01_00"
+msgid ""
+"I've already decided.\n"
+"This doesn't have anything to do with you anymore!\n"
+"Let me do as I want...!"
+msgstr ""
+"Це моє рішення! Тебе це більше не стосується, правда? Дай\n"
+"мені чинити як хочу!"
+
+#. Key: ArcEveBN01_01
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Bang
+#. JA: まてライチ、私の話を聞け……くっ、行ってしまったか。
+msgctxt "ArcEveBN01_01"
+msgid ""
+"Wait, Litchi, listen to me...\n"
+"Haah...she's left."
+msgstr "Зачекай, Лічі, вислухай мене... Кх, пішла."
+
+#. Key: ArcEveBN01_02
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ちょっとまったあああああああああああああああ！！！
+msgctxt "ArcEveBN01_02"
+msgid "Waaaaait a minuuuuuuuuuuuuuuute!"
+msgstr "Стрива-а-а-а-а-а-а-ай!!!"
+
+#. Key: ArcEveBN01_03
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Bang
+#. JA: ん、何だ貴様？
+msgctxt "ArcEveBN01_03"
+msgid "Hm? Who are you?"
+msgstr "Гм? Ти хто?"
+
+#. Key: ArcEveBN01_04
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: い、い、い、今お主、こ、こ、こ、ここで麗しの……否、
+#. JA:   か弱き女性に乱暴をはたらこうとしていたでござござござるな！！
+msgctxt "ArcEveBN01_04"
+msgid ""
+"You were harassing that goddess, uh, eh, delicate woman\n"
+"just now, weren't you?"
+msgstr ""
+"Т-т-т-ти щойно хотів скривдити цю чарівну... ні, тендітну\n"
+"жінку, так?!"
+
+#. Key: ArcEveBN01_05
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Bang
+#. JA: 女性？ああ、ライチのことか。
+#. JA:   少し話をしていただけだ。貴様には関係なかろう。
+msgctxt "ArcEveBN01_05"
+msgid ""
+"Woman? Oh, you mean Litchi? We were just talking.\n"
+"That's not really any of your business."
+msgstr ""
+"Жінку? А, ти про Лічі. Ми лише розмовляли. Це тебе не\n"
+"стосується."
+
+#. Key: ArcEveBN01_06
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: き、き、き、きっしゃああん！
+msgctxt "ArcEveBN01_06"
+msgid "D-D-Damn youuuuuuuuuuuu!"
+msgstr "Т-т-т-ти-и-и-и-и!"
+
+#. Key: ArcEveBN01_07
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ライチ殿を呼び捨てにするだと！許さん許さん許さんでござる～！
+#. JA:   お天道様が許してもこのバングが許さんでござる！！！！！
+msgctxt "ArcEveBN01_07"
+msgid ""
+"How dare you refer to her as simply \"Litchi\"! That is \n"
+"waaaaay beyond unacceptable! Even if the goddess \n"
+"forgives your rude behavior, I won't!"
+msgstr ""
+"Як ти смієш називати пані Лічі просто на ім’я?! Не\n"
+"пробачу, не пробачу, не пробачу! Навіть якщо саме небо\n"
+"простить, Банґ Шініґамі — ні!!!"
+
+#. Key: ArcEveBN01_08
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 決めた今決めたここで決めた！お主、悪党決定！大決定！！
+msgctxt "ArcEveBN01_08"
+msgid ""
+"I've just decided! Ohhhh, yes I have!\n"
+"From now on, you're a villain!"
+msgstr ""
+"Вирішено! Щойно, тут і зараз! Ти — лиходій! Остаточно й\n"
+"безповоротно!!"
+
+#. Key: ArcEveBN01_09
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: お主の罪は明白でござる！その証拠にライチ殿の恐れ慄く態度が
+#. JA:   全てを物語っていたでござる～～～～！！
+msgctxt "ArcEveBN01_09"
+msgid ""
+"Your fault is obvious! Miss Litchi's frightened expression\n"
+"says it all!"
+msgstr ""
+"Твоя провина очевидна! Перелякана поведінка пані Лічі\n"
+"— незаперечний доказ!"
+
+#. Key: ArcEveBN01_10
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Bang
+#. JA: ……すまん、行っていいか？
+msgctxt "ArcEveBN01_10"
+msgid "...Can I just... go?"
+msgstr "...Пробач, можна я піду?"
+
+#. Key: ArcEveBN01_11
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: お主は敵だ！全世界の女性の敵だ！！
+msgctxt "ArcEveBN01_11"
+msgid ""
+"You're the enemy!\n"
+"The enemy of every woman in the world!"
+msgstr "Ти ворог! Ворог усіх жінок світу!!"
+
+#. Key: ArcEveBN01_12
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: カグツチの愛と平和とか弱き女性を護る男
+#. JA:   「シシガミ＝バング」ここに見参！！
+msgctxt "ArcEveBN01_12"
+msgid ""
+"But fear not! The protector of love, peace, and the\n"
+"delicate women of Kagutsuchi, Bang Shishigami, is here!"
+msgstr ""
+"Захисник любові, миру й тендітних жінок Каґуцучі — Банґ\n"
+"Шішіґамі! До бою!!"
+
+#. Key: ArcEveBN01_13
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 歯を喰いしばれ～い！今すぐ星の彼方にぶっ飛ばす！！！
+msgctxt "ArcEveBN01_13"
+msgid "Prepare yourself! I will send you flying across the galaxy!"
+msgstr "Стисни зуби-и-и! Зараз відправлю тебе за обрій зірок!!!"
+
+#. Key: ArcEveBN01_14
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Bang
+#. JA: お前、とりあえず人の話を聞け。
+msgctxt "ArcEveBN01_14"
+msgid "Do you ever listen?"
+msgstr "Ти хоча б вислуховуєш інших?"
+
+#. Key: ArcEveBN01_15
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ゼハァゼハァ、な、なかなかやるでござるな！敵ながら天晴れ。
+#. JA:   だが、拙者のほうがわずかに上だったようだっ！！！
+msgctxt "ArcEveBN01_15"
+msgid ""
+"Haah... Haah... Y-You're quite a fighter! I'm impressed.\n"
+"But...it looks like I was still better than you!"
+msgstr ""
+"Ха... ха... Н-непогано б’єшся! Ворога гідно похвалити. Та я\n"
+"все ж був дещо сильніший!!!"
+
+#. Key: ArcEveBN01_16
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Bang
+#. JA: わかったわかった、お前の勝ちだ。では私は行くぞ。
+msgctxt "ArcEveBN01_16"
+msgid ""
+"All right, all right. You win.\n"
+"Can I go now?"
+msgstr "Гаразд, гаразд. Твоя перемога. Тепер я піду."
+
+#. Key: ArcEveBN02_00
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Taokaka
+#. Context: Arcade event: Bang
+#. JA: おう、そこのむさい人！
+#. JA:   「らぐにゃ」ってだいあくとー知らにゃい？
+msgctxt "ArcEveBN02_00"
+msgid ""
+"Hey, you scruffy guy over there!\n"
+"Do you happen to know of the great villain named\n"
+"\"Rawrgna\"?"
+msgstr ""
+"Гей, кудлатий дядьку! Ти не знаєш великого лиходія на\n"
+"ім’я «Раґня»?"
+
+#. Key: ArcEveBN02_01
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: むむ、「ラグナ」とな！
+#. JA:   確かに拙者も「ラグナ」という大悪党を追っているでござるが、
+#. JA:   よもや！お主も大悪党ラグナを成敗する所存か！？
+msgctxt "ArcEveBN02_01"
+msgid ""
+"Did you just say Ragna!? I'm also after the villain named\n"
+"Ragna, but are you...are you also trying to bring him to\n"
+"justice!?"
+msgstr ""
+"Ти сказала «Раґна»?! Я теж полюю на великого лиходія\n"
+"Раґну... Невже й ти збираєшся його покарати?!"
+
+#. Key: ArcEveBN02_02
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Taokaka
+#. Context: Arcade event: Bang
+#. JA: おー！そうにゃむさい人！タオは「らぐにゃ」つかまえるニャ！！
+#. JA:   で、いっぱいオカネ……
+msgctxt "ArcEveBN02_02"
+msgid ""
+"Oh yeah, scruffy man! Tao will catch Rawrgna!\n"
+"And I'll get tons of money..."
+msgstr ""
+"Ага, кудлатий дядьку! Тао спіймає «Раґню»! І отримає\n"
+"купу грошей..."
+
+#. Key: ArcEveBN02_03
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: おおおおおおおそうであったか！！
+#. JA:   お主も世にはびこる悪を許せぬ咎追いであったか！！
+msgctxt "ArcEveBN02_03"
+msgid ""
+"Ohhhhh! Is that right!?\n"
+"You are also a vigilante who despises evil!"
+msgstr ""
+"О-о-о! То ти теж мисливиця за головами, яка не терпить\n"
+"зла, що заполонило світ?!"
+
+#. Key: ArcEveBN02_04
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: で、お主、咎追いになってどのくらいになるでござるか？
+msgctxt "ArcEveBN02_04"
+msgid "Have you long been...a vigilante?"
+msgstr "І давно ти стала мисливицею за головами?"
+
+#. Key: ArcEveBN02_05
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Taokaka
+#. Context: Arcade event: Bang
+#. JA: ん～～～、２回寝たぞ、むさい人！
+msgctxt "ArcEveBN02_05"
+msgid "Hmmmmm... Since about two nights ago, scruffy man."
+msgstr "М-м-м... Тао вже двічі поспала, кудлатий дядьку!"
+
+#. Key: ArcEveBN02_06
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ３日目かよ！！！
+msgctxt "ArcEveBN02_06"
+msgid "This is only your third day!?"
+msgstr "То в тебе лише третій день?!!"
+
+#. Key: ArcEveBN02_07
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ならば聞いて驚け！階層都市カグツチにその名を轟かす
+#. JA:   最強の咎追いにして夢と希望を守る使者、
+#. JA:   「シシガミ＝バング」てぇ～のは拙者のことよ！
+msgctxt "ArcEveBN02_07"
+msgid ""
+"Oh-ho! The strongest and most well-known vigilante in\n"
+"the Hierarchical City of Kagutsuchi... The protector of\n"
+"hopes and dreams, Bang Shishigami! And, that's me!"
+msgstr ""
+"Тоді слухай і дивуйся! Наймогутніший і найславетніший\n"
+"мисливець за головами в ієрархічному місті Каґуцучі,\n"
+"захисник мрій і надій — Банґ Шішіґамі! Це я!"
+
+#. Key: ArcEveBN02_08
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: でだ、ぺぇぺぇの新米であるお主に、
+#. JA:   この大先輩がじきじきに稽古をつけてやろう！
+msgctxt "ArcEveBN02_08"
+msgid ""
+"Since you're an inexperienced rookie, I'll be happy to give\n"
+"you a lesson myself!"
+msgstr ""
+"А тобі, зеленій новачці, я, бувалий мисливець, особисто\n"
+"дам урок!"
+
+#. Key: ArcEveBN02_09
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 別にむさい人といわれて怒っているわけではないでござるよ～、
+#. JA:   ははは、全身全霊全力をもって相手してやるから
+#. JA:   かかってくるがいいでござるよ～。
+msgctxt "ArcEveBN02_09"
+msgid ""
+"It's not that I'm mad at you for calling me scruffy.\n"
+"Heheheh. I'm not going easy on you, so get ready!"
+msgstr ""
+"Я зовсім не серджуся, що ти назвала мене кудлатим!\n"
+"Ха-ха-ха! Битимуся з тобою всіма силами, тож нападай!"
+
+#. Key: ArcEveBN02_10
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Taokaka
+#. Context: Arcade event: Bang
+#. JA: にゃはは！た～のしかったニャ！
+#. JA:   また遊んでほしいのネ、むさい人！
+msgctxt "ArcEveBN02_10"
+msgid ""
+"Meowhaha! It was fun, meow!\n"
+"Let's do this again sometime, scruffy man!"
+msgstr ""
+"Ня-ха-ха! Було весело, няв! Пограймося ще якось,\n"
+"кудлатий дядьку!"
+
+#. Key: ArcEveBN02_11
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ハァ、ハァ、ハァ……新米の癖に、ハァ……やるではないか。
+msgctxt "ArcEveBN02_11"
+msgid "Haah, haah...for a rookie...haah...you're not bad at all."
+msgstr "Ха... ха... Хоч ти й новачка... ха... але б’єшся непогано."
+
+#. Key: ArcEveBN02_12
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: だが、ハァ……まだまだ、ハァ……青いでござるよ……
+#. JA:   では、拙者は急いでいるのでまた今度……ゼェ、ゼェ……。
+msgctxt "ArcEveBN02_12"
+msgid ""
+"But, haah...you still, haah...have a lot to learn...\n"
+"All right, I have to get going. See you around...haah..."
+msgstr ""
+"Але, ха... тобі ще... ха... багато чого вчитися. А мені треба\n"
+"поспішати, тож продовжимо іншим разом... ха..."
+
+#. Key: ArcEveBN03_00
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: むう、ここはどこだ？なにやらタダならぬ雰囲気でござる。
+msgctxt "ArcEveBN03_00"
+msgid "Eh? What is this place? What's going on here?"
+msgstr "Хм, де це я? Тут панує якась зловісна атмосфера."
+
+#. Key: ArcEveBN03_01
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 大悪党ラグナが図書館にいると踏んで、やってきたはよいものの
+#. JA:   まさか図書館の地下にこのような巨大施設があるとは……
+msgctxt "ArcEveBN03_01"
+msgid ""
+"I came here thinking the villain Ragna might appear.\n"
+"I never expected that the Library would have a basement\n"
+"like this..."
+msgstr ""
+"Я прийшов, гадаючи, що великий лиходій Раґна\n"
+"з’явиться в Бібліотеці, та не сподівався знайти під нею\n"
+"таку величезну споруду..."
+
+#. Key: ArcEveBN03_02
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: きゃつらめ、一体何を企てているでござるか！？
+msgctxt "ArcEveBN03_02"
+msgid "They must be up to no good."
+msgstr "Що ж вони тут замислили?!"
+
+#. Key: ArcEveBN03_03
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: のう、お主もそう思わぬか？
+msgctxt "ArcEveBN03_03"
+msgid "Don't you agree with me, stranger?"
+msgstr "Гей, ти теж так думаєш?"
+
+#. Key: ArcEveBN03_04
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Bang
+#. JA: ほう、私の気配を感じ取るか。
+msgctxt "ArcEveBN03_04"
+msgid "Hmmm. So you can sense me?"
+msgstr "Хм. Отже, ти відчув мою присутність."
+
+#. Key: ArcEveBN03_05
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Bang
+#. JA: かように静寂な場所ではさすがに気配を消しきれぬであろう。
+msgctxt "ArcEveBN03_05"
+msgid "In a place this quiet, it's hard to be stealthy."
+msgstr ""
+"У такому тихому місці неможливо цілком приховати свою\n"
+"присутність."
+
+#. Key: ArcEveBN03_06
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 申し遅れた、拙者シシガミ＝バングと申す、
+#. JA:   お主は――図書館、ごにょごにょ……いや統制機構の者か？
+msgctxt "ArcEveBN03_06"
+msgid ""
+"Let me introduce myself. My name is Bang Shishigami.\n"
+"Are you from the Library—er, the Librarium?"
+msgstr ""
+"Пробач, що не представився раніше. Я — Банґ Шішіґамі. А\n"
+"ти з Бібліотеки... е-е... ні, з Організації контролю?"
+
+#. Key: ArcEveBN03_07
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Bang
+#. JA: 私の名はハクメン。
+msgctxt "ArcEveBN03_07"
+msgid "My name is Hakumen."
+msgstr "Моє ім’я — Хакумен."
+
+#. Key: ArcEveBN03_08
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ！？　　なるほど、かの英雄と同名なのでござるな！
+#. JA:   驚かせないでほしいでござるよ～。
+msgctxt "ArcEveBN03_08"
+msgid ""
+"I see. You just happen to have the same name as one of \n"
+"the Six Heroes, huh? You scared me for a second there."
+msgstr ""
+"?! Зрозуміло, ти просто тезка одного із Шістьох Героїв! Не\n"
+"лякай мене так!"
+
+#. Key: ArcEveBN03_09
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Bang
+#. JA: 否、後にも先にもハクメンは私唯一人だ。
+msgctxt "ArcEveBN03_09"
+msgid "Incorrect. There is only one Hakumen, and I am he."
+msgstr "Ні. Хакумен був і буде лише один — я."
+
+#. Key: ArcEveBN03_10
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 拙者を馬鹿にするのもいい加減にするでござる！
+msgctxt "ArcEveBN03_10"
+msgid "How dare you mock me!"
+msgstr "Годі з мене глузувати!"
+
+#. Key: ArcEveBN03_11
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: その不可思議な面に警戒をしていたが正解のようであったな。
+#. JA:   古の大英雄の名を騙るなぞ笑止千万！
+msgctxt "ArcEveBN03_11"
+msgid ""
+"I was alarmed by your strange mask, and I was right!\n"
+"You should be ashamed of yourself for pretending to be\n"
+"one of the ancient heroes!"
+msgstr ""
+"Недарма мене насторожила твоя дивна маска!\n"
+"Привласнювати ім’я великого героя давнини — нечуване\n"
+"нахабство!"
+
+#. Key: ArcEveBN03_12
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Bang
+#. JA: ふっ、”相変わらず”だな。
+#. JA:   良いだろう、貴様の正義示して見るが良い。
+msgctxt "ArcEveBN03_12"
+msgid ""
+"Hmph, you haven't changed at all.\n"
+"Fine. Why don't you show me your justice?"
+msgstr ""
+"Хм, ти анітрохи не змінився. Гаразд. Покажи мені свою\n"
+"справедливість."
+
+#. Key: ArcEveBN03_13
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: カグツチの真実と勇気を守る使者！
+#. JA:   どんな逆境にも負けない男「シシガミ＝バング」！ここに見参！！
+msgctxt "ArcEveBN03_13"
+msgid ""
+"The protector of the truth and courage of Kagutsuchi! \n"
+"The man who will never give in to adversity, Bang\n"
+"Shishigami! Here I come!"
+msgstr ""
+"Захисник правди й відваги Каґуцучі! Муж, який не\n"
+"скориться жодним випробуванням, — Банґ Шішіґамі! До\n"
+"бою!!"
+
+#. Key: ArcEveBN03_14
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 古の大英雄の名を騙る不届き者め！成敗してくれる！
+msgctxt "ArcEveBN03_14"
+msgid ""
+"Outrageous liar who uses the name of one of the ancient\n"
+"heroes, be prepared to be brought to justice!"
+msgstr ""
+"Негіднику, що привласнив ім’я великого героя давнини!\n"
+"Я тебе покараю!"
+
+#. Key: ArcEveBN03_15
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Bang
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ArcEveBN03_15"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Я єдиним мечем\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveBN03_16
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Bang
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveBN03_16"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveBN03_17
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Bang
+#. JA: クッ、事象干渉か！邪魔をするな化け猫め！！！
+msgctxt "ArcEveBN03_17"
+msgid "Gah, how dare you interrupt me, Grimalkin!"
+msgstr ""
+"Кх, втручання у причинність! Не заважай, клята\n"
+"відьомська кицько!!!"
+
+#. Key: ArcEveBN03_18
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 卑怯者め、逃げるかあああ！！
+msgctxt "ArcEveBN03_18"
+msgid "You sneaky bastard! You can't get away from meeeee!"
+msgstr "Боягузе! Стояти-и-и-и!!"
+
+#. Key: ArcEveBN04_00
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Bang
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveBN04_00"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveBN04_01
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ほう、悪の中枢の真打登場でござるか！
+msgctxt "ArcEveBN04_01"
+msgid ""
+"Hmmm, this must be the final boss, the most evil one of\n"
+"them all."
+msgstr "Ого, нарешті з’явився головний осередок зла!"
+
+#. Key: ArcEveBN04_02
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Bang
+#. JA: 対象・認識・自律モード・起動
+msgctxt "ArcEveBN04_02"
+msgid "Target recognized. Auto-mode: activated."
+msgstr "Ціль ідентифіковано. Автономний режим активовано."
+
+#. Key: ArcEveBN04_03
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: だが、拙者は絶対に負けぬでござる！！
+msgctxt "ArcEveBN04_03"
+msgid "But I will never give in!"
+msgstr "Та я нізащо не програю!!"
+
+#. Key: ArcEveBN04_04
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Bang
+#. JA: 対象・認識・障害・認識・排除・容認……対象を障害と認識
+msgctxt "ArcEveBN04_04"
+msgid ""
+"Scanning complete. IFF determined. Processing...\n"
+"Subject determined to be hostile..."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"дозволено... Ціль визначено як перешкоду."
+
+#. Key: ArcEveBN04_05
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: なぜならそれは……拙者が「正義」だからだ！！！
+msgctxt "ArcEveBN04_05"
+msgid "Because...I am...justice!"
+msgstr "Бо... я і є справедливість!!!"
+
+#. Key: ArcEveBN04_06
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Bang
+#. JA: 対象の殲滅を開始します
+msgctxt "ArcEveBN04_06"
+msgid "Begin termination."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveBN04_07
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: カグツチの自由と正義を守る使者！
+#. JA:   愛の為に生きる男「シシガミ＝バング」ここに見参！！
+msgctxt "ArcEveBN04_07"
+msgid ""
+"The protector of freedom and justice of Kagutsuchi!\n"
+"The man who lives for love, Bang Shishigami! \n"
+"Here I come!"
+msgstr ""
+"Захисник свободи й справедливості Каґуцучі! Муж, який\n"
+"живе заради любові, — Банґ Шішіґамі! До бою!!"
+
+#. Key: ArcEveBN04_08
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 悪の中枢統制機構、いざ、覚悟～～～～～～～～！！！！
+msgctxt "ArcEveBN04_08"
+msgid "Prepare yourself, villain! You bastaaaard!"
+msgstr "Осередку зла, Організаціє контролю, готуйся-я-я-я!!!"
+
+#. Key: ArcEveBN04_09
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 何じゃこりゃああああああああああああぁぁぁぁぁ～～～
+msgctxt "ArcEveBN04_09"
+msgid "What the hell is thaaaaaaat!?"
+msgstr "Що це за чортівня-а-а-а-а-а?!"
+
+#. Key: ArcEveBN05_00
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Subordinate
+#. Context: Arcade event: Bang
+#. JA: お頭、ここにいましたか。お探ししました。
+msgctxt "ArcEveBN05_00"
+msgid "There you are, Master. I was looking everywhere for you."
+msgstr "Босе, ось ви де. Ми вас усюди шукали."
+
+#. Key: ArcEveBN05_01
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 何事でござるか？
+msgctxt "ArcEveBN05_01"
+msgid "What's the matter?"
+msgstr "Що сталося?"
+
+#. Key: ArcEveBN05_02_0
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Subordinate
+#. Context: Arcade event: Bang
+#. JA: 例の重犯罪者「ラグナ＝ザ＝ブラッドエッジ」なる者が
+msgctxt "ArcEveBN05_02_0"
+msgid "We just received word that a man who looks like the wanted"
+msgstr ""
+"Надійшла звістка, що небезпечний злочинець на ім’я\n"
+"«Раґна Бладедж»"
+
+#. Key: ArcEveBN05_02_1
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Subordinate
+#. Context: Arcade event: Bang
+#. JA: このカグツチに現れたとの報せがありました。
+msgctxt "ArcEveBN05_02_1"
+msgid "criminal, Ragna the Bloodedge, has just showed up in town."
+msgstr "з’явився тут, у Каґуцучі."
+
+#. Key: ArcEveBN05_03
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 噂には統制機構にただ一人で戦いを挑む男と聞いているでござる。
+msgctxt "ArcEveBN05_03"
+msgid "Hah...The rumor is that he's taking on the Library all by himself."
+msgstr ""
+"За чутками, він сам-один кинув виклик Організації\n"
+"контролю."
+
+#. Key: ArcEveBN05_04
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: しかしそれが真実だとすれば、大悪党とはいえ、なかなか骨のある者でござるな……
+msgctxt "ArcEveBN05_04"
+msgid "If that's true, he's a pretty impressive adversary for a villain."
+msgstr ""
+"Якщо це правда, то хоч він і великий лиходій, мужності\n"
+"йому не бракує..."
+
+#. Key: ArcEveBN05_05
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: で、その「ラグナ」は今どこに？
+msgctxt "ArcEveBN05_05"
+msgid "So, where is Ragna now?"
+msgstr "То де зараз цей «Раґна»?"
+
+#. Key: ArcEveBN05_06_0
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Subordinate
+#. Context: Arcade event: Bang
+#. JA: 申し訳ありません、奴もなかなかの曲者でして
+msgctxt "ArcEveBN05_06_0"
+msgid "Unfortunately, he's a sneaky one..."
+msgstr "Перепрошуємо. Він неабиякий хитрун..."
+
+#. Key: ArcEveBN05_06_1
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Subordinate
+#. Context: Arcade event: Bang
+#. JA: 忍びの力及ばず、細かい消息までは掴めておりません。
+msgctxt "ArcEveBN05_06_1"
+msgid "None of our ninjas have been able to verify his whereabouts yet."
+msgstr ""
+"Навіть наших умінь нінджя не вистачило, щоб точно\n"
+"встановити його місцеперебування."
+
+#. Key: ArcEveBN05_07
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: むむ、そうでござるか。
+msgctxt "ArcEveBN05_07"
+msgid "Hmmm...is that right?"
+msgstr "Хм, ось воно як."
+
+#. Key: ArcEveBN05_08
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Subordinate
+#. Context: Arcade event: Bang
+#. JA: いかがいたしますか？
+msgctxt "ArcEveBN05_08"
+msgid "What's your plan now?"
+msgstr "Що накажете робити?"
+
+#. Key: ArcEveBN05_09_0
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 噂通りの大悪党ならば、野放しにしてはおけぬ。
+msgctxt "ArcEveBN05_09_0"
+msgid "If he's as vicious as they say, we can't let him remain at large."
+msgstr ""
+"Якщо він і справді такий великий лиходій, не можна\n"
+"лишати його на волі."
+
+#. Key: ArcEveBN05_09_1
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 拙者が参ろう。お主らは万が一に備えここに残るでござる。
+msgctxt "ArcEveBN05_09_1"
+msgid "I'll go take care of him. The rest of you stay here, just in case."
+msgstr ""
+"Я вирушу сам. А ви лишайтеся тут на випадок\n"
+"непередбаченого."
+
+#. Key: ArcEveBN05_10
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Subordinate
+#. Context: Arcade event: Bang
+#. JA: 御意。
+msgctxt "ArcEveBN05_10"
+msgid "Sir!"
+msgstr "Слухаємося."
+
+#. Key: ArcEveBN05_11_0
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 麗しの君よ……
+msgctxt "ArcEveBN05_11_0"
+msgid "My goddess..."
+msgstr "О моя прекрасна пані..."
+
+#. Key: ArcEveBN05_11_1
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: あなたが住まうこの街の平和は、このシシガミ＝バングが命に代えても護りますゆえ
+msgctxt "ArcEveBN05_11_1"
+msgid "I, Bang Shishigami, will protect the peace of your town with my life."
+msgstr ""
+"Я, Банґ Шішіґамі, захищатиму мир у місті, де ви живете,\n"
+"навіть ціною власного життя."
+
+#. Key: ArcEveBN05_11_2
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: ご安心くだされ。
+msgctxt "ArcEveBN05_11_2"
+msgid "You don't need to worry about a thing."
+msgstr "Тож не турбуйтеся ні про що."
+
+#. Key: ArcEveBN05_12
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+msgctxt "ArcEveBN05_12"
+msgid "This world where evil roams free..."
+msgstr "Світ, де зло безкарно блукає..."
+
+#. Key: ArcEveBN05_13_0
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+msgctxt "ArcEveBN05_13_0"
+msgid "Where the tears of the weak"
+msgstr "Де сльози слабких"
+
+#. Key: ArcEveBN05_13_1
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+msgctxt "ArcEveBN05_13_1"
+msgid "fall unheeded..."
+msgstr "лишаються непочутими..."
+
+#. Key: ArcEveBN05_14
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+msgctxt "ArcEveBN05_14"
+msgid "In a world filled with cruelty..."
+msgstr "У світі, сповненому жорстокості..."
+
+#. Key: ArcEveBN05_15_0
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+msgctxt "ArcEveBN05_15_0"
+msgid "With love, courage, and hope in my heart,"
+msgstr "З любов’ю, відвагою та надією в серці"
+
+#. Key: ArcEveBN05_15_1
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+msgctxt "ArcEveBN05_15_1"
+msgid "I punish evil with the fist of justice!"
+msgstr "я караю зло кулаком справедливості!"
+
+#. Key: ArcEveBN05_16
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: 拙者の名はシシガミ＝バング！
+msgctxt "ArcEveBN05_16"
+msgid "My name is Bang Shishigami!"
+msgstr "Ім’я мені — Банґ Шішіґамі!"
+
+#. Key: ArcEveBN05_17
+#. Source: system/ArcEveBN_ArcEveBN01 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN02 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN03 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN04 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Source: system/ArcEveBN_ArcEveBN05 (data/ETC/Text_Eng/ArcEveBN.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Bang
+#. JA: お呼びとあらば即見参！！
+msgctxt "ArcEveBN05_17"
+msgid "Where there is evil, there too shall I be!"
+msgstr "Варто покликати — і я миттю прибуду!!"

@@ -1,0 +1,2503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: NEW0_001
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: ゆっくりとまぶたを開けた
+msgctxt "NEW0_001"
+msgid "I slowly open my eyes."
+msgstr "Я повільно розплющила очі."
+
+#. Key: NEW0_002
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   　　　　　　　　蒼
+#. JA:   
+msgctxt "NEW0_002"
+msgid ""
+"\n"
+"Azure...?\n"
+msgstr ""
+"\n"
+"　　　　　　　　Лазур...\n"
+""
+
+#. Key: NEW0_003
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 果てのない、遠く、どこまでも深い、蒼
+#. JA:   
+#. JA:   いつからか
+msgctxt "NEW0_003"
+msgid ""
+"Its brilliant blue glow is all I can see...\n"
+msgstr ""
+"Безмежна, далека, бездонна Лазур.\n"
+"\n"
+"Відколи ж..."
+
+#. Key: NEW0_004
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 目を覚ましたときから
+#. JA:   
+#. JA:   ぷかぷかと、ゆらゆらと
+msgctxt "NEW0_004"
+msgid ""
+"Ever since I woke up...\n"
+"\n"
+"Floating... Wavering..."
+msgstr ""
+"Відтоді, як я прокинулася.\n"
+"\n"
+"Пливу... Гойдаюся..."
+
+#. Key: NEW0_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: この蒼が、知る世界の全て
+msgctxt "NEW0_005"
+msgid ""
+"\n"
+"This Azure is the only world I know..."
+msgstr ""
+"\n"
+"Ця Лазур — увесь світ, який я знаю."
+
+#. Key: NEW0_006
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: また、誰かに呼ばれたような気がした
+#. JA:   
+msgctxt "NEW0_006"
+msgid "...I feel like someone is calling me again..."
+msgstr "...Мені знову здалося, ніби хтось мене кличе."
+
+#. Key: NEW0_007
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 声に応えると、蒼い世界に白い光が差し込んだ
+#. JA:   
+#. JA:   光へと両手を伸ばす
+msgctxt "NEW0_007"
+msgid ""
+"When I respond, a spear of silver light pierces this blue world...\n"
+"\n"
+"I reach toward it..."
+msgstr ""
+"Коли я відповіла на поклик, у лазурний світ проникло біле світло.\n"
+"\n"
+"Я простягнула до нього обидві руки."
+
+#. Key: NEW0_008
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: まぶしく、あたたかく、つめたい光が蒼を包み込む
+#. JA:   
+#. JA:   ふわりといざなわれる体
+msgctxt "NEW0_008"
+msgid ""
+"The light is bright, warm, and cold at the same time...\n"
+"\n"
+"My body is gently beckoned..."
+msgstr ""
+"Сліпуче, тепле й холодне світло огорнуло Лазур.\n"
+"\n"
+"Моє тіло легко потяглося за ним."
+
+#. Key: NEW0_009
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 光の波がそっと背中を押した
+#. JA:   
+#. JA:   まっしろな世界はどこまでもひろく、
+msgctxt "NEW0_009"
+msgid ""
+"Waves of light wash across my back...\n"
+"\n"
+"The world is white...all white...as far as the eye can see..."
+msgstr ""
+"Хвиля світла легенько штовхнула мене в спину.\n"
+"\n"
+"Сліпучо-білий світ був безмежно просторим..."
+
+#. Key: NEW0_010
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: そしてこの体ひとつしか入り込めないほど狭い
+#. JA:   
+#. JA:   目を細めた――――――
+msgctxt "NEW0_010"
+msgid ""
+"...but there is...something...in the distance...\n"
+"\n"
+"I squint against the light..."
+msgstr ""
+"...і водночас таким тісним, що в ньому ледве вміщалося моє тіло.\n"
+"\n"
+"Я примружилася..."
+
+#. Key: NEW0_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 遠くに何かの影が見える
+msgctxt "NEW0_011"
+msgid "I can see a shadow in the distance..."
+msgstr "Удалині видніється чиясь постать."
+
+#. Key: NEW0_012
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   ―――――――誰だろう？
+#. JA:   
+msgctxt "NEW0_012"
+msgid ""
+"\n"
+"...Who is it?\n"
+msgstr ""
+"\n"
+"...Хто це?\n"
+""
+
+#. Key: NEW0_013
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: ぼやけてよく見えない
+msgctxt "NEW0_013"
+msgid "They're...fuzzy. I can't make out any details..."
+msgstr "Усе розпливається, нічого не розгледіти."
+
+#. Key: NEW0_014
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   手を伸ばそうとすると、光の糸が絡みついた
+#. JA:   もがけばもがくほど、糸は体をきつく締め付ける
+#. JA:   
+msgctxt "NEW0_014"
+msgid ""
+"\n"
+"I reach out, and my arm gets caught in a string made of light...\n"
+"I struggle, but I only get more tangled in the strings of light...\n"
+msgstr ""
+"\n"
+"Коли я спробувала простягнути руку, її обплутали нитки світла. Що\n"
+"сильніше я пручалася, то тугіше нитки стискали моє тіло.\n"
+
+#. Key: NEW0_015
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 光が遠くなる
+#. JA:   光の中の誰かも遠くなる
+msgctxt "NEW0_015"
+msgid ""
+"The light is fading into the distance...\n"
+"So is the strange person..."
+msgstr "Світло віддаляється. І той, хто стоїть у ньому, теж віддаляється."
+
+#. Key: NEW0_016
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: おぼれるように、ゆっくりと深い蒼の中に沈んでいく―――
+msgctxt "NEW0_016"
+msgid "I fall into the blue, like I'm drowning..."
+msgstr "Наче потопаючи, я повільно занурююся в глибоку Лазур..."
+
+#. Key: NEW0_017
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: ぷかり　ぷかり
+msgctxt "NEW0_017"
+msgid "*splish* *splash*"
+msgstr "Пливу... пливу..."
+
+#. Key: NEW0_018
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   「くす」
+#. JA:   「くすくす」
+#. JA:   「くすくすくすくす」
+#. JA:   
+msgctxt "NEW0_018"
+msgid ""
+"\n"
+"*giggle*\n"
+msgstr ""
+"\n"
+"«Хі.» «Хі-хі.» «Хі-хі-хі-хі.»\n"
+
+#. Key: NEW0_019
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: なぜだろう
+msgctxt "NEW0_019"
+msgid "Why...?"
+msgstr "Чому ж?"
+
+#. Key: NEW0_020
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   「くすくす　くすくす」
+#. JA:   
+#. JA:   「あはははは」
+msgctxt "NEW0_020"
+msgid ""
+"\n"
+"*giggle*"
+msgstr ""
+"\n"
+"«Хі-хі... Хі-хі.»\n"
+"\n"
+"«А-ха-ха-ха!»"
+
+#. Key: NEW0_021
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: それは予感
+#. JA:   
+#. JA:   そして願望
+msgctxt "NEW0_021"
+msgid ""
+"It was just a premonition...\n"
+"\n"
+"A selfish desire..."
+msgstr ""
+"Це було передчуття.\n"
+"\n"
+"І бажання."
+
+#. Key: NEW0_022
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 終わりなき輪の運命
+msgctxt "NEW0_022"
+msgid "An endless ring of fate..."
+msgstr "Доля в нескінченному колі."
+
+#. Key: NEW0_023
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   「ニューは、ここにいるよ……」
+msgctxt "NEW0_023"
+msgid ""
+"\n"
+"<DQ>I'm...right here...<DQ>"
+msgstr ""
+"\n"
+"«Ню тут...»"
+
+#. Key: NEW1_004
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 起動……起動……
+msgctxt "NEW1_004"
+msgid "Loading...loading..."
+msgstr "Активація... Активація..."
+
+#. Key: NEW1_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……ラグナ
+msgctxt "NEW1_005"
+msgid "...Ragna."
+msgstr "...Раґна."
+
+#. Key: NEW1_006
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 何だろう、感覚が……
+msgctxt "NEW1_006"
+msgid "What is it...my senses..."
+msgstr "Що це? Відчуття..."
+
+#. Key: NEW1_007
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: あの、すみません。
+msgctxt "NEW1_007"
+msgid "Um, excuse me."
+msgstr "Перепрошую."
+
+#. Key: NEW1_009
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……誰？
+msgctxt "NEW1_009"
+msgid "...Who?"
+msgstr "...Хто?"
+
+#. Key: NEW1_010
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: よく聞こえていないようだった
+msgctxt "NEW1_010"
+msgid "...Had to hear..."
+msgstr "Схоже, вона погано його чула."
+
+#. Key: NEW1_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: このあたりで僕の姉さんを見かけませんでしたか？
+msgctxt "NEW1_011"
+msgid "Have you seen my sister?"
+msgstr "Ви не бачили десь тут мою сестру?"
+
+#. Key: NEW1_012
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: …………不明――――――わからない
+msgctxt "NEW1_012"
+msgid "...Unknown... I do not comprehend."
+msgstr "...Невідомо... Не розумію."
+
+#. Key: NEW1_013
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: そうですか。ありがとうございます。
+#. JA:   どうも迷子になってしまったみたいで……。
+msgctxt "NEW1_013"
+msgid "Is that so? Well, thanks all the same. It seems like she got lost..."
+msgstr "Зрозуміло. Дякую. Схоже, вона заблукала..."
+
+#. Key: NEW1_014
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: えっと、目と髪と……顔も。
+#. JA:   僕と似ているので―――もし見かけたら教えてください。
+msgctxt "NEW1_014"
+msgid ""
+"Um, her eyes, hair, and face look a lot like mine, so...if you see her, please let me\n"
+"know."
+msgstr ""
+"Е-е, очі, волосся... й обличчя. Вона схожа на мене, тож якщо побачите її,\n"
+"будь ласка, скажіть мені."
+
+#. Key: NEW1_015
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: そういうと目の前のヒトは頭をさげた
+msgctxt "NEW1_015"
+msgid "He bows to me."
+msgstr "Сказавши це, людина переді мною вклонилася."
+
+#. Key: NEW1_016
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW1_016"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW1_017
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: 突然声をかけて失礼しました。それでは。
+msgctxt "NEW1_017"
+msgid "I'm sorry to bother you...if you'll excuse me."
+msgstr "Перепрошую, що раптом до вас звернувся. До побачення."
+
+#. Key: NEW1_019
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……検索……………
+msgctxt "NEW1_019"
+msgid "...Searching..."
+msgstr "...Пошук..."
+
+#. Key: NEW1_022
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ………該当―――
+msgctxt "NEW1_022"
+msgid "Complete."
+msgstr "...Збіг знайдено..."
+
+#. Key: NEW1_024
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: あ、姉さん！
+#. JA:   よかった、そんなところにいたんだね。
+msgctxt "NEW1_024"
+msgid "Ah, Sis! There you are."
+msgstr "А, сестро! Як добре, що ти знайшлася."
+
+#. Key: NEW1_025
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: 目を離してる間にいなくなるんだもん。
+#. JA:   僕、ものすごく心配したよ。さぁ、帰ろう？
+msgctxt "NEW1_025"
+msgid ""
+"You disappeared when I was looking the other way. I was so worried, you know.\n"
+"C'mon, let's go home."
+msgstr ""
+"Варто було мені відвернутися, як ти зникла. Я страшенно хвилювався.\n"
+"Ну ж бо, ходімо додому."
+
+#. Key: NEW1_026
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW1_026"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW1_027
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW1_027"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW1_028
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW1_028"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW1_030
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW1_030"
+msgid "...?"
+msgstr "...?"
+
+#. Key: NEW1_031
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nirvana
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW1_031"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW1_032
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……状況……不明……
+msgctxt "NEW1_032"
+msgid "...Situation...unknown..."
+msgstr "...Ситуація... невідома..."
+
+#. Key: NEW1_033
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: 姉さん、蒼だよ。やっと見つけた。
+msgctxt "NEW1_033"
+msgid "It's the Azure, Sis. We've finally found it."
+msgstr "Сестро, це Лазур. Нарешті ми її знайшли."
+
+#. Key: NEW1_034
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nirvana
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW1_034"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW1_035
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: まだ片割れ状態の蒼だね、これなら大丈夫。
+msgctxt "NEW1_035"
+msgid "This is only a fragment of the Azure...so we should be OK."
+msgstr "Це лише половина Лазурі. Отже, небезпеки немає."
+
+#. Key: NEW1_036
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 蒼……知ってる
+#. JA:   ニューのいたところ
+msgctxt "NEW1_036"
+msgid ""
+"Azure...I know of it...\n"
+"Where Nu was..."
+msgstr "Лазур... Знаю. Місце, де була Ню."
+
+#. Key: NEW1_037
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: ねぇ、どうやって蒼をとりだそうか？
+#. JA:   切り取るのかな。
+msgctxt "NEW1_037"
+msgid "Say, how should we take the Azure? Can we just sever it?"
+msgstr "Сестро, як нам витягти Лазур? Може, вирізати?"
+
+#. Key: NEW1_038
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: 砕くのかな。
+#. JA:   搾り出すのかな。
+#. JA:   解体すればわかるかな。
+msgctxt "NEW1_038"
+msgid ""
+"Or do we smash it?\n"
+"Milk it out perhaps?\n"
+"I guess we'll find out when we dissect her, right?"
+msgstr ""
+"Чи розтрощити? Або вичавити? Може, дізнаємося, якщо розберемо її на\n"
+"частини."
+
+#. Key: NEW1_042
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 状況…終了
+msgctxt "NEW1_042"
+msgid "Situation, resolved."
+msgstr "Ситуацію... завершено."
+
+#. Key: NEW1_043
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……はぁ……はぁ……
+msgctxt "NEW1_043"
+msgid "Haah...haah..."
+msgstr "...Ха... ха..."
+
+#. Key: NEW1_044
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: なぜできない
+#. JA:   わからない
+#. JA:   “排除するもの”のはずなのに
+msgctxt "NEW1_044"
+msgid ""
+"Why can't I do it...? I don't understand...\n"
+"You were supposed to be <DQ>terminated<DQ>."
+msgstr "Чому не можу? Не розумію. Це ж мало бути «тим, що слід усунути»."
+
+#. Key: NEW1_045
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: 結果は当然です。僕と姉さんだもの。
+msgctxt "NEW1_045"
+msgid "The result was expected. This is me and Sis we're talking about."
+msgstr "Іншого результату й бути не могло. Адже це ми із сестрою."
+
+#. Key: NEW1_046
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: 姉さん、次は「ラグナ＝ザ＝ブラッドエッジ」を殺しに行こう？
+#. JA:   ひとつだけじゃ使い物にならないから。
+msgctxt "NEW1_046"
+msgid ""
+"Let's go kill Ragna the Bloodedge next, Sis.\n"
+"Half of a piece is useless on its own."
+msgstr "Сестро, тепер ходімо вб'ємо «Раґну Бладеджа». Бо однієї недостатньо."
+
+#. Key: NEW1_047
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: え……？
+msgctxt "NEW1_047"
+msgid "Eh...?"
+msgstr "Га...?"
+
+#. Key: NEW1_048
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: 近くにいるみたいだね、姉さん、急ごう。
+msgctxt "NEW1_048"
+msgid ""
+"It seems he's pretty close.\n"
+"Let's hurry, Sis."
+msgstr "Здається, він неподалік. Поспішімо, сестро."
+
+#. Key: NEW1_049
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 近くに？
+msgctxt "NEW1_049"
+msgid "Close...?"
+msgstr "Неподалік...?"
+
+#. Key: NEW1_050
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナ……だめ…………ラグナ…
+msgctxt "NEW1_050"
+msgid "Ragna... No...Ragna...!"
+msgstr "Раґна... Ні... Раґна..."
+
+#. Key: NEW1_055
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: あれ、おかしいな？
+#. JA:   はぁ……はぁ、ごほっ、ごほっ。
+#. JA:   姉さん、大丈夫？
+msgctxt "NEW1_055"
+msgid ""
+"Huh? That's strange...?\n"
+"*pant* *pant* *cough* *cough*\n"
+"Are you OK, Sis?"
+msgstr "Дивно... Щось не так. Ха... ха... кхе-кхе. Сестро, ти в порядку?"
+
+#. Key: NEW1_056
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 歪み……構築データを破壊する恐れのある因子を……排除……
+msgctxt "NEW1_056"
+msgid ""
+"Distortion... Subject determined to be a threat to the construction data...\n"
+"Eliminating..."
+msgstr ""
+"Викривлення... Усунення чинника, здатного зруйнувати дані\n"
+"конструкції..."
+
+#. Key: NEW1_059
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: あはっ……くす、くすくす……
+msgctxt "NEW1_059"
+msgid ""
+"Aha...\n"
+"*giggle* *giggle*"
+msgstr "А-ха... Хі... Хі-хі..."
+
+#. Key: NEW1_060
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Carl
+#. Context: Nu story route (POV: Nu)
+#. JA: ね、姉さん！　そんな……姉さん！！
+msgctxt "NEW1_060"
+msgid "S-Sis!? No...Ada!"
+msgstr "С-сестро! Ні... Сестро!!"
+
+#. Key: NEW2_001
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: あれ…………今度は……
+#. JA:   ……どこ……？
+msgctxt "NEW2_001"
+msgid "Huh... Where am I...now?"
+msgstr "Що...? Цього разу... ...де я...?"
+
+#. Key: NEW2_002
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: また、見覚えのない場所
+#. JA:   あのふたりは、どこにもいない
+msgctxt "NEW2_002"
+msgid ""
+"I...don't recognize this place.\n"
+"The boy and his machine are gone..."
+msgstr "Знову незнайоме місце. Тих двох ніде немає."
+
+#. Key: NEW2_003
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: その代わり、前に別のヒトが立っている
+#. JA:   それが振り向いた
+msgctxt "NEW2_003"
+msgid ""
+"There is someone else here.\n"
+"He is looking at me..."
+msgstr "Натомість переді мною стоїть інша людина. Вона обертається."
+
+#. Key: NEW2_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: 何だ、そこにいたのか。
+#. JA:   ……どうしたんだい、不安げな顔をして。
+msgctxt "NEW2_005"
+msgid ""
+"Ah, there you are...!\n"
+"...Why the worried face?"
+msgstr "А, ось ти де. ...Що сталося? Чому в тебе такий стривожений вигляд?"
+
+#. Key: NEW2_006
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……誰？
+msgctxt "NEW2_006"
+msgid "...Who?"
+msgstr "...Хто?"
+
+#. Key: NEW2_007
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: 迷子になってそんなに寂しかったのかい？
+#. JA:   ははっ、そんなところは昔から変わらないな。
+msgctxt "NEW2_007"
+msgid ""
+"Were you getting lonely, lost all by yourself?\n"
+"Haha...I guess some things just never change."
+msgstr "Заблукала й так засумувала? Ха-ха, у цьому ти зовсім не змінилася."
+
+#. Key: NEW2_008
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……昔……から？
+msgctxt "NEW2_008"
+msgid "Never...change...?"
+msgstr "...Не змінилася...?"
+
+#. Key: NEW2_009
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 胸の奥の何かが、とくんと跳ねた
+msgctxt "NEW2_009"
+msgid "I feel something...deep in my heart..."
+msgstr "Щось у глибині грудей раптом стрепенулося."
+
+#. Key: NEW2_010
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 胸の中の、知らない誰かが、知らない記憶が、知っている
+msgctxt "NEW2_010"
+msgid "In my chest... Someone... In my memory..."
+msgstr "Хтось незнайомий у моїх грудях, якісь невідомі спогади — вони знають."
+
+#. Key: NEW2_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: なんだか顔色が悪いな……ほんとうに大丈夫かい？
+msgctxt "NEW2_011"
+msgid "Your face looks a little pale... Are you sure you're all right?"
+msgstr "Ти якась бліда... Точно все гаразд?"
+
+#. Key: NEW2_012
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……うん……
+msgctxt "NEW2_012"
+msgid "...Yeah..."
+msgstr "...Так..."
+
+#. Key: NEW2_013
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: そんな顔をしていると、兄さんも心配するよ。
+msgctxt "NEW2_013"
+msgid "If Brother saw that face...I'm sure he'd be worried, too..."
+msgstr "Якщо матимеш такий вигляд, брат теж хвилюватиметься."
+
+#. Key: NEW2_014
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: …………兄さん？
+msgctxt "NEW2_014"
+msgid "...Brother...?"
+msgstr "...Брат?"
+
+#. Key: NEW2_016
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: そう、今頃きっと
+#. JA:   丘のあたりを躍起になって探し回ってるはずさ。
+msgctxt "NEW2_016"
+msgid "Yeah... He's probably sweeping the hills looking for you right now..."
+msgstr "Так. Зараз він, напевно, відчайдушно шукає тебе десь на пагорбах."
+
+#. Key: NEW2_017
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……近くに……ニューを探して？
+msgctxt "NEW2_017"
+msgid "...Nearby...searching for Nu...?"
+msgstr "...Він поруч... шукає Ню?"
+
+#. Key: NEW2_018
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: ニュー……？
+#. JA:   兄さんが探しているのはそんな人じゃないよ。
+#. JA:   兄さんは……兄さんは――――――
+msgctxt "NEW2_018"
+msgid ""
+"Nu...?\n"
+"That's not the person Brother's looking for. Brother is... Brother is—"
+msgstr "Ню...? Брат шукає не таку людину. Брат... Брат..."
+
+#. Key: NEW2_021
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: ……すまねぇ。
+msgctxt "NEW2_021"
+msgid "...Sorry."
+msgstr "...Пробач."
+
+#. Key: NEW2_022
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW2_022"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW2_024
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: あばよ……
+msgctxt "NEW2_024"
+msgid "Later..."
+msgstr "Прощавай..."
+
+#. Key: NEW2_028
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW2_028"
+msgid "...?"
+msgstr "...?"
+
+#. Key: NEW2_030
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: 屑が。世界は貴様を求めてなんかいない。
+msgctxt "NEW2_030"
+msgid "You scum! The world will never accept you."
+msgstr "Нікчемо. Ти не потрібна цьому світу."
+
+#. Key: NEW2_031
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 状況……不明……判断……検索……不可……わからない
+msgctxt "NEW2_031"
+msgid ""
+"Situation...unknown...resolution...searching...\n"
+"...undetermined...I don't understand."
+msgstr "Ситуація... невідома... Аналіз... пошук... неможливі... Не розумію."
+
+#. Key: NEW2_032
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: 黙れ！！！
+#. JA:   貴様は目障りだ、目障りだ、目障りだ―――！
+msgctxt "NEW2_032"
+msgid ""
+"Shut up!\n"
+"You're an eye-sore! Eye-sore!"
+msgstr "Мовчи!!! Ти мені очі муляєш, муляєш, муляєш...!"
+
+#. Key: NEW2_033
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: びくりと体が震えた
+#. JA:   知らない感情が、体の奥を締め付ける
+msgctxt "NEW2_033"
+msgid ""
+"My body twitches.\n"
+"I...I feel emotions taking over...\n"
+"They feel...foreign..."
+msgstr "Моє тіло здригнулося. Незнайоме почуття стисло мене зсередини."
+
+#. Key: NEW2_034
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 助けて…………
+msgctxt "NEW2_034"
+msgid "Help me..."
+msgstr "Допоможи..."
+
+#. Key: NEW2_035
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: 僕から兄さんを奪うな！！
+msgctxt "NEW2_035"
+msgid "Don't take my brother away from me!"
+msgstr "Не забирай у мене брата!!"
+
+#. Key: NEW2_039
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラ、ラグナ……
+msgctxt "NEW2_039"
+msgid "R-Ragna..."
+msgstr "Р-Раґно..."
+
+#. Key: NEW2_040
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: その名前を呼ぶな！
+#. JA:   屑の分際で屑の分際で屑の分際で！！
+msgctxt "NEW2_040"
+msgid "Don't you dare say that name! You worthless scum! Scum! How dare you!"
+msgstr "Не смій називати це ім'я! Нікчема, нікчема, нікчема!!"
+
+#. Key: NEW2_041
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: だ、駄目……うぐ……
+msgctxt "NEW2_041"
+msgid "N-No... Ugh...!"
+msgstr "Н-ні... Кх..."
+
+#. Key: NEW2_042
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: あははははははは……
+#. JA:   兄さんに、兄さんに会いにいくのは僕だ！
+msgctxt "NEW2_042"
+msgid ""
+"Ahahahahaha...\n"
+"You're never... Never! Going to touch my brother...!"
+msgstr "А-ха-ха-ха-ха-ха... Я! Це я піду до брата!"
+
+#. Key: NEW2_048
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……排除……正しい……だからこれも運命
+msgctxt "NEW2_048"
+msgid "...Destruction... Justice... This is also...destiny."
+msgstr "...Усунення. Справедлиість. Отже, це теж доля."
+
+#. Key: NEW2_049
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: 黙れ……。
+#. JA:   このガラクタが……あはははは、造りもの分際で……。
+msgctxt "NEW2_049"
+msgid ""
+"Shut up...! You heap of scrap metal...!\n"
+"Ahahaha... Your entire life is a fabrication!"
+msgstr "Мовчи... Купа брухту... А-ха-ха-ха! Ти ж лише штучна істота..."
+
+#. Key: NEW2_050
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……造りもの……
+msgctxt "NEW2_050"
+msgid "...Fabri...cation...?"
+msgstr "...Штучна..."
+
+#. Key: NEW2_052
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: ぐあっ……かはっ……。
+msgctxt "NEW2_052"
+msgid "Ugh... Gah! Ahahahaha... Guaaagh!"
+msgstr "Кха... кх..."
+
+#. Key: NEW2_053
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: たいしょうのせんめつをかんりょう……だっけ
+msgctxt "NEW2_053"
+msgid "Target successfully terminated...right...?"
+msgstr "Знищення цілі завершено... здається, так."
+
+#. Key: NEW3_001
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……ここは、知っている
+msgctxt "NEW3_001"
+msgid "...I know...this place."
+msgstr "...Я знаю це місце."
+
+#. Key: NEW3_002
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 「窯」の外……いつも最初に降り立つ場所
+#. JA:   そこには知らないヒトがいた
+msgctxt "NEW3_002"
+msgid ""
+"Outside the...Cauldron...where I always wake up...\n"
+"There is someone I...don't...know..."
+msgstr ""
+"За межами «Котла»... місце, куди я завжди потрапляю спочатку. Там\n"
+"стояла незнайома людина."
+
+#. Key: NEW3_003
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……あなたは、誰？
+msgctxt "NEW3_003"
+msgid "...Who...are you?"
+msgstr "...Хто ти?"
+
+#. Key: NEW3_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Noel
+#. Context: Nu story route (POV: Nu)
+#. JA: 対象・認識・障害・認識・排除・容認……
+#. JA:   対象を同一体と認識
+msgctxt "NEW3_005"
+msgid "Scanning complete. IFF determined. Processing... Target identified as...identical..."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення схвалено...\n"
+"Ціль ідентифіковано як тотожну сутність."
+
+#. Key: NEW3_008
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……何も、聞こえない
+msgctxt "NEW3_008"
+msgid "...I can't...hear anything..."
+msgstr "...Нічого не чути."
+
+#. Key: NEW3_009
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW3_009"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW3_010
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナ……？
+msgctxt "NEW3_010"
+msgid "Ragna...?"
+msgstr "Раґна...?"
+
+#. Key: NEW3_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW3_011"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW3_012
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 聞こえないよ、なんていっているの？
+#. JA:   ねぇ、ラグナ。
+msgctxt "NEW3_012"
+msgid ""
+"I can't hear you. What are you saying?\n"
+"Hey, Ragna."
+msgstr "Я не чую. Що ти кажеш? Гей, Раґно."
+
+#. Key: NEW3_015
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……いたい……！
+msgctxt "NEW3_015"
+msgid "...Oww...!"
+msgstr "...Боляче...!"
+
+#. Key: NEW3_017
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……いたい！……いたい！　やめて、ラグナ！！
+msgctxt "NEW3_017"
+msgid "...Oww! That hurts! Stop it, Ragna!"
+msgstr "...Боляче! Боляче! Припини, Раґно!!"
+
+#. Key: NEW3_020
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW3_020"
+msgid "...?"
+msgstr "...?"
+
+#. Key: NEW3_022
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 戦いたい……の？
+msgctxt "NEW3_022"
+msgid "You want to...fight me?"
+msgstr "Ти хочеш... битися?"
+
+#. Key: NEW3_023
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Noel
+#. Context: Nu story route (POV: Nu)
+#. JA: 対象の殲滅を開始します……
+msgctxt "NEW3_023"
+msgid "Activate termination protocol."
+msgstr "Розпочинаю знищення цілі..."
+
+#. Key: NEW3_028
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Noel
+#. Context: Nu story route (POV: Nu)
+#. JA: 対象の殲滅を完了
+msgctxt "NEW3_028"
+msgid "Termination...complete."
+msgstr "Знищення цілі завершено."
+
+#. Key: NEW3_029
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナ……
+#. JA:   ラグ、ナ……
+msgctxt "NEW3_029"
+msgid ""
+"Ragna...\n"
+"Rag...na..."
+msgstr "Раґна... Раґ... на..."
+
+#. Key: NEW3_030
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 視界が消える、その瞬間。
+#. JA:   ラグナの姿を見た、そんな気がした―――
+msgctxt "NEW3_030"
+msgid ""
+"My vision begins to blur... I see...Ragna! \n"
+"At least I...I think so..."
+msgstr "У мить, коли згас мій зір, мені здалося, що я побачила Раґну..."
+
+#. Key: NEW3_036
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: たいしょうのせんめつをかんりょう
+#. JA:   ニューには……誰も勝てない
+msgctxt "NEW3_036"
+msgid "Termination complete. No one can destroy me."
+msgstr "Знищення цілі завершено. Ню... ніхто не здолає."
+
+#. Key: NEW3_037
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Noel
+#. Context: Nu story route (POV: Nu)
+#. JA: 同・一・体・の・破・壊・を―――
+msgctxt "NEW3_037"
+msgid "Ter...mi...nation...of...clone..."
+msgstr "Зни... щен... ня... то... тож... ної... сут... нос... ті..."
+
+#. Key: NEW3_038
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW3_038"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW3_040
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Noel
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW3_040"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW3_041
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: やっと……静かになった……
+msgctxt "NEW3_041"
+msgid "Finally...it's quiet."
+msgstr "Нарешті... стало тихо..."
+
+#. Key: NEW4_002
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 空は高く、蒼い
+#. JA:   日差しは柔らかく、温かい
+msgctxt "NEW4_002"
+msgid ""
+"The sky is high and blue...\n"
+"The light is gentle and warm..."
+msgstr "Небо високе й блакитне. Сонячне світло лагідне й тепле."
+
+#. Key: NEW4_003
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   これは、夢
+#. JA:   どこかの誰かの、夢
+#. JA:   忘れ去られた、誰かの、遠い昔の記憶
+msgctxt "NEW4_003"
+msgid ""
+"\n"
+"This is a dream...\n"
+"The dream of someone far away...\n"
+"The dream of someone forgotten by time..."
+msgstr ""
+"\n"
+"Це сон. Чийсь сон. Давній спогад про когось, давно забутого."
+
+#. Key: NEW4_004
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   髪をくすぐるそよ風も
+#. JA:   漂う草花の香りも
+msgctxt "NEW4_004"
+msgid ""
+"\n"
+"The wind that tosses my hair...\n"
+"and the smell of the flowers around me..."
+msgstr ""
+"\n"
+"І вітерець, що лоскоче волосся, і запах квітів, що лине довкола..."
+
+#. Key: NEW4_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 
+#. JA:   全部……
+#. JA:   誰かの、夢……
+msgctxt "NEW4_005"
+msgid ""
+"\n"
+"It's all...a dream..."
+msgstr ""
+"\n"
+"Усе це... чийсь сон..."
+
+#. Key: NEW4_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナ……？
+msgctxt "NEW4_011"
+msgid "Ragna...?"
+msgstr "Раґна...?"
+
+#. Key: NEW4_013
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: あー！　やっぱりラグナだ～！！
+msgctxt "NEW4_013"
+msgid "Oh! It's really you, Ragna!"
+msgstr "А-а! Це справді Раґна!!"
+
+#. Key: NEW4_014
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 声が出せた。前にいるラグナも見える。
+#. JA:   今度の体は、完全みたい。
+#. JA:   これでやっと、ラグナとふれあえる！！
+msgctxt "NEW4_014"
+msgid ""
+"I can speak... I can see Ragna.\n"
+"I think I'll finally be complete this time. I can finally touch him...feel him!"
+msgstr ""
+"Я можу говорити. І бачу Раґну перед собою. Схоже, цього разу тіло\n"
+"повноцінне. Нарешті я зможу торкнутися Раґни!!"
+
+#. Key: NEW4_015
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: 目を覚ましやがったか。
+#. JA:   ったく、めんどうだな。
+msgctxt "NEW4_015"
+msgid "So you woke up, huh? ...What a pain in the ass."
+msgstr "То ти прокинулася. От же морока."
+
+#. Key: NEW4_016
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 久しぶりだね！
+#. JA:   えっとこれで何回目だっけ？
+msgctxt "NEW4_016"
+msgid "Long time, no see! Um, which time was this?"
+msgstr "Давно не бачилися! Е-е, яка це вже наша зустріч?"
+
+#. Key: NEW4_018
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: 三回目だ。
+msgctxt "NEW4_018"
+msgid "Third."
+msgstr "Третя."
+
+#. Key: NEW4_020
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: また、ニューを殺しにきたの？
+msgctxt "NEW4_020"
+msgid "Did you come to kill me again?"
+msgstr "Ти знову прийшов убити Ню?"
+
+#. Key: NEW4_021
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: 殺しにじゃねぇよ。
+#. JA:   壊しに、だ。
+msgctxt "NEW4_021"
+msgid "Not to kill. To destroy."
+msgstr "Не вбити. Знищити."
+
+#. Key: NEW4_022
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: どっちでも同じことだよ。
+#. JA:   この前なんて、すっごく痛かったんだから！
+#. JA:   いきなり斬られて死ぬかと思っちゃった。
+msgctxt "NEW4_022"
+msgid ""
+"They're both one and the same.\n"
+"It really hurt last time, when you slashed me... Over, and over...again..."
+msgstr ""
+"Це одне й те саме. Минулого разу було страшенно боляче! Ти зненацька\n"
+"розрубав мене, і я думала, що помру."
+
+#. Key: NEW4_024
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: 黙れ。
+msgctxt "NEW4_024"
+msgid "Shut up."
+msgstr "Замовкни."
+
+#. Key: NEW4_025
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 何か機嫌悪そうだね。
+#. JA:   この前と、その前にちゃんとお話できなかったから？
+msgctxt "NEW4_025"
+msgid ""
+"Well somebody's in a bad mood.\n"
+"Is it because we didn't get to talk last time? And the time before?"
+msgstr ""
+"Ти якийсь сердитий. Бо минулого й позаминулого разу ми не змогли як\n"
+"слід поговорити?"
+
+#. Key: NEW4_026
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: それなら今日は大丈夫。
+#. JA:   ほら、ちゃんとお話できる体だよ！
+msgctxt "NEW4_026"
+msgid ""
+"But today we're fine.\n"
+"See? I even have a body I can talk with this time!"
+msgstr ""
+"Тоді сьогодні все гаразд. Дивись, цього разу в мене є тіло, здатне\n"
+"розмовляти!"
+
+#. Key: NEW4_027
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: 黙れっていってんだよ。
+msgctxt "NEW4_027"
+msgid "I told you to shut up."
+msgstr "Я сказав замовкнути."
+
+#. Key: NEW4_028
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: えっ、ラグナは嬉しくないの？
+msgctxt "NEW4_028"
+msgid "Aww, Ragna, you're not happy?"
+msgstr "Що? Раґна не радий?"
+
+#. Key: NEW4_030
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: 黙れと言ってんだ！！
+#. JA:   その顔で、その声で、それ以上俺に話しかけるんじゃねえ！！
+msgctxt "NEW4_030"
+msgid ""
+"I said shut up!\n"
+"That face! That voice! Don't you dare talk to me like that!"
+msgstr ""
+"Я сказав замовкнути!! Не смій більше говорити зі мною цим обличчям і\n"
+"цим голосом!!"
+
+#. Key: NEW4_031
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: 俺はテメェを壊しに来た！　それだけだ！！
+#. JA:   話すことなんぞ、何もねえんだよ！！
+msgctxt "NEW4_031"
+msgid ""
+"I'm here to destroy you! That's all there is to it!\n"
+"There's nothing we need to talk about!"
+msgstr "Я прийшов тебе знищити! І все!! Нам нема про що говорити!!"
+
+#. Key: NEW4_032
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……どうして。なんで、そんなに怒ってるの？
+msgctxt "NEW4_032"
+msgid "...Why. Why are you so mad?"
+msgstr "...Чому? Чому ти так сердишся?"
+
+#. Key: NEW4_034
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: あ！　怪我してる！
+#. JA:   誰がいったい、そんな酷いことしたの!?
+msgctxt "NEW4_034"
+msgid "Oh! You're injured! Who did that to you?"
+msgstr "А! Ти поранений! Хто міг так жорстоко з тобою вчинити?!"
+
+#. Key: NEW4_035
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: …………テメェには関係ねぇ。
+#. JA:   いいか、もう一度だけ言うぞ。
+#. JA:   俺はテメェを壊しに来た。それだけだ。
+msgctxt "NEW4_035"
+msgid "...It's got nothing to do with you. Don't make me repeat myself."
+msgstr ""
+"...Не твоя справа. Слухай уважно, я повторю лише раз. Я прийшов тебе\n"
+"знищити. І все."
+
+#. Key: NEW4_036
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 嫌だよ、そんなの！　せっかく会えたのに……。
+#. JA:   やっと“この口”でラグナとお話して……
+msgctxt "NEW4_036"
+msgid ""
+"No, you can't do that! We finally got to meet again...\n"
+"And I finally get to talk to you..."
+msgstr ""
+"Не хочу! Ми ж нарешті зустрілися... Я нарешті можу поговорити з\n"
+"Раґною «цими вустами»..."
+
+#. Key: NEW4_037
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: “この耳”でラグナの声を聞いて、
+#. JA:   “この手で”ラグナを抱きしめてあげられるのに……。
+msgctxt "NEW4_037"
+msgid "I can hear your voice... And I can embrace you with these hands..."
+msgstr "почути голос Раґни «цими вухами» й обійняти Раґну «цими руками»..."
+
+#. Key: NEW4_039
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: せっかくこれからひとつになれるのに。
+#. JA:   そんな、冷たいこといわないでよ……
+msgctxt "NEW4_039"
+msgid "We've finally been reunited, and... You say such terrible things..."
+msgstr ""
+"Ми ж нарешті зможемо стати одним цілим. Не кажи таких холодних\n"
+"слів..."
+
+#. Key: NEW4_041
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……ふぅん。やっぱり、どうしてもやるんだ……？
+msgctxt "NEW4_041"
+msgid "...Hmm. So I can't change your mind, huh?"
+msgstr "...Он як. То ти все одно це зробиш...?"
+
+#. Key: NEW4_042
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: 今さら、許せとも、抵抗するなとも言わねえ。
+#. JA:   俺を好きなだけ憎め。俺を殺す気で抵抗しろ。
+#. JA:   それでも―――俺はお前を、必ず壊す。
+msgctxt "NEW4_042"
+msgid ""
+"It's too late for me to ask for your forgiveness. You can hate me. Resist to your\n"
+"heart's content. But no matter what you do... I will still have to destroy you."
+msgstr ""
+"Тепер уже я не проситиму пробачити мене чи не чинити опору.\n"
+"Ненавидь мене скільки хочеш. Чини опір так, ніби прагнеш мене вбити.\n"
+"Та попри все... я неодмінно тебе знищу."
+
+#. Key: NEW4_043
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: そう……じゃあ、どうすればいい？
+#. JA:   優しく……？　それとも、もっとサツイをこめて？
+msgctxt "NEW4_043"
+msgid "I see... Then, how would you like it? Gentle? Or a bit more rough, perhaps..."
+msgstr ""
+"Зрозуміло... Тоді як мені це зробити? Ніжно...? Чи вкласти більше жаги\n"
+"до вбивства?"
+
+#. Key: NEW4_049
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナ……
+#. JA:   どうして……。
+#. JA:   ニューは、ラグナのこと―――
+msgctxt "NEW4_049"
+msgid ""
+"Ragna...\n"
+"Why...?\n"
+"Nu was just..."
+msgstr "Раґно... Чому...? Ню ж Раґну..."
+
+#. Key: NEW4_050
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: ―――悪ぃ……。
+msgctxt "NEW4_050"
+msgid "Sorry..."
+msgstr "...Пробач."
+
+#. Key: NEW4_052
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナの剣がお腹を貫く。
+#. JA:   痛い……熱い。
+msgctxt "NEW4_052"
+msgid "Ragna's sword pierces my stomach... It hurts... It's hot...!"
+msgstr "Меч Раґни пронизує мій живіт. Боляче... Гаряче."
+
+#. Key: NEW4_053
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグ……ナ……。
+msgctxt "NEW4_053"
+msgid "Rag...na..."
+msgstr "Раґ... но..."
+
+#. Key: NEW4_054
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: ……はぁ……はぁ。
+#. JA:   ……サヤ、すまねぇ。
+msgctxt "NEW4_054"
+msgid ""
+"*pant* *pant*\n"
+"I really am sorry...Saya..."
+msgstr "...Ха... ха... ...Сає, пробач."
+
+#. Key: NEW4_055
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: サヤ。そんな人、ニューは知らない。知らないよ、ラグナ。
+#. JA:   知らない。知らない。知らない。
+#. JA:   知らな……
+msgctxt "NEW4_055"
+msgid ""
+"Saya.\n"
+"I don't know that person. I really don't, Ragna.\n"
+"I don't know... I don't know!\n"
+"I don..."
+msgstr ""
+"Сая? Ню не знає такої людини. Не знає, Раґно. Не знаю. Не знаю. Не\n"
+"знаю. Не зна..."
+
+#. Key: NEW4_060
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: これが運命なんだよ、ラグナ。
+#. JA:   運命だから、変えられないの。
+#. JA:   ニューとラグナは、ひとつになるの……。
+msgctxt "NEW4_060"
+msgid ""
+"It's our destiny, Ragna.\n"
+"That's why you can't change it.\n"
+"The two of us... Are going to become one."
+msgstr ""
+"Це наша доля, Раґно. А долю змінити неможливо. Ню і Раґна стануть\n"
+"одним цілим..."
+
+#. Key: NEW4_061
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 血まみれのラグナを抱きしめる。
+#. JA:   耳元のラグナの吐息が熱くて気持ちいい。
+msgctxt "NEW4_061"
+msgid ""
+"I wrap my arms around Ragna. He's covered in blood.\n"
+"I can feel him breathing in my ear... \n"
+"It's warm... \n"
+"It feels good..."
+msgstr ""
+"Я обіймаю закривавленого Раґну. Його гарячий подих біля мого вуха\n"
+"такий приємний."
+
+#. Key: NEW4_062
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: ふざけろ……。
+#. JA:   そんな運命なんぞ、俺がぶっ壊して……。
+msgctxt "NEW4_062"
+msgid "If that's really my destiny...? I'll crush it."
+msgstr "Не мели дурниць... Якщо це моя доля - я знищу долю..."
+
+#. Key: NEW4_064
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: ニューの剣が、ラグナと一緒にニューを貫く。
+#. JA:   混じり合う血が、ニューをいっそう気持ちよくしてくれる。
+msgctxt "NEW4_064"
+msgid ""
+"My sword...pierces both of us... \n"
+"Our blood mixes... It...it feels so good!"
+msgstr ""
+"Меч Ню пронизує її разом із Раґною. Їхня кров змішується, даруючи Ню\n"
+"ще більше насолоди."
+
+#. Key: NEW4_065
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: ぐわあっ！！　テ、テメェ……
+msgctxt "NEW4_065"
+msgid ""
+"Uarrghh!\n"
+"Wh...Why you..."
+msgstr "Уа-а-а! Т-ти..."
+
+#. Key: NEW4_066
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ほら、ラグナ。
+#. JA:   温かいところで溶け合おうよ？
+msgctxt "NEW4_066"
+msgid ""
+"See, Ragna?\n"
+"Let's go lay somewhere warm..."
+msgstr "Ось так, Раґно. Розтаньмо одне в одному там, де тепло."
+
+#. Key: NEW5_001
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 剣の刺さった場所から、融合が始まった。
+#. JA:   熱くて、とても気持ちいい……。
+msgctxt "NEW5_001"
+msgid "Blood pours out of our wounds, and I feel us beginning to fuse together..."
+msgstr ""
+"З місця, куди ввійшов меч, почалося злиття. Так гаряче й неймовірно\n"
+"приємно..."
+
+#. Key: NEW5_002
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Ragna
+#. Context: Nu story route (POV: Nu)
+#. JA: テメェ、放しやがれ……
+msgctxt "NEW5_002"
+msgid "Damn you... Let go of me..."
+msgstr "Ти... Відпусти мене..."
+
+#. Key: NEW5_003
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: いや。
+msgctxt "NEW5_003"
+msgid "No way."
+msgstr "Не хочу."
+
+#. Key: NEW5_004
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナはニューと一緒に、あそこに堕ちるの……。
+msgctxt "NEW5_004"
+msgid "We were supposed to fall in there...together..."
+msgstr "Раґна разом із Ню впаде туди..."
+
+#. Key: NEW5_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナを抱きしめて、背後に倒れ込む。
+#. JA:   そこは窯の中。温かい、永遠の蒼の世界。
+msgctxt "NEW5_005"
+msgid ""
+"I hold onto Ragna...and fall backwards...into the Cauldron. \n"
+"...Into a warm...eternal...world of...Azure..."
+msgstr ""
+"Обіймаючи Раґну, я падаю навзнак. Просто в Котел. У теплий, вічний\n"
+"світ Лазурі."
+
+#. Key: NEW5_006
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Jin
+#. Context: Nu story route (POV: Nu)
+#. JA: 貴様！　兄さんを、兄さんを放せ！！
+msgctxt "NEW5_006"
+msgid "You bitch! Let go...! Let go of my brother!"
+msgstr "Ти! Відпусти... відпусти мого брата!!"
+
+#. Key: NEW5_007
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 息を荒げて、誰かが駆け込んできた。
+#. JA:   でも、もう遅いよ―――
+msgctxt "NEW5_007"
+msgid "Someone runs towards us, but they're too late..."
+msgstr "Важко дихаючи, хтось вбіг усередину. Але вже запізно..."
+
+#. Key: NEW5_008
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ああ、堕ちる……溶けるよ……。
+#. JA:   ラグナ……ラグナ……永遠に永遠に……一緒だよ―――。
+msgctxt "NEW5_008"
+msgid ""
+"Ah, we're falling...melting...\n"
+"Ragna... Ragna...! We'll be together...forever and ever."
+msgstr ""
+"О-о, ми падаємо... танемо... Раґно... Раґно... Ми будемо разом навіки,\n"
+"навіки..."
+
+#. Key: NEW5_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: System Voice
+#. Context: Nu story route (POV: Nu)
+#. JA: 第十三階層都市カグツチの完全消滅を確認。
+#. JA:   対象の事象面超越を確認。
+#. JA:   現時点をもって第724フェイズを終了。
+msgctxt "NEW5_011"
+msgid "Complete annihilation of the 13th Hierarchical city Kagutsuchi: confirmed. Phase #724 completed successfully."
+msgstr ""
+"Повне знищення Тринадцятого ієрархічного міста Каґуцучі\n"
+"підтверджено. Вихід цілі за межі площини подій підтверджено. Фазу\n"
+"№724 завершено."
+
+#. Key: NEW5_012
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: System Voice
+#. Context: Nu story route (POV: Nu)
+#. JA: システムは正常に稼働中。
+#. JA:   全データ「タカマガハラ」に転送。
+#. JA:   システムは速やかに第725フェイズに移行。
+msgctxt "NEW5_012"
+msgid ""
+"System operating within normal limits.\n"
+"Transmitting all data to <DQ>Tamagahara<DQ>.\n"
+"The system will now proceed to phase #725."
+msgstr ""
+"Система працює нормально. Передавання всіх даних до «Такамаґахари».\n"
+"Система негайно переходить до фази №725."
+
+#. Key: NEW6_001
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: ゆっくりと目を開ける……
+#. JA:   浮かんでいる……温かく深い蒼の中
+#. JA:   夢を……見ていた……？
+msgctxt "NEW6_001"
+msgid ""
+"I slowly open my eyes... I'm...floating... In the warm Azure...\n"
+"Watching...a dream."
+msgstr ""
+"Я повільно розплющую очі... Пливу... у теплій, глибокій Лазурі. Мені...\n"
+"снився сон...?"
+
+#. Key: NEW6_002
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: 僕　蒼　来た　　を求め　　蒼　欲　い
+msgctxt "NEW6_002"
+msgid "My Az      h    c       . I want               .  need   ."
+msgstr "М я Лазур прий ла. Я ш каю     . Я хо у Лазур..."
+
+#. Key: NEW6_002a
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: 僕の蒼が来た　蒼を求め　　蒼が欲しい
+msgctxt "NEW6_002a"
+msgid "My Azure has come. I want the Azure. I need it."
+msgstr "Моя Лазур прийшла. Я шукаю Лазур. Я хочу Лазур."
+
+#. Key: NEW6_003
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……そこにいるのは、誰？
+msgctxt "NEW6_003"
+msgid "Who's there?"
+msgstr "...Хто там?"
+
+#. Key: NEW6_004
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 黒いもやのようなモノが、すぐそばに漂っている
+#. JA:   不確かな影……誰かの記憶の欠片……？
+#. JA:   それとも……意識の断片……？
+msgctxt "NEW6_004"
+msgid ""
+"A black haze is spreading through my world...\n"
+"Is it someone's memory...? Or...consciousness?"
+msgstr ""
+"Зовсім поруч пливе щось схоже на чорний серпанок. Нечітка тінь...\n"
+"Уривок чиїхось спогадів...? Або... уламок свідомості...?"
+
+#. Key: NEW6_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: ぁ　蒼　　ぁあ　蒼
+msgctxt "NEW6_005"
+msgid "Agh  Azu     a-augh  Azu  "
+msgstr "А... Лазу... а-а... Лазур..."
+
+#. Key: NEW6_005a
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: ぁぁ蒼……ぁあぉ蒼……
+msgctxt "NEW6_005a"
+msgid "Agh, Azure...a-augh, Azure..."
+msgstr "А-а, Лазур... А-а-о, Лазур..."
+
+#. Key: NEW6_006
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: この影はどこから来たのだろう
+#. JA:   わからない
+#. JA:   ここは広く、狭く、遠く、近く……
+msgctxt "NEW6_006"
+msgid ""
+"Where did this shadow come from?\n"
+"I can't tell...\n"
+"It's open and...closed... Close and far away..."
+msgstr ""
+"Звідки взялася ця тінь? Не знаю. Тут просторо й тісно, далеко й\n"
+"близько..."
+
+#. Key: NEW6_007
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: その時が来るまで、永遠に閉ざされた場所……
+#. JA:   いつから……どうして……
+#. JA:   ここにいる……？
+msgctxt "NEW6_007"
+msgid ""
+"This place must be closed off... Until...until it's time...\n"
+"Since when...? Why...? Am I here?"
+msgstr ""
+"Місце, навіки замкнене до настання призначеної миті... Відколи...?\n"
+"Чому...? Я тут...?"
+
+#. Key: NEW6_009
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……世界の……揺らぎ……？
+#. JA:   影の干渉……
+msgctxt "NEW6_009"
+msgid "...The world...is in disarray...?"
+msgstr "...Коливання... світу...? Втручання тіні..."
+
+#. Key: NEW6_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 想定外の障害発生を確認
+#. JA:   対象の排除を申請
+msgctxt "NEW6_011"
+msgid ""
+"Unexpected distortion detected.\n"
+"Requesting elimination of the target."
+msgstr ""
+"Підтверджено виникнення непередбаченої перешкоди. Запит на усунення\n"
+"цілі."
+
+#. Key: NEW6_012
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 申請・承認
+#. JA:   自律モード・緊急起動
+#. JA:   起動・起動・起動・起動
+msgctxt "NEW6_012"
+msgid ""
+"Request approved.\n"
+"Engaging emergency auto-mode.\n"
+"Loading... Loading... Loading... Loading..."
+msgstr ""
+"Запит схвалено. Аварійна активація автономного режиму. Активація.\n"
+"Активація. Активація. Активація."
+
+#. Key: NEW6_014
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 対象・認識
+msgctxt "NEW6_014"
+msgid "Identification, complete."
+msgstr "Ціль ідентифіковано."
+
+#. Key: NEW6_015
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: ずっ　蒼　待　　いた！
+#. JA:   喰らう　喰わせ　　蒼　血を！
+msgctxt "NEW6_015"
+msgid ""
+"I've been wait     for         zur  !\n"
+"Let me              I m     devou       th   blood    th      zu   !"
+msgstr "Я весь цей   чекав на Лаз р! Поже у! Дай    пожерти кров Лазурі!"
+
+#. Key: NEW6_015a
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: ずっと蒼を待っていた！
+#. JA:   喰らう　喰わせろ　蒼の血を！
+msgctxt "NEW6_015a"
+msgid ""
+"I've been waiting for the Azure!\n"
+"Let me have it...I must devour it...the blood of the Azure!"
+msgstr "Я весь цей час чекав на Лазур! Пожеру! Дай мені пожерти кров Лазурі!"
+
+#. Key: NEW6_016
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 対象の殲滅を開始します
+msgctxt "NEW6_016"
+msgid "Terminating target."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: NEW6_022
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: 喰　う！　喰ら　！　喰らう！
+#. JA:   ぐぷ　ぐぷぅ　ぐぷぷぷぷぷ
+#. JA:   力　手　入れ　　蒼　蒼の蒼　血を！！
+msgctxt "NEW6_022"
+msgid ""
+"Must eat! Devou ! Cons      !\n"
+"Kpft Kpft Kbrrhurhrhurhr\n"
+"I      gain      stre      !       blood...                of        zure!"
+msgstr ""
+"По еру! Поже у!      ! Ґпу... ґпу-у... ґпу-пу-пу-пу-пу... Я здобу у силу! Лаз р...\n"
+"Кров Лазурі!!"
+
+#. Key: NEW6_022a
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: 喰らう！　喰らう！　喰らう！
+#. JA:   ぐぷ　ぐぷぅ　ぐぷぷぷぷぷ
+#. JA:   力を手に入れる　蒼　蒼の蒼の血を！！
+msgctxt "NEW6_022a"
+msgid ""
+"Must eat! Devour! Consume!\n"
+"Kpft Kpft Kbrrhurhrhurhr.\n"
+"I will gain its strength! The blood... the blood of the Azure!"
+msgstr ""
+"Пожеру! Пожеру! Пожеру! Ґпу... ґпу-у... ґпу-пу-пу-пу-пу... Я здобуду силу!\n"
+"Лазур... Кров Лазурі!!"
+
+#. Key: NEW6_023
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: やめて……
+msgctxt "NEW6_023"
+msgid "Stop..."
+msgstr "Припини..."
+
+#. Key: NEW6_024
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: 蒼　蒼　蒼　蒼蒼　蒼蒼蒼蒼蒼蒼蒼蒼蒼蒼蒼蒼！！
+msgctxt "NEW6_024"
+msgid "Azure Azure Azure AzureAzure AzureAzureAzureAzureAzureAzureAzureAzure!"
+msgstr ""
+"Лазур     Лазур ЛазурЛазур\n"
+"ЛазурЛазурЛазурЛазурЛазурЛазурЛазурЛазурЛазурЛазурЛазур!!"
+
+#. Key: NEW6_025
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……ラグ……ナ……
+#. JA:   ……ラグ……
+#. JA:   ……
+msgctxt "NEW6_025"
+msgid ""
+"...Rag...na...\n"
+"Rag...\n"
+"..."
+msgstr "...Раґ... но... ...Раґ... ..."
+
+#. Key: NEW6_031
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 対象の殲滅を確認
+#. JA:   自律モード　解除します
+msgctxt "NEW6_031"
+msgid ""
+"Confirming termination of target.\n"
+"Auto-mode, deactivating."
+msgstr "Знищення цілі підтверджено. Автономний режим деактивовано."
+
+#. Key: NEW6_032
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW6_032"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW6_033
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Arakune
+#. Context: Nu story route (POV: Nu)
+#. JA: ぁ　ぁぉ　ぁぁぁ　ぁぉ……
+msgctxt "NEW6_033"
+msgid "Agh   Azure   Aaa...zure..."
+msgstr "Ла... а-ф... а-а-а... ззз..."
+
+#. Key: NEW6_034
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW6_034"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW6_036
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Arakune
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW6_036"
+msgid "..."
+msgstr "..."
+
+#. Key: NEW6_037
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……やっと……静かになった……
+#. JA:   ……ラグナを、探そう……
+msgctxt "NEW6_037"
+msgid ""
+"...Finally...it's quiet.\n"
+"...Now, to find Ragna."
+msgstr "...Нарешті... стало тихо... ...Треба знайти Раґну..."
+
+#. Key: NEW7_002
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 寂しく、冷たい、場所―――
+msgctxt "NEW7_002"
+msgid "A lonely...cold place..."
+msgstr "Самотнє, холодне місце..."
+
+#. Key: NEW7_003
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……あれ……
+msgctxt "NEW7_003"
+msgid "...Huh?"
+msgstr "...Що...?"
+
+#. Key: NEW7_004
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Unknown on screen; internally Rachel
+#. Context: Nu story route (POV: Nu)
+#. JA: 結局、またここに来てしまったのね。
+#. JA:   これで何回目かしら。
+msgctxt "NEW7_004"
+msgid ""
+"Here I am again...\n"
+"How many times has it been?"
+msgstr "Зрештою я знову сюди прийшла. Який це вже раз?"
+
+#. Key: NEW7_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……誰……？
+msgctxt "NEW7_005"
+msgid "...Who...?"
+msgstr "...Хто ти...?"
+
+#. Key: NEW7_007
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Rachel
+#. Context: Nu story route (POV: Nu)
+#. JA: 私はレイチェル＝アルカード。
+#. JA:   ただの観客よ。あなたの夢のね。
+msgctxt "NEW7_007"
+msgid ""
+"I am Rachel Alucard...\n"
+"Merely an audience for your dream."
+msgstr "Я — Рейчел Алукард. Лише глядачка. Глядачка твого сну."
+
+#. Key: NEW7_008
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 夢……
+msgctxt "NEW7_008"
+msgid "Dream...?"
+msgstr "Сну...?"
+
+#. Key: NEW7_009
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Rachel
+#. Context: Nu story route (POV: Nu)
+#. JA: 忘れてしまったのね。
+#. JA:   この世界をさまよい続けていることも。
+msgctxt "NEW7_009"
+msgid "So you've forgotten... You've forgotten it all...all your wandering..."
+msgstr "То ти забула. Забула навіть те, що нескінченно блукаєш цим світом."
+
+#. Key: NEW7_010
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……さまよい、続ける……？
+msgctxt "NEW7_010"
+msgid "...Wander...?"
+msgstr "...Нескінченно... блукаю...?"
+
+#. Key: NEW7_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Rachel
+#. Context: Nu story route (POV: Nu)
+#. JA: 主役が台詞を忘れてしまっては面白くないわ。
+#. JA:   私が幕を引いてあげる。
+msgctxt "NEW7_011"
+msgid ""
+"If the lead has forgotten her lines, the result cannot possibly be very entertaining.\n"
+"I suppose the time has come to close the curtain."
+msgstr ""
+"Вистава нецікава, якщо головна героїня забула свої слова. Я опущу\n"
+"завісу замість тебе."
+
+#. Key: NEW7_017
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Rachel
+#. Context: Nu story route (POV: Nu)
+#. JA: もう、お休みなさい、お人形さん。
+#. JA:   次の舞台をまた楽しみにしているわ。
+msgctxt "NEW7_017"
+msgid "Time to sleep, little doll. I look forward to your next performance."
+msgstr "А тепер засинай, лялечко. З нетерпінням чекатиму на наступну виставу."
+
+#. Key: NEW7_018
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+msgctxt "NEW7_018"
+msgid "Eh...?"
+msgstr "Га...?"
+
+#. Key: NEW7_019
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Rachel
+#. Context: Nu story route (POV: Nu)
+#. JA: 考えなくてもいいわ。
+#. JA:   今はただ、お眠りなさい。
+#. JA:   刻の輪の中で、再び目覚めるその日まで。
+msgctxt "NEW7_019"
+msgid ""
+"It is nothing, mere nonsense.\n"
+"Close your eyes and go to sleep...\n"
+"Until this loop begins again... Until the encore..."
+msgstr ""
+"Не треба ні про що думати. Просто засинай. До дня, коли ти знову\n"
+"прокинешся в колі часу."
+
+#. Key: NEW7_024
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Rachel
+#. Context: Nu story route (POV: Nu)
+#. JA: 自分で幕を引く気くらいはあるのね。
+#. JA:   ふふ……
+msgctxt "NEW7_024"
+msgid ""
+"So you are willing to close the curtain yourself.\n"
+"Hmm..."
+msgstr "Отже, тобі принаймні вистачило волі самій опустити завісу. Хі-хі..."
+
+#. Key: NEW7_026
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: わからない……
+msgctxt "NEW7_026"
+msgid "I don't understand..."
+msgstr "Не розумію..."
+
+#. Key: NEW7_027
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Rachel
+#. Context: Nu story route (POV: Nu)
+#. JA: 今はただ、夢だけ見ていなさい。
+#. JA:   その夢も、いずれは見られなくなるでしょう。
+msgctxt "NEW7_027"
+msgid ""
+"Then continue your dream, for now...\n"
+"All too soon, I fear, it will be over."
+msgstr ""
+"А поки що просто дивися сни. Та зрештою ти не зможеш побачити\n"
+"навіть їх."
+
+#. Key: NEW7_028
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: これは…………夢…………
+msgctxt "NEW7_028"
+msgid "This is...a dream...?"
+msgstr "Це... сон..."
+
+#. Key: NEW8_002
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 蒼の世界……
+msgctxt "NEW8_002"
+msgid ""
+"...This is...\n"
+"A blue...world...?"
+msgstr "Світ Лазурі..."
+
+#. Key: NEW8_003
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 蒼い、どこまでも深い……温かく蒼い、世界……
+msgctxt "NEW8_003"
+msgid "Blue... A deep...blue...warm...world..."
+msgstr "Лазурний, бездонний... теплий світ Лазурі..."
+
+#. Key: NEW8_004
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……何もない……何も……何も、ない
+msgctxt "NEW8_004"
+msgid "...There's nothing...at all..."
+msgstr "...Нічого немає... Нічого... зовсім нічого."
+
+#. Key: NEW8_005
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……ラグナ？
+msgctxt "NEW8_005"
+msgid "...Ragna?"
+msgstr "...Раґно?"
+
+#. Key: NEW8_006
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Narrator
+#. Context: Nu story route (POV: Nu)
+#. JA: 名前を呼んでも、その声は空気に吸い込まれる
+#. JA:   世界は、ただ蒼いまま
+msgctxt "NEW8_006"
+msgid ""
+"I call his name, but the air absorbs my voice...\n"
+"The world...stays blue..."
+msgstr ""
+"Я кличу його на ім'я, та повітря поглинає мій голос. Світ залишається\n"
+"лише Лазур’ю."
+
+#. Key: NEW8_007
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……なみ、だ？
+msgctxt "NEW8_007"
+msgid "...Tears?"
+msgstr "...Сльо... зи?"
+
+#. Key: NEW8_008
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: 息苦しい……胸が、痛い
+#. JA:   狭い……ここは、温かくなんて……ない
+msgctxt "NEW8_008"
+msgid ""
+"It hurts... My chest...it hurts!\n"
+"It's so cramped... This place isn't warm at all...!"
+msgstr "Важко дихати... Болить у грудях. Тісно... Тут зовсім... не тепло."
+
+#. Key: NEW8_009
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグ、ナ
+msgctxt "NEW8_009"
+msgid "Rag...na."
+msgstr "Раґ... но."
+
+#. Key: NEW8_011
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……あれは……誰？
+msgctxt "NEW8_011"
+msgid "...Who...is that?"
+msgstr "...Хто... це?"
+
+#. Key: NEW8_012
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ……知らない
+msgctxt "NEW8_012"
+msgid "...I don't know."
+msgstr "...Не знаю."
+
+#. Key: NEW8_013
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ラグナ……
+msgctxt "NEW8_013"
+msgid "Ragna..."
+msgstr "Раґно..."
+
+#. Key: NEW8_014
+#. Source: story/storytext_mainny (data/Story/Text/eng/storytext_mainny.pac)
+#. Speaker: Nu
+#. Context: Nu story route (POV: Nu)
+#. JA: ニューは、ここにいるよ……
+msgctxt "NEW8_014"
+msgid "I'm right here..."
+msgstr "Ню тут..."

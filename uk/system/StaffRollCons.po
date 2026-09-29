@@ -1,0 +1,3386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: CHAR_RG
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ラグナ ザ ブラッドエッジ
+msgctxt "CHAR_RG"
+msgid "Ragna=the=Bloodedge"
+msgstr "Раґна Бладедж"
+
+#. Key: ACTOR_RG
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 杉田　智和
+msgctxt "ACTOR_RG"
+msgid "Tomokazu Sugita"
+msgstr "Томоказу Суґіта"
+
+#. Key: CHAR_JN
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ジン キサラギ
+msgctxt "CHAR_JN"
+msgid "Jin=Kisaragi"
+msgstr "Джін Кісараґі"
+
+#. Key: ACTOR_JN
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 柿原　徹也
+msgctxt "ACTOR_JN"
+msgid "Tetsuya Kakihara"
+msgstr "Тецуя Какіхара"
+
+#. Key: CHAR_NO
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ノエル ヴァーミリオン
+msgctxt "CHAR_NO"
+msgid "Noel=Vermillion"
+msgstr "Ноель Верміліон"
+
+#. Key: ACTOR_NO
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 近藤　佳奈子
+msgctxt "ACTOR_NO"
+msgid "Kanako Kondo"
+msgstr "Канако Кондо"
+
+#. Key: CHAR_RC
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: レイチェル アルカード
+msgctxt "CHAR_RC"
+msgid "Rachel=Alucard"
+msgstr "Рейчел Алукард"
+
+#. Key: ACTOR_RC
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 植田　佳奈
+msgctxt "ACTOR_RC"
+msgid "Kana Ueda"
+msgstr "Кана Уеда"
+
+#. Key: CHAR_TK
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: タオカカ
+msgctxt "CHAR_TK"
+msgid "taokaka"
+msgstr "Таокака"
+
+#. Key: ACTOR_TK
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 斎藤　千和
+msgctxt "ACTOR_TK"
+msgid "Chiwa Saito"
+msgstr "Чіва Сайто"
+
+#. Key: CHAR_TG
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: テイガー
+msgctxt "CHAR_TG"
+msgid "Iron = Tager"
+msgstr "Тейґер"
+
+#. Key: ACTOR_TG
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 乃村　健次
+msgctxt "ACTOR_TG"
+msgid "Kenji Nomura"
+msgstr "Кенджі Номура"
+
+#. Key: CHAR_LC
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ライチ フェイ リン
+msgctxt "CHAR_LC"
+msgid "Litchi=Faye=Ling"
+msgstr "Лічі Фей-Лін"
+
+#. Key: ACTOR_LC
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: たかはし智秋
+msgctxt "ACTOR_LC"
+msgid "Chiaki Takahasi"
+msgstr "Чіакі Такахаші"
+
+#. Key: CHAR_AR
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アラクネ
+msgctxt "CHAR_AR"
+msgid "Arakune"
+msgstr "Аракуне"
+
+#. Key: ACTOR_AR
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 疋田　高志
+msgctxt "ACTOR_AR"
+msgid "Takasi Hikida"
+msgstr "Такаші Хікіда"
+
+#. Key: CHAR_BN
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: シシガミ バング
+msgctxt "CHAR_BN"
+msgid "Bang=Shishigami"
+msgstr "Банґ Шішіґамі"
+
+#. Key: ACTOR_BN
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 小山　剛志
+msgctxt "ACTOR_BN"
+msgid "Tsuyoshi Koyama"
+msgstr "Цуйоші Кояма"
+
+#. Key: CHAR_CA
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: カルル クローバー
+msgctxt "CHAR_CA"
+msgid "Carl=Clover"
+msgstr "Карл Кловер"
+
+#. Key: ACTOR_CA
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 沢城　みゆき
+msgctxt "ACTOR_CA"
+msgid "Miyuki Sawasiro"
+msgstr "Міюкі Савашіро"
+
+#. Key: CHAR_JB
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 獣兵衛
+msgctxt "CHAR_JB"
+msgid "Jube"
+msgstr "Джюбей"
+
+#. Key: ACTOR_JB
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: てらそま　まさき
+msgctxt "ACTOR_JB"
+msgid "Terasoma Masaki"
+msgstr "Терасома Масакі"
+
+#. Key: CHAR_VH
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ヴァルケンハイン
+msgctxt "CHAR_VH"
+msgid "Valkenhayn"
+msgstr "Валькенгайн"
+
+#. Key: ACTOR_VH
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 清川　元夢
+msgctxt "ACTOR_VH"
+msgid "Motomu Kiyokawa"
+msgstr "Мотому Кійокава"
+
+#. Key: CHAR_KK
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ココノエ
+msgctxt "CHAR_KK"
+msgid "Kokonoe"
+msgstr "Коконое"
+
+#. Key: ACTOR_KK
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 松浦　チエ
+msgctxt "ACTOR_KK"
+msgid "Chie Matsuura"
+msgstr "Чіе Мацуура"
+
+#. Key: CHAR_TB
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ツバキ ヤヨイ
+msgctxt "CHAR_TB"
+msgid "Tsubaki=Yayoi"
+msgstr "Цубакі Яйой"
+
+#. Key: ACTOR_TB
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 今井　麻美
+msgctxt "ACTOR_TB"
+msgid "Asami Imai"
+msgstr "Асамі Імаї"
+
+#. Key: CHAR_MK
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: マコト
+msgctxt "CHAR_MK"
+msgid "Makoto"
+msgstr "Макото"
+
+#. Key: ACTOR_MK
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 磯村　知美
+msgctxt "ACTOR_MK"
+msgid "Tomomi Isomura"
+msgstr "Томомі Ісомура"
+
+#. Key: CHAR_EX0
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ナゴ
+msgctxt "CHAR_EX0"
+msgid "Nago"
+msgstr "Наґо"
+
+#. Key: ACTOR_EX0
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 鈴木　賢
+msgctxt "ACTOR_EX0"
+msgid "Masaru Suzuki"
+msgstr "Масару Сузукі"
+
+#. Key: CHAR_EX1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ギィ
+msgctxt "CHAR_EX1"
+msgid "Gie"
+msgstr "Ґі"
+
+#. Key: ACTOR_EX1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 椿　世奈
+msgctxt "ACTOR_EX1"
+msgid "Sena Tsubaki"
+msgstr "Сена Цубакі"
+
+#. Key: CHAR_EX2
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: リンファ
+msgctxt "CHAR_EX2"
+msgid "Linfa"
+msgstr "Лінфа"
+
+#. Key: ACTOR_EX2
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 加藤　有希子
+msgctxt "ACTOR_EX2"
+msgid "Yukiko Kato"
+msgstr "Юкіко Като"
+
+#. Key: CHAR_EX3_0
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: バングの手下A
+msgctxt "CHAR_EX3_0"
+msgid "Bang's follower A"
+msgstr "Поплічник Банґа А"
+
+#. Key: ACTOR_EX3_0
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 坂野　茂
+msgctxt "ACTOR_EX3_0"
+msgid "Shigeru Sakano"
+msgstr "Шіґеру Сакано"
+
+#. Key: CHAR_EX3_1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: バングの手下B
+msgctxt "CHAR_EX3_1"
+msgid "Bang's follower B"
+msgstr "Поплічник Банґа Б"
+
+#. Key: ACTOR_EX3_1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 杉田　智和
+msgctxt "ACTOR_EX3_1"
+msgid "Tomokazu Sugita"
+msgstr "Томоказу Суґіта"
+
+#. Key: CHAR_EX4
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ナレーション
+msgctxt "CHAR_EX4"
+msgid "NARRATION"
+msgstr "Наратор"
+
+#. Key: ACTOR_EX4
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "ACTOR_EX4"
+msgid "CECILIA FAMADOR"
+msgstr "Сесілія Фамадор"
+
+#. Key: CHAR_EX5
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: カカ族長老
+msgctxt "CHAR_EX5"
+msgid "Kaka's Elder"
+msgstr "Старійшина Кака"
+
+#. Key: ACTOR_EX5
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 磯村　知美
+msgctxt "ACTOR_EX5"
+msgid "Tomomi Isomura"
+msgstr "Томомі Ісомура"
+
+#. Key: CHAR_EX6
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: チビカカ
+msgctxt "CHAR_EX6"
+msgid "Chibikaka"
+msgstr "Кошеня Кака"
+
+#. Key: ACTOR_EX6_0
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 今井　麻美
+msgctxt "ACTOR_EX6_0"
+msgid "Asami Imai"
+msgstr "Асамі Імаї"
+
+#. Key: ACTOR_EX6_1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 磯村　知美
+msgctxt "ACTOR_EX6_1"
+msgid "Tomomi Isomura"
+msgstr "Томомі Ісомура"
+
+#. Key: ACTOR_EX6_2
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 沢城　みゆき
+msgctxt "ACTOR_EX6_2"
+msgid "Miyuki Sawasiro"
+msgstr "Міюкі Савашіро"
+
+#. Key: ACTOR_EX6_3
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 有馬　奈那子
+msgctxt "ACTOR_EX6_3"
+msgid "Nanako Arima"
+msgstr "Нанако Аріма"
+
+#. Key: CHAR_EX7
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: エキストラ
+msgctxt "CHAR_EX7"
+msgid "EXTRA"
+msgstr "Масовка"
+
+#. Key: ACTOR_EX7_0
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "ACTOR_EX7_0"
+msgid "Kimera Cryin"
+msgstr "Kimera Cryin"
+
+#. Key: ACTOR_EX7_1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "ACTOR_EX7_1"
+msgid "fuuji"
+msgstr "fuuji"
+
+#. Key: ACTOR_EX7_2
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "ACTOR_EX7_2"
+msgid "shigi2344"
+msgstr "shigi2344"
+
+#. Key: ACTOR_EX7_3
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 鈴木　高雄
+msgctxt "ACTOR_EX7_3"
+msgid "Takao Suzuki"
+msgstr "Такао Сузукі"
+
+#. Key: ACTOR_EX7_4
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 福本　征士
+msgctxt "ACTOR_EX7_4"
+msgid "Seiji Fukumoto"
+msgstr "Сейджі Фукумото"
+
+#. Key: ACTOR_EX7_5
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 石川　辰則
+msgctxt "ACTOR_EX7_5"
+msgid "Tatsunori Ishikawa"
+msgstr "Тацунорі Ішікава"
+
+#. Key: ACTOR_EX7_6
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 山中　丈嗣
+msgctxt "ACTOR_EX7_6"
+msgid "Takeshi Yamanaka"
+msgstr "Такеші Яманака"
+
+#. Key: ACTOR_EX7_7
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 森　利道
+msgctxt "ACTOR_EX7_7"
+msgid "Toshimichi Mori"
+msgstr "Тошімічі Морі"
+
+#. Key: ACTOR_EX7_8
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 増澤　寛晃
+msgctxt "ACTOR_EX7_8"
+msgid "Hiroaki Masuzawa"
+msgstr "Хіроакі Масузава"
+
+#. Key: ACTOR_EX7_9
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 靜　俊一郎
+msgctxt "ACTOR_EX7_9"
+msgid "Shunichiro Shizuka"
+msgstr "Шюнічіро Шізука"
+
+#. Key: ACTOR_EX7_10
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 杉山　友希
+msgctxt "ACTOR_EX7_10"
+msgid "Yuki Sugiyama"
+msgstr "Юкі Суґіяма"
+
+#. Key: CHAR_HA
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ハクメン
+msgctxt "CHAR_HA"
+msgid "HAKUMEN"
+msgstr "Хакумен"
+
+#. Key: ACTOR_HA
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 柿原　徹也
+msgctxt "ACTOR_HA"
+msgid "Tetsuya Kakihara"
+msgstr "Тецуя Какіхара"
+
+#. Key: CHAR_NY
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ニュー-13-
+msgctxt "CHAR_NY"
+msgid "ν-13-"
+msgstr "Ню-13-"
+
+#. Key: ACTOR_NY
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 近藤　佳奈子
+msgctxt "ACTOR_NY"
+msgid "Kanako Kondo"
+msgstr "Канако Кондо"
+
+#. Key: CHAR_HZ
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ハザマ/テルミ
+msgctxt "CHAR_HZ"
+msgid "Hazama/Terumi"
+msgstr "Хазама / Терумі"
+
+#. Key: ACTOR_HZ
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 中村　悠一
+msgctxt "ACTOR_HZ"
+msgid "Yuuichi Nakamura"
+msgstr "Юічі Накамура"
+
+#. Key: SUBTITLE_000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_000"
+msgid "PLANNER"
+msgstr "ІГРОВИЙ ДИЗАЙНЕР"
+
+#. Key: SUBTITLE_001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_001"
+msgid "SUB DIRECTOR"
+msgstr "ЗАСТУПНИК РЕЖИСЕРА"
+
+#. Key: SUBTITLE_002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_002"
+msgid "SYSTEM & CHARACTER CONCEPT"
+msgstr "КОНЦЕПЦІЯ СИСТЕМИ ТА ПЕРСОНАЖІВ"
+
+#. Key: SUBTITLE_003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_003"
+msgid "CHARACTER DESIGNER"
+msgstr "ДИЗАЙНЕР ПЕРСОНАЖІВ"
+
+#. Key: SUBTITLE_004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_004"
+msgid "SCENARIO"
+msgstr "СЦЕНАРІЙ"
+
+#. Key: SUBTITLE_005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_005"
+msgid "LEAD PROGRAMMER"
+msgstr "ПРОВІДНИЙ ПРОГРАМІСТ"
+
+#. Key: SUBTITLE_006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_006"
+msgid "GAME SYSTEM PROGRAMMER"
+msgstr "ПРОГРАМІСТ ІГРОВОЇ СИСТЕМИ"
+
+#. Key: SUBTITLE_007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_007"
+msgid "PROGRAMMER"
+msgstr "ПРОГРАМІСТ"
+
+#. Key: SUBTITLE_007_0
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_007_0"
+msgid "STORY MODE PROGRAMMER"
+msgstr "ПРОГРАМІСТ СЮЖЕТНОГО РЕЖИМУ"
+
+#. Key: SUBTITLE_007_1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_007_1"
+msgid "CONSUMER MODE PROGRAMMER"
+msgstr "ПРОГРАМІСТ КОНСОЛЬНОЇ ВЕРСІЇ"
+
+#. Key: SUBTITLE_007_2
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_007_2"
+msgid "NETWORK MODE PROGRAMMER"
+msgstr "ПРОГРАМІСТ МЕРЕЖЕВОГО РЕЖИМУ"
+
+#. Key: SUBTITLE_007_3
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_007_3"
+msgid "Xbox 360 LIBRARY PROGRAMMER"
+msgstr "ПРОГРАМІСТ БІБЛІОТЕКИ XBOX 360"
+
+#. Key: SUBTITLE_007_4
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_007_4"
+msgid "PLAYSTATION®3 LIBRARY PROGRAMMER"
+msgstr "ПРОГРАМІСТ БІБЛІОТЕКИ PLAYSTATION®3"
+
+#. Key: SUBTITLE_008
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_008"
+msgid "SCRIPTER"
+msgstr "СКРИПТЕР"
+
+#. Key: SUBTITLE_009
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_009"
+msgid "LEAD DESIGNER"
+msgstr "ПРОВІДНИЙ ДИЗАЙНЕР"
+
+#. Key: SUBTITLE_010
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_010"
+msgid "2D-DESIGNER"
+msgstr "2D-ДИЗАЙНЕР"
+
+#. Key: SUBTITLE_011
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_011"
+msgid "CHARACTER MOTION CONTINUITY"
+msgstr "КОНТРОЛЬ АНІМАЦІЇ ПЕРСОНАЖІВ"
+
+#. Key: SUBTITLE_012
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_012"
+msgid "3D-DESIGNER"
+msgstr "3D-ДИЗАЙНЕР"
+
+#. Key: SUBTITLE_013
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_013"
+msgid "3D-MOTION-DESIGNER"
+msgstr "ДИЗАЙНЕР 3D-АНІМАЦІЇ"
+
+#. Key: SUBTITLE_014
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_014"
+msgid "EFFECT DESIGN"
+msgstr "ДИЗАЙН ЕФЕКТІВ"
+
+#. Key: SUBTITLE_015
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_015"
+msgid "BACKGROUND LAYOUT"
+msgstr "КОМПОНУВАННЯ ТЛА"
+
+#. Key: SUBTITLE_016
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_016"
+msgid "BACKGROUND DESIGN"
+msgstr "ДИЗАЙН ТЛА"
+
+#. Key: SUBTITLE_017
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_017"
+msgid "CHARACTER DESIGNER"
+msgstr "ДИЗАЙНЕР ПЕРСОНАЖІВ"
+
+#. Key: SUBTITLE_018
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_018"
+msgid "EVENT DESIGN"
+msgstr "ДИЗАЙН СЮЖЕТНИХ СЦЕН"
+
+#. Key: SUBTITLE_019
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_019"
+msgid "ENDING ILLUSTRATOR"
+msgstr "ІЛЮСТРАЦІЇ КІНЦІВОК"
+
+#. Key: SUBTITLE_020
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_020"
+msgid "TITLE DESIGN"
+msgstr "ДИЗАЙН ЗАГОЛОВКІВ"
+
+#. Key: SUBTITLE_021
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_021"
+msgid "GAME LAYOUT DESIGN"
+msgstr "ДИЗАЙН ІГРОВОГО ІНТЕРФЕЙСУ"
+
+#. Key: SUBTITLE_022
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_022"
+msgid "EMBLEM DESIGN"
+msgstr "ДИЗАЙН ЕМБЛЕМ"
+
+#. Key: SUBTITLE_023
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_023"
+msgid "INSTRACTION CARD DESIGN"
+msgstr "ДИЗАЙН КАРТКИ КЕРУВАННЯ"
+
+#. Key: SUBTITLE_024
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_024"
+msgid "OPENING MOVIE"
+msgstr "ВСТУПНИЙ РОЛИК"
+
+#. Key: SUBTITLE_025
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_025"
+msgid "SOUND COMPOSED"
+msgstr "МУЗИКА"
+
+#. Key: SUBTITLE_026
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_026"
+msgid "SOUND PRODUCER"
+msgstr "ЗВУКОВИЙ ПРОДЮСЕР"
+
+#. Key: SUBTITLE_027
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_027"
+msgid "ARRANGE"
+msgstr "АРАНЖУВАННЯ"
+
+#. Key: SUBTITLE_028
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_028"
+msgid "GUITAR"
+msgstr "ГІТАРА"
+
+#. Key: SUBTITLE_029
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_029"
+msgid "BASS"
+msgstr "БАС-ГІТАРА"
+
+#. Key: SUBTITLE_030
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_030"
+msgid "PIANO"
+msgstr "ФОРТЕПІАНО"
+
+#. Key: SUBTITLE_031
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_031"
+msgid "SOPRANO"
+msgstr "СОПРАНО"
+
+#. Key: SUBTITLE_032
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_032"
+msgid "VOCAL"
+msgstr "ВОКАЛ"
+
+#. Key: SUBTITLE_033
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_033"
+msgid "RECORDING ENGINEER"
+msgstr "ЗВУКОРЕЖИСЕР ЗАПИСУ"
+
+#. Key: SUBTITLE_034
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_034"
+msgid "CASTING DIRECTOR"
+msgstr "КАСТИНГ-ДИРЕКТОР"
+
+#. Key: SUBTITLE_035
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_035"
+msgid "VOICE RECORDING ENGINEER"
+msgstr "ЗВУКОРЕЖИСЕР ЗАПИСУ ГОЛОСІВ"
+
+#. Key: SUBTITLE_036
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_036"
+msgid "VOICE DIRECTOR"
+msgstr "РЕЖИСЕР ОЗВУЧЕННЯ"
+
+#. Key: SUBTITLE_037
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_037"
+msgid "SE"
+msgstr "ЗВУКОВІ ЕФЕКТИ"
+
+#. Key: SUBTITLE_038
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_038"
+msgid "SOUND PRODUCER"
+msgstr "ЗВУКОВИЙ ПРОДЮСЕР"
+
+#. Key: SUBTITLE_039
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_039"
+msgid "GAME BALANCE ADVISER"
+msgstr "КОНСУЛЬТАНТ З ІГРОВОГО БАЛАНСУ"
+
+#. Key: SUBTITLE_040
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_040"
+msgid "DEBUGGING STAFF"
+msgstr "КОМАНДА НАЛАГОДЖЕННЯ"
+
+#. Key: SUBTITLE_041
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_041"
+msgid "Executive Producer"
+msgstr "ВИКОНАВЧИЙ ПРОДЮСЕР"
+
+#. Key: SUBTITLE_042
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_042"
+msgid "Director of Marketing"
+msgstr "ДИРЕКТОР З МАРКЕТИНГУ"
+
+#. Key: SUBTITLE_043
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_043"
+msgid "Assistant Marketing Manager"
+msgstr "ПОМІЧНИК МЕНЕДЖЕРА З МАРКЕТИНГУ"
+
+#. Key: SUBTITLE_044
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_044"
+msgid "Project Lead"
+msgstr "КЕРІВНИК ПРОЄКТУ"
+
+#. Key: SUBTITLE_045
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_045"
+msgid "Translators"
+msgstr "ПЕРЕКЛАДАЧІ"
+
+#. Key: SUBTITLE_046
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_046"
+msgid "Localization Editors"
+msgstr "РЕДАКТОРИ ЛОКАЛІЗАЦІЇ"
+
+#. Key: SUBTITLE_047
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_047"
+msgid "Sales"
+msgstr "ПРОДАЖІ"
+
+#. Key: SUBTITLE_048
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_048"
+msgid "Special Thanks"
+msgstr "ОСОБЛИВА ПОДЯКА"
+
+#. Key: SUBTITLE_049
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_049"
+msgid "PRODUCER"
+msgstr "ПРОДЮСЕР"
+
+#. Key: SUBTITLE_050
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_050"
+msgid "EXECUTIVE PRODUCER"
+msgstr "ВИКОНАВЧИЙ ПРОДЮСЕР"
+
+#. Key: SUBTITLE_051
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_051"
+msgid "DIRECTOR"
+msgstr "РЕЖИСЕР"
+
+#. Key: SUBTITLE_052
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 製作・著作
+msgctxt "SUBTITLE_052"
+msgid "Producted by"
+msgstr "ВИРОБНИЦТВО ТА АВТОРСЬКІ ПРАВА"
+
+#. Key: SUBTITLE_053
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_053"
+msgid "PLANNING"
+msgstr "ПЛАНУВАННЯ"
+
+#. Key: SUBTITLE_054
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_054"
+msgid "PRODUCTION DIRECTOR"
+msgstr "КЕРІВНИК ВИРОБНИЦТВА"
+
+#. Key: SUBTITLE_055
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_055"
+msgid "THE DRAFT SCENARIOS"
+msgstr "ЧЕРНЕТКА СЦЕНАРІЮ"
+
+#. Key: SUBTITLE_056
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_056"
+msgid "FLOWCHART"
+msgstr "БЛОК-СХЕМА"
+
+#. Key: SUBTITLE_057
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_057"
+msgid "STORY CHARACTER GRAPHICS"
+msgstr "ГРАФІКА ПЕРСОНАЖІВ СЮЖЕТУ"
+
+#. Key: SUBTITLE_058
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_058"
+msgid "EVENTS GRAPHICS"
+msgstr "ГРАФІКА СЮЖЕТНИХ СЦЕН"
+
+#. Key: SUBTITLE_059
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_059"
+msgid "ASTRAL DESIGNER"
+msgstr "ДИЗАЙН АСТРАЛЬНИХ ПРИЙОМІВ"
+
+#. Key: SUBTITLE_060
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_060"
+msgid "PUBLIC DESIGN"
+msgstr "ДИЗАЙН РЕКЛАМНИХ МАТЕРІАЛІВ"
+
+#. Key: SUBTITLE_061
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_061"
+msgid "ANIMATION PART"
+msgstr "АНІМАЦІЙНА ЧАСТИНА"
+
+#. Key: SUBTITLE_062
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_062"
+msgid "SCENARIO"
+msgstr "СЦЕНАРІЙ"
+
+#. Key: SUBTITLE_063
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_063"
+msgid "SETTING"
+msgstr "СВІТОБУДОВА"
+
+#. Key: SUBTITLE_064
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_064"
+msgid "SD CHARACTER GRAPHCS"
+msgstr "ГРАФІКА ЧІБІ-ПЕРСОНАЖІВ"
+
+#. Key: SUBTITLE_065
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_065"
+msgid "GAME LAYOUT DESIGN"
+msgstr "ДИЗАЙН ІГРОВОГО ІНТЕРФЕЙСУ"
+
+#. Key: SUBTITLE_066
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_066"
+msgid "SCRIPTER"
+msgstr "СКРИПТЕР"
+
+#. Key: SUBTITLE_067
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 教えてライチ先生！
+msgctxt "SUBTITLE_067"
+msgid "Tell me! Dr.Litchi"
+msgstr "«НАВЧІТЬ НАС, ПАНІ ЛІЧІ!»"
+
+#. Key: SUBTITLE_068
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_068"
+msgid "SOUND COMPOSED"
+msgstr "МУЗИКА"
+
+#. Key: SUBTITLE_069
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_069"
+msgid "CASTING DIRECTOR"
+msgstr "КАСТИНГ-ДИРЕКТОР"
+
+#. Key: SUBTITLE_070
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_070"
+msgid "VOICE RECORDING ENGINEER"
+msgstr "ЗВУКОРЕЖИСЕР ЗАПИСУ ГОЛОСІВ"
+
+#. Key: SUBTITLE_071
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_071"
+msgid "VOICE DIRECTOR"
+msgstr "РЕЖИСЕР ОЗВУЧЕННЯ"
+
+#. Key: SUBTITLE_072
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_072"
+msgid "SONGS"
+msgstr "ПІСНІ"
+
+#. Key: SUBTITLE_072_1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_072_1"
+msgid "INSERT SONGS"
+msgstr "ВСТАВНІ ПІСНІ"
+
+#. Key: SUBTITLE_073
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ボーカル
+msgctxt "SUBTITLE_073"
+msgid "VOCAL"
+msgstr "ВОКАЛ"
+
+#. Key: SUBTITLE_074
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 作詞
+msgctxt "SUBTITLE_074"
+msgid "LYRICS"
+msgstr "СЛОВА"
+
+#. Key: SUBTITLE_075
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 作曲
+msgctxt "SUBTITLE_075"
+msgid "MUSIC"
+msgstr "МУЗИКА"
+
+#. Key: SUBTITLE_076
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 編曲
+msgctxt "SUBTITLE_076"
+msgid "ARRANGEMENT"
+msgstr "АРАНЖУВАННЯ"
+
+#. Key: SUBTITLE_077
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_077"
+msgid "GUITAR"
+msgstr "ГІТАРА"
+
+#. Key: SUBTITLE_078
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_078"
+msgid "BASS"
+msgstr "БАС-ГІТАРА"
+
+#. Key: SUBTITLE_079
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_079"
+msgid "DRUMS"
+msgstr "УДАРНІ"
+
+#. Key: SUBTITLE_080
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_080"
+msgid "CHORUS"
+msgstr "БЕК-ВОКАЛ"
+
+#. Key: SUBTITLE_081
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: エンジニア
+msgctxt "SUBTITLE_081"
+msgid "ENGINEER"
+msgstr "ЗВУКОРЕЖИСЕР"
+
+#. Key: SUBTITLE_082
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: WEBデザイン
+msgctxt "SUBTITLE_082"
+msgid "WEB DESIGN"
+msgstr "ВЕБДИЗАЙН"
+
+#. Key: SUBTITLE_083
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アドデザイン
+msgctxt "SUBTITLE_083"
+msgid "AD DESIGN"
+msgstr "РЕКЛАМНИЙ ДИЗАЙН"
+
+#. Key: SUBTITLE_084
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_084"
+msgid "PROMOTIONS MOVIE"
+msgstr "РЕКЛАМНИЙ РОЛИК"
+
+#. Key: SUBTITLE_085
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_085"
+msgid "STORY MODE BACKGROUND"
+msgstr "ТЛА СЮЖЕТНОГО РЕЖИМУ"
+
+#. Key: SUBTITLE_086
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_086"
+msgid "ARTIFICIAL COLORING"
+msgstr "КОЛОРУВАННЯ"
+
+#. Key: SUBTITLE_087
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_087"
+msgid "Executive Producer"
+msgstr "ВИКОНАВЧИЙ ПРОДЮСЕР"
+
+#. Key: SUBTITLE_088
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_088"
+msgid "Marketing"
+msgstr "МАРКЕТИНГ"
+
+#. Key: SUBTITLE_089
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_089"
+msgid "Assistant Marketing Manager"
+msgstr "ПОМІЧНИК МЕНЕДЖЕРА З МАРКЕТИНГУ"
+
+#. Key: SUBTITLE_090
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_090"
+msgid "Project Lead"
+msgstr "КЕРІВНИК ПРОЄКТУ"
+
+#. Key: SUBTITLE_091
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_091"
+msgid "Translators"
+msgstr "ПЕРЕКЛАДАЧІ"
+
+#. Key: SUBTITLE_092
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_092"
+msgid "Localization Editors"
+msgstr "РЕДАКТОРИ ЛОКАЛІЗАЦІЇ"
+
+#. Key: SUBTITLE_093
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_093"
+msgid "Sales"
+msgstr "ПРОДАЖІ"
+
+#. Key: SUBTITLE_094
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_094"
+msgid "Quality Assurance"
+msgstr "КОНТРОЛЬ ЯКОСТІ"
+
+#. Key: SUBTITLE_095
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_095"
+msgid "Special Thanks"
+msgstr "ОСОБЛИВА ПОДЯКА"
+
+#. Key: SUBTITLE_096
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_096"
+msgid "Quality Assurance"
+msgstr "КОНТРОЛЬ ЯКОСТІ"
+
+#. Key: SUBTITLE_097
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SUBTITLE_097"
+msgid "Public Relations"
+msgstr "ЗВ'ЯЗКИ З ГРОМАДСЬКІСТЮ"
+
+#. Key: WORK_000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 動画検査
+msgctxt "WORK_000"
+msgid "ANIMATION INSPECTOR"
+msgstr "КОНТРОЛЬ ПРОМІЖНОЇ АНІМАЦІЇ"
+
+#. Key: WORK_001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 動画
+msgctxt "WORK_001"
+msgid "CARTOON ANIMATION "
+msgstr "ПРОМІЖНА АНІМАЦІЯ"
+
+#. Key: WORK_002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 工程管理
+msgctxt "WORK_002"
+msgid "DIRECTION"
+msgstr "КООРДИНАЦІЯ ВИРОБНИЦТВА"
+
+#. Key: WORK_003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 原画
+msgctxt "WORK_003"
+msgid "ORIGINAL CARTOON"
+msgstr "КЛЮЧОВА АНІМАЦІЯ"
+
+#. Key: WORK_004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: プロデューサー
+msgctxt "WORK_004"
+msgid "PRODUCER"
+msgstr "ПРОДЮСЕР"
+
+#. Key: WORK_005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アニメーター
+msgctxt "WORK_005"
+msgid "ANIMATION"
+msgstr "АНІМАТОР"
+
+#. Key: WORK_006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 着色
+msgctxt "WORK_006"
+msgid "ARTIFICIAL COLORING"
+msgstr "КОЛОРУВАННЯ"
+
+#. Key: WORK_007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: WEBデザイン
+msgctxt "WORK_007"
+msgid "WEB DESIGN"
+msgstr "ВЕБДИЗАЙН"
+
+#. Key: WORK_008
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アドデザイン
+msgctxt "WORK_008"
+msgid "AD DESIGN"
+msgstr "РЕКЛАМНИЙ ДИЗАЙН"
+
+#. Key: COMPANY000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アークシステムワークス株式会社
+msgctxt "COMPANY000"
+msgid "ARC SYSTEM WORKS Co., Ltd."
+msgstr "ARC SYSTEM WORKS Co., Ltd."
+
+#. Key: COMPANY001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社　ＡＭＩ
+msgctxt "COMPANY001"
+msgid "AMI CO., Ltd."
+msgstr "AMI CO., Ltd."
+
+#. Key: COMPANY002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社エクスマインド
+msgctxt "COMPANY002"
+msgid "Exmind, Inc."
+msgstr "Exmind, Inc."
+
+#. Key: COMPANY003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ドリームス
+msgctxt "COMPANY003"
+msgid "DREAMS CO.,LTD."
+msgstr "DREAMS CO.,LTD."
+
+#. Key: COMPANY004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: みぞおちスーパークラッシャーズ
+msgctxt "COMPANY004"
+msgid "MIZOOCHI Super Crashers"
+msgstr "MIZOOCHI Super Crashers"
+
+#. Key: COMPANY005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ウィンズ
+msgctxt "COMPANY005"
+msgid "WINDS CO.,LTD."
+msgstr "WINDS CO.,LTD."
+
+#. Key: COMPANY006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 東星軟件（杭州）有限公司
+msgctxt "COMPANY006"
+msgid "TOSE SOFTWARE (HANGZHOU) CO., LTD."
+msgstr "TOSE SOFTWARE (HANGZHOU) CO., LTD."
+
+#. Key: COMPANY007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社トーセ
+msgctxt "COMPANY007"
+msgid "TOSE SOFTWARE CO., LTD."
+msgstr "TOSE SOFTWARE CO., LTD."
+
+#. Key: COMPANY008
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 有限会社スタジオたくらんけ
+msgctxt "COMPANY008"
+msgid "st.TAKURANKE"
+msgstr "st.TAKURANKE"
+
+#. Key: COMPANY009
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ワイワイカンパニー
+msgctxt "COMPANY009"
+msgid "Wai-wai Company"
+msgstr "Wai-wai Company"
+
+#. Key: COMPANY010
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 進藤プロダクション
+msgctxt "COMPANY010"
+msgid "Shindo Production"
+msgstr "Shindo Production"
+
+#. Key: COMPANY011
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 動画工房
+msgctxt "COMPANY011"
+msgid "Dogakobo"
+msgstr "Dogakobo"
+
+#. Key: COMPANY012
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社アイムーヴ
+msgctxt "COMPANY012"
+msgid "i-move Co., Ltd."
+msgstr "i-move Co., Ltd."
+
+#. Key: COMPANY013
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "COMPANY013"
+msgid "AXIS&CATS"
+msgstr "AXIS&CATS"
+
+#. Key: COMPANY014
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 有限会社StudioCats
+msgctxt "COMPANY014"
+msgid "Studio Cats"
+msgstr "Studio Cats"
+
+#. Key: COMPANY015
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 有限会社　アイラ・ラボラトリ
+msgctxt "COMPANY015"
+msgid "Aera Laboratory"
+msgstr "Aera Laboratory"
+
+#. Key: COMPANY016
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社Floor
+msgctxt "COMPANY016"
+msgid "Floor Co., Ltd."
+msgstr "Floor Co., Ltd."
+
+#. Key: COMPANY017
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "COMPANY017"
+msgid "Iris motion graphics"
+msgstr "Iris motion graphics"
+
+#. Key: COMPANY018
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社GONZO
+msgctxt "COMPANY018"
+msgid "GONZO K .K ."
+msgstr "GONZO K .K ."
+
+#. Key: COMPANY019
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 有限会社プロ・フィット
+msgctxt "COMPANY019"
+msgid "Pro Fit"
+msgstr "Pro Fit"
+
+#. Key: COMPANY020
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社タバック
+msgctxt "COMPANY020"
+msgid "TAVAC Co.,Ltd"
+msgstr "TAVAC Co.,Ltd"
+
+#. Key: COMPANY021
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社キューン・プラント
+msgctxt "COMPANY021"
+msgid "QuunPlant Co.,Ltd"
+msgstr "QuunPlant Co.,Ltd"
+
+#. Key: COMPANY022
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: すたじお月夜
+msgctxt "COMPANY022"
+msgid "STUDIO TSUKIYO"
+msgstr "STUDIO TSUKIYO"
+
+#. Key: COMPANY023
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 有限会社ガンジン
+msgctxt "COMPANY023"
+msgid "Ganzin"
+msgstr "Ganzin"
+
+#. Key: COMPANY024
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ジェネオン・ユニバーサル・エンターテイメント
+msgctxt "COMPANY024"
+msgid "Geneon Universal Entertainment Japan, LLC."
+msgstr "Geneon Universal Entertainment Japan, LLC."
+
+#. Key: COMPANY025
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社エクスマインド
+msgctxt "COMPANY025"
+msgid "Exmind, Inc."
+msgstr "Exmind, Inc."
+
+#. Key: COMPANY026
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社デジタルハーツ
+msgctxt "COMPANY026"
+msgid "DIGITAL Hearts CO.,LTD."
+msgstr "DIGITAL Hearts CO.,LTD."
+
+#. Key: ARC_STAFF000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 森　利道（雑用王）
+msgctxt "ARC_STAFF000"
+msgid "Toshimichi Mori"
+msgstr "Тошімічі Морі"
+
+#. Key: ARC_STAFF001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 福本　征士
+msgctxt "ARC_STAFF001"
+msgid "Seiji Fukumoto"
+msgstr "Сейджі Фукумото"
+
+#. Key: ARC_STAFF002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 増澤　寛晃（仮素材）
+msgctxt "ARC_STAFF002"
+msgid "Hiroaki Masuzawa"
+msgstr "Хіроакі Масузава"
+
+#. Key: ARC_STAFF003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 岡本　隆二
+msgctxt "ARC_STAFF003"
+msgid "Ryuji Okamoto"
+msgstr "Рюджі Окамото"
+
+#. Key: ARC_STAFF004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 井口屋　タクミ
+msgctxt "ARC_STAFF004"
+msgid "Takumi Iguchi"
+msgstr "Такумі Іґучі"
+
+#. Key: ARC_STAFF005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 石田　聡
+msgctxt "ARC_STAFF005"
+msgid "Ishida Sou"
+msgstr "Ішіда Со"
+
+#. Key: ARC_STAFF006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 加藤　勇樹（ニャンダムマイスター）
+msgctxt "ARC_STAFF006"
+msgid "Yuuki Katou"
+msgstr "Юкі Като"
+
+#. Key: ARC_STAFF007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 石川　辰則
+msgctxt "ARC_STAFF007"
+msgid "Tatsunori Ishikawa"
+msgstr "Тацунорі Ішікава"
+
+#. Key: ARC_STAFF008
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 森　達彦
+msgctxt "ARC_STAFF008"
+msgid "Tatsuhiko Mori"
+msgstr "Тацухіко Морі"
+
+#. Key: ARC_STAFF009
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 杉山　友希（シャイニング★レンズ）
+msgctxt "ARC_STAFF009"
+msgid "Yuki Sugiyama"
+msgstr "Юкі Суґіяма"
+
+#. Key: ARC_STAFF010
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 井上　巧（アフロ大佐）
+msgctxt "ARC_STAFF010"
+msgid "Takumi Inoue"
+msgstr "Такумі Іноуе"
+
+#. Key: ARC_STAFF011
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 湯之上　司
+msgctxt "ARC_STAFF011"
+msgid "Tukasa Yunoue "
+msgstr "Цукаса Юноуе"
+
+#. Key: ARC_STAFF012
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 小川　裕子
+msgctxt "ARC_STAFF012"
+msgid "Hiroko Ogawa "
+msgstr "Хіроко Оґава"
+
+#. Key: ARC_STAFF013
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 梶　茜（リリィ★ハンター）
+msgctxt "ARC_STAFF013"
+msgid "Akane Kaji"
+msgstr "Акане Каджі"
+
+#. Key: ARC_STAFF014
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 田代　朱里
+msgctxt "ARC_STAFF014"
+msgid "Akari Tashiro"
+msgstr "Акарі Ташіро"
+
+#. Key: ARC_STAFF015
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 金　喆
+msgctxt "ARC_STAFF015"
+msgid "Zhe Jin"
+msgstr "Чже Цзінь"
+
+#. Key: ARC_STAFF016
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 木村　樹崇
+msgctxt "ARC_STAFF016"
+msgid "Shigetaka Kimura"
+msgstr "Шіґетака Кімура"
+
+#. Key: ARC_STAFF017
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 有馬　奈那子（すごくもにもに）
+msgctxt "ARC_STAFF017"
+msgid "Nanako Arima"
+msgstr "Нанако Аріма"
+
+#. Key: ARC_STAFF018
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 樋口　このみ
+msgctxt "ARC_STAFF018"
+msgid "Konomi Higuchi"
+msgstr "Кономі Хіґучі"
+
+#. Key: ARC_STAFF019
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 津崎　真弓
+msgctxt "ARC_STAFF019"
+msgid "Mayumi Tsuzaki"
+msgstr "Маюмі Цузакі"
+
+#. Key: ARC_STAFF020
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 影山　博美（ずんちも）
+msgctxt "ARC_STAFF020"
+msgid "Hiromi Kageyama"
+msgstr "Хіромі Каґеяма"
+
+#. Key: ARC_STAFF021
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "ARC_STAFF021"
+msgid "TOY"
+msgstr "TOY"
+
+#. Key: ARC_STAFF022
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 伊藤　誠
+msgctxt "ARC_STAFF022"
+msgid "Makoto Ito"
+msgstr "Макото Іто"
+
+#. Key: ARC_STAFF023
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 井尻　友紀
+msgctxt "ARC_STAFF023"
+msgid "Yuki Ijiri"
+msgstr "Юкі Іджірі"
+
+#. Key: ARC_STAFF024
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 大窟　泰子
+msgctxt "ARC_STAFF024"
+msgid "Ohkutsu Yasuko"
+msgstr "Окуцу Ясуко"
+
+#. Key: ARC_STAFF025
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 河合　裕子
+msgctxt "ARC_STAFF025"
+msgid "Yuko Kawai"
+msgstr "Юко Каваї"
+
+#. Key: ARC_STAFF026
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 櫻庭　遥
+msgctxt "ARC_STAFF026"
+msgid "Haruka Sakuraba"
+msgstr "Харука Сакураба"
+
+#. Key: ARC_STAFF027
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 澤田　秀明
+msgctxt "ARC_STAFF027"
+msgid "Hideaki Sawada"
+msgstr "Хідеакі Савада"
+
+#. Key: ARC_STAFF028
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 千歳　真澄
+msgctxt "ARC_STAFF028"
+msgid "Chitose Masumi"
+msgstr "Чітосе Масумі"
+
+#. Key: ARC_STAFF029
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 五十嵐　睦
+msgctxt "ARC_STAFF029"
+msgid "Atsushi Igarashi"
+msgstr "Ацуші Іґараші"
+
+#. Key: ARC_STAFF030
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 出口　好美
+msgctxt "ARC_STAFF030"
+msgid "Konomi Deguchi"
+msgstr "Кономі Деґучі"
+
+#. Key: ARC_STAFF031
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 天野 喜代子
+msgctxt "ARC_STAFF031"
+msgid "Amano Kiyoko"
+msgstr "Амано Кійоко"
+
+#. Key: ARC_STAFF032
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 田口　和憲
+msgctxt "ARC_STAFF032"
+msgid "Kazunori Taguchi"
+msgstr "Казунорі Таґучі"
+
+#. Key: ARC_STAFF033
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 向　克記（バーベルマスター）
+msgctxt "ARC_STAFF033"
+msgid "Katsuki Mukai"
+msgstr "Кацукі Мукаї"
+
+#. Key: ARC_STAFF034
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 河内　大輔（工作マニア）
+msgctxt "ARC_STAFF034"
+msgid "Daisuke Kawauchi"
+msgstr "Дайсуке Каваучі"
+
+#. Key: ARC_STAFF035
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 佐藤　智美（ジョーズィー）
+msgctxt "ARC_STAFF035"
+msgid "Satomi Sato"
+msgstr "Сатомі Сато"
+
+#. Key: ARC_STAFF036
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 本村　純也
+msgctxt "ARC_STAFF036"
+msgid "Junya Motomura"
+msgstr "Джюня Мотомура"
+
+#. Key: ARC_STAFF037
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 元和木　聡
+msgctxt "ARC_STAFF037"
+msgid "Motowaki Satoshi"
+msgstr "Мотовакі Сатоші"
+
+#. Key: ARC_STAFF038
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 加藤　英治
+msgctxt "ARC_STAFF038"
+msgid "Hideharu Kato"
+msgstr "Хідехару Като"
+
+#. Key: ARC_STAFF039
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 村松　桂（もののけ）
+msgctxt "ARC_STAFF039"
+msgid "Katsura Muramatsu"
+msgstr "Кацура Мурамацу"
+
+#. Key: ARC_STAFF040
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 玉井　幸子
+msgctxt "ARC_STAFF040"
+msgid "Sachiko Tamai"
+msgstr "Сачіко Тамаї"
+
+#. Key: ARC_STAFF041
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: かぶきちょうタン
+msgctxt "ARC_STAFF041"
+msgid "Kabuki-chou-tan"
+msgstr "Kabuki-chou-tan"
+
+#. Key: ARC_STAFF042
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ジマ（大佐）
+msgctxt "ARC_STAFF042"
+msgid "Jima"
+msgstr "Jima"
+
+#. Key: ARC_STAFF043
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 澤川　JAPAN
+msgctxt "ARC_STAFF043"
+msgid "Naoki Sawakawa"
+msgstr "Наокі Савакава"
+
+#. Key: ARC_STAFF044
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 吉田　圭（マスタールチャ）
+msgctxt "ARC_STAFF044"
+msgid "Kei Yoshida"
+msgstr "Кей Йошіда"
+
+#. Key: ARC_STAFF045
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 福島　伸明
+msgctxt "ARC_STAFF045"
+msgid "Nobuaki Fukushima"
+msgstr "Нобуакі Фукушіма"
+
+#. Key: ARC_STAFF046
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 草葉　隆和
+msgctxt "ARC_STAFF046"
+msgid "Takakazu Kusaba"
+msgstr "Такаказу Кусаба"
+
+#. Key: ARC_STAFF047
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 村松　直也
+msgctxt "ARC_STAFF047"
+msgid "Naoya Muramatu"
+msgstr "Наоя Мурамацу"
+
+#. Key: ARC_STAFF048
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 粒来　伊佐子
+msgctxt "ARC_STAFF048"
+msgid "Isako Tsuburai"
+msgstr "Ісако Цубураї"
+
+#. Key: ARC_STAFF049
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 貞森　康毅
+msgctxt "ARC_STAFF049"
+msgid "Koki Sadamori"
+msgstr "Кокі Садаморі"
+
+#. Key: ARC_STAFF050
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 木戸岡　稔
+msgctxt "ARC_STAFF050"
+msgid "Minoru Kidooka"
+msgstr "Мінору Кідоока"
+
+#. Key: ARC_STAFF051
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 森　利道
+msgctxt "ARC_STAFF051"
+msgid "Toshimichi Mori"
+msgstr "Тошімічі Морі"
+
+#. Key: ARC_STAFF052
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 山中　丈嗣（悪だくみ参謀）
+msgctxt "ARC_STAFF052"
+msgid "Takeshi Yamanaka"
+msgstr "Такеші Яманака"
+
+#. Key: ARC_STAFF052_1
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 山中　丈嗣
+msgctxt "ARC_STAFF052_1"
+msgid "Takeshi Yamanaka"
+msgstr "Такеші Яманака"
+
+#. Key: ARC_STAFF053
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 鈴木　孝司
+msgctxt "ARC_STAFF053"
+msgid "Takashi Suzuki"
+msgstr "Такаші Сузукі"
+
+#. Key: ARC_STAFF054
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 家弓　拓郎
+msgctxt "ARC_STAFF054"
+msgid "Takuro Kayumi"
+msgstr "Такуро Каюмі"
+
+#. Key: ARC_STAFF055
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 靜　俊一郎
+msgctxt "ARC_STAFF055"
+msgid "Shunichiro Shizuka"
+msgstr "Шюнічіро Шізука"
+
+#. Key: ARC_STAFF056
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 森橋　ビンゴ
+msgctxt "ARC_STAFF056"
+msgid "Bingo Morihashi"
+msgstr "Бінґо Моріхаші"
+
+#. Key: ARC_STAFF057
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 藤原　健市
+msgctxt "ARC_STAFF057"
+msgid "Kenichi Fujiwara"
+msgstr "Кенічі Фуджівара"
+
+#. Key: ARC_STAFF058
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 浅野　健太(ふわふわウルフ)
+msgctxt "ARC_STAFF058"
+msgid "Kenta Asano"
+msgstr "Кента Асано"
+
+#. Key: ARC_STAFF059
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 伊沢　由佳
+msgctxt "ARC_STAFF059"
+msgid "Yuka Izawa"
+msgstr "Юка Ізава"
+
+#. Key: ARC_STAFF060
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 福間　充
+msgctxt "ARC_STAFF060"
+msgid "Mitsuru Fukuma"
+msgstr "Міцуру Фукума"
+
+#. Key: ARC_STAFF061
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 石渡　太輔
+msgctxt "ARC_STAFF061"
+msgid "Daisuke Ishiwatari"
+msgstr "Дайсуке Ішіватарі"
+
+#. Key: ARC_STAFF062
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 秋山　勝
+msgctxt "ARC_STAFF062"
+msgid "Masaru Akiyama"
+msgstr "Масару Акіяма"
+
+#. Key: SOUND_STAFF000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 山口　えつ子(Star Jam Corporation)
+msgctxt "SOUND_STAFF000"
+msgid "Etsuko Yamaguchi(Star Jam Corporation)"
+msgstr "Ецуко Ямаґучі (Star Jam Corporation)"
+
+#. Key: SOUND_STAFF001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 北吉　泰輔(Free　Market)
+msgctxt "SOUND_STAFF001"
+msgid "Taisuke Kitayoshi(Free　Market)"
+msgstr "Тайсуке Кітайоші (Free Market)"
+
+#. Key: SOUND_STAFF002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 鈴木　高雄(Star Jam Corporation)
+msgctxt "SOUND_STAFF002"
+msgid "Takao Suzuki(Star Jam Corporation)"
+msgstr "Такао Сузукі (Star Jam Corporation)"
+
+#. Key: SOUND_STAFF003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SOUND_STAFF003"
+msgid "KOTOKO"
+msgstr "KOTOKO"
+
+#. Key: SOUND_STAFF004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SOUND_STAFF004"
+msgid "kotoko"
+msgstr "kotoko"
+
+#. Key: SOUND_STAFF005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 佐々倉有吾
+msgctxt "SOUND_STAFF005"
+msgid "Yugo Sasakura"
+msgstr "Юґо Сасакура"
+
+#. Key: SOUND_STAFF006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 宮崎 歩
+msgctxt "SOUND_STAFF006"
+msgid "Ayumi Miyazaki"
+msgstr "Аюмі Міязакі"
+
+#. Key: SOUND_STAFF007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 影山　ヒロノブ(SOLID VOX)
+msgctxt "SOUND_STAFF007"
+msgid "Hironobu Kageyama(SOLID VOX)"
+msgstr "Хіронобу Каґеяма (SOLID VOX)"
+
+#. Key: SOUND_STAFF008
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 福本　征士(Arc System Works)
+msgctxt "SOUND_STAFF008"
+msgid "Seiji Fukumoto(Arc System Works)"
+msgstr "Сейджі Фукумото (Arc System Works)"
+
+#. Key: SOUND_STAFF009
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 石渡　太輔
+msgctxt "SOUND_STAFF009"
+msgid "Daisuke Ishiwatari"
+msgstr "Дайсуке Ішіватарі"
+
+#. Key: SOUND_STAFF010
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 佐藤　ノリチカ(Star Jam Corporation)
+msgctxt "SOUND_STAFF010"
+msgid "Norichika Sato(Star Jam Corporation)"
+msgstr "Норічіка Сато (Star Jam Corporation)"
+
+#. Key: SOUND_STAFF011
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 草野　よしひろ(Melonest)
+msgctxt "SOUND_STAFF011"
+msgid "Yosihiro Kusano(Melonest)"
+msgstr "Йошіхіро Кусано (Melonest)"
+
+#. Key: SOUND_STAFF012
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 人時
+msgctxt "SOUND_STAFF012"
+msgid "HITOKI"
+msgstr "HITOKI"
+
+#. Key: SOUND_STAFF013
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "SOUND_STAFF013"
+msgid "Ｇｏ"
+msgstr "Ｇｏ"
+
+#. Key: SOUND_STAFF014
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 花澤　加絵
+msgctxt "SOUND_STAFF014"
+msgid "Kae Hanazawa"
+msgstr "Кае Ханазава"
+
+#. Key: SOUND_STAFF015
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 内田　ゆう
+msgctxt "SOUND_STAFF015"
+msgid "You Uchida"
+msgstr "Йо Учіда"
+
+#. Key: SOUND_STAFF016
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 山田　洋子
+msgctxt "SOUND_STAFF016"
+msgid "Youko Yamada"
+msgstr "Йоко Ямада"
+
+#. Key: SOUND_STAFF017
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 栗花落　洋一
+msgctxt "SOUND_STAFF017"
+msgid "Youichi Tsuyuri"
+msgstr "Йоічі Цуюрі"
+
+#. Key: SOUND_STAFF018
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 近藤　佳奈子
+msgctxt "SOUND_STAFF018"
+msgid "Kanako Kondo"
+msgstr "Канако Кондо"
+
+#. Key: SOUND_STAFF019
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 長谷川　淳
+msgctxt "SOUND_STAFF019"
+msgid "Jun Hasegawa"
+msgstr "Джюн Хасеґава"
+
+#. Key: DEBUG_STAFF000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 高橋　聖
+msgctxt "DEBUG_STAFF000"
+msgid "Kiyoshi Takahashi"
+msgstr "Кійоші Такахаші"
+
+#. Key: DEBUG_STAFF001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 荒川　拓馬
+msgctxt "DEBUG_STAFF001"
+msgid "Takuma Arakawa"
+msgstr "Такума Аракава"
+
+#. Key: DEBUG_STAFF002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 竹島　栄治
+msgctxt "DEBUG_STAFF002"
+msgid "Eiji Takeshima"
+msgstr "Ейджі Такешіма"
+
+#. Key: DEBUG_STAFF003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 志田　淳
+msgctxt "DEBUG_STAFF003"
+msgid "Jun Shida"
+msgstr "Джюн Шіда"
+
+#. Key: DEBUG_STAFF004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 藤本　純
+msgctxt "DEBUG_STAFF004"
+msgid "Jun Fujimoto"
+msgstr "Джюн Фуджімото"
+
+#. Key: DEBUG_STAFF005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 高田　郁也
+msgctxt "DEBUG_STAFF005"
+msgid "Ikuya Takada"
+msgstr "Ікуя Такада"
+
+#. Key: DEBUG_STAFF006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 片岡　亮(アミューズメントメディア総合学院)
+msgctxt "DEBUG_STAFF006"
+msgid "Ryo Kataoka(Amusement Media Academy)"
+msgstr "Рьо Катаока (Amusement Media Academy)"
+
+#. Key: DEBUG_STAFF007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 田中　章裕(アミューズメントメディア総合学院)
+msgctxt "DEBUG_STAFF007"
+msgid "Akihiro Tanaka(Amusement Media Academy)"
+msgstr "Акіхіро Танака (Amusement Media Academy)"
+
+#. Key: LOCALIZE_WORK000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK000"
+msgid "Executive Producer"
+msgstr "ВИКОНАВЧИЙ ПРОДЮСЕР"
+
+#. Key: LOCALIZE_WORK001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK001"
+msgid "Director of Marketing"
+msgstr "ДИРЕКТОР З МАРКЕТИНГУ"
+
+#. Key: LOCALIZE_WORK002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK002"
+msgid "Assistant Marketing Manager"
+msgstr "ПОМІЧНИК МЕНЕДЖЕРА З МАРКЕТИНГУ"
+
+#. Key: LOCALIZE_WORK003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK003"
+msgid "Project Lead"
+msgstr "КЕРІВНИК ПРОЄКТУ"
+
+#. Key: LOCALIZE_WORK004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK004"
+msgid "Translators"
+msgstr "ПЕРЕКЛАДАЧІ"
+
+#. Key: LOCALIZE_WORK005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK005"
+msgid "Editors"
+msgstr "РЕДАКТОРИ"
+
+#. Key: LOCALIZE_WORK006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK006"
+msgid "Sales Coordinator"
+msgstr "КООРДИНАТОР ПРОДАЖІВ"
+
+#. Key: LOCALIZE_WORK007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK007"
+msgid "QA Testers"
+msgstr "ТЕСТУВАЛЬНИКИ"
+
+#. Key: LOCALIZE_WORK008
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK008"
+msgid "Special Thanks"
+msgstr "ОСОБЛИВА ПОДЯКА"
+
+#. Key: LOCALIZE_WORK009
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_WORK009"
+msgid "MUSAI Co., LTD"
+msgstr "MUSAI Co., LTD"
+
+#. Key: LOCALIZE_STAFF000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 謝　明志(Aksys Games)
+msgctxt "LOCALIZE_STAFF000"
+msgid "Akibo Shieh(Aksys Games)"
+msgstr "Акібо Ші (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ゲール　サラマンカ(Aksys Games)
+msgctxt "LOCALIZE_STAFF001"
+msgid "Gail Salamanca(Aksys Games)"
+msgstr "Ґейл Саламанка (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ハリー　チャン(Aksys Games)
+msgctxt "LOCALIZE_STAFF002"
+msgid "Harry Chang(Aksys Games)"
+msgstr "Гаррі Чанґ (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: フランク　ドゥイント(Aksys Games)
+msgctxt "LOCALIZE_STAFF003"
+msgid "Frank \"Bo\" DeWindt II(Aksys Games)"
+msgstr "Френк «Бо» ДеВіндт II (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: マイキー　マクナマラ(Aksys Games)
+msgctxt "LOCALIZE_STAFF004"
+msgid "Mike McNamara(Aksys Games)"
+msgstr "Майк Макнамара (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 山瀧あすか(Aksys Games)
+msgctxt "LOCALIZE_STAFF005"
+msgid "Asuka Yamataki(Aksys Games)"
+msgstr "Асука Яматакі (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 小川のばら(Aksys Games)
+msgctxt "LOCALIZE_STAFF006"
+msgid "Nobara Rose Ogawa(Aksys Games)"
+msgstr "Нобара Роуз Оґава (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ベン　ベイトマン(Aksys Games)
+msgctxt "LOCALIZE_STAFF007"
+msgid "Ben Bateman(Aksys Games)"
+msgstr "Бен Бейтман (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF008
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: バーバラ　ヤング(Aksys Games)
+msgctxt "LOCALIZE_STAFF008"
+msgid "Barbara Young(Aksys Games)"
+msgstr "Барбара Янґ (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF009
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アレックス　ヴァリエー
+msgctxt "LOCALIZE_STAFF009"
+msgid "Alex Valle(Aksys Games)"
+msgstr "Алекс Валле (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF010
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ジェッド　パスコ(Aksys Games)
+msgctxt "LOCALIZE_STAFF010"
+msgid "Jed Pasco(Aksys Games)"
+msgstr "Джед Паско (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF011
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: マイケル　マンザナレス(Aksys Games)
+msgctxt "LOCALIZE_STAFF011"
+msgid "Michael Manzanares(Aksys Games)"
+msgstr "Майкл Манзанарес (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF012
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF012"
+msgid "Jaewoon Yu"
+msgstr "Джеун Ю"
+
+#. Key: LOCALIZE_STAFF013
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF013"
+msgid "SeonYeong Choi"
+msgstr "Сонйон Чхве"
+
+#. Key: LOCALIZE_STAFF014
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF014"
+msgid "ChungKuen Ha"
+msgstr "Чонґкуен Ха"
+
+#. Key: LOCALIZE_STAFF015
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF015"
+msgid "Kayoung Jung"
+msgstr "Кайон Чон"
+
+#. Key: LOCALIZE_STAFF016
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF016"
+msgid "Fang Si Chi"
+msgstr "Фан Си Чі"
+
+#. Key: LOCALIZE_STAFF017
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 黄　政凱(Arc System Works)
+msgctxt "LOCALIZE_STAFF017"
+msgid "Seigai Kou(ArcSystemWorks)"
+msgstr "Сейґай Ко (ArcSystemWorks)"
+
+#. Key: LOCALIZE_STAFF018
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: サム　バエック
+msgctxt "LOCALIZE_STAFF018"
+msgid "Sam Baek"
+msgstr "Сем Бек"
+
+#. Key: LOCALIZE_STAFF019
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: クリス　ヒューグズ
+msgctxt "LOCALIZE_STAFF019"
+msgid "Chris Hughes"
+msgstr "Кріс Г'юз"
+
+#. Key: LOCALIZE_STAFF020
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ジャレッド　メルバック
+msgctxt "LOCALIZE_STAFF020"
+msgid "Jared Merback"
+msgstr "Джаред Мербек"
+
+#. Key: LOCALIZE_STAFF021
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: マリー　スー
+msgctxt "LOCALIZE_STAFF021"
+msgid "Mary Sue To"
+msgstr "Мері Сью То"
+
+#. Key: LOCALIZE_STAFF022
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アーロン　バーガー(Aksys Games)
+msgctxt "LOCALIZE_STAFF022"
+msgid "Aaron Berger(Aksys Games)"
+msgstr "Аарон Берґер (Aksys Games)"
+
+#. Key: LOCALIZE_STAFF023
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF023"
+msgid "Triumvir"
+msgstr "Triumvir"
+
+#. Key: LOCALIZE_STAFF024
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF024"
+msgid "Mana Energy Potion"
+msgstr "Mana Energy Potion"
+
+#. Key: LOCALIZE_STAFF025
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF025"
+msgid "Mad Catz, Inc."
+msgstr "Mad Catz, Inc."
+
+#. Key: LOCALIZE_STAFF026
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF026"
+msgid "DJ OHNO"
+msgstr "DJ OHNO"
+
+#. Key: LOCALIZE_STAFF027
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF027"
+msgid "MarkMan O_O"
+msgstr "MarkMan O_O"
+
+#. Key: LOCALIZE_STAFF028
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF028"
+msgid "Dustloop.com"
+msgstr "Dustloop.com"
+
+#. Key: LOCALIZE_STAFF029
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF029"
+msgid "Shoryuken.com"
+msgstr "Shoryuken.com"
+
+#. Key: LOCALIZE_STAFF030
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "LOCALIZE_STAFF030"
+msgid "All Arcade Operators"
+msgstr "УСІ ОПЕРАТОРИ АРКАДНИХ АВТОМАТІВ"
+
+#. Key: PUBLIC_STAFF00
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 今野　裕介
+msgctxt "PUBLIC_STAFF00"
+msgid "Yusuke Konno "
+msgstr "Юсуке Конно"
+
+#. Key: PUBLIC_STAFF01
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 小野江　修司
+msgctxt "PUBLIC_STAFF01"
+msgid "Shuji Onoe"
+msgstr "Шюджі Оноє"
+
+#. Key: PUBLIC_STAFF02
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 濱畑　めぐみ
+msgctxt "PUBLIC_STAFF02"
+msgid "Megumi Hamahata"
+msgstr "Меґумі Хамахата"
+
+#. Key: PUBLIC_STAFF03
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 西澤　直美
+msgctxt "PUBLIC_STAFF03"
+msgid "Naomi Nishizawa"
+msgstr "Наомі Нішізава"
+
+#. Key: PUBLIC_STAFF04
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 斎藤　義樹
+msgctxt "PUBLIC_STAFF04"
+msgid "Yoshiki Saito"
+msgstr "Йошікі Сайто"
+
+#. Key: PUBLIC_STAFF05
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 保坂　十夢
+msgctxt "PUBLIC_STAFF05"
+msgid "Tomu Hosaka"
+msgstr "Тому Хосака"
+
+#. Key: THANKYOU_000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アミューズメントメディア総合学院
+msgctxt "THANKYOU_000"
+msgid "Amusement Media Academy"
+msgstr "Amusement Media Academy"
+
+#. Key: THANKYOU_001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: ソフトバンク クリエイティブ株式会社
+msgctxt "THANKYOU_001"
+msgid "SOFTBANK Creative Corp. "
+msgstr "SOFTBANK Creative Corp."
+
+#. Key: THANKYOU_002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 大村　耕史
+msgctxt "THANKYOU_002"
+msgid "Koji Omura"
+msgstr "Коджі Омура"
+
+#. Key: THANKYOU_003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 森　大和
+msgctxt "THANKYOU_003"
+msgid "Yamato Mori"
+msgstr "Ямато Морі"
+
+#. Key: THANKYOU_004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ドワンゴ
+msgctxt "THANKYOU_004"
+msgid "DOWANGI Co.,Ltd"
+msgstr "DOWANGI Co.,Ltd"
+
+#. Key: THANKYOU_005
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社マテリアル
+msgctxt "THANKYOU_005"
+msgid "Material Co.,Ltd"
+msgstr "Material Co.,Ltd"
+
+#. Key: THANKYOU_006
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 東　義和
+msgctxt "THANKYOU_006"
+msgid "Yoshikazu Azuma"
+msgstr "Йошіказу Азума"
+
+#. Key: THANKYOU_007
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 谷内田　彰久
+msgctxt "THANKYOU_007"
+msgid "Akihisa Yachida"
+msgstr "Акіхіса Ячіда"
+
+#. Key: THANKYOU_008
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社全力エージェンシー
+msgctxt "THANKYOU_008"
+msgid "Zenryoku Agency Co.,Ltd"
+msgstr "Zenryoku Agency Co.,Ltd"
+
+#. Key: THANKYOU_009
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 香取　佳和
+msgctxt "THANKYOU_009"
+msgid "Yoshikazu Katori"
+msgstr "Йошіказу Каторі"
+
+#. Key: THANKYOU_010
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ソニー・コンピュータエンタテインメント
+msgctxt "THANKYOU_010"
+msgid "Sony　Computer　Entertainment　Inc."
+msgstr "Sony Computer Entertainment Inc."
+
+#. Key: THANKYOU_011
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 内田　禎一
+msgctxt "THANKYOU_011"
+msgid "Teiichi Uchida"
+msgstr "Тейічі Учіда"
+
+#. Key: THANKYOU_012
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 浅野　剛史
+msgctxt "THANKYOU_012"
+msgid "Takeshi Asano"
+msgstr "Такеші Асано"
+
+#. Key: THANKYOU_013
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: マイクロソフト株式会社
+msgctxt "THANKYOU_013"
+msgid "Microsoft Co., Ltd."
+msgstr "Microsoft Co., Ltd."
+
+#. Key: THANKYOU_014
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 竹内　仁志
+msgctxt "THANKYOU_014"
+msgid "Hitoshi Takeuchi"
+msgstr "Хітоші Такеучі"
+
+#. Key: THANKYOU_015
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 永井　望
+msgctxt "THANKYOU_015"
+msgid "Nozomu Nagai"
+msgstr "Нозому Наґаї"
+
+#. Key: THANKYOU_016
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 千葉　慎二
+msgctxt "THANKYOU_016"
+msgid "Shinji Chiba"
+msgstr "Шінджі Чіба"
+
+#. Key: THANKYOU_017
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 清水　ヒデ
+msgctxt "THANKYOU_017"
+msgid "Hide Shimizu"
+msgstr "Хіде Шімізу"
+
+#. Key: THANKYOU_018
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 宇野　敦
+msgctxt "THANKYOU_018"
+msgid "Atsushi Uno"
+msgstr "Ацуші Уно"
+
+#. Key: THANKYOU_019
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 緒方　貴宏
+msgctxt "THANKYOU_019"
+msgid "Takahiro Ogata"
+msgstr "Такахіро Оґата"
+
+#. Key: THANKYOU_020
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 市川　清晃
+msgctxt "THANKYOU_020"
+msgid "Teruaki Ichikawa"
+msgstr "Теруакі Ічікава"
+
+#. Key: THANKYOU_021
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 武内　彩
+msgctxt "THANKYOU_021"
+msgid "Aya Takeuchi"
+msgstr "Ая Такеучі"
+
+#. Key: THANKYOU_022
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: メモリーテック株式会社
+msgctxt "THANKYOU_022"
+msgid "Memory-Tech Corporation"
+msgstr "Memory-Tech Corporation"
+
+#. Key: THANKYOU_023
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社セガ
+msgctxt "THANKYOU_023"
+msgid "SEGA Co.,Ltd"
+msgstr "SEGA Co.,Ltd"
+
+#. Key: THANKYOU_024
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ホリ
+msgctxt "THANKYOU_024"
+msgid "HORI Co.,Ltd"
+msgstr "HORI Co.,Ltd"
+
+#. Key: THANKYOU_025
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 倉持　祥司
+msgctxt "THANKYOU_025"
+msgid "Shojji Kuramochi"
+msgstr "Шоджі Курамочі"
+
+#. Key: THANKYOU_026
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 有限会社スタージャムコーポレーション
+msgctxt "THANKYOU_026"
+msgid "Star Jam Corporation"
+msgstr "Star Jam Corporation"
+
+#. Key: THANKYOU_027
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社エンターブレイン
+msgctxt "THANKYOU_027"
+msgid "ENTERBRAIN, INC."
+msgstr "ENTERBRAIN, INC."
+
+#. Key: THANKYOU_028
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: NECビッグローブ株式会社
+msgctxt "THANKYOU_028"
+msgid "NEC BIGLOBE, Ltd."
+msgstr "NEC BIGLOBE, Ltd."
+
+#. Key: THANKYOU_029
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ラインファーム
+msgctxt "THANKYOU_029"
+msgid "Linefarm,Inc."
+msgstr "Linefarm,Inc."
+
+#. Key: THANKYOU_030
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ティームエンタテインメント
+msgctxt "THANKYOU_030"
+msgid "TEAM Entertainment Inc."
+msgstr "TEAM Entertainment Inc."
+
+#. Key: THANKYOU_031
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 藤田　慎吾
+msgctxt "THANKYOU_031"
+msgid "Shingo Fujita"
+msgstr "Шінґо Фуджіта"
+
+#. Key: THANKYOU_032
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 安部　秀之
+msgctxt "THANKYOU_032"
+msgid "Hideyuki Anbe"
+msgstr "Хідеюкі Анбе"
+
+#. Key: THANKYOU_033
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 田口　和憲
+msgctxt "THANKYOU_033"
+msgid "Kazunori Taguchi"
+msgstr "Казунорі Таґучі"
+
+#. Key: THANKYOU_034
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 原　浩
+msgctxt "THANKYOU_034"
+msgid "Hiroshi Hara"
+msgstr "Хіроші Хара"
+
+#. Key: THANKYOU_035
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 黄　政凱
+msgctxt "THANKYOU_035"
+msgid "Seigai Kou"
+msgstr "Сейґай Ко"
+
+#. Key: THANKYOU_036
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 柚口　俊佑
+msgctxt "THANKYOU_036"
+msgid "Shunsuke Yuguchi"
+msgstr "Шюнсуке Юґучі"
+
+#. Key: THANKYOU_037
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "THANKYOU_037"
+msgid "Arc System Works ALL STAFFS"
+msgstr "УСЯ КОМАНДА ARC SYSTEM WORKS"
+
+#. Key: THANKYOU_038
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 順不同
+msgctxt "THANKYOU_038"
+msgid "in random order "
+msgstr "У ДОВІЛЬНОМУ ПОРЯДКУ"
+
+#. Key: GONZO_COMPANY
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ゴンゾ
+msgctxt "GONZO_COMPANY"
+msgid "GONZO K .K ."
+msgstr "GONZO K .K ."
+
+#. Key: GONZO_WORK_00
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 絵コンテ
+msgctxt "GONZO_WORK_00"
+msgid "CONTINUITY"
+msgstr "РОЗКАДРУВАННЯ"
+
+#. Key: GONZO_WORK_01
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 演出/原画
+msgctxt "GONZO_WORK_01"
+msgid "CARTOON ANIMATION"
+msgstr "ПРОМІЖНА АНІМАЦІЯ"
+
+#. Key: GONZO_WORK_02
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アニメーションキャラクターデザイン
+msgctxt "GONZO_WORK_02"
+msgid "ANIMATION CHARACTER DESIGNER"
+msgstr "ДИЗАЙНЕР ПЕРСОНАЖІВ АНІМАЦІЇ"
+
+#. Key: GONZO_WORK_03
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 作画監督
+msgctxt "GONZO_WORK_03"
+msgid "ANIMATION DIRECTOR"
+msgstr "РЕЖИСЕР АНІМАЦІЇ"
+
+#. Key: GONZO_WORK_04
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 色彩設計
+msgctxt "GONZO_WORK_04"
+msgid "COLOR DESIGN"
+msgstr "КОЛІРНЕ ОФОРМЛЕННЯ"
+
+#. Key: GONZO_WORK_05
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 撮影
+msgctxt "GONZO_WORK_05"
+msgid "PHOTOGRAPHING"
+msgstr "КОМПОЗИТИНГ"
+
+#. Key: GONZO_WORK_06
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 背景
+msgctxt "GONZO_WORK_06"
+msgid "BACKGROUND DESIGN"
+msgstr "ДИЗАЙН ТЛА"
+
+#. Key: GONZO_WORK_07
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 編集
+msgctxt "GONZO_WORK_07"
+msgid "EDITORIAL STAFF"
+msgstr "МОНТАЖ"
+
+#. Key: GONZO_WORK_08
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 動画検査
+msgctxt "GONZO_WORK_08"
+msgid "ANIMATION INSPECTOR"
+msgstr "КОНТРОЛЬ ПРОМІЖНОЇ АНІМАЦІЇ"
+
+#. Key: GONZO_WORK_09
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 特効
+msgctxt "GONZO_WORK_09"
+msgid "SPECIAL EFFECTS"
+msgstr "СПЕЦЕФЕКТИ"
+
+#. Key: GONZO_WORK_10
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 制作プロデューサー
+msgctxt "GONZO_WORK_10"
+msgid "PRODUCER"
+msgstr "ПРОДЮСЕР"
+
+#. Key: GONZO_WORK_11
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 制作進行
+msgctxt "GONZO_WORK_11"
+msgid "DIRECTOR"
+msgstr "РЕЖИСЕР"
+
+#. Key: GONZO_WORK_12
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: アニメーション制作
+msgctxt "GONZO_WORK_12"
+msgid "Animation Created "
+msgstr "СТВОРЕННЯ АНІМАЦІЇ"
+
+#. Key: GONZO_NAME_00
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 田中　宏紀
+msgctxt "GONZO_NAME_00"
+msgid "Hironori Tanaka"
+msgstr "Хіронорі Танака"
+
+#. Key: GONZO_NAME_01
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 長澤　諒司
+msgctxt "GONZO_NAME_01"
+msgid "Ryouji Nagasawa"
+msgstr "Рьоджі Наґасава"
+
+#. Key: GONZO_NAME_02
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 北村　直樹
+msgctxt "GONZO_NAME_02"
+msgid "Naoki Kitamura"
+msgstr "Наокі Кітамура"
+
+#. Key: GONZO_NAME_03
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 岡野　亜友未
+msgctxt "GONZO_NAME_03"
+msgid "Ayumi Okano"
+msgstr "Аюмі Окано"
+
+#. Key: GONZO_NAME_04
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 杉山　祐子
+msgctxt "GONZO_NAME_04"
+msgid "Yuko Sugiyama"
+msgstr "Юко Суґіяма"
+
+#. Key: GONZO_NAME_05
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 坂倉　敦子
+msgctxt "GONZO_NAME_05"
+msgid "Atsuko Sakakura"
+msgstr "Ацуко Сакакура"
+
+#. Key: GONZO_NAME_06
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 新妻　雅行
+msgctxt "GONZO_NAME_06"
+msgid "Masayuki Niituma"
+msgstr "Масаюкі Нііцума"
+
+#. Key: GONZO_NAME_07
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 羽根　広舟
+msgctxt "GONZO_NAME_07"
+msgid "Hirofune Hane"
+msgstr "Хірофуне Хане"
+
+#. Key: GONZO_NAME_08
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 梶原　芳郎
+msgctxt "GONZO_NAME_08"
+msgid "Yosirou Kajiwara"
+msgstr "Йошіро Каджівара"
+
+#. Key: GONZO_NAME_09
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 須藤　岳
+msgctxt "GONZO_NAME_09"
+msgid "Gaku Sudou"
+msgstr "Ґаку Судо"
+
+#. Key: GONZO_NAME_10
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 齋藤　朱里
+msgctxt "GONZO_NAME_10"
+msgid "Akari Saitou"
+msgstr "Акарі Сайто"
+
+#. Key: GONZO_NAME_11
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 上原　真生人
+msgctxt "GONZO_NAME_11"
+msgid "Makito Uehara"
+msgstr "Макіто Уехара"
+
+#. Key: GONZO_NAME_12
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 益子　典子
+msgctxt "GONZO_NAME_12"
+msgid "Noriko Masiko"
+msgstr "Норіко Машіко"
+
+#. Key: GONZO_NAME_13
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 柴田　知典
+msgctxt "GONZO_NAME_13"
+msgid "Tomonori Shibata"
+msgstr "Томонорі Шібата"
+
+#. Key: GONZO_NAME_14
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 奥山　真吾
+msgctxt "GONZO_NAME_14"
+msgid "Singo Okuyama"
+msgstr "Шінґо Окуяма"
+
+#. Key: GONZO_NAME_15
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 株式会社ゴンゾ＜第５スタジオ＞
+msgctxt "GONZO_NAME_15"
+msgid "GONZO K .K ."
+msgstr "GONZO K .K ."
+
+#. Key: EX_STAFF_000
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 谷村　誠
+msgctxt "EX_STAFF_000"
+msgid "Makoto Tanimura"
+msgstr "Макото Танімура"
+
+#. Key: EX_STAFF_001
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 中尾　陽子
+msgctxt "EX_STAFF_001"
+msgid "Haruko Nakao"
+msgstr "Харуко Накао"
+
+#. Key: EX_STAFF_002
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 岡　幹也
+msgctxt "EX_STAFF_002"
+msgid "Mikiya Oka"
+msgstr "Мікія Ока"
+
+#. Key: EX_STAFF_003
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 神保　隆司
+msgctxt "EX_STAFF_003"
+msgid "Takashi Jinbo"
+msgstr "Такаші Джімбо"
+
+#. Key: EX_STAFF_004
+#. Source: system/StaffRollCons_StaffRoll0 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+#. JA: 猫谷　薙
+msgctxt "EX_STAFF_004"
+msgid "Nagi Nekoya"
+msgstr "Наґі Некоя"
+
+#. Key: TITLE_000
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_000"
+msgid "VOICE ACTORS"
+msgstr "АКТОРИ ОЗВУЧЕННЯ"
+
+#. Key: TITLE_001
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_001"
+msgid "PLANNING"
+msgstr "ПЛАНУВАННЯ"
+
+#. Key: TITLE_002
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_002"
+msgid "PROGRAM"
+msgstr "ПРОГРАМУВАННЯ"
+
+#. Key: TITLE_003
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_003"
+msgid "ARTWORK"
+msgstr "ГРАФІКА"
+
+#. Key: TITLE_004
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_004"
+msgid "SOUND"
+msgstr "ЗВУК"
+
+#. Key: TITLE_005
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_005"
+msgid "GAME BALANCE ADVISER"
+msgstr "КОНСУЛЬТАНТ З ІГРОВОГО БАЛАНСУ"
+
+#. Key: TITLE_006
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_006"
+msgid "DEBUGGING STAFF"
+msgstr "КОМАНДА НАЛАГОДЖЕННЯ"
+
+#. Key: TITLE_007
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_007"
+msgid "THANK YOU"
+msgstr "ПОДЯКИ"
+
+#. Key: TITLE_008
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_008"
+msgid "U.S. Localization"
+msgstr "ЛОКАЛІЗАЦІЯ ДЛЯ США"
+
+#. Key: TITLE_009
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_009"
+msgid "PUBLIC RELATIONS"
+msgstr "ЗВ'ЯЗКИ З ГРОМАДСЬКІСТЮ"
+
+#. Key: TITLE_010
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_010"
+msgid "SALES MANAGEMENT"
+msgstr "КЕРУВАННЯ ПРОДАЖАМИ"
+
+#. Key: TITLE_011
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_011"
+msgid "PRODUCER"
+msgstr "ПРОДЮСЕР"
+
+#. Key: TITLE_012
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_012"
+msgid "EXECUTIVE PRODUCER"
+msgstr "ВИКОНАВЧИЙ ПРОДЮСЕР"
+
+#. Key: TITLE_013
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_013"
+msgid "DIRECTOR"
+msgstr "РЕЖИСЕР"
+
+#. Key: TITLE_014
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_014"
+msgid "STAFF"
+msgstr "КОМАНДА"
+
+#. Key: TITLE_015
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_015"
+msgid "SOUND"
+msgstr "ЗВУК"
+
+#. Key: TITLE_016
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_016"
+msgid "Korean Translation"
+msgstr "КОРЕЙСЬКИЙ ПЕРЕКЛАД"
+
+#. Key: TITLE_017
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_017"
+msgid "Chinese Translation"
+msgstr "КИТАЙСЬКИЙ ПЕРЕКЛАД"
+
+#. Key: TITLE_018
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_018"
+msgid "PRODUCTION DIRECTOR"
+msgstr "КЕРІВНИК ВИРОБНИЦТВА"
+
+#. Key: TITLE_019
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_019"
+msgid "GENERAL DIRECTOR"
+msgstr "ГОЛОВНИЙ РЕЖИСЕР"
+
+#. Key: TITLE_020
+#. Source: system/StaffRollCons_StaffRoll2 (data/ETC/Text_Eng/StaffRollCons.pac)
+#. Context: Credits
+msgctxt "TITLE_020"
+msgid "ANIMATION PART"
+msgstr "АНІМАЦІЙНА ЧАСТИНА"

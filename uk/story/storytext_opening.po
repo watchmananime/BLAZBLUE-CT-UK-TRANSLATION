@@ -1,0 +1,600 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: PRG0_001
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 5・4・3・2・1、コンタクト。
+msgctxt "PRG0_001"
+msgid "5, 4, 3, 2, 1, contact."
+msgstr "5, 4, 3, 2, 1. Контакт."
+
+#. Key: PRG0_002
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 第十二素体、規定震度まで到達。
+msgctxt "PRG0_002"
+msgid "Subject 12, approaching required levels."
+msgstr "Носій № 12 досяг установленого рівня коливань."
+
+#. Key: PRG0_003
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 境界接触値は0.003から0.005を維持、安定しています。
+msgctxt "PRG0_003"
+msgid "Boundary sync rate increasing to 0.005 from 0.003...stable."
+msgstr "Показник контакту з Межею стабільний і тримається між 0,003 та 0,005."
+
+#. Key: PRG0_103
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 照射魔素量は2万から3万ラドレムの安全域を推移。
+msgctxt "PRG0_103"
+msgid "Seithr exposure levels increasing to 30,000...levels are all acceptable."
+msgstr ""
+"Рівень опромінення маною в безпечному діапазоні від 20 000 до 30 000\n"
+"радремів."
+
+#. Key: PRG0_203
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 時空湾曲数位、問題無し。
+msgctxt "PRG0_203"
+msgid "Time distortion within acceptable limits."
+msgstr "Показники викривлення простору-часу в нормі."
+
+#. Key: PRG0_004
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 境界からのフィードバック、ありません。
+msgctxt "PRG0_004"
+msgid "No feedback from the Boundary."
+msgstr "Відгуку від Межі немає."
+
+#. Key: PRG0_005
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 続いて第8フェイズに移行します。
+msgctxt "PRG0_005"
+msgid "Now proceeding to Phase 8."
+msgstr "Переходимо до восьмої фази."
+
+#. Key: PRG0_006
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: ここまでは順調か……。
+msgctxt "PRG0_006"
+msgid "The best we've had so far..."
+msgstr "Досі все йде добре..."
+
+#. Key: PRG0_007
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: では、12～24フェイズまではカット。
+msgctxt "PRG0_007"
+msgid "Cut phases 12 through 24."
+msgstr "Тоді пропустіть фази з дванадцятої до двадцять четвертої."
+
+#. Key: PRG0_107
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 湾曲数位が誤差3以内なら29から36もカットしろ。
+msgctxt "PRG0_107"
+msgid "If the warp coefficient is within 3 units of nominal, cut phases 29 through 36 too."
+msgstr ""
+"Якщо відхилення показника викривлення не перевищить трьох одиниць,\n"
+"пропустіть також фази з двадцять дев'ятої до тридцять шостої."
+
+#. Key: PRG0_207
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: このまま一気に精錬まで持って行く。
+msgctxt "PRG0_207"
+msgid "Let's take this straight to the tempering phase."
+msgstr "Відразу доведемо процес до виплавлення."
+
+#. Key: PRG0_008
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 了解。
+msgctxt "PRG0_008"
+msgid "Roger."
+msgstr "Зрозуміло."
+
+#. Key: PRG0_108
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Narrator
+#. Context: Opening sequence
+#. JA: 第12～24フェイズをカット。素体の深度を500下げます。
+msgctxt "PRG0_108"
+msgid "Cutting phases 12 through 24. Increasing depth by 500."
+msgstr ""
+"Пропускаємо фази з дванадцятої до двадцять четвертої. Опускаємо носій\n"
+"на 500."
+
+#. Key: PRG0_009
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: 主任、いささか性急なのでは？
+msgctxt "PRG0_009"
+msgid "Sir, don't you think you're going a little too fast?"
+msgstr "Керівнику, чи не надто ми поспішаємо?"
+
+#. Key: PRG0_010
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 構わんよ。47回もシミュレートしたのだ。
+msgctxt "PRG0_010"
+msgid "No. We've done 47 simulated runs."
+msgstr "Нічого страшного. Ми провели 47 симуляцій."
+
+#. Key: PRG0_110
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: お陰で第十一素体は使い物にならなくなったがね。
+msgctxt "PRG0_110"
+msgid "Our hesitance before made Subject 11 useless."
+msgstr "Щоправда, через них носій № 11 став непридатним."
+
+#. Key: PRG0_210
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: それに……そろそろ結果を出さないと第七機関がうるさい。
+msgctxt "PRG0_210"
+msgid "Besides...if I don't produce results soon, we'll be hearing from Sector Seven."
+msgstr ""
+"До того ж... якщо ми найближчим часом не покажемо результату,\n"
+"Сектор Сім здійме галас."
+
+#. Key: PRG0_011
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 目標深度まであと200。
+msgctxt "PRG0_011"
+msgid "200 to target depth."
+msgstr "До цільової глибини — 200."
+
+#. Key: PRG0_012
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: シェオルの門の開放……本当に実現するのでしょうか？
+msgctxt "PRG0_012"
+msgid ""
+"The Gates of Sheol are opening...\n"
+"Do you really think it'll show?"
+msgstr "Відкриття брами Шеолу... Невже нам справді це вдасться?"
+
+#. Key: PRG0_013
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: その為にここまでやったのだ。今更、後戻りは出来ん！
+msgctxt "PRG0_013"
+msgid "That's why all of this—all of us are here, isn't it? We can hardly get cold feet now."
+msgstr "Заради цього ми й зайшли так далеко. Тепер дороги назад немає!"
+
+#. Key: PRG0_113
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 先に精錬を成功させれば、我々は強大な力を手に入れ優位に立てる。
+msgctxt "PRG0_113"
+msgid "If this works, the power at our fingertips will far outstrip any other."
+msgstr ""
+"Якщо ми першими успішно завершимо виплавлення, то здобудемо\n"
+"величезну силу й отримаємо перевагу."
+
+#. Key: PRG0_213
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: そうすれば統制機構なんぞに従う必要も無くなる―――
+msgctxt "PRG0_213"
+msgid "The Library will not be at liberty to order us around."
+msgstr "Тоді нам більше не доведеться коритися Організації Контролю..."
+
+#. Key: PRG0_014
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: まあ、これは上の奴らの考えだが、
+msgctxt "PRG0_014"
+msgid "...Well, that's the higher-ups speaking, not me."
+msgstr "Утім, так міркує наше керівництво."
+
+#. Key: PRG0_114
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 私は純粋に錬金術師として、科学者として―――
+msgctxt "PRG0_114"
+msgid "To be honest, as a scientist..."
+msgstr "А я просто як алхімік і науковець..."
+
+#. Key: PRG0_214
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: この門の先にあるモノが見てみたい……。
+msgctxt "PRG0_214"
+msgid "I just want to see what's on the other side of that gate."
+msgstr "...хочу побачити, що лежить за цією брамою."
+
+#. Key: PRG0_015
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: ……自分もです。
+msgctxt "PRG0_015"
+msgid "We all do, sir."
+msgstr "...Я теж."
+
+#. Key: PRG0_016
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 目標深度まであと100。攻性障壁展開……。
+msgctxt "PRG0_016"
+msgid "100 to target depth. Deploying barrier."
+msgstr "До цільової глибини — 100. Розгортаємо бойовий бар'єр..."
+
+#. Key: PRG0_116
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 数値安定、誤差0.5。安定しています。
+msgctxt "PRG0_116"
+msgid "Coefficients are stabilizing. Values within 0.5 deviation from nominal."
+msgstr "Показники стабільні, відхилення — 0,5. Усе стабільно."
+
+#. Key: PRG0_017
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: 前回の不安定さが嘘のようですね……。
+msgctxt "PRG0_017"
+msgid "It's hard to believe how far we've come..."
+msgstr "Важко повірити, що минулого разу все було таким нестабільним..."
+
+#. Key: PRG0_018
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 目標深度到達、攻性障壁、安定しています。
+msgctxt "PRG0_018"
+msgid "Target depth reached. Barrier stabilizing."
+msgstr "Цільової глибини досягнуто. Бойовий бар'єр стабільний."
+
+#. Key: PRG0_118
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 続いて第42フェイズに移行。
+msgctxt "PRG0_118"
+msgid "Now entering phase 42."
+msgstr "Переходимо до сорок другої фази."
+
+#. Key: PRG0_019
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 攻性障壁一部開放、接触値を0.001に。
+msgctxt "PRG0_019"
+msgid "Releasing barrier section A. Sync rate adjusted to 0.001."
+msgstr "Частково відкриваємо бойовий бар'єр. Показник контакту — 0,001."
+
+#. Key: PRG0_119
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 照射魔素量を7万5千ラドレムに増加。
+msgctxt "PRG0_119"
+msgid "Seithr exposure levels are at 75,000."
+msgstr "Збільшуємо рівень опромінення маною до 75 000 радремів."
+
+#. Key: PRG0_219
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: オールグリーン。誤差、全て想定内です。
+msgctxt "PRG0_219"
+msgid "All systems green. All levels within established safety margins."
+msgstr "Усі показники в нормі. Відхилення не виходять за розрахункові межі."
+
+#. Key: PRG0_020
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: ……精錬開始。
+msgctxt "PRG0_020"
+msgid "...Begin tempering."
+msgstr "...Почати виплавлення."
+
+#. Key: PRG0_021
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 精錬開始します。
+msgctxt "PRG0_021"
+msgid "Tempering process beginning."
+msgstr "Починаємо виплавлення."
+
+#. Key: PRG0_022
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: さあ、我々に見せてくれ。
+msgctxt "PRG0_022"
+msgid "Now, show us..."
+msgstr "А тепер покажи нам..."
+
+#. Key: PRG0_122
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: この世界の理<ruby>ことわり</ruby>、「蒼」の力を！
+msgctxt "PRG0_122"
+msgid "The universal truth... The power of the Azure!"
+msgstr "...закони цього світу — силу Лазурі!"
+
+#. Key: PRG0_023
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 事象平面硬化。
+msgctxt "PRG0_023"
+msgid "Subject surface solidifying."
+msgstr "Площина подій твердне."
+
+#. Key: PRG0_123
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 第12素体、「繭<ruby>まゆ</ruby>」の精製を開始しました。
+msgctxt "PRG0_123"
+msgid "Now constructing stasis cocoon for subject 12."
+msgstr "Носій № 12 розпочав формування «кокона»."
+
+#. Key: PRG0_024
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: おぉ……これが……。
+msgctxt "PRG0_024"
+msgid "Whoa...this is..."
+msgstr "О-о... То ось воно що..."
+
+#. Key: PRG0_025
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 空間硬化……時の繭か……。
+msgctxt "PRG0_025"
+msgid "Time-space is frozen... A cocoon of time..."
+msgstr "Затвердіння простору... Кокон часу..."
+
+#. Key: PRG0_028
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: どうした!?
+msgctxt "PRG0_028"
+msgid "What's wrong!?"
+msgstr "Що сталося?!"
+
+#. Key: PRG0_029
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: 精錬は実行中、窯は全て正常です！
+msgctxt "PRG0_029"
+msgid ""
+"Tempering is proceeding as planned!\n"
+"The Cauldron appears normal!"
+msgstr "Виплавлення триває, Котел працює нормально!"
+
+#. Key: PRG0_030
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 施設上空に異常魔素濃度検出、6000、8000、12000……。
+msgctxt "PRG0_030"
+msgid "Extremely high seithr concentration detected, directly above this facility!"
+msgstr ""
+"Над комплексом виявлено аномальну концентрацію мани: 6 000, 8 000,\n"
+"12 000..."
+
+#. Key: PRG0_130
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Narrator
+#. Context: Opening sequence
+#. JA: 数値が止まりません！
+msgctxt "PRG0_130"
+msgid "6000, 8000, 12000..."
+msgstr "Показник не зупиняється!"
+
+#. Key: PRG0_031
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: な、何!?
+msgctxt "PRG0_031"
+msgid "Wh-What!?"
+msgstr "Щ-що?!"
+
+#. Key: PRG0_032
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 濃度、尚も上昇！　34000、42000、58000、72000！
+msgctxt "PRG0_032"
+msgid "Concentration levels climbing rapidly! 34,000, 58,000! If they continue to increase"
+msgstr "Концентрація й далі зростає! 34 000, 42 000, 58 000, 72 000!"
+
+#. Key: PRG0_132
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Narrator
+#. Context: Opening sequence
+#. JA: このままでは、空間濃度の臨界を超えます！
+msgctxt "PRG0_132"
+msgid "at this rate, the seithr concentration is going to reach critical levels!"
+msgstr "Так ми перевищимо критичну концентрацію в цьому просторі!"
+
+#. Key: PRG0_033
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: まさか統制機構が！？
+msgctxt "PRG0_033"
+msgid "Is it the Library!?"
+msgstr "Невже це Організація Контролю?!"
+
+#. Key: PRG0_034
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: ありえん！
+msgctxt "PRG0_034"
+msgid "Impossible!"
+msgstr "Неможливо!"
+
+#. Key: PRG0_134
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: いくら統制機構でも――
+msgctxt "PRG0_134"
+msgid "Not even the Library..."
+msgstr "Навіть Організація Контролю..."
+
+#. Key: PRG0_234
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 一定空間にこれ程の魔素を集約させる技術などある訳が無い！
+msgctxt "PRG0_234"
+msgid "could concentrate this much seithr in one place... There's no way!"
+msgstr "...не має технології, здатної зосередити стільки мани в одному просторі!"
+
+#. Key: PRG0_334
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 至急集約点を割り出せ！　最優先だ！！
+msgctxt "PRG0_334"
+msgid "I want the point of concentration! Now!"
+msgstr "Негайно визначте точку зосередження! Це найвищий пріоритет!!"
+
+#. Key: PRG0_035
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 空間濃度10万を超えます！
+msgctxt "PRG0_035"
+msgid "Concentration to exceed 100,000!"
+msgstr "Концентрація от-от перевищить 100 000!"
+
+#. Key: PRG0_036
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: クッ、ここまで来て……！
+msgctxt "PRG0_036"
+msgid "Agh... After coming this far...!"
+msgstr "Кх, ми ж зайшли так далеко...!"
+
+#. Key: PRG0_136
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Narrator
+#. Context: Opening sequence
+#. JA: 精錬実験中止！　全ての電源を落とせ！
+msgctxt "PRG0_136"
+msgid "Abort the experiment! Cut all power!"
+msgstr "Припинити дослід із виплавлення! Вимкнути все живлення!"
+
+#. Key: PRG0_037
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: 了解、電源落とします！
+msgctxt "PRG0_037"
+msgid "Roger! Cutting all power!"
+msgstr "Зрозуміло! Вимикаємо живлення!"
+
+#. Key: PRG0_038
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Researcher A
+#. Context: Opening sequence
+#. JA: 主任！　電源が落ちません！
+msgctxt "PRG0_038"
+msgid "S-Sir! We can't cut the power!"
+msgstr "Керівнику! Живлення не вимикається!"
+
+#. Key: PRG0_039
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 何だと!?　おい、機関の連中はどうした？至急上に連絡を取れ！
+msgctxt "PRG0_039"
+msgid "What!? What the hell is Sector Seven doing!?"
+msgstr "Що?! А Сектор Сім чим займається? Негайно зв'яжіться з керівництвом!"
+
+#. Key: PRG0_139
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: クソッ！　こんな時に第<ruby>ヤ</ruby>七<ruby>ツ</ruby>機<ruby>ら</ruby>関は一体何をやっている!?
+msgctxt "PRG0_139"
+msgid "Get them online! What the hell are they doing at a time like this!?"
+msgstr "Чорт! Чим ці виродки із Сектору Сім займаються в таку мить?!"
+
+#. Key: PRG0_040
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: 集約点算出完了、ポイントAのAの1。
+msgctxt "PRG0_040"
+msgid "Point of concentration determined: Point A-A-1."
+msgstr "Точку зосередження обчислено: A-A-1."
+
+#. Key: PRG0_140
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Operator
+#. Context: Opening sequence
+#. JA: ……嘘!?　イカルガ直上!?　高度36000地点です！！
+msgctxt "PRG0_140"
+msgid "...Sir! It's directly above Ikaruga! Altitude 36,000 feet!"
+msgstr "...Пане! Просто над Ібукідо! Висота — 36 000!!"
+
+#. Key: PRG0_041
+#. Source: story/storytext_opening (data/Story/Text/eng/storytext_opening.pac)
+#. Speaker: Lead Scientist
+#. Context: Opening sequence
+#. JA: 馬鹿な！！！　衛星軌道だと！？
+msgctxt "PRG0_041"
+msgid "Impossible!? It's going into orbit!?"
+msgstr "Неможливо!!! Супутникова орбіта?!"

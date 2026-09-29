@@ -1,0 +1,4838 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: CAL0_001
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 木の葉の隙間から心地よいお日様の光が降り注ぎ、
+#. JA:   僕はその暖かさで目を覚ましました。
+#. JA:   
+msgctxt "CAL0_001"
+msgid ""
+"Comfortable rays of light shine through the leaves,\n"
+"waking me up with their gentle warmth.\n"
+msgstr ""
+"Приємне сонячне проміння лилося крізь листя, і його тепло розбудило\n"
+"мене.\n"
+
+#. Key: CAL0_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 体を起こすと、側に姉さんがいました。
+#. JA:   僕を傍らで見守っていてくれたのでしょう。
+#. JA:   
+msgctxt "CAL0_002"
+msgid ""
+"When I come to, my sister is standing next to me.\n"
+"I'm sure she was watching over me, protecting me.\n"
+msgstr ""
+"Коли я підвівся, поруч була сестра. Мабуть, увесь цей час вона\n"
+"пильнувала мене.\n"
+
+#. Key: CAL0_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 「姉さん、おはよう」
+msgctxt "CAL0_003"
+msgid "<DQ>Good morning, Sis.<DQ>"
+msgstr "«Доброго ранку, сестро.»"
+
+#. Key: CAL0_005
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 
+#. JA:   「いい天気だね、姉さん。
+#. JA:   　僕達を祝福してくれているみたいだ。そう思わない？」
+msgctxt "CAL0_005"
+msgid ""
+"\n"
+"<DQ>Isn't it nice out today?\n"
+" Seems like the heavens are blessing us. Don't you think so?<DQ>"
+msgstr ""
+"\n"
+"«Яка гарна погода, сестро. Наче саме небо благословляє нас. Тобі так не\n"
+"здається?»"
+
+#. Key: CAL0_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL0_006"
+msgid ""
+"\n"
+"<DQ>...<DQ>"
+msgstr ""
+"\n"
+"«...»"
+
+#. Key: CAL0_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 
+#. JA:   「うん……分かってる。あんまりのんびりしていられないもんね」
+msgctxt "CAL0_007"
+msgid ""
+"\n"
+"<DQ>Yes...I know. We can't be relaxing just yet, right?<DQ>"
+msgstr ""
+"\n"
+"«Так... Я знаю. Нам не можна надто довго відпочивати.»"
+
+#. Key: CAL0_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 
+#. JA:   姉さんに促されて、僕は立ち上がりました。
+msgctxt "CAL0_008"
+msgid ""
+"\n"
+"After being urged by my sister, I stand up."
+msgstr ""
+"\n"
+"Сестра підштовхнула мене, і я звівся на ноги."
+
+#. Key: CAL0_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: もうじき「カグツチ」の中心部へと辿り着きます。
+#. JA:   目的のためにも、こんなところでのんびりとはしていられません。
+msgctxt "CAL0_009"
+msgid ""
+"Soon, we will arrive at the central part of Kagutsuchi.\n"
+"We can't afford to waste any more time here."
+msgstr ""
+"Незабаром ми дістанемося центральної частини Каґуцучі. Заради нашої\n"
+"мети не можна гаяти тут час."
+
+#. Key: CAL0_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL0_010"
+msgid ""
+"\n"
+"<DQ>...<DQ>"
+msgstr ""
+"\n"
+"«...»"
+
+#. Key: CAL0_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 「とりあえず、この近くにオリエントタウンという街が
+#. JA:   　あるみたいだから、そこに行ってみよう」
+msgctxt "CAL0_011"
+msgid ""
+"\n"
+"<DQ>Well, there seems to be a place called Orient Town nearby, so let's go over there.<DQ>"
+msgstr ""
+"\n"
+"«Неподалік начебто є місто Орієнт-таун. Спершу ходімо туди.»"
+
+#. Key: CAL0_012
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL0_012"
+msgid ""
+"\n"
+"<DQ>...<DQ>"
+msgstr ""
+"\n"
+"«...»"
+
+#. Key: CAL0_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 
+#. JA:   「そうだね、親切な人がいるといいね。
+#. JA:   　ラグナ＝ザ＝ブラッドエッジのことを教えてもらえると、
+#. JA:   　いろいろ手間が省けると思うし」
+msgctxt "CAL0_013"
+msgid ""
+"\n"
+"<DQ>Yeah, I hope the people are nice, too.\n"
+" I also hope they can give us information on Ragna the Bloodedge.\n"
+" That'll save us some trouble, too.<DQ>"
+msgstr ""
+"\n"
+"«Так, сподіваюся, там знайдуться добрі люди. Якщо вони розкажуть нам\n"
+"про Раґну Бладеджа, це значно полегшить справу.»"
+
+#. Key: CAL0_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 
+#. JA:   「じゃあ、行こう、姉さん」
+msgctxt "CAL0_014"
+msgid ""
+"\n"
+"<DQ>Shall we go, Sis?<DQ>"
+msgstr ""
+"\n"
+"«Тоді ходімо, сестро.»"
+
+#. Key: CAL0_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 
+#. JA:   降り注ぐ木漏れ日が本当に綺麗な朝でした。
+#. JA:   
+#. JA:   いつかまた、この森を姉さんと二人で散歩したいな……。
+#. JA:   そう願わずにはいられない、暖かな、暖かな日差しでした。
+msgctxt "CAL0_016"
+msgid ""
+"\n"
+"The light shining through the trees makes this such a beautiful morning.\n"
+"\n"
+"I hope I can walk through this area again with you someday, Sis...\n"
+"The light feels so warm, I can't help but think those thoughts."
+msgstr ""
+"\n"
+"То був прекрасний ранок, залитий сонячним промінням крізь листя.\n"
+"\n"
+"Я мимоволі бажав колись знову прогулятися цим лісом удвох із\n"
+"сестрою... Таким теплим, напрочуд теплим було сонячне світло."
+
+#. Key: CAL1_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: さて……と。ラグナ＝ザ＝ブラッドエッジはどこにいるんだろうね？
+#. JA:   まずは情報収集をしないとどうにもならないよ。
+msgctxt "CAL1_002"
+msgid ""
+"Now...I wonder where Ragna the Bloodedge could be...\n"
+"Let's gather some information first."
+msgstr "Ну що ж... Де може бути Раґна Бладедж? Спершу треба зібрати відомості."
+
+#. Key: CAL1_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん、たくさん歩くことになると思うけど、
+#. JA:   疲れたらすぐにいってね。
+msgctxt "CAL1_003"
+msgid ""
+"I think we're going to have to do some walking, Sis, but tell me when you're tired,\n"
+"OK?"
+msgstr ""
+"Сестро, гадаю, нам доведеться багато ходити. Якщо втомишся, одразу\n"
+"скажи."
+
+#. Key: CAL1_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL1_004"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL1_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: おう、そこのちっちゃい人！
+#. JA:   オマエ、「らぐにゃ」しらないか？
+msgctxt "CAL1_006"
+msgid "Hey, you! Small one over there! Do you know of <DQ>Rawrgna<DQ>?"
+msgstr "Гей, малий! Ти не знаєш, де «Раґня»?"
+
+#. Key: CAL1_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……ん、「らぐにゃ」……？
+msgctxt "CAL1_007"
+msgid "... Hm? <DQ>Rawrgna<DQ>...?"
+msgstr "...Гм? «Раґня»...?"
+
+#. Key: CAL1_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: おう！　ここにやってきた、だいあくとーってやつだニャ！
+msgctxt "CAL1_008"
+msgid "Yeah! He's the... what's it called? The <DQ>big bad villain<DQ> that came here!"
+msgstr "Ага! Він той... як його... «страшний лиходій», що сюди прийшов, няв!"
+
+#. Key: CAL1_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: それはひょっとしてラグナ＝ザ＝ブラッドエッジのことですか？
+msgctxt "CAL1_009"
+msgid "Oh, are you talking about Ragna the Bloodedge?"
+msgstr "Ви часом не про Раґну Бладеджа?"
+
+#. Key: CAL1_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: そうだニャ！
+#. JA:   タオ、「らぐにゃ」つかまえるニャ！
+#. JA:   そしたらいっぱいいっぱいオカネもらえるニャス！
+msgctxt "CAL1_010"
+msgid "Meow! That's it! Tao must capture <DQ>Rawrgna<DQ>! Then I'll get lots n' lots of money!"
+msgstr ""
+"Так, няв! Тао мусить упіймати «Раґню»! Тоді Тао отримає багато-багато\n"
+"грошей, няв!"
+
+#. Key: CAL1_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 君は……「咎追い」なの？
+msgctxt "CAL1_011"
+msgid "Are you...a vigilante?"
+msgstr "Ти... мисливиця за головами?"
+
+#. Key: CAL1_012
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: 「とがおい」？
+#. JA:   なんだー、それ、うまいのかニャス？
+msgctxt "CAL1_012"
+msgid "<DQ>Vigilante<DQ>? What's that? Is that yummy?"
+msgstr "«Мисливиця за головами»? А що це? Воно смачне, няв?"
+
+#. Key: CAL1_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: え、えーっと……「咎追い」っていうのは―――
+msgctxt "CAL1_013"
+msgid "Uh...umm...a vigilante is..."
+msgstr "Е-е... Мисливець за головами — це..."
+
+#. Key: CAL1_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: なんだか不思議な子でした。
+#. JA:   男の子なのか、女の子なのかもよく分かりません。
+msgctxt "CAL1_014"
+msgid ""
+"She's a strange girl...\n"
+"...Although, to tell the truth, I'm not sure if she's a boy or a girl..."
+msgstr ""
+"Вона була дивною дитиною. Я навіть не розумів, хлопчик це чи\n"
+"дівчинка."
+
+#. Key: CAL1_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 頭の上で時折動く耳は、どうやら本物のようです。
+#. JA:   亜人という種族には士官学校の頃に会ったことはありましたが、この子は僕が出会った亜人とはまたどこか違うような気がしました。
+msgctxt "CAL1_015"
+msgid ""
+"It does appear that the ears on her head are real, however. I met <DQ>beastmen<DQ>\n"
+"while I was at the Academy, but this creature seems...different."
+msgstr ""
+"Вуха на її голові час від часу ворушилися й, схоже, були справжніми. В\n"
+"академії я вже зустрічав «звіролюдей», але ця дитина чимось\n"
+"відрізнялася від усіх них."
+
+#. Key: CAL1_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ―――というわけで、犯罪者を捕まえてお金を稼ぐ人たちのことを、
+#. JA:   世間では「咎追い」って呼んでるんです。
+msgctxt "CAL1_016"
+msgid ""
+"...and so, people who capture wanted criminals and get money for it are referred to\n"
+"as <DQ>vigilantes<DQ> by the general public."
+msgstr ""
+"...Отже, людей, які ловлять злочинців за винагороду, називають\n"
+"«мисливцями за головами»."
+
+#. Key: CAL1_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: んー……。タオ、むずかしーハナシは苦手ニャス……。
+msgctxt "CAL1_017"
+msgid "Uh...Tao doesn't like complicated stories..."
+msgstr "Гм... Тао не любить складних пояснень, няв..."
+
+#. Key: CAL1_018
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: そ、そんなに難しい説明だったとは思えませんが……。
+msgctxt "CAL1_018"
+msgid "I...I don't think it was too complicated..."
+msgstr "Н-не думаю, що моє пояснення було аж таким складним..."
+
+#. Key: CAL1_019
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: とりあえずタオが「とがにゃんとか」なのはわかったニャス！
+msgctxt "CAL1_019"
+msgid "OK, so anyway, I understand that I'm a <DQ>vigi-something<DQ>!"
+msgstr "Хай там як, Тао зрозуміла, що вона «мисливиця за чимось там», няв!"
+
+#. Key: CAL1_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL1_020"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL1_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: う、うん、そうだね、姉さん……。
+#. JA:   頭より先に体を動かすタイプなのかもね。
+msgctxt "CAL1_021"
+msgid ""
+"Ah, mm-hm, you're probably right, Sis. Perhaps she's the type who learns through\n"
+"experience, rather than from a lecture."
+msgstr ""
+"Т-так, мабуть, ти маєш рацію, сестро... Певно, вона з тих, хто спершу діє,\n"
+"а вже потім думає."
+
+#. Key: CAL1_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: ん？　体動かすのは得意だぞ！
+#. JA:   試してみるかニャス？
+msgctxt "CAL1_022"
+msgid "Huh? I love moving around! You want to play with me?"
+msgstr "Га? Тао добре вміє рухатися! Хочеш перевірити, няв?"
+
+#. Key: CAL1_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: え……？　お手合わせ、ですか？
+#. JA:   別に、構いませんけど……。
+msgctxt "CAL1_023"
+msgid "Huh...? You want to spar? I guess I don't mind..."
+msgstr "Що?.. Ви пропонуєте позмагатися? Я не проти..."
+
+#. Key: CAL1_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL1_024"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL1_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 心配しなくても大丈夫、油断しないよ。
+#. JA:   獣人の身体能力は知ってるし……。
+#. JA:   それにこの子はあんまり強くなさそうだもの。
+msgctxt "CAL1_025"
+msgid ""
+"Don't worry, I'll be fine. I won't let my guard down. I'm aware of the physical\n"
+"capabilities of beastmen... And she doesn't seem to be so strong, either."
+msgstr ""
+"Не хвилюйся, я буду обережним. Я знаю, на що здатне тіло\n"
+"звіролюдини... Та й ця дитина не здається надто сильною."
+
+#. Key: CAL1_026
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: 誰としゃべってるニャ？
+#. JA:   それじゃ、いっくニャスー！
+msgctxt "CAL1_026"
+msgid ""
+"Meow, who are you talking to?\n"
+"Heeere I cooome!"
+msgstr "З ким ти говориш, няв? Ну тоді Тао починає!"
+
+#. Key: CAL1_032
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: この身体能力……！
+#. JA:   少し見積もりが甘かった、みたいだ……。
+#. JA:   ごめんね、姉さん……。
+msgctxt "CAL1_032"
+msgid "Her strength...! I guess I underestimated her... I'm sorry, Sis..."
+msgstr "Яка фізична сила...! Схоже, я трохи її недооцінив... Вибач, сестро..."
+
+#. Key: CAL1_033
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: 見たか、ちっちゃい人！
+#. JA:   タオはなかなか凄いのニャス！
+msgctxt "CAL1_033"
+msgid "That's right, small one! Tao is tough!"
+msgstr "Бачив, малий? Тао неабияка силачка, няв!"
+
+#. Key: CAL1_034
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: うっ……。
+msgctxt "CAL1_034"
+msgid "Ungh..."
+msgstr "Кх..."
+
+#. Key: CAL1_036
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: ……ん？
+#. JA:   で、なんでちっちゃい人とタオは戦ってたニャス？
+msgctxt "CAL1_036"
+msgid "...Hm? Why was I sparring with the short one?"
+msgstr "...Га? А чого малий із Тао билися, няв?"
+
+#. Key: CAL1_037
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: う～ん。
+#. JA:   よく分からにゃいけど、こういう時は乳の人の出番ニャス！
+msgctxt "CAL1_037"
+msgid "Hmm... I don't remember... OH, I know... I'll ask the boobie lady!"
+msgstr "Гм-м... Тао не розуміє. У таких випадках потрібна Цицькаста Пані, няв!"
+
+#. Key: CAL1_039
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: お～～～～い、乳の人～～～～っ！
+msgctxt "CAL1_039"
+msgid "Heeeeeeeeeeeeeey, boobie lady!"
+msgstr "Ге-е-е-ей, Цицькаста Пані-і-і!"
+
+#. Key: CAL1_045
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: あれ……なんか……せかいが、まわる、ニャス……。
+msgctxt "CAL1_045"
+msgid "Huh..? I don't know why...but..the world...is spinning..."
+msgstr "Няв... Чомусь... усе навколо крутиться, няв..."
+
+#. Key: CAL1_047
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ふう…。すごい身体能力だったね、姉さん。
+#. JA:   いい勉強になったよ。
+#. JA:   やっぱり人を見かけで判断してはいけないって……。あ、猫か。
+msgctxt "CAL1_047"
+msgid ""
+"Phew... She was a strong one, wasn't she, Sis?\n"
+"It was a good lesson. I guess I can't judge a person by their looks...I mean...cat."
+msgstr ""
+"Хух... Вона мала дивовижну фізичну силу, еге ж, сестро? Я засвоїв\n"
+"добрий урок: не можна судити людину за зовнішністю... А, вона ж кішка."
+
+#. Key: CAL1_049
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: にゃっにゃにゃーん！
+msgctxt "CAL1_049"
+msgid "MEOWMEOWMEOW!"
+msgstr "Ня-ня-ня-я-я!"
+
+#. Key: CAL1_050
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……えっ!?
+msgctxt "CAL1_050"
+msgid "...Ack!"
+msgstr "...Що!?"
+
+#. Key: CAL1_051
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: んー、今のはタオの負けなのネ。
+#. JA:   だからもっかいやるニャス！
+#. JA:   今度はタオ、負けないニャス！
+msgctxt "CAL1_051"
+msgid ""
+"Hmm...I think I lost. So we play again!\n"
+"I won't lose this time!"
+msgstr ""
+"Гм-м, цього разу Тао програла. Тому зіграємо ще раз, няв! Тепер Тао не\n"
+"програє!"
+
+#. Key: CAL1_052
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: じ、冗談じゃない……。
+msgctxt "CAL1_052"
+msgid "Y-You must be kidding me..."
+msgstr "Н-ні, дякую..."
+
+#. Key: CAL1_053
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 逃げよう、姉さん。
+#. JA:   体がもたないよ……。
+msgctxt "CAL1_053"
+msgid "Let's run for it, Sis. I won't last if we keep this up..."
+msgstr "Тікаймо, сестро. Моє тіло більше не витримає..."
+
+#. Key: CAL1_055
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: むっ！　待つニャス～！
+#. JA:   追っかけっこなら負けないニャス～！
+msgctxt "CAL1_055"
+msgid "Hey! You wait! Come back here! You can't outrun me!"
+msgstr "Гей! Стійте, няв! У доганялках Тао не програє!"
+
+#. Key: CAL2_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL2_002"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL2_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Unknown on screen; internally Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: もう、駄目じゃない、タオ！
+#. JA:   知らない人に怪我させちゃいけないっていつもいってるでしょう？
+msgctxt "CAL2_003"
+msgid ""
+"Tao! Bad girl!\n"
+"Don't I always tell you to not hurt strangers?"
+msgstr "Тао, так не можна! Я ж постійно кажу тобі не кривдити незнайомців!"
+
+#. Key: CAL2_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Taokaka
+#. Context: Carl story route (POV: Carl)
+#. JA: でも怪我させたからちゃんと乳の人のとこに連れてきたぞ！
+#. JA:   タオ、ちゃんと言われたこと守ってるニャス！
+msgctxt "CAL2_004"
+msgid "But since I hurt him, I brought him to you Boobie Lady! I did exactly as I was told!"
+msgstr ""
+"Але Тао його скривдила й тому принесла до Цицькастої Пані! Тао\n"
+"зробила саме те, що їй казали, няв!"
+
+#. Key: CAL2_005
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Unknown on screen; internally Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: 本当に分かってるのかしら……って、もういないし……。
+#. JA:   いつまで経っても私の名前覚えてくれないし……。
+#. JA:   困った子ね……。
+msgctxt "CAL2_005"
+msgid ""
+"Are you sure you understand? *sigh* Off she goes. And she still doesn't remember\n"
+"my name... What am I gonna do with her...?"
+msgstr ""
+"Чи ти справді зрозуміла?.. А вже втікла... І мого імені ніяк не\n"
+"запам'ятає... От клопіт із цією дитиною..."
+
+#. Key: CAL2_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: う、ん……。
+msgctxt "CAL2_006"
+msgid "Ugh...ungh..."
+msgstr "М-м..."
+
+#. Key: CAL2_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: ……あら、起こしてしまったかしら？
+msgctxt "CAL2_007"
+msgid "...Oh, did I wake you?"
+msgstr "...Ой, я тебе розбудила?"
+
+#. Key: CAL2_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ここは……？
+msgctxt "CAL2_008"
+msgid "Where am I...?"
+msgstr "Де я...?"
+
+#. Key: CAL2_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あなたが……治療して下さったんですか？
+msgctxt "CAL2_010"
+msgid "Did you take care of me?"
+msgstr "Це ви... мене вилікували?"
+
+#. Key: CAL2_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: ええ。
+#. JA:   タオがここまで運んでくれたのよ。
+msgctxt "CAL2_011"
+msgid "Yes. Tao brought you here."
+msgstr "Так. Тао принесла тебе сюди."
+
+#. Key: CAL2_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: と言っても、貴方に怪我させたのもタオなんだけど。
+msgctxt "CAL2_013"
+msgid "...Even though she's the reason why you're here in the first place."
+msgstr "Хоча поранила тебе теж Тао."
+
+#. Key: CAL2_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: そうですか……ありがとうございました。
+#. JA:   何のお礼もできずに恐縮なのですが、
+#. JA:   僕、大事な用事があるのでもう行かないと……。
+msgctxt "CAL2_014"
+msgid ""
+"I see... Thank you very much. I feel bad that I can't do anything to repay my debt,\n"
+"but I have important business, so I must be off now..."
+msgstr ""
+"Зрозуміло... Щиро дякую. Мені ніяково йти, нічим не віддячивши, але я\n"
+"маю важливу справу, тож мушу вже рушати..."
+
+#. Key: CAL2_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: ちょっと……！
+#. JA:   まだ動いては駄目よ！
+msgctxt "CAL2_016"
+msgid "Wait...! You shouldn't move yet."
+msgstr "Зачекай! Тобі ще не можна рухатися!"
+
+#. Key: CAL2_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ほっといてくださいっ！
+msgctxt "CAL2_017"
+msgid "Please leave me alone!"
+msgstr "Залиште мене в спокої!"
+
+#. Key: CAL2_019
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: すみません、本当に急いでるんです……。
+#. JA:   お金が必要なら、すぐ持ってきますから。
+msgctxt "CAL2_019"
+msgid "I'm very sorry, but I'm really in a rush... If you need money, I'll bring it immediately."
+msgstr ""
+"Пробачте, я справді поспішаю... Якщо вам потрібні гроші, я невдовзі їх\n"
+"принесу."
+
+#. Key: CAL2_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: お金のことなんてどうでもいいわ。
+#. JA:   その傷で動くのは危険だっていってるの。
+msgctxt "CAL2_020"
+msgid "Money isn't the issue here. It's dangerous to walk around with that injury."
+msgstr "Гроші тут ні до чого. Я кажу, що з такою раною небезпечно рухатися."
+
+#. Key: CAL2_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: この人はどうして見ず知らずの僕に
+#. JA:   こんなにも親切にしようとするのでしょう。
+#. JA:   それが僕には分かりませんでした。
+msgctxt "CAL2_021"
+msgid ""
+"Why is this person being so kind to me...? She's a complete stranger...\n"
+"I don't understand."
+msgstr ""
+"Чому ця жінка так піклувалася про зовсім незнайомого хлопчика? Я не\n"
+"міг цього зрозуміти."
+
+#. Key: CAL2_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 何か別の目的があるような気がしました。
+msgctxt "CAL2_022"
+msgid "She must have an ulterior motive.."
+msgstr "Мені здавалося, що вона має якусь іншу мету."
+
+#. Key: CAL2_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 心配して頂くのはありがたいんですけど……。
+#. JA:   僕に何があってもあなたには関係ありませんし……。
+msgctxt "CAL2_023"
+msgid ""
+"I'm very thankful that you are concerned...but even if something did happen to me,\n"
+"it's none of your business, either..."
+msgstr ""
+"Я вдячний за турботу... Але хоч би що зі мною сталося, вас це не\n"
+"стосується..."
+
+#. Key: CAL2_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: そんな悲しいことを言わないで……。
+msgctxt "CAL2_024"
+msgid "Don't say things like that... "
+msgstr "Не кажи таких сумних речей..."
+
+#. Key: CAL2_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL2_025"
+msgid "...!"
+msgstr "...!"
+
+#. Key: CAL2_027
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Unknown on screen
+#. Context: Carl story route (POV: Carl)
+#. JA: ―――そんな悲しいことを言わないで、カルル……。
+msgctxt "CAL2_027"
+msgid "Don't say stuff like that, Carl..."
+msgstr "Не кажи таких сумних речей, Карле..."
+
+#. Key: CAL2_028
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……うっ！
+msgctxt "CAL2_028"
+msgid "...Ugh!"
+msgstr "...Кх!"
+
+#. Key: CAL2_029
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: ほら！　無理をするから！　……大丈夫!?
+msgctxt "CAL2_029"
+msgid "See! You shouldn't push yourself! ...Are you all right?"
+msgstr "От бачиш! Не можна так надриватися! Ти цілий?"
+
+#. Key: CAL2_030
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: だ、大丈夫です！
+#. JA:   すぐに治まりますから……！
+msgctxt "CAL2_030"
+msgid ""
+"I-I'm fine!\n"
+"It'll get better soon...!"
+msgstr "У-усе гаразд! Скоро минеться...!"
+
+#. Key: CAL2_031
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: でも……。
+msgctxt "CAL2_031"
+msgid "But—"
+msgstr "Але..."
+
+#. Key: CAL2_032
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: いいんです、本当に。
+#. JA:   ありがとうございました。お礼はいずれ、また……。
+msgctxt "CAL2_032"
+msgid ""
+"I'm fine, really. Thank you.\n"
+"I'll find a way to thank you...someday..."
+msgstr ""
+"Я справді в нормі. Дякую вам. Якось іншим разом я обов'язково\n"
+"віддячу..."
+
+#. Key: CAL2_033
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 行こう、姉さん。
+msgctxt "CAL2_033"
+msgid "Sis, let's go."
+msgstr "Ходімо, сестро."
+
+#. Key: CAL2_034
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL2_034"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL2_036
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: 待って！
+msgctxt "CAL2_036"
+msgid "Wait!"
+msgstr "Зачекай!"
+
+#. Key: CAL2_038
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL2_038"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL2_039
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: あの人形はおそらく―――
+msgctxt "CAL2_039"
+msgid "That marionette might be—"
+msgstr "Та лялька, мабуть..."
+
+#. Key: CAL2_040
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: ……放っておくわけには……いかないわ。
+msgctxt "CAL2_040"
+msgid "...I can't leave it roaming around."
+msgstr "...Не можна просто... залишити її напризволяще."
+
+#. Key: CAL3_001
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……姉さん、大丈夫？
+msgctxt "CAL3_001"
+msgid "...Are you all right, Sis?"
+msgstr "...Сестро, з тобою все гаразд?"
+
+#. Key: CAL3_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL3_002"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL3_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: うん、僕も少し休むよ。
+#. JA:   だから心配しないで。
+msgctxt "CAL3_003"
+msgid "Yeah, I'll rest for a bit, too. So don't worry."
+msgstr "Так, я теж трохи відпочину. Тому не хвилюйся."
+
+#. Key: CAL3_005
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: !?
+#. JA:   ここは、いったい？
+msgctxt "CAL3_005"
+msgid ""
+"!?\n"
+"Where are we?"
+msgstr "!? Де це ми?"
+
+#. Key: CAL3_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: …いらっしゃい。
+#. JA:   私がここに呼んだのよ。
+msgctxt "CAL3_007"
+msgid "...Welcome, child. I have invited you here."
+msgstr "...Вітаю. Це я покликала вас сюди."
+
+#. Key: CAL3_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: よ、呼んだ……!?　あの……僕達に何か用ですか？
+msgctxt "CAL3_008"
+msgid "I...Invited!? Um...what do you want with us?"
+msgstr "П-покликала!? Ем... Вам щось від нас потрібно?"
+
+#. Key: CAL3_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 少し貴方と遊んであげようと思ってね。
+msgctxt "CAL3_009"
+msgid "I thought perhaps we would play for a time."
+msgstr "Я подумала, що трохи з тобою пограюся."
+
+#. Key: CAL3_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……あ、遊ぶ……？
+#. JA:   僕は夢をみてるのかな……。
+msgctxt "CAL3_010"
+msgid "...P...Play...? Am I dreaming...?"
+msgstr "...П-пограєтеся?.. Може, я сплю?"
+
+#. Key: CAL3_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 残念だけど違うわ。
+#. JA:   さあ、私が誘ってあげているのよ。すぐに用意なさい。
+msgctxt "CAL3_011"
+msgid "Unfortunately, no. I have invited you here. Prepare yourself, boy."
+msgstr "На жаль, ні. Я сама тебе запрошую, тож негайно готуйся."
+
+#. Key: CAL3_012
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 申し訳ありませんが……僕たち、少々疲れていて……。
+#. JA:   別の方に声をかけて頂けないでしょうか？
+msgctxt "CAL3_012"
+msgid "My apologies, but we're a little tired... Can you invite someone else?"
+msgstr ""
+"Перепрошую, але ми трохи втомилися... Чи не могли б ви запросити\n"
+"когось іншого?"
+
+#. Key: CAL3_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 突如見たこともないような見知らぬ土地に迷い込む、
+#. JA:   というにわかには信じられない出来事を体験しながらも、
+#. JA:   僕はなぜかそのことにはあまり疑いを持っていませんでした。
+msgctxt "CAL3_013"
+msgid ""
+"This...this place is awfully strange...\n"
+"I can't quite find the words to describe it, but it seems real enough..."
+msgstr ""
+"Хоч я й пережив неймовірну подію — раптом опинився в цілком\n"
+"незнайомому місці, — чомусь майже не сумнівався в тому, що сталося."
+
+#. Key: CAL3_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: ただ、嫌な予感がして……。
+#. JA:   早くここから去らなければという気持ちが先行したのです。
+msgctxt "CAL3_014"
+msgid "I have a bad feeling about this... It's best if I leave quickly."
+msgstr ""
+"Просто мене охопило лихе передчуття... і бажання якнайшвидше піти\n"
+"звідси."
+
+#. Key: CAL3_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 駄目よ。
+#. JA:   私に声をかけられたこと、光栄に思いなさい。
+#. JA:   それとも、強制力が必要かしら。
+msgctxt "CAL3_015"
+msgid "No. Receiving an invitation from me is a great honor. Accepting is not optional."
+msgstr ""
+"Ні. Вважай за честь, що я до тебе звернулася. Чи, може, тебе доведеться\n"
+"примусити?"
+
+#. Key: CAL3_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 素直に帰してはくれそうにないね……。
+#. JA:   どうしよう、姉さん？
+msgctxt "CAL3_016"
+msgid "Seems like we don't have much of an option... What should we do, Sis?"
+msgstr "Схоже, просто так вона нас не відпустить... Що робитимемо, сестро?"
+
+#. Key: CAL3_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL3_017"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL3_019
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん！
+#. JA:   どうしたの？
+msgctxt "CAL3_019"
+msgid "Sis!? What's wrong?"
+msgstr "Сестро! Що з тобою?"
+
+#. Key: CAL3_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL3_020"
+msgid "...!"
+msgstr "...!"
+
+#. Key: CAL3_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あの子が、“危険”だっていうの？
+msgctxt "CAL3_021"
+msgid "Are you saying...she's dangerous?"
+msgstr "Ти кажеш, що ця дівчина небезпечна?"
+
+#. Key: CAL3_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 私が危険？
+#. JA:   ふふっ……おかしなことをいう坊やね。
+msgctxt "CAL3_022"
+msgid ""
+"Me? Dangerous?\n"
+"*giggle* You -are- amusing."
+msgstr "Я — небезпечна? Хе-хе... Який кумедний хлопчик."
+
+#. Key: CAL3_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 君は……一体……？
+msgctxt "CAL3_023"
+msgid "What are you...?"
+msgstr "Хто... ти така?"
+
+#. Key: CAL3_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 言ったでしょう、遊んであげるって。
+#. JA:   ただし遊ぶのは―――
+msgctxt "CAL3_024"
+msgid ""
+"Weren't you listening? I said we're going to play.\n"
+"...But I'm only interested..."
+msgstr "Я ж сказала, що пограюся з тобою. Але гратися я буду..."
+
+#. Key: CAL3_026
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL3_026"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL3_027
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: “貴方”とだけね。
+msgctxt "CAL3_027"
+msgid "...in you."
+msgstr "Лише з тобою."
+
+#. Key: CAL3_028
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……姉さん!?
+msgctxt "CAL3_028"
+msgid "...Sis!?"
+msgstr "...Сестро!?"
+
+#. Key: CAL3_029
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: さあ、おいでなさい、坊や。
+msgctxt "CAL3_029"
+msgid "Now come over here, boy. It's time we begin."
+msgstr "А тепер іди сюди, хлопчику."
+
+#. Key: CAL3_030
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さんに何をしたっ!?
+#. JA:   元に……元に戻せ！
+msgctxt "CAL3_030"
+msgid "What did you do to my sister!? Ch-Change her back!"
+msgstr "Що ти зробила із сестрою!? Поверни... поверни її назад!"
+
+#. Key: CAL3_031
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 遊びが終わったら解放してあげる。
+msgctxt "CAL3_031"
+msgid "Don't worry. I'll release her when we're finished."
+msgstr "Коли гра скінчиться, я її звільню."
+
+#. Key: CAL3_032
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……くっ！
+msgctxt "CAL3_032"
+msgid "...Grr!"
+msgstr "...Кх!"
+
+#. Key: CAL3_038
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん……姉さん……！
+msgctxt "CAL3_038"
+msgid "Sis... Sis...!"
+msgstr "Сестро... сестро...!"
+
+#. Key: CAL3_040
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 駄目ね、これでは……。
+#. JA:   お守<ruby>もり</ruby>がなくては何もできないようでは、
+#. JA:   この舞台に上がるにはまだ早いわ。
+msgctxt "CAL3_040"
+msgid ""
+"Oh dear, this won't do at all.\n"
+"The most you can muster without your sister's aid is this pitiful display?\n"
+"You are still an understudy, not worthy of performing on this stage."
+msgstr ""
+"Ні, так не годиться... Якщо без няньки ти ні на що не здатен, виходити\n"
+"на цю сцену тобі ще зарано."
+
+#. Key: CAL3_041
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 次に会う時はもう少し立派な騎<ruby>ナイ</ruby>士<ruby>ト</ruby>になってることを願うわ。
+msgctxt "CAL3_041"
+msgid "I pray the next time we meet, you'll be more of a knight and less of a child."
+msgstr ""
+"Сподіваюся, до нашої наступної зустрічі ти станеш трохи гіднішим\n"
+"лицарем."
+
+#. Key: CAL3_043
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん……ごめんね……。
+msgctxt "CAL3_043"
+msgid "I'm sorry...Sis..."
+msgstr "Сестро... пробач..."
+
+#. Key: CAL3_049
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: ……まあ、こんなものかしらね。
+msgctxt "CAL3_049"
+msgid "...Hmm. I expected as much."
+msgstr "...Що ж, приблизно цього я й очікувала."
+
+#. Key: CAL3_051
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL3_051"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL3_052
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……姉さん！　大丈夫？　怪我はない？
+msgctxt "CAL3_052"
+msgid "...Sis! Are you OK? Are you hurt?"
+msgstr "...Сестро! Ти ціла? Не поранена?"
+
+#. Key: CAL3_053
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 貴方のその姉離れできない甘ったれた性格と
+#. JA:   今にも泣き出しそうな気弱そうな顔……正直、気に入らないの。
+msgctxt "CAL3_053"
+msgid ""
+"Honestly... You're a co-dependant introvert, and you're constantly on the verge of\n"
+"tears. Perhaps if you could tear yourself away from you sister, you'd be less of a\n"
+"petulant infant."
+msgstr ""
+"Якщо чесно, мені не до вподоби твоя розпещеність, нездатність\n"
+"відірватися від сестри й це боязке обличчя, яке от-от заплаче."
+
+#. Key: CAL3_054
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: な……!?
+msgctxt "CAL3_054"
+msgid "Ng..."
+msgstr "Що...!?"
+
+#. Key: CAL3_055
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: フフッ。
+#. JA:   でも、楽しませてくれたお礼にいいことを教えてあげる。
+msgctxt "CAL3_055"
+msgid ""
+"Heheh. But you have provided me with entertainment, so I will reward you with what\n"
+"you desire—information."
+msgstr "Хе-хе. Та на знак подяки за розвагу я розповім тобі дещо корисне."
+
+#. Key: CAL3_056
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……いい、こと？
+msgctxt "CAL3_056"
+msgid "...Useful?"
+msgstr "...Корисне?"
+
+#. Key: CAL3_057
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 貴方が“それ”を真に解放したいと願うのなら、
+#. JA:   さらなる「アークエネミー」を手に入れなさい。
+msgctxt "CAL3_057"
+msgid "If you really wish to liberate...that...you will need a much better Nox Nyctores."
+msgstr "Якщо ти справді бажаєш звільнити її, здобудь іще один Арк-Енемі."
+
+#. Key: CAL3_058
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: アークエネミー…
+msgctxt "CAL3_058"
+msgid "Nox Nyctores..."
+msgstr "Арк-Енемі..."
+
+#. Key: CAL3_059
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 貴方のよく知る人間が持っている物よ。
+#. JA:   貴方も目にしたことがあるのではなくて？
+msgctxt "CAL3_059"
+msgid "I believe someone you know quite well has one. You've probably even seen it before."
+msgstr "Ним володіє людина, яку ти добре знаєш. Хіба ти сам його не бачив?"
+
+#. Key: CAL3_060
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕のよく知る人間……？
+msgctxt "CAL3_060"
+msgid "Someone I know really well...?"
+msgstr "Людина, яку я добре знаю...?"
+
+#. Key: CAL3_061
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: そうね……ヒントをあげるわ。
+#. JA:   貴方がまだ統制機構の保護下にあった頃に出会った人物。
+msgctxt "CAL3_061"
+msgid ""
+"Let's see...I'll give you a hint. It's a person you met while you were still under the\n"
+"supervision of the NOL."
+msgstr ""
+"Що ж... дам тобі підказку. Це хтось, кого ти зустрів, коли ще перебував\n"
+"під опікою Організації Контролю."
+
+#. Key: CAL3_062
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 「イカルガの英雄」とその秘書官―――
+#. JA:   といえばさすがにわかるかしら？
+msgctxt "CAL3_062"
+msgid "The <DQ>Hero of Ikaruga<DQ> and his assistant... Surely I don't need to spell it out for you?"
+msgstr "«Герой Ікаруґи» та його помічниця. Тепер ти вже напевно зрозумів."
+
+#. Key: CAL3_063
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: まさか……ジン＝キサラギとノエル＝ヴァーミリオン……？
+msgctxt "CAL3_063"
+msgid "You don't mean...Jin Kisaragi and Noel Vermillion...?"
+msgstr "Невже... Джін Кісараґі та Ноель Верміліон...?"
+
+#. Key: CAL3_064
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: そういうこと。
+#. JA:   二人は今、この街にいるわ。
+#. JA:   もっとも、いつまで無事でいるかは分からないけれど。
+msgctxt "CAL3_064"
+msgid ""
+"How refreshing to know you can think after all. They are here, in this town, as we\n"
+"speak, although I do not know how much longer they will be safe."
+msgstr ""
+"Саме так. Вони обоє зараз у цьому місті. Щоправда, не знаю, як довго ще\n"
+"залишатимуться неушкодженими."
+
+#. Key: CAL3_065
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……君は、一体……？
+#. JA:   そんなことを僕に教えてどうするつもりなの？
+msgctxt "CAL3_065"
+msgid ""
+"...Who are you?\n"
+"Why are you telling me this?"
+msgstr "...Хто ти така? Навіщо розповідаєш мені це?"
+
+#. Key: CAL3_066
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: さあ？
+#. JA:   そんなことはどうでも良いのではなくて？
+msgctxt "CAL3_066"
+msgid ""
+"Who knows?\n"
+"But, does it really matter?"
+msgstr "Хтозна. Хіба це має значення?"
+
+#. Key: CAL3_067
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: それよりお急ぎなさい。
+#. JA:   あまり時間は残されていないわ。
+msgctxt "CAL3_067"
+msgid "Regardless, you would be wise to make haste. Your time grows short."
+msgstr "Краще поквапся. Часу майже не залишилося."
+
+#. Key: CAL3_068
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL3_068"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL3_069
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕は何故だか、その少女の言葉を無条件に信じていました。
+msgctxt "CAL3_069"
+msgid "For some reason, I want to believe everything she says..."
+msgstr "Чомусь я беззастережно повірив словам тієї дівчини."
+
+#. Key: CAL3_070
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 理由は分かりません。
+#. JA:   けれどその少女の言葉は、
+#. JA:   そうさせてしまうだけの不思議な力を秘めていました。
+msgctxt "CAL3_070"
+msgid ""
+"I can't explain it... It almost seems like there's some kind of mysterious power\n"
+"behind her words that simply compels me to believe them..."
+msgstr ""
+"Не знаю чому. Але її слова містили таємничу силу, яка змушувала їм\n"
+"вірити."
+
+#. Key: CAL3_071
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: だから僕にできたのは、
+#. JA:   その言葉に従って自分の行く先を決めることだけでした。
+msgctxt "CAL3_071"
+msgid "All I can think of doing is taking her advice."
+msgstr "Тож мені лишалося тільки послухатися її й вирішити, куди прямувати."
+
+#. Key: CAL3_072
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: ジン＝キサラギの居場所へ。
+msgctxt "CAL3_072"
+msgid "Let's go find Jin Kisaragi."
+msgstr "До Джіна Кісараґі."
+
+#. Key: CAL3_073
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: ノエル＝ヴァーミリオンの居場所へ。
+msgctxt "CAL3_073"
+msgid "Let's go find Noel Vermillion."
+msgstr "До Ноель Верміліон."
+
+#. Key: CAL3_079
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: え……？
+msgctxt "CAL3_079"
+msgid "Huh...?"
+msgstr "Що...?"
+
+#. Key: CAL3_081
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL3_081"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL3_083
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: あら、ヴァルケンハイン。
+#. JA:   見ていたの？
+msgctxt "CAL3_083"
+msgid ""
+"Oh, Valkenhayn.\n"
+"Eavesdropping?"
+msgstr "О, Валькенхайне. Ти спостерігав?"
+
+#. Key: CAL3_084
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Valkenhayn
+#. Context: Carl story route (POV: Carl)
+#. JA: レイチェル様も酔狂なことをなされますな。
+msgctxt "CAL3_084"
+msgid "Ah, Madam Rachel. You are so whimsical."
+msgstr "Пані Рейчел, ви й справді полюбляєте дивні забаганки."
+
+#. Key: CAL3_085
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: そうかしら？
+#. JA:   あの子は、世界によっては物語の主役たり得る存在よ。
+msgctxt "CAL3_085"
+msgid "Do you really think so? In another world, that child could have been a bright star..."
+msgstr "Невже? В іншому світі цей хлопчик міг би стати головним героєм історії."
+
+#. Key: CAL3_086
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Valkenhayn
+#. Context: Carl story route (POV: Carl)
+#. JA: しかしこの世界が、そうはさせなかった……。
+msgctxt "CAL3_086"
+msgid "How unfortunate, then, that this world will not let him..."
+msgstr "Але цей світ йому цього не дозволив..."
+
+#. Key: CAL3_087
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: 無論、あの子自身の選択もね。
+msgctxt "CAL3_087"
+msgid "It is not simply the world. His path is of his own choosing."
+msgstr "Як і його власний вибір, звісно."
+
+#. Key: CAL3_088
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Valkenhayn
+#. Context: Carl story route (POV: Carl)
+#. JA: 彼は決断できるでしょうか？
+#. JA:   主役となるための……。
+msgctxt "CAL3_088"
+msgid "Then do you think he may make the correct choice?"
+msgstr "Чи зможе він ухвалити рішення, потрібне, щоб стати головним героєм?"
+
+#. Key: CAL3_089
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Rachel
+#. Context: Carl story route (POV: Carl)
+#. JA: きっと、できないでしょうね。
+#. JA:   それが悲劇……いえ、喜劇なのかしらね、ひょっとすると。
+msgctxt "CAL3_089"
+msgid ""
+"Oh, I doubt that very much. That is what makes this a tragedy. \n"
+"...Or a comedy, I suppose."
+msgstr "Напевно, ні. У цьому й полягає трагедія... А можливо, навпаки, комедія."
+
+#. Key: CAL4_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: ……兄さん。
+#. JA:   兄さんは何と戦ってるんだ……？
+#. JA:   僕は……どうしたらいい？
+msgctxt "CAL4_002"
+msgid ""
+"Ragna... Who are you trying to fight?\n"
+"...What should I... do?"
+msgstr "...Брате. З чим ти борешся?.. Що... мені робити?"
+
+#. Key: CAL4_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: ……っ!?
+msgctxt "CAL4_004"
+msgid "..!?"
+msgstr "...!?"
+
+#. Key: CAL4_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あは……。さすがですね、キサラギ先輩。
+msgctxt "CAL4_006"
+msgid "Haha... That's just like you, Jin."
+msgstr "Ха... Як і слід було чекати, старшокурснику Кісараґі."
+
+#. Key: CAL4_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: 貴様は……！
+msgctxt "CAL4_007"
+msgid "You are?"
+msgstr "Ти...!"
+
+#. Key: CAL4_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 失敗しちゃったね、姉さん。
+#. JA:   さすが「イカルガの英雄」だね。
+msgctxt "CAL4_008"
+msgid "He made a mistake, Sis. He is the <DQ>Hero of Ikaruga<DQ> after all."
+msgstr "Не вийшло, сестро. Недарма він «Герой Ікаруґи»."
+
+#. Key: CAL4_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: ……カルル。カルル＝クローバーか？
+msgctxt "CAL4_009"
+msgid ""
+"...Carl...\n"
+"Carl Clover..."
+msgstr "...Карл. Карл Кловер?"
+
+#. Key: CAL4_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: お久しぶりです、キサラギ先輩。
+#. JA:   僕のこと、覚えていてくださったんですね。
+msgctxt "CAL4_010"
+msgid "Long time, no see, Jin. It looks like you do remember me."
+msgstr "Давно не бачилися, старшокурснику Кісараґі. Ви мене пам'ятаєте."
+
+#. Key: CAL4_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: 士官学校から無断で行方をくらました生徒はそうそういない。
+#. JA:   その貴様がこんな街で何をしている？
+msgctxt "CAL4_011"
+msgid ""
+"It's not often a student leaves the academy behind without saying a word...\n"
+"So what brings you to this town...?"
+msgstr ""
+"Не так багато учнів зникають з академії без дозволу. Що ти робиш у\n"
+"цьому місті?"
+
+#. Key: CAL4_012
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: いえ、簡単な話なんです。
+#. JA:   先輩の持っているその武器を頂きたいと思いまして……。
+msgctxt "CAL4_012"
+msgid "Actually, it's quite simple. I just want that weapon of yours."
+msgstr "Усе дуже просто. Я хочу забрати вашу зброю..."
+
+#. Key: CAL4_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: ……「ユキアネサ」を？
+msgctxt "CAL4_013"
+msgid "...The <DQ>Yukianesa<DQ>?"
+msgstr "...«Юкіанесу»?"
+
+#. Key: CAL4_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、大丈夫ですよ。
+#. JA:   奪われたからって、統制機構から責を問われるようなことにはなりません。
+msgctxt "CAL4_014"
+msgid "Oh, it'll be OK. The NOL won't punish you if it happened to be taken by force."
+msgstr ""
+"Не хвилюйтеся. Організація Контролю не покарає вас за те, що її\n"
+"відібрали силою."
+
+#. Key: CAL4_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……先輩にはここで死んで頂きますので。
+msgctxt "CAL4_015"
+msgid "...I'll have you die right here."
+msgstr "...Адже ви помрете тут."
+
+#. Key: CAL4_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: ……戯れ言を。
+msgctxt "CAL4_016"
+msgid "...You're joking."
+msgstr "...Що за маячня."
+
+#. Key: CAL4_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: うっ……こんな……はずじゃ……。
+msgctxt "CAL4_021"
+msgid "Ugh...this wasn't...how it's supposed..."
+msgstr "Кх... Такого... не мало статися..."
+
+#. Key: CAL4_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: どうやら貴様を買いかぶっていたようだ。
+#. JA:   この程度の実力とは。
+msgctxt "CAL4_022"
+msgid ""
+"It seems I have overestimated your power...\n"
+"You have disappointed me yet again..."
+msgstr "Схоже, я тебе переоцінив. Не думав, що ти настільки слабкий."
+
+#. Key: CAL4_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: 斬る気も失せた。
+#. JA:   そこで地面を舐めているがいい。
+msgctxt "CAL4_023"
+msgid ""
+"Hah! I don't even feel like finishing you off.\n"
+"...Stay down!"
+msgstr "Навіть різати тебе вже не хочеться. Лежи там і лижи землю."
+
+#. Key: CAL4_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL4_024"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL4_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 大丈夫だよ姉さん……このままやり過ごせば……。
+#. JA:   まだ反撃の隙はある……。
+msgctxt "CAL4_025"
+msgid "It's OK, Sis... If I just get through this...there will be another opportunity to strike..."
+msgstr "Усе гаразд, сестро... Якщо перечекаємо... ще з'явиться нагода для удару..."
+
+#. Key: CAL4_027
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あなたこそ甘いですよ、キサラギ先輩っ！
+msgctxt "CAL4_027"
+msgid "Jin, you're the weak one!"
+msgstr "Це ви надто легковажні, старшокурснику Кісараґі!"
+
+#. Key: CAL4_029
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL4_029"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL4_032
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……あっ、手が凍……!?
+msgctxt "CAL4_032"
+msgid "...My...hand froze...!"
+msgstr "...Що, моя рука замерзла...!?"
+
+#. Key: CAL4_033
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: 貴様のような人間の浅い考えに気付かないとでも思ったのか？
+msgctxt "CAL4_033"
+msgid "Did you honestly think I was that stupid...!?"
+msgstr "Ти справді думав, що я не помічу такого примітивного задуму?"
+
+#. Key: CAL4_035
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: うあっ……！
+msgctxt "CAL4_035"
+msgid "AHHH...!"
+msgstr "А-а...!"
+
+#. Key: CAL4_036
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: ……足の次はどこを凍らせて欲しい？
+#. JA:   いってみろ。同門のよしみだ、それくらいは叶えてやろう。
+msgctxt "CAL4_036"
+msgid ""
+"That should keep you from moving... What would you like frozen next? Hmm?\n"
+"I'll let you decide..."
+msgstr ""
+"...Що заморозити після ніг? Кажи. Заради нашого спільного навчання я\n"
+"виконаю це бажання."
+
+#. Key: CAL4_037
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: キ、キサラギ先輩……僕は……。
+msgctxt "CAL4_037"
+msgid "Jin... I..."
+msgstr "С-старшокурснику Кісараґі... Я..."
+
+#. Key: CAL4_038
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: そうか……その口を凍らせて欲しいんだな？
+msgctxt "CAL4_038"
+msgid "Oh, I see... So you want your mouth frozen?"
+msgstr "Он як... Хочеш, щоб я заморозив тобі рота?"
+
+#. Key: CAL4_040
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: んっ……!?
+msgctxt "CAL4_040"
+msgid "Mm...!"
+msgstr "М-м...!?"
+
+#. Key: CAL4_041
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: さて、次はどうする？
+msgctxt "CAL4_041"
+msgid "And next...?"
+msgstr "Ну що, куди далі?"
+
+#. Key: CAL4_042
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ん……んんっ……！
+msgctxt "CAL4_042"
+msgid "Mmm...mNnNNNNNNmm...!"
+msgstr "М-м... М-м-м...!"
+
+#. Key: CAL4_043
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: ……モノが言えなくなってはつまらんな。
+#. JA:   これで終わりにするか。
+msgctxt "CAL4_043"
+msgid ""
+"Hmm... Not too fun when you can't talk anymore, is it...? I suppose this is as good a\n"
+"time as any..."
+msgstr "...Нецікаво, коли ти не можеш говорити. Мабуть, час із цим покінчити."
+
+#. Key: CAL4_044
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL4_044"
+msgid "...!"
+msgstr "...!"
+
+#. Key: CAL4_050
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: 貴様……っ！
+msgctxt "CAL4_050"
+msgid "You...bastard...!"
+msgstr "Ти...!"
+
+#. Key: CAL4_051
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あれ？　おかしいね、姉さん。
+#. JA:   先輩、まだ生きてるよ。
+#. JA:   全力でやったんだけど。
+msgctxt "CAL4_051"
+msgid ""
+"Huh? That's odd, Sis. He's still alive.\n"
+"I gave it my all too."
+msgstr "Дивно, сестро. Старшокурсник іще живий. Хоч я й ударив щосили."
+
+#. Key: CAL4_052
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: まあいいや。
+#. JA:   とりあえず、それ、頂いておきますね。
+msgctxt "CAL4_052"
+msgid "Oh, well. I believe this is mine now."
+msgstr "Ну й нехай. Принаймні це я заберу."
+
+#. Key: CAL4_054
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Jin
+#. Context: Carl story route (POV: Carl)
+#. JA: ぐうっ……！！
+msgctxt "CAL4_054"
+msgid "Guh... Guagh!!"
+msgstr "Кх...!!"
+
+#. Key: CAL4_055
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……これが「アークエネミー」か。
+#. JA:   確かに、手にしただけで既に周囲を切り刻めるような、
+#. JA:   そんな感覚がある。どうしてあの子はこれを使えって……。
+msgctxt "CAL4_055"
+msgid ""
+"...So this is a <DQ>Nox Nyctores<DQ>. Truly, it feels like I can cut through anything with it.\n"
+"I wonder why she told me to use this..."
+msgstr ""
+"...Ось який він, «Арк-Енемі». Варто лише взяти його в руки — і вже\n"
+"здається, ніби можеш розсікти все навколо. Чому та дівчина наказала\n"
+"його використати?.."
+
+#. Key: CAL4_057
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: !?　今のは……？
+msgctxt "CAL4_057"
+msgid ""
+"!?\n"
+"What was that...?"
+msgstr "!? Що це було...?"
+
+#. Key: CAL4_058
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL4_058"
+msgid "...!"
+msgstr "...!"
+
+#. Key: CAL4_059
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん!?　どうしたの？
+msgctxt "CAL4_059"
+msgid "Sis!? What's wrong?"
+msgstr "Сестро!? Що сталося?"
+
+#. Key: CAL4_060
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: うん……そうか……。地下に何かがあるんだね……。
+msgctxt "CAL4_060"
+msgid "Mm... I see.. There's something down there..."
+msgstr "Так... Зрозуміло... Під землею щось є..."
+
+#. Key: CAL4_061
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 行ってみよう。
+#. JA:   僕も、そこに行かなくてはいけない気がするんだ……。
+msgctxt "CAL4_061"
+msgid "Let's go. I feel like I need to go there, too."
+msgstr "Ходімо. Я теж відчуваю, що мушу туди спуститися..."
+
+#. Key: CAL5_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ここは……？
+msgctxt "CAL5_002"
+msgid "What is this...?"
+msgstr "Де я...?"
+
+#. Key: CAL5_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Ragna
+#. Context: Carl story route (POV: Carl)
+#. JA: 畜生……ぐはっ！
+msgctxt "CAL5_003"
+msgid "Shit... Ugh...!"
+msgstr "Прокляття... Кха!"
+
+#. Key: CAL5_005
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……ん。
+msgctxt "CAL5_005"
+msgid "...Hm?"
+msgstr "...Гм?"
+
+#. Key: CAL5_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 血が付いちゃったね…。
+#. JA:   姉さんは大丈夫？
+msgctxt "CAL5_006"
+msgid ""
+"I got blood on myself...\n"
+"Are you OK, Sis?"
+msgstr "На мене потрапила кров... Сестро, ти ціла?"
+
+#. Key: CAL5_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: ふふっ……意地っ張りなんだから、ラグナは。
+msgctxt "CAL5_008"
+msgid "*giggle* ...Ragna, you're so stubborn."
+msgstr "Хе-хе... Який же ти впертий, Раґно."
+
+#. Key: CAL5_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……ラグナ？
+msgctxt "CAL5_009"
+msgid "...Ragna?"
+msgstr "...Раґно?"
+
+#. Key: CAL5_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 本当だ。
+#. JA:   ボロボロだけど……「ラグナ＝ザ＝ブラッドエッジ」だ。
+msgctxt "CAL5_011"
+msgid "It is him. He's badly injured...but it's Ragna the Bloodedge."
+msgstr "І справді. Він увесь пошматований... але це Раґна Бладедж."
+
+#. Key: CAL5_012
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: でも、どうして……。
+#. JA:   それにもう一人は……？
+#. JA:   あれをどう思う、姉さん？
+msgctxt "CAL5_012"
+msgid ""
+"But, why...?\n"
+"And who's the other person...?\n"
+"What do you think, Sis?"
+msgstr "Але чому?.. І хто ця друга?.. Що ти про неї думаєш, сестро?"
+
+#. Key: CAL5_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL5_013"
+msgid "...!"
+msgstr "...!"
+
+#. Key: CAL5_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 震えてる……。
+#. JA:   どうしたの、姉さん!?
+msgctxt "CAL5_014"
+msgid "You're shaking... Sis, what's wrong!?"
+msgstr "Ти тремтиш... Що з тобою, сестро!?"
+
+#. Key: CAL5_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: これでやっとひとつになれるね……ラグナ。
+msgctxt "CAL5_015"
+msgid "Ragna...now we can finally be together..."
+msgstr "Нарешті ми станемо одним цілим... Раґно."
+
+#. Key: CAL5_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL5_016"
+msgid "Nu embraced Ragna, and they begin to walk off together..."
+msgstr "Ню обійняла Раґну й почала забирати його із собою..."
+
+#. Key: CAL5_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ！！　大変だ！
+#. JA:   あの人、「ラグナ＝ザ＝ブラッドエッジ」を連れて行くみたいだ！
+msgctxt "CAL5_017"
+msgid ""
+"!!\n"
+"Oh, no! That lady's taking Ragna the Bloodedge with her!"
+msgstr "!! Біда! Вона, схоже, забирає Раґну Бладеджа!"
+
+#. Key: CAL5_018
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 行こう、姉さん！
+msgctxt "CAL5_018"
+msgid "Let's go, Sis!"
+msgstr "Ходімо, сестро!"
+
+#. Key: CAL5_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、あの……すみません！　待って下さい！
+msgctxt "CAL5_020"
+msgid "Uh...um...excuse me! Please wait!"
+msgstr "Ем... Перепрошую! Зачекайте!"
+
+#. Key: CAL5_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL5_022"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL5_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 「蒼」が……僕にはその「ラグナ＝ザ＝ブラッドエッジ」が持っている
+#. JA:   「蒼」がどうしても必要なんです！
+msgctxt "CAL5_023"
+msgid "The Azure... I really need the Azure Grimoire that Ragna the Bloodedge carries!"
+msgstr "Лазур... Мені конче потрібен Лазур, яким володіє Раґна Бладедж!"
+
+#. Key: CAL5_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 譲っていただけませんか？
+#. JA:   事情も知らずに無理なお願いだとは思いますが……。
+msgctxt "CAL5_024"
+msgid "Do you think you can give it to me? I know I'm asking for a lot, but..."
+msgstr ""
+"Чи не могли б ви віддати його мені? Розумію, це нахабне прохання, адже\n"
+"я не знаю ваших обставин..."
+
+#. Key: CAL5_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL5_025"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL5_026
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: それがないと僕の姉さんが元に戻れないんです。
+#. JA:   だから―――
+msgctxt "CAL5_026"
+msgid "If I don't have that, my sister won't change back. So please—"
+msgstr "Без нього я не зможу повернути сестрі колишню подобу. Тому..."
+
+#. Key: CAL5_027
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL5_027"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL5_028
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あの、聞いて、ますか……？
+msgctxt "CAL5_028"
+msgid "Um, are you listening...?"
+msgstr "Ем... Ви мене слухаєте...?"
+
+#. Key: CAL5_030
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 対象・認識・アナタ、ダレ……
+msgctxt "CAL5_030"
+msgid ""
+"Target confirmed...\n"
+"Who are you...?"
+msgstr "Ціль ідентифіковано. Ти... хто..."
+
+#. Key: CAL5_031
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ぼ、僕は……。
+msgctxt "CAL5_031"
+msgid "I... I'm..."
+msgstr "Я... я..."
+
+#. Key: CAL5_032
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 存在の行動を妨害
+msgctxt "CAL5_032"
+msgid "Interfering with my directive."
+msgstr "Перешкоджає діям сутності."
+
+#. Key: CAL5_034
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 対象・認識・同事象兵器を所持・驚異レベル・Ｂ
+msgctxt "CAL5_034"
+msgid ""
+"Scanning complete. Target in possession of Nox-class weapon.\n"
+"Threat Level raised to B."
+msgstr "Ціль ідентифіковано. Володіє таким самим Арк-Енемі. Рівень загрози: Б."
+
+#. Key: CAL5_035
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL5_035"
+msgid "...!!"
+msgstr "...!!"
+
+#. Key: CAL5_036
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん……まだ、震えてるの？
+#. JA:   アレが怖いんだね……。でも、大丈夫。
+msgctxt "CAL5_036"
+msgid ""
+"Sis...are you still scared?\n"
+"You are, aren't you? But you'll be fine."
+msgstr "Сестро... Ти досі тремтиш? Ти боїшся її... Але все буде гаразд."
+
+#. Key: CAL5_037
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕がついてるよ……。
+#. JA:   「蒼」はもう目の前だ。
+#. JA:   アレを倒して、姉さんを元に戻してあげる。
+msgctxt "CAL5_037"
+msgid ""
+"I'm here. And the Azure is right in front of us.\n"
+"I'll get rid of her and return you to normal."
+msgstr "Я поруч... Лазур уже перед нами. Я здолаю її й поверну тебе до норми."
+
+#. Key: CAL5_038
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 対象の敵対波長認識・障害の排除を実行します
+msgctxt "CAL5_038"
+msgid "Subject determined to be hostile... Now beginning termination."
+msgstr "Ідентифіковано ворожі наміри цілі. Розпочинаю усунення перешкоди."
+
+#. Key: CAL5_039
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん、僕……頑張るから。
+#. JA:   また姉さんのつくった料理、食べたいなぁ。
+msgctxt "CAL5_039"
+msgid "Sis...I'm gonna do my best. I want to eat your cooking again."
+msgstr ""
+"Сестро, я... Я дуже старатимуся. Хочу знову скуштувати їжу приготовану\n"
+"тобою."
+
+#. Key: CAL5_044
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: う、う……。
+msgctxt "CAL5_044"
+msgid "Ungh...ugh..."
+msgstr "Ух... у-у..."
+
+#. Key: CAL5_045
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 障害を排除完了……
+msgctxt "CAL5_045"
+msgid "Termination complete..."
+msgstr "Усунення перешкоди завершено..."
+
+#. Key: CAL5_046
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: お待たせ……ラグナ。
+msgctxt "CAL5_046"
+msgid "Sorry to keep you waiting...Ragna."
+msgstr "Пробач, що змусила чекати... Раґно."
+
+#. Key: CAL5_047
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん……大丈夫……？
+#. JA:   うん、ごめんね……。ちょっと、無理しすぎたみたい、だ……。
+msgctxt "CAL5_047"
+msgid ""
+"Sis...are you OK...? Yeah, I'm sorry...\n"
+"I think I pushed myself too far..."
+msgstr "Сестро... ти ціла?.. Так, вибач... Здається, я трохи перестарався..."
+
+#. Key: CAL5_048
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: もう、駄目、なのかな……。
+#. JA:   姉さんを元に戻せないのかな……。
+msgctxt "CAL5_048"
+msgid ""
+"Is it not...possible anymore...?\n"
+"Can I not...return you to normal...?"
+msgstr "Невже... це неможливо?.. Невже я не зможу повернути твоє тіло?.."
+
+#. Key: CAL5_049
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: ラグナ……さあ、溶け合おう……？
+msgctxt "CAL5_049"
+msgid "Ragna...now...let's fuse...?"
+msgstr "Раґно... Нумо розчинимося одне в одному..."
+
+#. Key: CAL5_050
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん……姉さ、ん……。
+#. JA:   側にいるの……？　見えないんだ、なにも……。
+msgctxt "CAL5_050"
+msgid ""
+"Sis... Si...s... Are you near...?\n"
+"I can't see anything..."
+msgstr "Сестро... Сестро... Ти поруч?.. Я нічого... не бачу..."
+
+#. Key: CAL5_057
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 攻撃が……効いてない？
+msgctxt "CAL5_057"
+msgid "My attacks...aren't working?"
+msgstr "Мої удари... не діють?"
+
+#. Key: CAL5_058
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 対象・認識・生存・認識……
+msgctxt "CAL5_058"
+msgid "Scanning target... Target within operational levels..."
+msgstr "Ціль ідентифіковано. Виживання... підтверджено..."
+
+#. Key: CAL5_059
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: そ、そんなはずない……姉さんと僕に勝てない相手なんて……！
+msgctxt "CAL5_059"
+msgid "No— There's no way... How can there be someone we can't beat...!?"
+msgstr "Н-не може бути... Немає нікого, кого ми із сестрою не здатні перемогти...!"
+
+#. Key: CAL5_060
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 攻撃・再開……
+msgctxt "CAL5_060"
+msgid "Resuming attack..."
+msgstr "Відновлюю атаку..."
+
+#. Key: CAL5_061
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: くっ……！
+msgctxt "CAL5_061"
+msgid "Ugh...!"
+msgstr "Кх...!"
+
+#. Key: CAL6_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 第666拘束機関解放、次元干渉虚数法陣展開
+msgctxt "CAL6_002"
+msgid ""
+"Lifting restriction number 666.\n"
+"Deploying dimensional interference force field."
+msgstr ""
+"Обмежувальний механізм №666 знято. Розгортання уявної формації\n"
+"просторового втручання."
+
+#. Key: CAL6_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: ムラクモユニット解放……
+msgctxt "CAL6_003"
+msgid "Murakumo Unit deployed..."
+msgstr "Модуль Муракумо розгорнуто..."
+
+#. Key: CAL6_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 我が魂の帰する場所にて根源に生まれ出でし剣よ
+#. JA:   全てを無に帰する刃を我が前に示せ……
+msgctxt "CAL6_004"
+msgid ""
+"From beyond the realm of souls and birth,\n"
+"I call upon the ur-sword to bring ruin upon my enemies."
+msgstr ""
+"О мече, народжений біля витоків, де спочиває моя душа. Яви переді\n"
+"мною лезо, що поверне все в небуття..."
+
+#. Key: CAL6_005
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 「滅べ！」
+msgctxt "CAL6_005"
+msgid "Perish."
+msgstr "Згинь!"
+
+#. Key: CAL6_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 避け、きれない……！
+msgctxt "CAL6_007"
+msgid "I can't dodge it...!"
+msgstr "Я не встигну ухилитися...!"
+
+#. Key: CAL6_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Unknown on screen; internally Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: 危ない！
+msgctxt "CAL6_009"
+msgid "Watch out!"
+msgstr "Обережно!"
+
+#. Key: CAL6_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あうっ!?
+msgctxt "CAL6_010"
+msgid "Huh!?"
+msgstr "А-а!?"
+
+#. Key: CAL6_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: ああああっ！！
+msgctxt "CAL6_013"
+msgid "AHHHHHHH!"
+msgstr "А-а-а-а!!"
+
+#. Key: CAL6_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: そ、そんな……？
+msgctxt "CAL6_015"
+msgid "Wh-What...?"
+msgstr "Н-не може бути..."
+
+#. Key: CAL6_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: どうして……どうしてあなたが……！
+msgctxt "CAL6_016"
+msgid "Why... Why did you...?"
+msgstr "Чому... Чому ви...!"
+
+#. Key: CAL6_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: “どうして”……？
+#. JA:   さあ……どうしてかしら、ね……。
+msgctxt "CAL6_017"
+msgid "<DQ>Why<DQ>...? I don't know... I wonder why...?"
+msgstr "«Чому»?.. Хтозна... Чому ж?.."
+
+#. Key: CAL6_018
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: ただ、貴方のことが気になって追いかけて来たら
+#. JA:   こんなことになってるんだもの。驚いたわ……。
+msgctxt "CAL6_018"
+msgid "But...I was worried about you, so I followed you here. I was surprised..."
+msgstr "Я просто хвилювалася за тебе й пішла слідом, а тут таке. Я здивована..."
+
+#. Key: CAL6_019
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: まさか貴方がムラクモユニットに接触してるなんて、
+#. JA:   思ってもみなかった……。
+msgctxt "CAL6_019"
+msgid "I never thought you would make contact with the Murakumo Unit..."
+msgstr "Я й уявити не могла, що ти зіткнешся з модулем Муракумо..."
+
+#. Key: CAL6_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 対象・認識・生存・確率７％以下・驚異レベル解除
+msgctxt "CAL6_020"
+msgid ""
+"Scanning target...\n"
+"Likelihood of survival: less than 7%.\n"
+"Returning to stand-by."
+msgstr ""
+"Ціль ідентифіковано. Імовірність виживання: менш ніж 7%. Рівень\n"
+"загрози скасовано."
+
+#. Key: CAL6_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: さあ、ラグナ……一緒になろうね……。
+msgctxt "CAL6_021"
+msgid "Now, Ragna...let's become one..."
+msgstr "А тепер, Раґно... станьмо одним цілим..."
+
+#. Key: CAL6_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕なんかの身代りになるなんて……どうかしてる！
+#. JA:   僕には、理解できない……。
+msgctxt "CAL6_022"
+msgid ""
+"Why did you protect me...? How can you do that!?\n"
+"I don't understand..."
+msgstr "Ви врятували такого як я... Це безглуздя! Я не можу цього зрозуміти..."
+
+#. Key: CAL6_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: 目の前の人間を助けることに……理由が必要……？
+msgctxt "CAL6_023"
+msgid "Do I need...a reason..to help someone in need...?"
+msgstr "Хіба потрібна причина... щоб урятувати людину перед тобою?.."
+
+#. Key: CAL6_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、あ……！
+msgctxt "CAL6_024"
+msgid "Ah...aaah...!"
+msgstr "А... а-а...!"
+
+#. Key: CAL6_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕はまた、昔を思い出していました。
+#. JA:   その人には確かに、姉さんの面影があったのです。
+#. JA:   顔かたちではなく、その心に。
+msgctxt "CAL6_025"
+msgid ""
+"Memories fill my head, and for a moment, I see my sister in this lady...\n"
+"Not her face or her body, but...her heart."
+msgstr ""
+"Я знову згадав минуле. У цій жінці справді було щось від сестри. Не в\n"
+"обличчі чи постаті, а в серці."
+
+#. Key: CAL6_026
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: けれど、僕は……。僕には……。
+msgctxt "CAL6_026"
+msgid "But, I... I...!"
+msgstr "Але я... Я не..."
+
+#. Key: CAL6_028
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 解らないよ……姉さん……。
+msgctxt "CAL6_028"
+msgid "I don't understand, Sis..."
+msgstr "Я не розумію... сестро..."
+
+#. Key: CAL6_030
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Litchi
+#. Context: Carl story route (POV: Carl)
+#. JA: ……門が!?
+msgctxt "CAL6_030"
+msgid "...The gate!?"
+msgstr "...Брама!?"
+
+#. Key: CAL6_031
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 解らない……解らないんだ、僕には……何も……。
+msgctxt "CAL6_031"
+msgid "I don't get it... I just don't get it... I don't get it at all..."
+msgstr "Не розумію... Я нічого... нічого не розумію..."
+
+#. Key: CAL7_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……やっと、振り切ったみたいだ。
+#. JA:   何だったんだろう、あれは……。
+msgctxt "CAL7_002"
+msgid ""
+"...I finally lost them...\n"
+"What was that all about...?"
+msgstr "...Здається, я нарешті відірвався. Що це взагалі було?.."
+
+#. Key: CAL7_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL7_004"
+msgid "...!"
+msgstr "...!"
+
+#. Key: CAL7_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……姉さん!?
+#. JA:   どうしたの……？
+msgctxt "CAL7_006"
+msgid "...Sis? What's wrong...?"
+msgstr "...Сестро!? Що сталося?.."
+
+#. Key: CAL7_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL7_007"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL7_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: どこに行くの？
+#. JA:   姉さん！
+msgctxt "CAL7_008"
+msgid "Where are you going? Sis!"
+msgstr "Куди ти? Сестро!"
+
+#. Key: CAL7_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL7_011"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL7_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: む……？
+msgctxt "CAL7_013"
+msgid "Hm...?"
+msgstr "Гм...?"
+
+#. Key: CAL7_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん、どうしたの？
+#. JA:   その人が、どうかした？
+msgctxt "CAL7_014"
+msgid ""
+"Sis, what's wrong?\n"
+"What about this person?"
+msgstr "Сестро, що сталося? Щось не так із цим чоловіком?"
+
+#. Key: CAL7_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: それは……「ニルヴァーナ」か！
+msgctxt "CAL7_015"
+msgid "Is that...the <DQ>Nirvana<DQ>!?"
+msgstr "Це ж... «Нірвана»!?"
+
+#. Key: CAL7_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……僕の姉さんに何の御用でしょう？
+msgctxt "CAL7_016"
+msgid "...What do you want with my sister?"
+msgstr "...Що вам потрібно від моєї сестри?"
+
+#. Key: CAL7_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: お前がニルヴァーナの主か？
+msgctxt "CAL7_017"
+msgid "Do you own Nirvana?"
+msgstr "Ти господар Нірвани?"
+
+#. Key: CAL7_018
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さんはそのような名前ではありません。
+#. JA:   そんな名前で呼ばないでください。
+msgctxt "CAL7_018"
+msgid "That is not her name. Please don't call her that."
+msgstr "Мою сестру звуть не так. Будь ласка, не називайте її цим ім'ям."
+
+#. Key: CAL7_019
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: 事情は掴めんが、それはお前のような少年の手には余るものだ。
+#. JA:   そもそもそれは我が機関の物だしな、回収させてもらおうか。
+msgctxt "CAL7_019"
+msgid ""
+"I don't know your situation, but I'm sure you cannot handle that thing.\n"
+"Besides, it belongs to the Sector... I'll have to confiscate it."
+msgstr ""
+"Не знаю, що тут сталося, але така річ не до снаги хлопцеві твого віку. До\n"
+"того ж вона належить нашій організації. Я її заберу."
+
+#. Key: CAL7_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL7_020"
+msgid "...!"
+msgstr "...!"
+
+#. Key: CAL7_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕は、姉さんに似た“何か”をこの人に感じていました。
+#. JA:   うまくは言えないのですが、この人もまた、
+#. JA:   人ではない何かなのでは。と、そう思ったのです。
+msgctxt "CAL7_021"
+msgid ""
+"Something about this person...reminds me of my sister...\n"
+"I can't really put it into words, but he doesn't really feel like a...a...person."
+msgstr ""
+"Я відчував у цьому чоловікові щось, схоже на сестру. Важко пояснити,\n"
+"та мені здавалося, що він також є чимось нелюдським."
+
+#. Key: CAL7_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: そして姉さんもまた“それ”を感じたからこそ、
+#. JA:   自分の意思でこの人のもとへ歩いていったのかもしれない……。
+msgctxt "CAL7_022"
+msgid "Did my sister sense him and come here of her own will?"
+msgstr "Можливо, сестра теж це відчула й тому сама підійшла до нього..."
+
+#. Key: CAL7_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: とすれば、姉さんを元通りの身体にするための“何か”が、
+#. JA:   この人と戦えば分かるかもしれません。
+msgctxt "CAL7_023"
+msgid ""
+"If she did, then maybe...by fighting him, I'll get closer to fixing my sister...\n"
+"I might learn how I can make her normal again..."
+msgstr ""
+"Якщо так, то в бою з ним я, можливо, дізнаюся щось, що допоможе\n"
+"повернути сестрі колишнє тіло."
+
+#. Key: CAL7_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: けれど今の僕ではこの人に勝てない……そう思いました。
+msgctxt "CAL7_024"
+msgid "...but I don't think I can beat him the way I am now."
+msgstr "Але теперішній я не здолає цього чоловіка... Так я подумав."
+
+#. Key: CAL7_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕はこの人と戦うべきなんだ……そう思いました。
+msgctxt "CAL7_025"
+msgid "...I have to fight him."
+msgstr "Я мушу битися із цим чоловіком... Так я подумав."
+
+#. Key: CAL7_032
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: けれど今の僕ではこの人に勝てない……そう思いました。
+#. JA:   ただでさえ、さっき走り回ったせいで疲れ切っているのです。
+msgctxt "CAL7_032"
+msgid ""
+"I...I can't win. I'm not at full strength... I used up a lot of energy running away\n"
+"earlier."
+msgstr ""
+"Але теперішній я не здолає цього чоловіка... До того ж я геть\n"
+"виснажився, тікаючи перед цим."
+
+#. Key: CAL7_033
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 今は戦いを回避して、機会を待つべきだと自分に言い聞かせ、
+#. JA:   僕は姉さんの腕を取りました。
+msgctxt "CAL7_033"
+msgid ""
+"I need to avoid confrontation.\n"
+"I grab my sister's hand."
+msgstr ""
+"Я переконав себе, що зараз треба уникнути бою й дочекатися нагоди, та\n"
+"взяв сестру за руку."
+
+#. Key: CAL7_034
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 逃げよう、姉さん……！
+msgctxt "CAL7_034"
+msgid "Let's run..."
+msgstr "Тікаймо, сестро...!"
+
+#. Key: CAL7_036
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: 逃げたか……。追う時間は…ないな。
+#. JA:   仕方あるまい。任務を優先しよう……。
+msgctxt "CAL7_036"
+msgid ""
+"So, you choose to run... Unfortunately, I don't have the time to pursue...\n"
+"Either way...my mission takes precedence."
+msgstr ""
+"Утік... Переслідувати його часу немає. Нічого не вдієш. Завдання\n"
+"важливіше..."
+
+#. Key: CAL7_040
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕はこの人と戦うべきなんだ……そう思いました。
+msgctxt "CAL7_040"
+msgid "I have to fight him..."
+msgstr "Я мушу битися із цим чоловіком... Так я подумав."
+
+#. Key: CAL7_041
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さんもきっと、それを望んでいるからこそ
+#. JA:   僕をここまで連れてきたのに違いないのです。
+msgctxt "CAL7_041"
+msgid "It's what my sister wants..."
+msgstr "Сестра привела мене сюди, бо напевно теж цього хотіла."
+
+#. Key: CAL7_042
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さんに手を出すのなら……死んで頂きます。
+msgctxt "CAL7_042"
+msgid "If you lay even a finger on my sister...I'll kill you."
+msgstr "Якщо торкнетеся моєї сестри... вам доведеться померти."
+
+#. Key: CAL7_043
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: すでに憑かれているのか……？
+#. JA:   仕方ない、行くぞ！
+msgctxt "CAL7_043"
+msgid ""
+"So, you're already possessed...?\n"
+"Very well! Prepare yourself!"
+msgstr "Невже він уже одержимий?.. Нічого не вдієш. Починаймо!"
+
+#. Key: CAL7_048
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あうっ……！
+msgctxt "CAL7_048"
+msgid "Urgh...!"
+msgstr "А-а...!"
+
+#. Key: CAL7_049
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: こちらはテイガー。
+#. JA:   ココノエか？
+msgctxt "CAL7_049"
+msgid "Tager reporting... Is that you, Kokonoe?"
+msgstr "Тейґер на зв'язку. Коконое, це ти?"
+
+#. Key: CAL7_051
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: うむ。
+#. JA:   そちらの件はまだなのだが……。
+#. JA:   予定外の経緯でニルヴァーナを回収した。
+msgctxt "CAL7_051"
+msgid ""
+"Yeah. No, I'm not done with that case...\n"
+"But I was unexpectedly able to collect Nirvana."
+msgstr ""
+"Так. Із тією справою я ще не закінчив... Але через непередбачені\n"
+"обставини вдалося забрати Нірвану."
+
+#. Key: CAL7_053
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: 了解した。一度帰還する。
+msgctxt "CAL7_053"
+msgid "Roger. I'll return at once."
+msgstr "Зрозумів. Повертаюся."
+
+#. Key: CAL7_054
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: や、やめて……姉さんを連れて行かないで……！
+#. JA:   お願いだから……！
+msgctxt "CAL7_054"
+msgid "W-Wait... Don't take my sister away...! Please...!"
+msgstr "Н-не треба... Не забирайте мою сестру... Будь ласка...!"
+
+#. Key: CAL7_055
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: 諦めろ、少年。
+#. JA:   これはもはや存在してはならぬ兵器なのだ。
+msgctxt "CAL7_055"
+msgid "Give it up, young one. This weapon cannot be allowed to exist..."
+msgstr "Змирися, хлопче. Ця зброя більше не повинна існувати."
+
+#. Key: CAL7_056
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さんが連れて行かれる。
+#. JA:   姉さんがいなくなってしまう。
+msgctxt "CAL7_056"
+msgid "My sister's being taken away... She's going to be...gone...!"
+msgstr "Сестру забирають. Сестра зникне."
+
+#. Key: CAL7_057
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕の手を離れて。僕の視界から。僕の目の前から。姉さんが。
+#. JA:   消える。消えてしまう。いなくなる。昔のように。あの時のように。
+msgctxt "CAL7_057"
+msgid ""
+"She's leaving... Being...taken away!\n"
+"No, she needs to be here, with me! She can't...leave me!\n"
+"Not...again!"
+msgstr ""
+"Вирветься з моїх рук. Зникне з поля зору. Зникне просто в мене на очах.\n"
+"Сестра. Зникне. Щезне. Її не стане. Як колись. Як тоді."
+
+#. Key: CAL7_058
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ
+#. JA:   嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ
+#. JA:   嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ
+msgctxt "CAL7_058"
+msgid "No, no no no no no!"
+msgstr ""
+"Ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні\n"
+"ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні."
+
+#. Key: CAL7_059
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ
+#. JA:   嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ嫌だ―――
+msgctxt "CAL7_059"
+msgid "NO...!"
+msgstr "Ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні ні..."
+
+#. Key: CAL7_060
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……姉、さん…僕をおいて行かないで…。
+msgctxt "CAL7_060"
+msgid "...Sis...don't leave me..."
+msgstr "...Сестро... Не залишай мене..."
+
+#. Key: CAL7_066
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん、やっぱり強いね……この人……。
+msgctxt "CAL7_066"
+msgid "Sis... This guy's really strong..."
+msgstr "Сестро, цей чоловік таки сильний..."
+
+#. Key: CAL7_067
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: 悪いことは言わん……。
+#. JA:   それを渡せ、少年。
+msgctxt "CAL7_067"
+msgid "Hey, trust me... Give that to me, boy."
+msgstr "Я не бажаю тобі лиха... Віддай її, хлопче."
+
+#. Key: CAL7_068
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 断ります。これは僕の姉さんですから。
+#. JA:   誰にも渡したりしません。
+msgctxt "CAL7_068"
+msgid "I refuse. She is my sister. I won't give her to anyone."
+msgstr "Відмовляюся. Це моя сестра. Я нікому її не віддам."
+
+#. Key: CAL7_069
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL7_069"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL7_070
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あなたとの決着はまたいずれ。
+#. JA:   今日はこれで失礼します。
+msgctxt "CAL7_070"
+msgid "I will finish my business with you some other day. Until then, I'll excuse myself."
+msgstr "Іншим разом ми завершимо наш бій. А сьогодні дозвольте відкланятися."
+
+#. Key: CAL7_071
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 行こう、姉さん。
+msgctxt "CAL7_071"
+msgid "Let's go, Sis."
+msgstr "Ходімо, сестро."
+
+#. Key: CAL7_073
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Tager
+#. Context: Carl story route (POV: Carl)
+#. JA: ……逃がしたか。致し方あるまい。
+#. JA:   これ以上の消耗と時間の浪費は任務に支障が出るな…。
+msgctxt "CAL7_073"
+msgid "...I let them go... Very well. I can't waste any more time, or it'll affect my mission."
+msgstr ""
+"...Утік. Нічого не вдієш. Подальше виснаження й марнування часу\n"
+"завадять виконанню завдання..."
+
+#. Key: CAL8_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……ふう。
+#. JA:   ここまで走ってくれば大丈夫かな？
+msgctxt "CAL8_002"
+msgid "...Phew. I think we're good now."
+msgstr "...Хух. Мабуть, відірвалися."
+
+#. Key: CAL8_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: こんなに走ったのは何年ぶりだろうね、姉さん……。
+msgctxt "CAL8_003"
+msgid "I can't remember the last time we ran like this. Can you, Sis?"
+msgstr "Скільки років ми так не бігали, сестро?.."
+
+#. Key: CAL8_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: うん、大丈夫だよ……。
+#. JA:   ちょっと、めまいが、するけど……。
+msgctxt "CAL8_004"
+msgid "Yeah, I'm OK... I do feel a little dizzy, though..."
+msgstr "Так, усе гаразд... Тільки голова трохи паморочиться..."
+
+#. Key: CAL8_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Unknown on screen; internally Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ムッ！　生き倒れか!?
+msgctxt "CAL8_006"
+msgid "Hm? Did he collapse from exhaustion!?"
+msgstr "Га! Хтось знепритомнів!?"
+
+#. Key: CAL8_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ん……あれ？
+msgctxt "CAL8_009"
+msgid "Mm... Huh?"
+msgstr "М-м... Що?"
+
+#. Key: CAL8_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: 気付いたでござるか。
+msgctxt "CAL8_010"
+msgid "Are you awake?"
+msgstr "Отямився?"
+
+#. Key: CAL8_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ここは……？
+#. JA:   あなたが助けて下さったんですか？
+msgctxt "CAL8_011"
+msgid ""
+"Where am I...?\n"
+"Did you save me?"
+msgstr "Де я?.. Це ви мене врятували?"
+
+#. Key: CAL8_012
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: 左様……。ちょっとした疲労でござろう。
+#. JA:   随分、無理な旅をしておったのだな。
+msgctxt "CAL8_012"
+msgid ""
+"Indeed. I think you just overworked yourself...\n"
+"It seems...your journey was a rough one."
+msgstr ""
+"Саме так. Певно, це звичайна перевтома. Твоя подорож була надто\n"
+"виснажливою."
+
+#. Key: CAL8_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……姉さん!?　姉さんは？
+msgctxt "CAL8_013"
+msgid "...Ada!? Where's my sister?"
+msgstr "...Сестро!? Де сестра?"
+
+#. Key: CAL8_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: “姉さん”？
+#. JA:   ひょっとしてお主の側にいた人形でござるか？
+msgctxt "CAL8_014"
+msgid "Big sister? Oh, are you talking about the doll that was near you?"
+msgstr "Сестра? Ти часом не про ляльку, що була поруч?"
+
+#. Key: CAL8_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: それならきちんとそこに運んでおいたでござる。
+msgctxt "CAL8_015"
+msgid "Don't worry, I brought that with me as well."
+msgstr "Не хвилюйся, я теж приніс її сюди."
+
+#. Key: CAL8_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、ありがとうございます……。
+msgctxt "CAL8_016"
+msgid "*sigh* Thank you very much..."
+msgstr "Д-дуже дякую..."
+
+#. Key: CAL8_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: しかし見ればまだ若い。
+#. JA:   何ゆえ、そのような無茶をする？
+msgctxt "CAL8_017"
+msgid "But you are so young... Why push yourself so hard?"
+msgstr "Та ти ще зовсім юний. Навіщо так себе виснажувати?"
+
+#. Key: CAL8_018
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、いえ、あの……。
+#. JA:   僕、こう見えても「咎追い」でして……。
+msgctxt "CAL8_018"
+msgid "Uh...I may look young, but I'm a vigilante..."
+msgstr "Ем... Попри мій вигляд, я мисливець за головами..."
+
+#. Key: CAL8_019
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ほう！　これは奇遇な！
+#. JA:   拙者も咎追いでござるよ！
+msgctxt "CAL8_019"
+msgid "Well, what a coincidence! I, too, am a true vigilante!"
+msgstr "О! Який збіг! Я теж мисливець за головами!"
+
+#. Key: CAL8_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、そう、なんですか……。
+msgctxt "CAL8_020"
+msgid "Oh...um...really...?"
+msgstr "О... Зрозуміло..."
+
+#. Key: CAL8_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: なるほどなるほど……それで合点がいったでござる。
+#. JA:   まだ咎追いになったばかりで右も左も分からぬうちに歩き回って
+#. JA:   疲れ果てて倒れてしまった、と……こういうわけでござるな！
+msgctxt "CAL8_021"
+msgid ""
+"I see, I see... Now it all makes sense. You just became a vigilante, you didn't know\n"
+"your way around, and you got so tired you collapsed... Is that right!?"
+msgstr ""
+"Так, так... Тепер усе зрозуміло! Ти щойно став мисливцем за головами,\n"
+"ще нічого не знав, заблукав, виснажився й упав. Саме так усе й було!"
+
+#. Key: CAL8_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、いや……そういうわけでは―――
+msgctxt "CAL8_022"
+msgid "Um... Well, not exact—"
+msgstr "Ем... Взагалі-то не зовсім..."
+
+#. Key: CAL8_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: いやいやいや、みなまで申さずともよい。
+#. JA:   拙者、咎追いの先達として
+#. JA:   お主の力になってやるでござるよ！
+msgctxt "CAL8_023"
+msgid ""
+"No, no, no... Say no more! As your senior and mentor, I am more than happy to help\n"
+"you out!"
+msgstr ""
+"Ні-ні-ні, можеш нічого не казати! Як досвідчений мисливець за головами\n"
+"я неодмінно тобі допоможу!"
+
+#. Key: CAL8_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: え……？　はあ……。
+msgctxt "CAL8_024"
+msgid "Huh? OK..."
+msgstr "Що?.. Гаразд..."
+
+#. Key: CAL8_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: よし！　もう身体は大丈夫でござろう？
+#. JA:   早速、お主の力を見て進ぜよう。
+msgctxt "CAL8_025"
+msgid ""
+"Great! I take it you're feeling better now...\n"
+"So, let's see what you're made of."
+msgstr "Чудово! Тіло вже в нормі, еге ж? Тоді негайно покажи мені, на що здатен!"
+
+#. Key: CAL8_026
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あの……僕は……。
+msgctxt "CAL8_026"
+msgid "Um... I..."
+msgstr "Ем... Я..."
+
+#. Key: CAL8_027
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: 遠慮はいらぬ。さ、さ！　参ろうか！
+msgctxt "CAL8_027"
+msgid "There is no need to hold back! Now...give me everything you've got."
+msgstr "Не соромся. Нумо, починаймо!"
+
+#. Key: CAL8_028
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ね、姉さん……。
+msgctxt "CAL8_028"
+msgid "S...Sis..."
+msgstr "С-сестро..."
+
+#. Key: CAL8_033
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: う、ん……。
+msgctxt "CAL8_033"
+msgid "Ungh...agh..."
+msgstr "М-м..."
+
+#. Key: CAL8_034
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: うむ。なかなかの腕前、しかと見届けた！
+#. JA:   しかし拙者にはまだまだ遠く及ばぬでござる！
+msgctxt "CAL8_034"
+msgid "Hmm... You're not bad... but you still have a ways to go."
+msgstr ""
+"Так! Я добре розгледів твою неабияку майстерність! Однак до мене тобі\n"
+"ще дуже далеко!"
+
+#. Key: CAL8_035
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL8_035"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL8_036
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ……だが、良いスジでござる！
+#. JA:   お主、拙者の弟子になるがいい！
+#. JA:   袖触れ合うも他生の縁というでござる。
+msgctxt "CAL8_036"
+msgid ""
+"...However, I see deep potential within you, young one...\n"
+"You should become my apprentice! I mean, this could be fate!"
+msgstr ""
+"...Та здібності в тебе чудові! Ставай моїм учнем! Навіть випадкова\n"
+"зустріч несе зв'язок із минулого життя!"
+
+#. Key: CAL8_037
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: え!?　あ、あの、いいです。結構です。
+msgctxt "CAL8_037"
+msgid "What!? Uh, um, no thanks. I'm fine."
+msgstr "Що!? Ем... Ні, дякую. Не треба."
+
+#. Key: CAL8_038
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: 遠慮はいらぬでござる！
+#. JA:   月謝を払えなどとケチなことは申さぬ！
+#. JA:   お主はただついてくればそれでいい！
+msgctxt "CAL8_038"
+msgid ""
+"Oh, don't worry about it!\n"
+"I won't charge you money!\n"
+"You just need to follow me around!"
+msgstr ""
+"Не соромся! Я не вимагатиму від тебе плати за навчання! Просто йди за\n"
+"мною — і все!"
+
+#. Key: CAL8_039
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、あの……腕を引っ張らないで……。
+#. JA:   姉さん……助けて……。
+msgctxt "CAL8_039"
+msgid "Ack, um...don't pull on me, please... Sis...help me..."
+msgstr "Ем... Не тягніть мене за руку... Сестро... допоможи..."
+
+#. Key: CAL8_040
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ふふふ……これも運の巡り合わせ。
+#. JA:   人の縁とは不可思議なものでござるなあ！
+msgctxt "CAL8_040"
+msgid "Hahahaha. This must be fate! ...Always pulling its strings from behind the stage."
+msgstr "Хе-хе-хе... Це теж примха долі. Людські зв'язки й справді дивовижні!"
+
+#. Key: CAL8_041
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 駄目だ、この人……。
+#. JA:   まるで聞いてないもの……。
+msgctxt "CAL8_041"
+msgid "Oh, God...there's no winning with him. He doesn't listen to a word I say..."
+msgstr "Це безнадійно... Він зовсім мене не слухає..."
+
+#. Key: CAL8_046
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あの……どうですか？
+msgctxt "CAL8_046"
+msgid "Um...how am I?"
+msgstr "Ну... як вам?"
+
+#. Key: CAL8_047
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ま、まあまあでござるな！
+#. JA:   拙者も病み上がりのお主に本気を出すわけにもいかなかったゆえ、
+#. JA:   ひとまずは花を持たせた結果なわけでござる！
+msgctxt "CAL8_047"
+msgid ""
+"Y...You're not bad! I-I mean, I couldn't go all-out on an injured boy...!\n"
+"Sooooo, I'll let you have that one!"
+msgstr ""
+"Н-непогано! Я ж не міг битися всерйоз із хлопцем, який щойно одужав,\n"
+"тому цього разу просто дозволив тобі відзначитися!"
+
+#. Key: CAL8_048
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: はあ……そうですか……。
+msgctxt "CAL8_048"
+msgid "Oh...is that so...?"
+msgstr "А... Зрозуміло..."
+
+#. Key: CAL8_049
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: そこで、でござる！
+msgctxt "CAL8_049"
+msgid "Therefore!"
+msgstr "А тому!"
+
+#. Key: CAL8_050
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: はい？
+msgctxt "CAL8_050"
+msgid "Yes?"
+msgstr "Так?"
+
+#. Key: CAL8_051
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: お主はまだまだ磨けば光る才能の持ち主！
+#. JA:   ここはひとつ、拙者の弟子になってみる気はござらんか？
+msgctxt "CAL8_051"
+msgid ""
+"If you train the right way, you can become even stronger!\n"
+"Why don't you become my apprentice?"
+msgstr ""
+"Твій талант засяє, якщо його як слід відшліфувати! Чи не хочеш стати\n"
+"моїм учнем?"
+
+#. Key: CAL8_052
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: え、いえ……結構です。忙しいので……。
+msgctxt "CAL8_052"
+msgid "Huh? Uh...no thank you. I'm very busy..."
+msgstr "Ем... Ні, дякую. Я дуже зайнятий..."
+
+#. Key: CAL8_053
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: そう言わず！
+#. JA:   お主のような才能あふれる者を正しい道に導くのが拙者の勤め！
+#. JA:   遠慮はいらぬ！
+msgctxt "CAL8_053"
+msgid ""
+"You don't mean that...! As a mentor, it is my job to guide you down the right path!\n"
+"I understand your hesitation...but this is a decision you will never regret."
+msgstr ""
+"Не кажи так! Мій обов'язок — наставити на праведний шлях такого\n"
+"обдарованого юнака! Не соромся!"
+
+#. Key: CAL8_054
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、いや、だから……。
+msgctxt "CAL8_054"
+msgid "Um, no, actually..."
+msgstr "Ем, ні, я ж кажу..."
+
+#. Key: CAL8_055
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: カルル殿。ここ浪人街には金はない！　物資もない！
+#. JA:   無い無いづくしでござるが、他の街に負けぬものを一つだけ持っているでござる。それが何だか分かるでござるか？
+msgctxt "CAL8_055"
+msgid ""
+"Carl. This city has no money...and no resources. Ronin-gai is by no means\n"
+"<DQ>well-off<DQ>...but still, there is one thing that this town has... Do you know what\n"
+"it is!?"
+msgstr ""
+"Пане Карле! У Ронін-ґаї немає грошей! Немає припасів! Це аж ніяк не\n"
+"«заможне» місто, та є дещо, у чому ми не поступимося іншим містам.\n"
+"Знаєш, що саме?"
+
+#. Key: CAL8_056
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: わ、分かりません……。
+msgctxt "CAL8_056"
+msgid "I...I don't know...!"
+msgstr "Н-не знаю..."
+
+#. Key: CAL8_057
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: それはな……。人々の“愛”でござる！！！！！
+msgctxt "CAL8_057"
+msgid "Hah! What else? It is LOVE!"
+msgstr "Це... любов людей!!!!!"
+
+#. Key: CAL8_059
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ゆえに！
+#. JA:   ここでの修業は必ずやカルル殿に“力”を与えるであろう！
+#. JA:   なぜならば―――
+msgctxt "CAL8_059"
+msgid ""
+"Hence! Training here, you will attain unprecedented power!\n"
+"And that is because!!!"
+msgstr ""
+"А тому! Тренування тут неодмінно наділить вас силою, пане Карле!\n"
+"Адже..."
+
+#. Key: CAL8_060
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: な、なぜならば？
+msgctxt "CAL8_060"
+msgid "B-Because?"
+msgstr "А-адже?"
+
+#. Key: CAL8_061
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: “愛”こそが“力”だからだ―――――っ！
+msgctxt "CAL8_061"
+msgid "Because <DQ>love<DQ> is <DQ>power<DQ>!!!"
+msgstr "Бо «любов» і є «силою»!"
+
+#. Key: CAL8_063
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL8_063"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL8_064
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: よし！　では参ろう！
+#. JA:   今後、拙者のことは師匠と呼ぶでござるぞ！
+msgctxt "CAL8_064"
+msgid ""
+"OK! Now let's go...\n"
+"Feel free to call me, <DQ>master<DQ> from now on."
+msgstr "Чудово! Тоді ходімо! Відтепер називай мене «наставником»!"
+
+#. Key: CAL8_065
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あの、痛いです……腕を引っ張らないで……。
+msgctxt "CAL8_065"
+msgid "Um, that hurts... Don't pull my arm..."
+msgstr "Ем, мені боляче... Не тягніть мене за руку..."
+
+#. Key: CAL8_066
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ふふふ……。拙者の修業は厳しいぞ？
+#. JA:   お主についてこれるかな!?
+msgctxt "CAL8_066"
+msgid ""
+"Hahaha...but keep in mind, my lessons are quite challenging.\n"
+"I hope you can keep up."
+msgstr "Хе-хе-хе... Мої тренування суворі. Чи зможеш ти за мною встигнути!?"
+
+#. Key: CAL8_067
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あの……聞いてます？　僕の話……。
+msgctxt "CAL8_067"
+msgid ""
+"Um...are you listening to me at all?\n"
+msgstr ""
+"Ем... Ви взагалі мене слухаєте?\n"
+""
+
+#. Key: CAL8_068
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん、どうしよう……。
+#. JA:   うん、分かってるんだ。悪い人じゃないのは……。
+msgctxt "CAL8_068"
+msgid "What should I do, Sis? Yes, I know. He's not a bad person—"
+msgstr "Що робити, сестро?.. Так, я знаю, що він не лиха людина..."
+
+#. Key: CAL8_069
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: なにをブツブツ言っておるでござるか！
+#. JA:   男ならハキハキとモノを言うでござる！
+#. JA:   まずは声出し練習が必要でござるか？
+msgctxt "CAL8_069"
+msgid ""
+"What are you mumbling about! A real man should speak his mind clearly and\n"
+"articulate! Do we need to start from vocal training?"
+msgstr ""
+"Що ти там бурмочеш! Чоловік має говорити чітко й голосно! Невже\n"
+"доведеться почати з вправ для голосу?"
+
+#. Key: CAL8_070
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……しばらく付き合ってあげるしかないみたいだよ、姉さん。
+msgctxt "CAL8_070"
+msgid "...It seems like we have to tag along for a little while, Sis."
+msgstr "...Схоже, доведеться трохи йому підіграти, сестро."
+
+#. Key: CAL9_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ……元気がないでござるな。
+msgctxt "CAL9_002"
+msgid "...You seem down."
+msgstr "...Ти якийсь засмучений."
+
+#. Key: CAL9_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あ、いえ……姉さんをそこで待たせてるから……。
+#. JA:   寂しくないかと心配で……。
+msgctxt "CAL9_003"
+msgid "Ah, not at all. I'm making my sister wait, and I'm just worried about her."
+msgstr "Та ні... Просто сестра чекає он там, і я хвилююся, чи їй не самотньо..."
+
+#. Key: CAL9_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕は、岩場の上で待つ姉さんを指差しました。
+msgctxt "CAL9_004"
+msgid "I point at my sister."
+msgstr "Я вказав на сестру, яка чекала на скелях."
+
+#. Key: CAL9_005
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: “姉さん”か……。
+#. JA:   あのカラクリのことでござるな？
+msgctxt "CAL9_005"
+msgid "<DQ>Sister<DQ>, eh... You're talking about that doll?"
+msgstr "«Сестра»... Ти про ту ляльку?"
+
+#. Key: CAL9_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さんはカラクリなんかじゃ―――
+msgctxt "CAL9_006"
+msgid "She's not a doll!"
+msgstr "Моя сестра не лялька!"
+
+#. Key: CAL9_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: いや、分かっているでござる。
+#. JA:   いろいろと、辛いことがあったのでござろう。
+msgctxt "CAL9_007"
+msgid "It's OK... I understand. I'm sure you've gone through a lot, yourself..."
+msgstr "Ні, я розумію. Певно, тобі довелося пережити багато лиха."
+
+#. Key: CAL9_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: お主があれを“姉”と呼ぶのなら、それは姉に他ならぬ。
+#. JA:   大切なのはお主の心でござる。
+msgctxt "CAL9_008"
+msgid ""
+"If you truly believe that that is your sister...then it must be.\n"
+"It is a part of your soul! So, don't let anyone tell you otherwise..."
+msgstr ""
+"Якщо ти називаєш її сестрою, то вона і є твоєю сестрою. Головне — те,\n"
+"що у твоєму серці."
+
+#. Key: CAL9_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: バングさん……。
+msgctxt "CAL9_009"
+msgid "Mr. Bang..."
+msgstr "Пане Банґу..."
+
+#. Key: CAL9_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: 拙者も昔、影丸という犬を飼っておった……。
+#. JA:   影丸を弟のように想っていたものでござる。
+#. JA:   影丸もまた、拙者を兄と慕っていてくれておった……。
+msgctxt "CAL9_010"
+msgid ""
+"I used to have a dog named Kagemaru... He was like a younger brother to me...\n"
+"I'm sure Kagemaru felt the same way."
+msgstr ""
+"Колись у мене був пес на ім'я Каґемару. Я любив його як молодшого\n"
+"брата. І Каґемару теж любив мене як старшого брата..."
+
+#. Key: CAL9_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ちょっと、違うな……。
+msgctxt "CAL9_011"
+msgid "That's...a little different..."
+msgstr "Це трохи... інше..."
+
+#. Key: CAL9_012
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ん？　なにか言ったでござるか？
+msgctxt "CAL9_012"
+msgid "Hm? Did you say something?"
+msgstr "Гм? Ти щось сказав?"
+
+#. Key: CAL9_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: いえ……なんでも、ないです。
+msgctxt "CAL9_013"
+msgid "Uh, no. Never mind."
+msgstr "Ні... Нічого."
+
+#. Key: CAL9_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: また別の話では、拙者の故郷に残る言い伝えで、
+#. JA:   人の想いを受け続けたモノは長い年月を経て
+#. JA:   “ツクモガミ”というものに変じるという。
+msgctxt "CAL9_014"
+msgid ""
+"Well, in my village there is a saying... Objects exposed to human emotions...with\n"
+"time, will gain life and become <DQ>tsukumogami<DQ>."
+msgstr ""
+"А ще на моїй батьківщині кажуть, що предмет, який довгі роки вбирає\n"
+"людські почуття, перетворюється на «цукумоґамі»."
+
+#. Key: CAL9_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: お主があれを想い続ければ、
+#. JA:   やがてその想いが現実にならぬとも限らんのでござる。
+msgctxt "CAL9_015"
+msgid ""
+"In other words...if you keep taking care of that, then one day, your feelings may\n"
+"take form... May..."
+msgstr ""
+"Якщо й далі любитимеш її, колись твої почуття цілком можуть стати\n"
+"дійсністю."
+
+#. Key: CAL9_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: それもちょっと、違うと思うんだけど……。
+msgctxt "CAL9_016"
+msgid "That's...a little different, too..."
+msgstr "Це теж, мабуть, трохи інше..."
+
+#. Key: CAL9_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: つまり、大事なのは心っ！
+#. JA:   そして愛と勇気なのだっ！
+msgctxt "CAL9_017"
+msgid ""
+"Anyway! What's important is what's in your heart!\n"
+"And of course! ...Love and justice..."
+msgstr "Отже, головне — серце! А ще любов і відвага!"
+
+#. Key: CAL9_018
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL9_018"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL9_019
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Bang
+#. Context: Carl story route (POV: Carl)
+#. JA: ささ！　修行を再開するでござる！
+msgctxt "CAL9_019"
+msgid "Now, let us continue with our training!"
+msgstr "Ну ж бо! Продовжимо тренування!"
+
+#. Key: CAL9_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: はい……。
+msgctxt "CAL9_020"
+msgid "OK..."
+msgstr "Добре..."
+
+#. Key: CAL9_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん
+#. JA:   
+#. JA:   
+#. JA:   バングさんは相変わらずです。
+msgctxt "CAL9_021"
+msgid "Bang's just being his usual self, Sis."
+msgstr "Сестро. Пан Банґ анітрохи не змінився."
+
+#. Key: CAL9_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 修業はいつになったら終わるのかさっぱり分かりません。
+#. JA:   でも、最近ちょっと楽しくなってきました。
+msgctxt "CAL9_022"
+msgid ""
+"I have no idea when my training will be over. But, I do feel like everything's gotten\n"
+"a little easier."
+msgstr ""
+"Я зовсім не знаю, коли скінчаться тренування. Але останнім часом мені\n"
+"навіть стало трохи весело."
+
+#. Key: CAL9_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 
+#. JA:   ずっと、姉さん以外の人とろくに話をしてなかったせいかな？
+#. JA:   
+msgctxt "CAL9_023"
+msgid "Maybe it's because I haven't talked to anyone but you lately."
+msgstr ""
+"\n"
+"Може, тому, що вже давно я майже ні з ким не розмовляв, окрім тебе?\n"
+""
+
+#. Key: CAL9_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 少しだけ、昔に戻れたような気がします。
+msgctxt "CAL9_024"
+msgid "Even if it's for a little while...this feels just like the old days."
+msgstr "Мені здавалося, ніби я ненадовго повернувся в минуле."
+
+#. Key: CAL9_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 
+#. JA:   
+#. JA:   カルル
+msgctxt "CAL9_025"
+msgid ""
+"\n"
+"\n"
+"Carl..."
+msgstr ""
+"\n"
+"\n"
+"Карл"
+
+#. Key: CAL10_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: この先に、なにかある……？
+msgctxt "CAL10_002"
+msgid "Is there something beyond here...?"
+msgstr "Попереду щось є...?"
+
+#. Key: CAL10_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: だ、誰っ!?
+msgctxt "CAL10_004"
+msgid "Wh-Who goes there!?"
+msgstr "Х-хто там!?"
+
+#. Key: CAL10_005
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: お久しぶりです、ノエル先輩。
+msgctxt "CAL10_005"
+msgid "Long time, no see, Noel."
+msgstr "Давно не бачилися, старшокурснице Ноель."
+
+#. Key: CAL10_006
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: えっ……き、君は？
+msgctxt "CAL10_006"
+msgid "Huh...? D-Do I know you?"
+msgstr "Що?.. Т-ти хто?"
+
+#. Key: CAL10_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: ノエル＝ヴァーミリオンが戸惑うのも無理はありませんでした。
+#. JA:   僕と先輩が出会ったのは数年前―――しかも数回。
+#. JA:   その上、姿格好が異なるとなれば仕方のないことです。
+msgctxt "CAL10_007"
+msgid ""
+"Noel's confusion is understandable.\n"
+"I met her years ago, and only a few times."
+msgstr ""
+"Не дивно, що Ноель Верміліон розгубилася. Ми зустрічалися лише\n"
+"кілька разів іще кілька років тому. До того ж тепер я зовсім інакше\n"
+"виглядаю."
+
+#. Key: CAL10_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 僕は帽子を脱ぎ、一礼をしました。
+#. JA:   そこでようやく先輩は僕のことを思い出したようでした。
+msgctxt "CAL10_008"
+msgid ""
+"I remove my hat and bow, politely.\n"
+"Suddenly, she recognizes me."
+msgstr ""
+"Я зняв капелюха й уклонився. Лише тоді вона, схоже, нарешті мене\n"
+"згадала."
+
+#. Key: CAL10_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: も、もしかして、カルル君!?
+#. JA:   ―――どうしてこんなところに？
+msgctxt "CAL10_009"
+msgid "Y-You're Carl, right? What are you doing here?"
+msgstr "Н-невже ти Карл!? Чому ти тут?"
+
+#. Key: CAL10_010
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 突然で驚かれるかもしれませんが、先輩に会いに来ました。
+msgctxt "CAL10_010"
+msgid "I know this is a little sudden, but I'm here to see you."
+msgstr "Можливо, це прозвучить несподівано, але я прийшов зустрітися з вами."
+
+#. Key: CAL10_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: わ、私に？　なんで……？
+msgctxt "CAL10_011"
+msgid "M-Me? Why...?"
+msgstr "З-зі мною? Чому?.."
+
+#. Key: CAL10_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: そ、そんなことよりここは危険なの！
+#. JA:   早く遠くへ逃げないと……。
+msgctxt "CAL10_013"
+msgid "A-Anyway, this place is really dangerous! You need get away quickly."
+msgstr ""
+"В-важливіше те, що тут небезпечно! Тобі треба негайно тікати\n"
+"якнайдалі..."
+
+#. Key: CAL10_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ご忠告ありがとうございます。ですが、先輩にお願いがあって。
+msgctxt "CAL10_014"
+msgid "Thank you for the warning, but I need to ask you for a favor."
+msgstr "Дякую за пораду. Але я хочу вас дещо попросити."
+
+#. Key: CAL10_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: お願い？　なにかな？
+msgctxt "CAL10_015"
+msgid "A favor? What would that be?"
+msgstr "Попросити? Про що?"
+
+#. Key: CAL10_016
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 先輩の持ってるその武器なんですけど……。
+msgctxt "CAL10_016"
+msgid "That weapon you have... "
+msgstr "Це стосується вашої зброї..."
+
+#. Key: CAL10_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: ベ、ベルヴェルク……？
+msgctxt "CAL10_017"
+msgid "B-Bolverk? What about it?"
+msgstr "Б-Бельверка...?"
+
+#. Key: CAL10_018
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 「ベルヴェルク」というのですね、武器の名前。
+msgctxt "CAL10_018"
+msgid "So that weapon's name is Bolverk?"
+msgstr "Отже, ця зброя зветься Бельверк."
+
+#. Key: CAL10_019
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ―――無茶なことだと承知でいうのですが、
+#. JA:   その武器を、ベルヴェルクを譲ってはいただけないでしょうか？
+msgctxt "CAL10_019"
+msgid "I know I'm asking for a lot, but may I have it?"
+msgstr ""
+"Розумію, що прошу неможливого, але чи не могли б ви віддати мені цю\n"
+"зброю — Бельверк?"
+
+#. Key: CAL10_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: え!?　ベルヴェルクを？
+msgctxt "CAL10_020"
+msgid "Huh!? Is it so important?"
+msgstr "Що!? Бельверк?"
+
+#. Key: CAL10_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: はい、
+#. JA:   僕にはどうしても必要なんです。
+msgctxt "CAL10_021"
+msgid "Yes, I really need it."
+msgstr "Так. Він мені конче потрібен."
+
+#. Key: CAL10_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: そ、そんな……突然いわれても、武器を渡すなんてことは―――。
+msgctxt "CAL10_022"
+msgid "U-Uhh...this is all so sudden. I can't just give it to you... "
+msgstr ""
+"А-але... Ти так раптово про це просиш. Я не можу просто віддати свою\n"
+"зброю..."
+
+#. Key: CAL10_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 理由は言えませんが、人の命に関わることなんです。
+#. JA:   譲っては、もらえませんか……？
+msgctxt "CAL10_023"
+msgid ""
+"I can't tell you why I need it, but it has something to do with someone's life.\n"
+"Do you think you can give it to me...?"
+msgstr ""
+"Я не можу пояснити причину, але від цього залежить людське життя. Ви\n"
+"не віддасте його мені?.."
+
+#. Key: CAL10_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: 人の命……？
+#. JA:   そ、それは、なんとかしてあげたいけど…。
+msgctxt "CAL10_024"
+msgid "Someone's life...? I want to help out, but why the weapon?"
+msgstr "Людське життя?.. Я-я хочу якось допомогти, але..."
+
+#. Key: CAL10_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 詳しいことは言えません。
+#. JA:   せめて一時的に貸していただけないでしょうか？
+#. JA:   用事が済んだら必ずお返しします。
+msgctxt "CAL10_025"
+msgid ""
+"I can't give you specific details. Do you think I can at least borrow it for a little bit?\n"
+"I'll return it as soon as I'm done."
+msgstr ""
+"Подробиць я розповісти не можу. Чи не могли б ви хоча б позичити його\n"
+"на якийсь час? Я обов'язково поверну, щойно закінчу справу."
+
+#. Key: CAL10_026
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: う、ん……貸すだけ、ならなんとか―――
+msgctxt "CAL10_026"
+msgid "Uh... Hmm...if it's just lending..."
+msgstr "Гм... Якщо тільки позичити, то, може..."
+
+#. Key: CAL10_028
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: な、なに……？　ベルヴェルクが……！
+msgctxt "CAL10_028"
+msgid "Wh-What...? Bolverk is...!"
+msgstr "Щ-що?.. Бельверк...!"
+
+#. Key: CAL10_029
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: “危険”……？　カルル君が……どうして……？
+msgctxt "CAL10_029"
+msgid ""
+"<DQ>Dangerous<DQ>? ...Carl?\n"
+"...Why?"
+msgstr "«Небезпека»? Карл... чому?.."
+
+#. Key: CAL10_031
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: ごめんなさいカルル君。
+#. JA:   この武器を渡すことはできないの。
+msgctxt "CAL10_031"
+msgid ""
+"I'm sorry, Carl.\n"
+"I can't give you this weapon."
+msgstr "Пробач, Карле. Я не можу віддати тобі цю зброю."
+
+#. Key: CAL10_032
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……チッ。
+msgctxt "CAL10_032"
+msgid "...Tch."
+msgstr "...Цк."
+
+#. Key: CAL10_035
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: キャッ!?
+msgctxt "CAL10_035"
+msgid "Eek!"
+msgstr "Ай?!"
+
+#. Key: CAL10_036
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あれ？
+#. JA:   思ったより反応が素早いですね。
+#. JA:   ちょっと舐めすぎてたかな……。
+msgctxt "CAL10_036"
+msgid ""
+"Oh? Your reaction time is quicker than I thought.\n"
+"Maybe I underestimated you... "
+msgstr ""
+"О? Ви зреагували швидше, ніж я очікував. Здається, я надто вас\n"
+"недооцінив..."
+
+#. Key: CAL10_037
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: カ、カルル君、どうして!?
+msgctxt "CAL10_037"
+msgid "Wh-What are you doing, Carl!?"
+msgstr "К-Карле, навіщо!?"
+
+#. Key: CAL10_038
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 穏便に済ませようと思いましたが無理なようです。
+#. JA:   渡していただけないのなら奪うまでです。
+msgctxt "CAL10_038"
+msgid ""
+"I tried to keep it peaceful, but that didn't seem to work.\n"
+"If you're not going to give it to me, I'm going to have to take it by force."
+msgstr ""
+"Я хотів владнати все мирно, але, схоже, це неможливо. Якщо ви не\n"
+"віддасте його добровільно, я просто заберу силою."
+
+#. Key: CAL10_043
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: おか、しいな……。
+#. JA:   意外と、お強いんですね……。
+msgctxt "CAL10_043"
+msgid "Huh...that was odd. You're stronger than I thought you'd be..."
+msgstr "Дивно... Ви виявилися сильнішою, ніж я думав..."
+
+#. Key: CAL10_044
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: カルル君！
+#. JA:   ごめんね、どうしようもなくて……。
+#. JA:   すぐに医療班を手配するから、動かないで！
+msgctxt "CAL10_044"
+msgid "Carl! I'm so sorry. I had no other choice... I'll get the medical staff, so don't move!"
+msgstr ""
+"Карле! Пробач, іншого виходу не було... Я негайно викличу медиків,\n"
+"тільки не рухайся!"
+
+#. Key: CAL10_045
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 結構です……。
+#. JA:   あなたの助けなんて、要りません……。
+msgctxt "CAL10_045"
+msgid "No, thank you... I don't need your help..."
+msgstr "Не треба... Мені не потрібна ваша допомога..."
+
+#. Key: CAL10_046
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 行こ、う……姉さん……。
+msgctxt "CAL10_046"
+msgid "Let's go...Sis..."
+msgstr "Ходімо... сестро..."
+
+#. Key: CAL10_048
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: 待って！
+msgctxt "CAL10_048"
+msgid "Wait!"
+msgstr "Зачекай!"
+
+#. Key: CAL10_049
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: まいったね、姉さん……。
+#. JA:   ちょっと、作戦を練り直さないと、駄目、だね……。
+msgctxt "CAL10_049"
+msgid "That wasn't any good, huh, Sis...? We need to come up with another plan..."
+msgstr "Не вдалося, сестро... Треба трохи змінити план..."
+
+#. Key: CAL10_050
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: うん、大丈夫、だよ、僕は……。
+#. JA:   姉さんは、平気……？
+msgctxt "CAL10_050"
+msgid "Yeah, I'm fine... How about...you...Sis..."
+msgstr "Так, зі мною все гаразд... А ти... ціла, сестро?.."
+
+#. Key: CAL10_053
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: ―――カルル君？
+#. JA:   ……カルル君！！
+msgctxt "CAL10_053"
+msgid ""
+"Carl?\n"
+"Carl!"
+msgstr "Карле?.. Карле!!"
+
+#. Key: CAL10_058
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: 駄目……駄目なの、これは……。
+msgctxt "CAL10_058"
+msgid "No... I can't...give these to...you..."
+msgstr "Ні... Не можна... Я не можу віддати його..."
+
+#. Key: CAL10_059
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 愛銃ベルヴェルクを奪い取ると、ノエル＝ヴァーミリオンは呆然とした顔で地面に倒れこみました。
+msgctxt "CAL10_059"
+msgid "With her weapons gone, she loses the will to fight and collapses."
+msgstr ""
+"Коли в неї відібрали улюблені пістолети Бельверк, Ноель Верміліон\n"
+"приголомшено впала на землю."
+
+#. Key: CAL10_060
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 思ったより手こずったね。
+#. JA:   でも、これで手に入ったよ。アークエネミーが……。
+msgctxt "CAL10_060"
+msgid "She was tougher than I thought. But we got it...the Nox Nyctores..."
+msgstr "Вона завдала більше клопоту, ніж я очікував. Але тепер Арк-Енемі наш..."
+
+#. Key: CAL10_062
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 「魔銃ベルヴェルク」……か。
+#. JA:   空間を貫通し、狙った場所で術式を発動させる……武器。
+#. JA:   なるほど、先輩はこの武器で“お仕事”をしていたんですね？
+msgctxt "CAL10_062"
+msgid ""
+"Arcus Diabolus Bolverk...it pierces through space, detonating an Armagus-based\n"
+"blast wherever you aim. I see...you've been taking care of <DQ>work<DQ> with these..."
+msgstr ""
+"Магічні пістолети Бельверк... Зброя, що пробиває простір і запускає\n"
+"магічну формулу в обраній точці. Зрозуміло, старшокурсниця\n"
+"виконувала цією зброєю свою «роботу»."
+
+#. Key: CAL10_063
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Noel
+#. Context: Carl story route (POV: Carl)
+#. JA: !?　う……。
+msgctxt "CAL10_063"
+msgid "!? Ugh..."
+msgstr "!? Кх..."
+
+#. Key: CAL10_065
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL10_065"
+msgid "...!"
+msgstr "...!"
+
+#. Key: CAL10_067
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん……？
+msgctxt "CAL10_067"
+msgid "Sis...?"
+msgstr "Сестро...?"
+
+#. Key: CAL10_068
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: どうしたの？　奥に、なにかあるの？
+msgctxt "CAL10_068"
+msgid "What's wrong? Is there something over there?"
+msgstr "Що сталося? Там далі щось є?"
+
+#. Key: CAL11_002
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 第666拘束機関解放、次元干渉虚数法陣展開
+msgctxt "CAL11_002"
+msgid ""
+"Lifting restriction number 666.\n"
+"Deploying dimensional interference force field."
+msgstr ""
+"Обмежувальний механізм №666 знято. Розгортання уявної формації\n"
+"просторового втручання."
+
+#. Key: CAL11_003
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: ムラクモユニット解放……
+msgctxt "CAL11_003"
+msgid "Murakumo Unit deployed..."
+msgstr "Модуль Муракумо розгорнуто..."
+
+#. Key: CAL11_004
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: その器白銀の刃にして蒼の根源
+#. JA:   八岐の尾より出で 世界を否定し粛清する者よ……
+msgctxt "CAL11_004"
+msgid ""
+"O silver blade forged in the depths of beyond,\n"
+"heed my summons, and purge those who stand in my way..."
+msgstr ""
+"Твоя оболонка — срібне лезо й джерело Лазурі. О ти, хто народився з\n"
+"хвоста восьмиголового змія, аби заперечити й очистити світ..."
+
+#. Key: CAL11_005
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 「薙ぎ払え」
+msgctxt "CAL11_005"
+msgid "Lay waste..."
+msgstr "Змети все."
+
+#. Key: CAL11_007
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: まずい……！
+msgctxt "CAL11_007"
+msgid "Oh no!"
+msgstr "Лихо...!"
+
+#. Key: CAL11_008
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL11_008"
+msgid "...!!"
+msgstr "...!!"
+
+#. Key: CAL11_009
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん!?
+msgctxt "CAL11_009"
+msgid "Sis!?"
+msgstr "Сестро!?"
+
+#. Key: CAL11_011
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さんっ、やめて、僕をかばったりなんかしないで！！
+msgctxt "CAL11_011"
+msgid "No! Stop! Don't protect me!"
+msgstr "Сестро, припини! Не захищай мене!!"
+
+#. Key: CAL11_013
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: やめて！　姉さんが死んじゃうよ！！
+#. JA:   やめて！！　やめて！！
+msgctxt "CAL11_013"
+msgid "Stop it! Sis, you're gonna die!! STOP! STOP IT!!"
+msgstr "Припини! Сестро, ти загинеш!! Припини! Припини!!"
+
+#. Key: CAL11_014
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 畜生っ……「蒼」め！
+#. JA:   やめろ！　やめろーっ！！
+msgctxt "CAL11_014"
+msgid "Goddammit... Damn <DQ>Azure<DQ>! Stop it! STOP IT!!!!!"
+msgstr "Прокляття... Клята «Лазур»! Припини! Припини-и-и!!"
+
+#. Key: CAL11_015
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 事象兵器沈黙まで攻撃を継続
+msgctxt "CAL11_015"
+msgid "Continue assault until the anomaly is terminated."
+msgstr "Продовжую атаку до нейтралізації Арк-Енемі."
+
+#. Key: CAL11_017
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: やめてぇっ！！　姉さん、お願いだから、やめ―――
+msgctxt "CAL11_017"
+msgid "Please stop! Sis, please, sto..."
+msgstr "Припини-и-и!! Сестро, благаю, припи..."
+
+#. Key: CAL11_020
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: て……。
+msgctxt "CAL11_020"
+msgid "...p..."
+msgstr "...ни..."
+
+#. Key: CAL11_021
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL11_021"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL11_022
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉、さん……？
+msgctxt "CAL11_022"
+msgid "...Sis?"
+msgstr "Сестро...?"
+
+#. Key: CAL11_023
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さん……？
+msgctxt "CAL11_023"
+msgid "Sis...?"
+msgstr "Сестро...?"
+
+#. Key: CAL11_024
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nirvana
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL11_024"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL11_025
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 嫌、だ……姉さん……返事をして。
+msgctxt "CAL11_025"
+msgid "No...Sis...please...answer me."
+msgstr "Ні... Сестро... Відповідай."
+
+#. Key: CAL11_026
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: 嫌だ……嫌だ嫌だ嫌だ嫌だ嫌だ！！
+#. JA:   …………姉さん、姉さん！！
+#. JA:   返事をしてよ！　姉さん、姉さん！！！
+msgctxt "CAL11_026"
+msgid ""
+"No... NO, NO, NO, NO, NO!\n"
+"...Sis...Sis!\n"
+"Answer me! Ada! Ada!"
+msgstr "Ні... Ні ні ні ні ні!! Сестро... сестро!! Відповідай! Сестро! Сестро!!!"
+
+#. Key: CAL11_027
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: 危険因子に流動する恐れのある事象兵器の排除を完了―――
+#. JA:   対象……戦意なし……
+#. JA:   次のフェイズへ移行します
+msgctxt "CAL11_027"
+msgid ""
+"Elimination of phenomenon: complete.\n"
+"Target... destroyed... Initiating next phase."
+msgstr ""
+"Усунення Арк-Енемі, який міг перейти до небезпечного чинника,\n"
+"завершено. Ціль... не має волі до бою... Переходжу до наступної фази."
+
+#. Key: CAL11_029
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ああ、あ…………。
+msgctxt "CAL11_029"
+msgid "Ah...ahh..."
+msgstr "А... а-а..."
+
+#. Key: CAL11_030
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: そんなはずないよ……姉さんがいなくなるなんて……
+#. JA:   僕を残していなくなるなんて……姉さんがそんなことするはずがない…姉さんはそんなことしない……。
+msgctxt "CAL11_030"
+msgid ""
+"No way...there's no way Sis is gone... She won't leave me...\n"
+"There's no way she'd do that... She won't..."
+msgstr ""
+"Не може бути... Сестра не могла зникнути... Не могла покинути мене...\n"
+"Вона ніколи так не вчинила б... Сестра так не зробить..."
+
+#. Key: CAL11_031
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: そうだよね、姉さん……。
+#. JA:   姉さんがいなくなったら、僕はまた一人ぼっちになるんだよ……？
+#. JA:   一人は嫌だ……もう、一人は……。
+msgctxt "CAL11_031"
+msgid ""
+"Right, Sis...? If you leave me, I'll be all by myself again...\n"
+"I don't want to be all alone anymore...by myself..."
+msgstr ""
+"Правда ж, сестро?.. Якщо тебе не стане, я знову залишуся сам... Я не\n"
+"хочу бути сам... Більше ніколи..."
+
+#. Key: CAL11_034
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ……ひどいや姉さん、また僕を残してどこかにいくなんて。
+msgctxt "CAL11_034"
+msgid "...How could you, Sis, you left me again."
+msgstr "...Як жорстоко, сестро. Ти знову покинула мене й кудись пішла."
+
+#. Key: CAL11_035
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Narrator
+#. Context: Carl story route (POV: Carl)
+#. JA: 姉さんがそこら中にいる。
+#. JA:   僕はそれをひとつ……またひとつと拾った。
+msgctxt "CAL11_035"
+msgid "My sister is scattered all over the place... I pick her up... Again, and again..."
+msgstr "Сестра була розкидана всюди. Я підбирав її частини одну за одною."
+
+#. Key: CAL11_036
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: そこに……こんなところにいたんだね……。
+#. JA:   姉さん……よかった……。
+msgctxt "CAL11_036"
+msgid ""
+"There you are... You were just hiding, weren't you?\n"
+"Thank God..."
+msgstr "Ось ти де... Ти ховалася тут... Сестро... Як добре..."
+
+#. Key: CAL11_037
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: もう離れないから……。
+#. JA:   僕はもう一人は嫌だよ……。
+#. JA:   姉さんだって、そうだよね？
+msgctxt "CAL11_037"
+msgid ""
+"I won't leave you ever again... I don't want to be alone...\n"
+"You, too, right?"
+msgstr ""
+"Я більше тебе не відпущу... Я більше не хочу бути сам... Ти теж цього не\n"
+"хочеш, сестро, правда?"
+
+#. Key: CAL11_039
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Nu
+#. Context: Carl story route (POV: Carl)
+#. JA: さ、ラグナ……。
+#. JA:   これでやっと、一緒になれるよ……。
+msgctxt "CAL11_039"
+msgid ""
+"Now, Ragna...\n"
+"We can finally be together..."
+msgstr "Ну ж бо, Раґно... Нарешті ми зможемо стати одним цілим..."
+
+#. Key: CAL11_043
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ねぇ、姉さん。僕、なんだか眠いんだ……。
+msgctxt "CAL11_043"
+msgid "Hey, Sis... I don't know why...but I'm getting sleepy..."
+msgstr "Знаєш, сестро... Мене чомусь хилить у сон..."
+
+#. Key: CAL11_045
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+msgctxt "CAL11_045"
+msgid "..."
+msgstr "..."
+
+#. Key: CAL11_047
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: あれは―――。
+msgctxt "CAL11_047"
+msgid "That's..."
+msgstr "Це ж..."
+
+#. Key: CAL11_048
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: ううん、なんでもないよ……。
+msgctxt "CAL11_048"
+msgid "No, it's nothing."
+msgstr "Ні, нічого..."
+
+#. Key: CAL11_050
+#. Source: story/storytext_mainca (data/Story/Text/eng/storytext_mainca.pac)
+#. Speaker: Carl
+#. Context: Carl story route (POV: Carl)
+#. JA: おやすみ、姉さん……。
+msgctxt "CAL11_050"
+msgid "Good night, Ada..."
+msgstr "На добраніч, сестро..."

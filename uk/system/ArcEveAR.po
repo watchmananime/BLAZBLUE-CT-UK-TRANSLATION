@@ -1,0 +1,1442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: ArcEveAR01_00
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 何　か　察知された　　　な　　くるな。　だ？
+msgctxt "ArcEveAR01_00"
+msgid "I  seems I     been de     ted     Some         com    . Who?"
+msgstr "Сх же,    пом т ли. Хт сь і е. Хто?"
+
+#. Key: ArcEveAR01_01
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: まぁて待て待て待て待て待て待て待て待てむぁぁてぇぇぇぇい！！！
+msgctxt "ArcEveAR01_01"
+msgid ""
+"Waaait, wait wait wait wait wait! \n"
+"I said waaaaaaait!"
+msgstr ""
+"Стрива-а-ай, стій, стій, стій, стій, стій, стій, стій! Я сказав:\n"
+"стрива-а-а-а-ай!!!"
+
+#. Key: ArcEveAR01_02
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: 誰が呼んだか正義の味方、呼ばれなくとも正義の味方、
+#. JA:   階層都市カグツチの夢と平和と秩序を守る、
+msgctxt "ArcEveAR01_02"
+msgid ""
+"Did someone call for a superhero? No matter!\n"
+"A superhero has arrived! The protector of the peace,\n"
+"dreams, and order of Kagutsuchi is here!"
+msgstr ""
+"Хтось кликав борця за справедливість? Не кликав —\n"
+"однаково прийшов! Захисник мрій, миру й порядку\n"
+"ієрархічного міста Каґуцучі..."
+
+#. Key: ArcEveAR01_03
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: 熱き血潮に滾る男「シシガミ＝バング」、ここに見参！！
+msgctxt "ArcEveAR01_03"
+msgid ""
+"Bang Shishigami, a man whose passion burns whenever \n"
+"there's battle around, has arrived!"
+msgstr ""
+"Ось він — муж, у чиїх жилах кипить гаряча кров, Банґ\n"
+"Шішіґамі! Я прибув!!"
+
+#. Key: ArcEveAR01_04
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: お主は「アラクネ」に相違ないでござるか！
+msgctxt "ArcEveAR01_04"
+msgid "You must be Arakune!"
+msgstr "Ти, без сумніву, Аракуне!"
+
+#. Key: ArcEveAR01_05
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: フシッ　　キサマ　低脳　匂い　　　な。
+#. JA:   う　　　　関　　　くない　　。
+msgctxt "ArcEveAR01_05"
+msgid ""
+"Hiss    Yo   smell            im   cile.\n"
+"Hmm        rather not      involve    ."
+msgstr "Фс-с... Від те е тхне недо мком. М-м... Не хо у зв'язу атися."
+
+#. Key: ArcEveAR01_06
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: むむむむ、聞くまでもなかったか。
+msgctxt "ArcEveAR01_06"
+msgid "Hmmm. I guess I didn't even have to ask."
+msgstr "Гм-м-м, можна було й не питати."
+
+#. Key: ArcEveAR01_07
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: その3筆で事足りる単純にして面妖な面構え、この人相描きとまるで
+#. JA:   ジャストでござるな。カグツチの住民を襲う物の怪め！！
+msgctxt "ArcEveAR01_07"
+msgid ""
+"That simple yet strange expression. Those looks.\n"
+"You must be him. The evil ghost who attacks the residents\n"
+"of Kagutsuchi!"
+msgstr ""
+"Твою просту й водночас дивовижну пику можна\n"
+"намалювати трьома рисками — точнісінько як на цьому\n"
+"портреті. Потворо, що нападаєш на мешканців Каґуцучі!!"
+
+#. Key: ArcEveAR01_08
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: いかに奇妙な妖術を使おうと、この千里先の針の穴をも見通す
+#. JA:   この双眼からは逃げ切れぬぞ！
+msgctxt "ArcEveAR01_08"
+msgid ""
+"No matter what strange sorcery you may use, you cannot\n"
+"escape my sight!"
+msgstr ""
+"Хай які дивні чари ти застосуєш, тобі не втекти від цих\n"
+"очей, що здатні розгледіти вушко голки за тисячу рі!"
+
+#. Key: ArcEveAR01_09
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: 今日がお主の悪事の命日！このバング様が成敗してくれる！！
+msgctxt "ArcEveAR01_09"
+msgid ""
+"Today your evil deeds shall end!\n"
+"I, Sir Bang, will punish you!"
+msgstr ""
+"Сьогодні твоїм злодіянням настане кінець! Я, великий\n"
+"Банґ, покараю тебе!!"
+
+#. Key: ArcEveAR01_10
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 妙　赤い　　　。　　　　うるさい　　　　　　。
+msgctxt "ArcEveAR01_10"
+msgid "       oddly red.                                          really loud..."
+msgstr "Ди но черво ий. І    галас ивий."
+
+#. Key: ArcEveAR01_11
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: まてぇぇぇぇぇい！！逃げると申すかぁぁぁ！
+msgctxt "ArcEveAR01_11"
+msgid "Waaaaait! Are you trying to run away!?"
+msgstr "Стрива-а-а-ай!! Ти що, тікаєш?!"
+
+#. Key: ArcEveAR01_12
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Bang
+#. Context: Arcade event: Arakune
+#. JA: グハァっ！む、無念……ガク。
+msgctxt "ArcEveAR01_12"
+msgid "Gaaaaaaah! M-Mortified..."
+msgstr "Ґха-а! Яка ганьба... Геп."
+
+#. Key: ArcEveAR01_13
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 捕　の　要　ない　　　。
+#. JA:   　　く　まずそう　　　　。グヴヴ　　グヴヴ。
+msgctxt "ArcEveAR01_13"
+msgid ""
+"No need     consu     him  .\n"
+"     looks  eally nasty. Hguhguhguh..."
+msgstr "Не ва то    пожи ати. Пе но, ги кий на смак. Ґву-ву... ґву-ву."
+
+#. Key: ArcEveAR02_00
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Arakune
+#. JA: まさかこんな所で出会うとは思わなかったぞ、久しぶりだな。
+msgctxt "ArcEveAR02_00"
+msgid ""
+"I didn't think I'd bump into you here. \n"
+"Long time no see."
+msgstr ""
+"Не думав, що зустріну тебе в такому місці. Давно не\n"
+"бачилися."
+
+#. Key: ArcEveAR02_01
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 無機物　　　　。　　色にも属さない　　　対象外　。
+#. JA:   　機物　さっさと去　　　　　。　ヴッ　ヴグ　ヴグ　ヴヴヴ……
+msgctxt "ArcEveAR02_01"
+msgid ""
+"This  s   org  ni  .            consi  er            er col   .\n"
+"   organ   mass sh                   hell ou      here.\n"
+"Ghuhguh   hrk."
+msgstr ""
+"Неоргані на        . Не нале ить до жод ого ко  ору. Не ціль.\n"
+"Неоргані на масо... заби айся. Ґв... ґву-ву..."
+
+#. Key: ArcEveAR02_02
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Arakune
+#. JA: 今のお前を見たらさぞかし嘆くだろう。
+#. JA:   彼女だけではない、もちろんあいつも。
+msgctxt "ArcEveAR02_02"
+msgid ""
+"If only they could see you now... How they would grieve...\n"
+"Not only her, but Kokonoe as well."
+msgstr ""
+"Побачивши тебе таким, вона б страшенно засмутилася. І\n"
+"не лише вона — Коконое, звісно, теж."
+
+#. Key: ArcEveAR02_03
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: ううう　　ああ　コノエ、コ　ノエ　　！？グヴ　　ぐおおぉ
+#. JA:   違う　　　　　僕　！　　違う違う違う違う違う違う！！
+msgctxt "ArcEveAR02_03"
+msgid ""
+"Ugghh   augh       konoe,   id yo   say Ko   noe!?\n"
+"Gggg   uggh...! Nooo, it's       like that! I—\n"
+"NO            NO NO!"
+msgstr ""
+"У-у-у... А-а... Ко  ное, Ко  ноє!? Ґву... ґо-о-о... Ні,  не я! Не я,\n"
+"не я, не я, не я, не я!!"
+
+#. Key: ArcEveAR02_04
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 　が！　当　　あああああ　くそう　蒼　　蒼　　　　！！
+#. JA:   ちぐじょう　ぢぐ　　　ぐえ　ぐああああ　キヒヒヒヒ
+msgctxt "ArcEveAR02_04"
+msgid ""
+"I'm   real  — Aaargh, dammit! T    Azure            Azure!\n"
+"Damn        God               Gugh   arrrrggghh\n"
+"Keeheeheeheehee "
+msgstr ""
+"Я! Це я... А-а-а-а, кля а Ла ур,     !! Кля а... Ґх, ґа-а-а!\n"
+"Кі-хі-хі-хі!"
+
+#. Key: ArcEveAR02_05
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Arakune
+#. JA: 堕ちたな、
+msgctxt "ArcEveAR02_05"
+msgid "You've fallen..."
+msgstr "Ти опустився..."
+
+#. Key: ArcEveAR02_06
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Tager
+#. Context: Arcade event: Arakune
+#. JA: グゥッ、不覚……これ以上お前をのさばらせるわけには。
+msgctxt "ArcEveAR02_06"
+msgid ""
+"Ugh...impossible...\n"
+"I can't let you roam around like this..."
+msgstr ""
+"Кх... Яка необачність... Не можна дозволити тобі й далі\n"
+"чинити свавілля..."
+
+#. Key: ArcEveAR02_07
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 最　　らキサマ　食う　　ない　　　。
+#. JA:   く　、　　な奴　　　。　よな　　　。
+msgctxt "ArcEveAR02_07"
+msgid ""
+"  never inten          eat yo   from       start.\n"
+"      damn idiot  . Goo  b      ."
+msgstr ""
+"Я від по атку не зби ався    же ти. Кля ий ду ень. Прощ\n"
+"вай."
+
+#. Key: ArcEveAR03_00
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 見え　　　える　！近く　匂う　　！
+#. JA:   　　これ　、これがワレ　蒼。求める蒼　　　
+msgctxt "ArcEveAR03_00"
+msgid ""
+"        se   it!   can see   !         smell     near  !\n"
+"     Azure    This          Az      I        look          !"
+msgstr ""
+"Ба у, ба у! Уже бли ько, чую за ах! Ось во а... моя Ла\n"
+"ур.     , якої пра ну!"
+
+#. Key: ArcEveAR03_01
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Arakune
+#. JA: 蟲よ、惹かれたか。
+msgctxt "ArcEveAR03_01"
+msgid "Are you captivated, insect?"
+msgstr "Тебе вабить, комахо?"
+
+#. Key: ArcEveAR03_02
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: ま　　人　いる　　　　ん　なぜ　　キサマ　　は色を感じない。
+msgctxt "ArcEveAR03_02"
+msgid ""
+"D  n't think I would be caugh    \n"
+"   Huh?        's       ?   don't feel    color              ."
+msgstr ""
+"Не ду ав, що   хтось є. Гм? Чо у я не відчу аю від тебе ко\n"
+"ьору?"
+
+#. Key: ArcEveAR03_03
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Arakune
+#. JA: 「境界」を越えて現世に戻った成れの果てか。
+#. JA:   自らを代償に得た叡智は些かお前には重過ぎたようだ。
+msgctxt "ArcEveAR03_03"
+msgid ""
+"So this is the result of passing through the Boundary and\n"
+"into the present. It would appear you couldn't handle the\n"
+"wisdom you gave your body for."
+msgstr ""
+"Ось на що ти перетворився, перейшовши Межу й\n"
+"повернувшись у світ живих. Мудрість, за яку ти віддав\n"
+"самого себе, виявилася для тебе надто важким тягарем."
+
+#. Key: ArcEveAR03_04
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: う　　い　キサマ　や　り　　もので　ない　　　　　！
+#. JA:   くそ　　　の蒼　横取　　　気か
+msgctxt "ArcEveAR03_04"
+msgid ""
+"Shut       hell up. You     not              !\n"
+"Damn   , are       planning to take       Azure!?"
+msgstr ""
+"Замов ни! Ти й справді незвичай ий! Кля ий, хочеш зава\n"
+"ити    забра и Лазур?!"
+
+#. Key: ArcEveAR03_05
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Arakune
+#. JA: 求める、か。姿形や存在する次元を問う前に、
+#. JA:   お前と私は根本が同一なのやもしれぬ。
+msgctxt "ArcEveAR03_05"
+msgid ""
+"Regardless of what we look like or what dimension we \n"
+"exist in, deep down, you and I are very much the same."
+msgstr ""
+"Прагнення... Кажеш? Якщо не зважати на форму, подобу й\n"
+"вимір, у якому ми існуємо, можливо, в самій основі ми з\n"
+"тобою однакові."
+
+#. Key: ArcEveAR03_06
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 蒼、蒼だ、蒼があれば、僕は何者にも。
+#. JA:   時間　来　しまう　蒼　　　　　　　　蒼　蒼　！
+msgctxt "ArcEveAR03_06"
+msgid ""
+"Azure  it's       Azure. If   have      Azure, no one can...\n"
+"      time     coming! Th   Azure is gushing in        Azure!"
+msgstr ""
+"Ла ур, це Ла ур. Якщо мати у Лазур, я ста у... Час набли\n"
+"ається! Лазур вли ається... Лазур!     !"
+
+#. Key: ArcEveAR03_07
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: キヒヒヒヒヒヒヒヒヒヒヒヒヒヒヒヒヒ
+msgctxt "ArcEveAR03_07"
+msgid "Keeheeheeheeheeheeheeheeheeheeheeheehee!"
+msgstr "Кі-хі-хі-хі-хі-хі-хі-хі-хі-хі-хі-хі-хі-хі!"
+
+#. Key: ArcEveAR03_08
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Arakune
+#. JA: 刻が来るか……為らば急がねば成るまい。
+#. JA:   近し者よ、私の求める正義の前にお前は余りに穢れている。
+msgctxt "ArcEveAR03_08"
+msgid ""
+"The time is fast approaching, then. We must hurry.\n"
+"I'm afraid you're too corrupt to be part of the justice I\n"
+"seek, my brother."
+msgstr ""
+"Час настає... Тоді треба поспішати. Споріднена мені істото,\n"
+"ти надто заплямована для справедливості, якої я прагну."
+
+#. Key: ArcEveAR03_09
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Arakune
+#. JA: 我は空、我は鋼、我は刃
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+msgctxt "ArcEveAR03_09"
+msgid ""
+"I am the white void. I am the cold steel. I am the just\n"
+"sword. With blade in hand shall I reap the sins of this\n"
+"world, and cleanse it in the fires of destruction."
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Єдиним мечем я\n"
+"пожну всі «гріхи» та знищу «зло»!"
+
+#. Key: ArcEveAR03_10
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Arakune
+#. JA: 我が名は「ハクメン」、推して参る！
+msgctxt "ArcEveAR03_10"
+msgid "I am Hakumen. The end has come!"
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: ArcEveAR03_11
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Hakumen
+#. Context: Arcade event: Arakune
+#. JA: クッ、事象干渉か！邪魔をするな化け猫め！！！
+msgctxt "ArcEveAR03_11"
+msgid "Guh! How dare you interrupt me, Grimalkin!"
+msgstr ""
+"Кх, втручання у причинність! Не заважай, клята\n"
+"відьомська кицько!!!"
+
+#. Key: ArcEveAR03_12
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 淀　　　感覚　　来る　こ　は蒼　蒼　蒼　！！
+#. JA:   ああああ　歓喜　。　は歓喜　　　る。きひゃ　　あはは　あはは
+msgctxt "ArcEveAR03_12"
+msgid ""
+"       stagnant feeling         coming! Thi  is Azure, Azure!\n"
+"Ahhhh, how delightful!        incredible! Haha   ahahahah."
+msgstr ""
+"Кала утне відчу тя... набли ається! Це Ла ур,     , Лазур!!\n"
+"А-а-а, яке бла енство. Це блажен тво. Кі-хя... А-ха-ха...\n"
+"а-ха-ха!"
+
+#. Key: ArcEveAR04_00
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Arakune
+#. JA: 起動・起動・起動・起動・認識……
+msgctxt "ArcEveAR04_00"
+msgid "Loading...loading...loading...loading... Complete..."
+msgstr "Запуск. Запуск. Запуск. Запуск. Ідентифіковано..."
+
+#. Key: ArcEveAR04_01
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: 待　　、ずっと待っていた　喰う　喰う　喰わせ　　　！
+#. JA:   蒼を　どうか蒼を　蒼　　の血を！
+msgctxt "ArcEveAR04_01"
+msgid ""
+"I've been waiting              en waiting    long time   !\n"
+"The Azure, please                       azure blood of the beast!"
+msgstr ""
+"Че ав... так довго чекав. Же ти,     , дай зже ти! Ла ур...\n"
+"прошу, Лазур... кров Лазурі!"
+
+#. Key: ArcEveAR04_02
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Arakune
+#. JA: 対象・認識・自律モード・起動
+msgctxt "ArcEveAR04_02"
+msgid "Scanning: complete. Auto-mode: confirmed."
+msgstr "Ціль ідентифіковано. Автономний режим активовано."
+
+#. Key: ArcEveAR04_03
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: あぁあ　ああ　あは　グヴ　ヴ　ああはグヴああはきえ　やはは
+msgctxt "ArcEveAR04_03"
+msgid "Ahhh  Aah  Ahaha  Hguhguh   ghahahaha  Aaahahah "
+msgstr "А-а-а... А-а... А-ха-ха... Ґву-ву... ґха-ха-ха... А-ха-ха!"
+
+#. Key: ArcEveAR04_04
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Arakune
+#. JA: 対象・認識・障害・認識・排除・容認……対象を障害と認識。
+msgctxt "ArcEveAR04_04"
+msgid ""
+"Scanning: complete. IFF determined. Processing... \n"
+"Subject determined to be hostile."
+msgstr ""
+"Ціль ідентифіковано. Перешкоду ідентифіковано. Усунення\n"
+"схвалено... Ціль ідентифіковано як перешкоду."
+
+#. Key: ArcEveAR04_05
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: ぼくは　　ただ
+msgctxt "ArcEveAR04_05"
+msgid "I...just..."
+msgstr "Я... ли е..."
+
+#. Key: ArcEveAR04_06
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Nu
+#. Context: Arcade event: Arakune
+#. JA: 対象の殲滅を開始します
+msgctxt "ArcEveAR04_06"
+msgid "Now beginning termination of subject."
+msgstr "Розпочинаю знищення цілі."
+
+#. Key: ArcEveAR04_07
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Arakune
+#. Context: Arcade event: Arakune
+#. JA: やつ
+msgctxt "ArcEveAR04_07"
+msgid "...wanted to surpass her...."
+msgstr "Хотів перевершити її..."
+
+#. Key: ArcEveAR05_00
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+msgctxt "ArcEveAR05_00"
+msgid "AD 2196"
+msgstr "2196 рік"
+
+#. Key: ArcEveAR05_01
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 1日目
+msgctxt "ArcEveAR05_01"
+msgid "Day 1"
+msgstr "День 1"
+
+#. Key: ArcEveAR05_02
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 日誌を新調した。何にしても新しいものというのはいい。
+msgctxt "ArcEveAR05_02"
+msgid "I updated my journal today. New things are always very exciting."
+msgstr "Завів новий журнал. Усе нове завжди тішить."
+
+#. Key: ArcEveAR05_03_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 今日は「魔素による魔素を消滅させるための素粒子の開発」という
+msgctxt "ArcEveAR05_03_0"
+msgid "Our meeting today was about using seithr to create weapons."
+msgstr ""
+"Сьогодні обговорювали «розроблення елементарних\n"
+"частинок, що знищують ману за допомогою мани»."
+
+#. Key: ArcEveAR05_03_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 誰がいいだしたかも不明な、堂々巡りの議題について話し合う。
+msgctxt "ArcEveAR05_03_1"
+msgid "I have no idea who keeps bringing that up."
+msgstr ""
+"Не знаю, хто взагалі запропонував цю тему, але розмова\n"
+"знову ходила по колу."
+
+#. Key: ArcEveAR05_03_2
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 岩のような顔に囲まれるのも、あの部屋の堅い椅子も苦手だ。
+msgctxt "ArcEveAR05_03_2"
+msgid "I hate sitting in that room, with its hard chairs and harder people."
+msgstr ""
+"Мені не до вподоби ні кам'яні пики навколо, ні тверді\n"
+"стільці в тій кімнаті."
+
+#. Key: ArcEveAR05_04
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: その話をしたら彼女はとても笑っていた。
+#. JA:   そんなにおかしいことだとは思わなかったが、
+#. JA:   あまりに笑うものだから僕も笑ってしまった。
+msgctxt "ArcEveAR05_04"
+msgid ""
+"I told her the story, and she laughed.\n"
+"I didn't think it was very funny, but her laughter was \n"
+"so infectious, I found myself laughing too."
+msgstr ""
+"Я розповів їй про це, і вона дуже сміялася. Не думав, що це\n"
+"аж так кумедно, але вона сміялася так заразливо, що я теж\n"
+"не стримався."
+
+#. Key: ArcEveAR05_05
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 5日目
+msgctxt "ArcEveAR05_05"
+msgid "Day 5"
+msgstr "День 5"
+
+#. Key: ArcEveAR05_06_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 随分気が滅入ってしまった
+msgctxt "ArcEveAR05_06_0"
+msgid "I feel really depressed."
+msgstr "Настрій геть кепський."
+
+#. Key: ArcEveAR05_06_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: それもこれも毎度のごとくあいつの言動のせいだ。
+msgctxt "ArcEveAR05_06_1"
+msgid "It's all because of something someone said to me."
+msgstr "І все, як завжди, через її слова та вчинки."
+
+#. Key: ArcEveAR05_07
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 勘違いされているが、僕はココノエのことを嫌ってはいない。
+#. JA:   僕自身やライチも世話になっているし、機関の保守派と違って
+#. JA:   あいつの論を頑なに否定するつもりもない。
+msgctxt "ArcEveAR05_07"
+msgid ""
+"People have me all wrong. I don't hate Kokonoe.\n"
+"She took good care of Litchi and me, and unlike \n"
+"the others here, I don't plan to denounce her theory."
+msgstr ""
+"Хоча всі думають інакше, я не ненавиджу Коконое. Вона\n"
+"допомогла нам із Лічі, і, на відміну від консерваторів\n"
+"Сектору Сім, я не заперечую вперто її теорію."
+
+#. Key: ArcEveAR05_08
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: あいつの持つ才能や発想は常人には成しえないものだろう。
+#. JA:   だから、それを無駄に腐らせているのに腹が立つんだ。
+#. JA:   僕ならばって…………疲れるな。
+msgctxt "ArcEveAR05_08"
+msgid ""
+"Her skills and her mind are way beyond what a normal \n"
+"person can hope for. Putting that talent to waste just \n"
+"pisses me off. If I had that kind of skill— ...Ugh. "
+msgstr ""
+"Її талант та ідеї недосяжні для пересічної людини. Тому\n"
+"мене й дратує, що вона марнує такі здібності. На її місці я\n"
+"б... Досить, я втомився."
+
+#. Key: ArcEveAR05_09
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 13日目
+msgctxt "ArcEveAR05_09"
+msgid "Day 13"
+msgstr "День 13"
+
+#. Key: ArcEveAR05_10
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 最近胃を痛める出来事が連続している。
+msgctxt "ArcEveAR05_10"
+msgid "I've been getting a lot of stomachaches lately."
+msgstr ""
+"Останнім часом одна за одною трапляються події, від яких\n"
+"мене нудить."
+
+#. Key: ArcEveAR05_11
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 彼女がそのたび、「またがんばろう」と
+#. JA:   励ましてくれるのはありがたいけど、どうもな……。
+#. JA:   どういうわけか彼女はあいつの真下でうまくやっているから。
+msgctxt "ArcEveAR05_11"
+msgid ""
+"Every time it happens, she says, \"Hang in there,\" and \n"
+"cheers me up. I'm grateful for it, but...\n"
+"She seems to be doing really well working under her."
+msgstr ""
+"Щоразу вона підбадьорює мене словами «Спробуймо ще\n"
+"раз», і я їй за це вдячний, але... Чомусь їй чудово\n"
+"працюється безпосередньо під керівництвом Коконое."
+
+#. Key: ArcEveAR05_12
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: うまくいかなくなるたびに自分が、ただの人間なんだって
+#. JA:   いや、そう思いたくないから頑張ってんだろう……。
+msgctxt "ArcEveAR05_12"
+msgid ""
+"Every time something doesn't go my way, I can't help \n"
+"but think that it's because I'm just a human. No. \n"
+"I can't think that. I'm trying my best, right...?"
+msgstr ""
+"Щоразу, коли щось не вдається, я думаю, що я лише\n"
+"звичайна людина. Ні... Я ж стараюся саме тому, що не хочу\n"
+"так думати..."
+
+#. Key: ArcEveAR05_13
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 19日目
+msgctxt "ArcEveAR05_13"
+msgid "Day 19"
+msgstr "День 19"
+
+#. Key: ArcEveAR05_14_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: ココノエがへんな実験動物をつれてきてからしばらく経つ。
+msgctxt "ArcEveAR05_14_0"
+msgid "Kokonoe hasn't brought in any test animals for a while."
+msgstr ""
+"Минув уже деякий час, відколи Коконое привела дивну\n"
+"піддослідну тварину."
+
+#. Key: ArcEveAR05_14_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: あの時は、イーゴにでも放り込むのかと思っていたら
+msgctxt "ArcEveAR05_14_1"
+msgid "I thought she'd just throw this one in Jotunheim,"
+msgstr ""
+"Тоді я подумав, що Коконое просто кине це створіння до\n"
+"Іґо,"
+
+#. Key: ArcEveAR05_14_2
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: これは自分の助手だとかいいだして驚いた。
+msgctxt "ArcEveAR05_14_2"
+msgid "but she told me it was her assistant."
+msgstr "але вона заявила, що це її помічник. Я аж здивувався."
+
+#. Key: ArcEveAR05_15
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: いや、なぜこんな化け物をと思ったが、
+#. JA:   そんなことをいったら食われそうなのでおとなしくしておいた。
+msgctxt "ArcEveAR05_15"
+msgid ""
+"I wondered why she chose a monster, but I was afraid \n"
+"I'd get yelled at if I spoke up, so I kept quiet."
+msgstr ""
+"Я подумав: «Навіщо їй таке чудовисько?» Але змовчав —\n"
+"інакше воно могло мене з'їсти."
+
+#. Key: ArcEveAR05_16
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: しかも「まだ物知らずだから面倒をみろ」と
+#. JA:   調査に同行させてきた。
+msgctxt "ArcEveAR05_16"
+msgid ""
+"Still, if that wasn't bad enough, Kokonoe told me, \n"
+"\"He's inexperienced, so please take care of him,\" and \n"
+"made me take the creature along on my investigations."
+msgstr ""
+"А тоді Коконое сказала, що він іще недосвідчений і за ним\n"
+"треба наглядати, та відправила його зі мною на\n"
+"дослідження."
+
+#. Key: ArcEveAR05_17
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 話してみたところ知能はあるようだし
+#. JA:   悪いやつではなかったから安心はしたが。
+msgctxt "ArcEveAR05_17"
+msgid ""
+"I talked to the creature a little bit, and it doesn't\n"
+"seem like a bad guy, so that's something..."
+msgstr ""
+"Поговоривши з ним, я заспокоївся: схоже, він розумний і\n"
+"зовсім не лихий."
+
+#. Key: ArcEveAR05_18
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 今日はそいつといつもより会話を交わした。
+#. JA:   常々思ってたことを忠告してやったら、
+#. JA:   顔に似合わない深刻な顔をしていたな。
+msgctxt "ArcEveAR05_18"
+msgid ""
+"I talked to her more than usual today, and told her \n"
+"all the things I'd been worrying about lately.\n"
+"She looked more serious than I'd seen her in a while."
+msgstr ""
+"Сьогодні я поговорив із ним більше, ніж зазвичай.\n"
+"Висловив застереження, яке давно крутилося в голові, а\n"
+"він зробив серйозне обличчя, яке йому зовсім не пасувало."
+
+#. Key: ArcEveAR05_19
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 思わずいい気味だと思ってしまった。
+msgctxt "ArcEveAR05_19"
+msgid "She got what she deserved."
+msgstr "Мимоволі подумав: так йому й треба."
+
+#. Key: ArcEveAR05_20
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 32日目
+msgctxt "ArcEveAR05_20"
+msgid "Day 32"
+msgstr "День 32"
+
+#. Key: ArcEveAR05_21_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 発見をした。
+msgctxt "ArcEveAR05_21_0"
+msgid "I've made a discovery."
+msgstr "Я зробив відкриття."
+
+#. Key: ArcEveAR05_21_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 劇的なものだったからつい日を忘れて没頭した。
+msgctxt "ArcEveAR05_21_1"
+msgid "I was so immersed, I completely lost track of the time."
+msgstr ""
+"Відкриття було настільки разючим, що я поринув у роботу\n"
+"й забув, який нині день."
+
+#. Key: ArcEveAR05_21_2
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 大体の考えはレポートにまとめたが、ここにも軽く書いておこう。
+msgctxt "ArcEveAR05_21_2"
+msgid "I wrote most of it in my report, but I'll put some of it here too."
+msgstr ""
+"Основні міркування я виклав у звіті, але дещо коротко\n"
+"занотую і тут."
+
+#. Key: ArcEveAR05_22_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 現在正体が不明なまま体よく人間に使われている魔素だが、
+msgctxt "ArcEveAR05_22_0"
+msgid "It's regarding the seithr people often use, but don't  understand."
+msgstr ""
+"Нині люди зручно користуються маною, досі не знаючи її\n"
+"справжньої природи."
+
+#. Key: ArcEveAR05_22_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: あれを前時代の御伽噺の実現だの
+msgctxt "ArcEveAR05_22_1"
+msgid "Some suggest it's the realization of fairly tales"
+msgstr "Кажуть, ніби вона втілює давні казки"
+
+#. Key: ArcEveAR05_22_2
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 生命力から変換された魔法だのといっているがそれは違う。
+msgctxt "ArcEveAR05_22_2"
+msgid "or the result of human sacrifice, but they're all wrong."
+msgstr "або є магією, перетвореною з життєвої сили, але це не так."
+
+#. Key: ArcEveAR05_23
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 魔素とは「粒子型のプログラム」。
+#. JA:   そう、だから術式を否定しているココノエは知らない。
+#. JA:   自ら答えを避けているなどと夢にも思うまい。
+msgctxt "ArcEveAR05_23"
+msgid ""
+"Seithr is actually a kind of nanomachine.\n"
+"That's right! Kokonoe doesn't believe in using Armagus.\n"
+"She'd never believe this could be the answer."
+msgstr ""
+"Мана — це «програма частинкового типу». Саме тому\n"
+"Коконое, яка заперечує магічні формули, цього не знає. Їй і\n"
+"на думку не спаде, що вона сама уникає відповіді."
+
+#. Key: ArcEveAR05_24
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 　　日目
+msgctxt "ArcEveAR05_24"
+msgid "Day"
+msgstr "... день"
+
+#. Key: ArcEveAR05_25_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: おかしい、おかしい。
+msgctxt "ArcEveAR05_25_0"
+msgid "Something, wrong."
+msgstr "Щось не так. Щось не так."
+
+#. Key: ArcEveAR05_25_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: ちゃんと　証明して　　のに。　
+msgctxt "ArcEveAR05_25_1"
+msgid "I'm explain      it clearly..."
+msgstr "Я ж усе          довів."
+
+#. Key: ArcEveAR05_25_2
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: なぜ奴らは理解できないのだろうか。
+msgctxt "ArcEveAR05_25_2"
+msgid "Why doesn't anyone get it?"
+msgstr "Чому вони не розуміють?"
+
+#. Key: ArcEveAR05_26
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: （何かのグラフのようなものが書かれている）
+msgctxt "ArcEveAR05_26"
+msgid "(A picture of something like a graph)"
+msgstr "(Намальовано щось схоже на графік.)"
+
+#. Key: ArcEveAR05_27
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 　2日
+msgctxt "ArcEveAR05_27"
+msgid "Day   2"
+msgstr "...2-й день"
+
+#. Key: ArcEveAR05_28_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: なぜだ、おかしいぞ。
+msgctxt "ArcEveAR05_28_0"
+msgid "Why? This is all wrong."
+msgstr "Чому? Щось не так."
+
+#. Key: ArcEveAR05_28_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: これでは　まにあわない。
+msgctxt "ArcEveAR05_28_1"
+msgid "We won't make it in time."
+msgstr "Так ми          не встигнемо."
+
+#. Key: ArcEveAR05_28_2
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: ぼくら　　かんしされて　る。
+msgctxt "ArcEveAR05_28_2"
+msgid "We're     ing watched."
+msgstr "За нами          стежать."
+
+#. Key: ArcEveAR05_29
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 　ぽ　日
+msgctxt "ArcEveAR05_29"
+msgid "Day"
+msgstr "... день"
+
+#. Key: ArcEveAR05_30_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 　　　あい　くる。
+msgctxt "ArcEveAR05_30_0"
+msgid "She always comes."
+msgstr "Хтось          приходить."
+
+#. Key: ArcEveAR05_30_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 　はずっとみて　。
+msgctxt "ArcEveAR05_30_1"
+msgid "I see every        ."
+msgstr "Я весь час          дивлюся."
+
+#. Key: ArcEveAR05_31
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 誰だと　たい　、もう聞け　口はない　　　　。
+msgctxt "ArcEveAR05_31"
+msgid "I want to       who it is,         no long    have    mouth."
+msgstr "Хочу сп тати, хто це, та вже          немає рота, щоб п тати."
+
+#. Key: ArcEveAR05_32_0
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 今日　　た。
+msgctxt "ArcEveAR05_32_0"
+msgid "She          again."
+msgstr "Сьо одні      в на приход ла."
+
+#. Key: ArcEveAR05_32_1
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: そ　か、な　　ら　くればいい　、　顔」を。
+msgctxt "ArcEveAR05_32_1"
+msgid "O    ourse...if   don't have    face, I                  make one."
+msgstr ""
+"А-а... якщо          немає обличчя, треба          зробити собі\n"
+"«обличчя»."
+
+#. Key: ArcEveAR05_33
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: 　　日目
+msgctxt "ArcEveAR05_33"
+msgid "Day"
+msgstr "... день"
+
+#. Key: ArcEveAR05_34
+#. Source: system/ArcEveAR_ArcEveAR01 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR02 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR03 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR04 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Source: system/ArcEveAR_ArcEveAR05 (data/ETC/Text_Eng/ArcEveAR.pac)
+#. Speaker: Narrator (Arakune's journal)
+#. Context: Arcade event: Arakune
+#. JA: ああ　　いち　僕は　こ　に　いる
+msgctxt "ArcEveAR05_34"
+msgid "Ahh,   itchi, I    here."
+msgstr "А-а... Лічі... Я          тут."

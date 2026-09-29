@@ -1,0 +1,3132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: HKM0_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: その空間には何もなかった。
+#. JA:   光も、闇も、空気も、目に見えぬ粒子の一つすらそこにはない。
+msgctxt "HKM0_002"
+msgid ""
+"Nothing exists there.\n"
+"No light, no darkness, no air, nothing."
+msgstr ""
+"У тому просторі не було нічого. Ні світла, ні темряви, ні повітря —\n"
+"навіть жодної невидимої частинки."
+
+#. Key: HKM0_003
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   無論、時の流れさえも―――。
+msgctxt "HKM0_003"
+msgid ""
+"\n"
+"Not even time can exist there..."
+msgstr ""
+"\n"
+"Навіть плину часу..."
+
+#. Key: HKM0_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   そんな空間にありながら、“彼”は生き永らえていた。
+#. JA:   彼の体内に埋め込まれた「ユニット」がそうさせるのだ。
+msgctxt "HKM0_004"
+msgid ""
+"\n"
+"...except for him.\n"
+"Even in the absence of everything else, he survives.\n"
+"The device implanted in what is left of his body sustains him."
+msgstr ""
+"\n"
+"І все ж «він» жив у тому просторі. Його підтримував «модуль»,\n"
+"вбудований у тіло."
+
+#. Key: HKM0_005
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   しかし彼にできるのは、生体活動を維持する、
+#. JA:   ただそれだけに過ぎず、その空間から出る事はおろか、
+#. JA:   身動き一つ取ることすら不可能な状態だった。
+msgctxt "HKM0_005"
+msgid ""
+"\n"
+"However, survival is all he can do.\n"
+"He hasn't the energy or the ability to leave.\n"
+"He can't even move."
+msgstr ""
+"\n"
+"Проте він міг лише підтримувати життя. Ні вибратися звідти, ні навіть\n"
+"поворухнутися він не міг."
+
+#. Key: HKM0_006
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   その空間は―――「狭間」と呼ばれていた。
+#. JA:   
+msgctxt "HKM0_006"
+msgid ""
+"\n"
+"This place is called the Edge."
+msgstr ""
+"\n"
+"Той простір називали «Міжпростором».\n"
+""
+
+#. Key: HKM0_007
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM0_007"
+msgid "<DQ>...<DQ>"
+msgstr "«...»"
+
+#. Key: HKM0_008
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 長い年月、彼は狭間を漂い続けた。
+msgctxt "HKM0_008"
+msgid "He has been floating around the Edge for years."
+msgstr "Довгі роки він дрейфував Міжпростором."
+
+#. Key: HKM0_009
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   といっても、その空間は時の流れとは隔絶されており、
+#. JA:   実際には時間の経過とは無縁な世界であったが、
+#. JA:   彼の体内機関は確かに時の流れを認識していた。
+msgctxt "HKM0_009"
+msgid ""
+"\n"
+"Though this space is detached from the flow of time,\n"
+"his body can still acknowledge the fact that something is changing:\n"
+"Time is passing in the world beyond the Edge."
+msgstr ""
+"\n"
+"Хоч цей простір був відділений від плину часу, а самому йому час був\n"
+"чужий, вбудований у тіло механізм виразно відчував його хід."
+
+#. Key: HKM0_010
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   彼は待ち続けた。
+#. JA:   彼の持つ宿命に対峙するその時を。
+msgctxt "HKM0_010"
+msgid ""
+"\n"
+"Until the day comes for him to confront his destiny, he continues to wait.\n"
+"Silently."
+msgstr ""
+"\n"
+"Він чекав. Чекав миті, коли постане перед своєю долею."
+
+#. Key: HKM0_011
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   常人ならば数時間で狂人と化してしまうこの空間で、
+#. JA:   数十年以上経ってもなお揺るがないその意思。
+#. JA:   彼は待ち続けた。
+msgctxt "HKM0_011"
+msgid ""
+"\n"
+"A few hours in the Edge will drive most people mad, but not him.\n"
+"Sheer strength of will keeps him sane, decade after decade."
+msgstr ""
+"\n"
+"Звичайна людина збожеволіла б тут за кілька годин. Та навіть через\n"
+"десятки років його воля не похитнулася. Він чекав."
+
+#. Key: HKM0_012
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   それが何時かは彼にも解らない。
+#. JA:   十年先か……。百年先か……。
+msgctxt "HKM0_012"
+msgid ""
+"\n"
+"He doesn't know how long he will have to wait.\n"
+"Perhaps ten years... Perhaps a hundred..."
+msgstr ""
+"\n"
+"Він не знав, коли настане ця мить. За десять років... А може, за сто..."
+
+#. Key: HKM0_013
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 彼は待ち続けた。必ず訪れるであろうその時を。
+msgctxt "HKM0_013"
+msgid ""
+"\n"
+"But it doesn't matter.\n"
+"He will wait as long as he needs to."
+msgstr "Він чекав миті, яка неодмінно мала настати."
+
+#. Key: HKM0_014
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 
+#. JA:   そして……。
+msgctxt "HKM0_014"
+msgid ""
+"\n"
+"He is patient..."
+msgstr ""
+"\n"
+"І ось..."
+
+#. Key: HKM0_016
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: …い、聞こえ……か？
+#. JA:   聞こ………ら返事……ろ。
+msgctxt "HKM0_016"
+msgid "Can you hear me? If you can hear me, talk to me."
+msgstr "...уєш ме... ? Якщо чу... відпо..."
+
+#. Key: HKM0_017
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM0_017"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM0_018
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 時が満ちる……。
+msgctxt "HKM0_018"
+msgid "Time is changing..."
+msgstr "Час настав..."
+
+#. Key: HKM0_020
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……おい、返事をしろ。
+#. JA:   お前が反応しないようではこちらもなにもできない。
+msgctxt "HKM0_020"
+msgid "...Hey, say something. I can't do anything unless you start talking to me."
+msgstr "...Агов, відповідай. Якщо ти не озвешся, я нічого не зможу зробити."
+
+#. Key: HKM0_021
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様……何者だ。
+msgctxt "HKM0_021"
+msgid "...Who the devil are you?"
+msgstr "Ти... хто така?"
+
+#. Key: HKM0_022
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: お前が……「ハクメン」か？
+#. JA:   これからお前を回収するが此方からの干渉には制約がある。
+#. JA:   ある程度はお前の方で何とかしてもらう必要がある。
+msgctxt "HKM0_022"
+msgid ""
+"So you're Hakumen, huh? I'm gonna retrieve you now, but there's a limit to how\n"
+"much I can interfere from this side, so I'm gonna need your help."
+msgstr ""
+"Ти... Хакумен? Я збираюся витягти тебе, але моє втручання звідси\n"
+"обмежене. Дещо тобі доведеться зробити самому."
+
+#. Key: HKM0_023
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 何者だ…と、問うたはずだ。
+msgctxt "HKM0_023"
+msgid "I'll ask again...who are you?"
+msgstr "Я запитав... хто ти така."
+
+#. Key: HKM0_024
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 説明を先にしろ、と？
+#. JA:   そうだな……。
+msgctxt "HKM0_024"
+msgid "Really wanna know, huh? All right..."
+msgstr "Хочеш спершу почути пояснення? Що ж..."
+
+#. Key: HKM0_025
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 私の名は「ココノエ」。しがない、ただの科学者だ。
+msgctxt "HKM0_025"
+msgid "My name is Kokonoe. I'm just an ordinary scientist."
+msgstr "Мене звуть Коконое. Я всього лише скромна науковиця."
+
+#. Key: HKM0_026
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 悪いがあまり難しい質問には答えられない。
+#. JA:   今の私は“バックアップ”なのでな。
+msgctxt "HKM0_026"
+msgid "I can't really answer any complicated questions. This is just a backup."
+msgstr "Вибач, але на складні запитання не відповім. Це лише резервна копія."
+
+#. Key: HKM0_027
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……“バックアップ”？
+#. JA:   ほう、貴様も「狭間」の所有者か……。
+msgctxt "HKM0_027"
+msgid "...<DQ>Backup<DQ>? I suppose that makes you an owner of the Edge..."
+msgstr "...«Резервна копія»? Отже, і ти володієш Міжпростором..."
+
+#. Key: HKM0_028
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: この空間は「狭間」と言うのか？
+#. JA:   まあ、そんなことはどうでもいいんだ。
+msgctxt "HKM0_028"
+msgid "You call this the Edge? Huh. Well, it doesn't matter to me."
+msgstr "То цей простір зветься Міжпростором? Та байдуже."
+
+#. Key: HKM0_029
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: これからお前を回収するつもりだが、捕捉がうまくできず、
+#. JA:   存在定着に少々手間取っている。
+msgctxt "HKM0_029"
+msgid ""
+"I'm trying to retrieve you, but I've run into a little trouble with the\n"
+"reconstitution algorithm."
+msgstr ""
+"Збираюся витягти тебе, та не вдається як слід визначити твоє\n"
+"місцеперебування. Закріпити твоє існування теж непросто."
+
+#. Key: HKM0_030
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 助手を一人そちらに向かわせてはいるが……如何せん、
+#. JA:   その空間は不安定だ。うまく接触できるかどうかも怪しい。
+msgctxt "HKM0_030"
+msgid ""
+"One of my assistants is on his way there, but...it's not very stable in that area... I\n"
+"don't think he'll be able to get to you."
+msgstr ""
+"Я відправила до тебе помічника, але той простір нестабільний. Не певна,\n"
+"що він зможе до тебе дістатися."
+
+#. Key: HKM0_031
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: そこで……あまり使いたくはない方法だったが、
+#. JA:   お前の存在そのものに干渉することにした。
+msgctxt "HKM0_031"
+msgid "So...as much as I didn't want to, I decided to distort your causal pathways a bit."
+msgstr ""
+"Тому... хоч я й не хотіла вдаватися до цього, вирішила втрутитися в саме\n"
+"твоє існування."
+
+#. Key: HKM0_032
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 「事象干渉」……。
+#. JA:   貴様、「魔法使い」か？
+msgctxt "HKM0_032"
+msgid ""
+"Causal distortion...\n"
+"Are you a witch?"
+msgstr "Втручання у причинність... Ти чарівниця?"
+
+#. Key: HKM0_033
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 言っただろう、私は科学者だ。
+#. JA:   それより、準備を始めるぞ……。
+msgctxt "HKM0_033"
+msgid ""
+"I told you I'm a scientist.\n"
+"Let's just get this show on the road, all right?"
+msgstr "Я ж сказала: науковиця. Годі, починаймо підготовку..."
+
+#. Key: HKM0_034
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ほう……
+msgctxt "HKM0_034"
+msgid "Hm..."
+msgstr "Ось як..."
+
+#. Key: HKM0_036
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……この感覚、覚えがあるぞ。
+#. JA:   これは「ナイン」の……。
+msgctxt "HKM0_036"
+msgid "...This sensation...I remember it well. It feels like...Nine."
+msgstr "...Це відчуття мені знайоме. Воно належить Найн..."
+
+#. Key: HKM0_037
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM0_037"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM0_038
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様、ナインの縁の者か？
+msgctxt "HKM0_038"
+msgid "Are you her descendant?"
+msgstr "Ти родичка Найн?"
+
+#. Key: HKM0_039
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……答える必要はないな。
+msgctxt "HKM0_039"
+msgid "...This isn't really any of your damn business."
+msgstr "...Не бачу потреби відповідати."
+
+#. Key: HKM0_040
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: フフッ……成程。
+#. JA:   「狭間」への干渉と言い、どうやら図星だな。という事は、
+#. JA:   あの時の、「ナイン」と“猫”の娘といったところか。
+msgctxt "HKM0_040"
+msgid ""
+"Ha ha ha... So I see. My guess has not missed its mark. Your disruption of the Edge\n"
+"only proves the truth of it: you are the daughter of Nine and the cat."
+msgstr ""
+"Ха-ха... Зрозуміло. Судячи з того, як ти втручаєшся в Міжпростір, я\n"
+"влучив у ціль. Ти, мабуть, дочка Найн і кота."
+
+#. Key: HKM0_041
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……チッ。
+msgctxt "HKM0_041"
+msgid "...Hmph."
+msgstr "...Цк."
+
+#. Key: HKM0_042
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: これは傑作だ。さながら「化け猫」か。
+#. JA:   稀代の「魔法使い」と最強の“猫”の間に生まれ落ちし者よ。
+msgctxt "HKM0_042"
+msgid ""
+"You were born a true masterpiece, Grimalkin. A mixing of the rare witch blood and\n"
+"mighty cat heritage."
+msgstr ""
+"Оце дивина. Справжня відьомська кицька: дитя славетної чарівниці й\n"
+"наймогутнішого кота."
+
+#. Key: HKM0_043
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……このまま「境界」の底にでも突き落してやりたいところだが、
+#. JA:   このために費やした半年以上の時間を無駄にするのも惜しい。
+#. JA:   準備はいいか？
+msgctxt "HKM0_043"
+msgid ""
+"...As much as I want to push you right back into the Boundary now, I can't let half a\n"
+"year's worth of efforts go to waste either. Are you ready?"
+msgstr ""
+"...Я б із радістю жбурнула тебе назад на дно Межі, та шкода понад пів\n"
+"року праці, витраченої на це. Готовий?"
+
+#. Key: HKM0_044
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 良いだろう。
+#. JA:   貴様が外から「場」を与えてくれるなら、どうにかはできる。
+#. JA:   後は私の遣り方で“戻る”だけだ。
+msgctxt "HKM0_044"
+msgid ""
+"Very well. I will see what I can do if you can provide me with an arrival location on the\n"
+"other side. I will return in my own way."
+msgstr ""
+"Гаразд. Якщо ти створиш мені точку опори ззовні, я якось упораюся. А\n"
+"далі «повернуся» вже власним способом."
+
+#. Key: HKM0_045
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ああ、そうしてくれ……失敗しても恨むなよ。
+#. JA:   それから、この先しばらく私との会話はできなくなるが……
+#. JA:   何か言っておきたいことはあるか？
+msgctxt "HKM0_045"
+msgid ""
+"Sounds great. Don't hold it against me if this doesn't turn out well.\n"
+"We won't be able to talk for a while. Any last words?"
+msgstr ""
+"Добре... Якщо не вийде, не звинувачуй мене. Невдовзі ми певний час не\n"
+"зможемо розмовляти. Хочеш щось сказати наостанок?"
+
+#. Key: HKM0_046
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……戯言を。「化け猫」に何を語る？
+msgctxt "HKM0_046"
+msgid ""
+"...Surely you jest.\n"
+"What could I have to say to a demon?"
+msgstr "...Дурниці. Що мені казати відьомській кицьці?"
+
+#. Key: HKM0_047
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……そうか。では始めよう。健闘を祈る。
+msgctxt "HKM0_047"
+msgid "...Fine. Let's get started. Good luck."
+msgstr "...Ясно. Тоді почнімо. Удачі тобі."
+
+#. Key: HKM1_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: やはり……此処か……。
+msgctxt "HKM1_002"
+msgid "So... This is the place..."
+msgstr "Так і є... Це місце..."
+
+#. Key: HKM1_003
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: この街を、彼は知っていた。
+#. JA:   第十三階層都市「カグツチ」……。
+msgctxt "HKM1_003"
+msgid "He recognizes it... The 13th Hierarchical City of Kagutsuchi."
+msgstr "Він знав це місто. Тринадцяте ієрархічне місто Каґуцучі..."
+
+#. Key: HKM1_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それはかつて、彼が人であった頃の記憶であった。
+#. JA:   しかしそれ以上の事は大半が記憶から抜け落ち、
+#. JA:   その街に懐かしさを感じた理由は彼にはわからなかった。
+msgctxt "HKM1_004"
+msgid ""
+"A memory from when he was human... But he can't recall anything else.\n"
+"...Only a strange nostalgia, without any particular reason."
+msgstr ""
+"То був спогад із часів, коли він ще був людиною. Та більшість решти\n"
+"спогадів зникла, тож він не розумів, чому місто викликає в ньому тугу за\n"
+"минулим."
+
+#. Key: HKM1_005
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: これは、記憶の残滓か？
+#. JA:   それとも……。
+msgctxt "HKM1_005"
+msgid "Is this a remnant of my memory? Or..."
+msgstr "Це уламок моєї пам'яті? Чи..."
+
+#. Key: HKM1_006
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 「場」は既にココノエによって与えられている。
+#. JA:   だがその「場」を形作るのは彼自身であった。
+msgctxt "HKM1_006"
+msgid ""
+"Kokonoe had told him where he should go, but it had been up to him to will himself\n"
+"there..."
+msgstr ""
+"Коконое вже створила йому «точку опори». Та форму їй мав надати він\n"
+"сам."
+
+#. Key: HKM1_007
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 今立っているその場所は、自分が形作った「場」なのか、
+#. JA:   それとも「場」を作るために紐解いた記憶の残滓を夢見ているのか、
+#. JA:   彼には判断が付かなかった。
+msgctxt "HKM1_007"
+msgid "He can't tell if this place is the result of his own will, or something else..."
+msgstr ""
+"Він не міг збагнути, чи місце, де стоїть, справді постало з його волі, чи\n"
+"він лише бачить сон зі спогадів, до яких звернувся, щоб надати цьому\n"
+"місцю форми."
+
+#. Key: HKM1_009
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Taokaka
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: おう、そこのお面の人！
+#. JA:   「らぐにゃ」のことなんか知ってるか？
+msgctxt "HKM1_009"
+msgid "Hey, you, masked man right there! Do you know anything about <DQ>Rawrgna<DQ>?"
+msgstr "Агов, ти, в масці! Знаєш щось про «Раґня»?"
+
+#. Key: HKM1_010
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM1_010"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM1_011
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 彼は、その生物の事も知っていた。
+msgctxt "HKM1_011"
+msgid "He knows this creature..."
+msgstr "І ця істота була йому знайома."
+
+#. Key: HKM1_012
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それはかつて共に戦った仲間であった。
+#. JA:   世界最強の生物―――
+msgctxt "HKM1_012"
+msgid ""
+"They'd once been comrades during the war.\n"
+"...No... \n"
+"That one had been slightly different."
+msgstr ""
+"Колись він воював пліч-о-пліч із такою істотою — найсильнішою у\n"
+"світі..."
+
+#. Key: HKM1_013
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: いや、自分と共に戦ったものとは幾分、違う。
+msgctxt "HKM1_013"
+msgid ""
+"A genetically engineered weapon created from the DNA of the world's most\n"
+"powerful organism...\n"
+"He'd fought in many battles with the prototype of this creature."
+msgstr "Ні, істота перед ним дещо відрізнялася від його бойового товариша."
+
+#. Key: HKM1_014
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 今、目の前にいるのは、それを模して作られたようだ。
+#. JA:   多少、オリジナルとは形状や雰囲気が異なっているように思えた。
+msgctxt "HKM1_014"
+msgid "But the one in front of him is slightly different."
+msgstr ""
+"Схоже, її створили за його подобою. Зовнішністю і вдачею вона трохи\n"
+"відрізнялася від оригіналу."
+
+#. Key: HKM1_015
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ひょっとすると、
+#. JA:   自分は既に「現世」に戻ってきているのだろうか―――
+#. JA:   と彼は考えた。
+msgctxt "HKM1_015"
+msgid "He wonders if he has already returned to the <DQ>present<DQ> world..."
+msgstr "Може, він уже повернувся до «реального світу», подумав Хакумен."
+
+#. Key: HKM1_016
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 或いは、人であった折に、目の前のモノと
+#. JA:   接触をしていたのかもしれない、とも思った。
+msgctxt "HKM1_016"
+msgid "...Or if he met the creature in front of him when he was human..."
+msgstr "А може, він зустрічав істоту перед собою ще тоді, коли був людиною."
+
+#. Key: HKM1_017
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 自分はその事を憶えてはいないが、
+#. JA:   記憶の片隅に残されているその情報が、
+#. JA:   今の幻影を見せているのか、とも。
+msgctxt "HKM1_017"
+msgid ""
+"He doesn't remember anything like that...\n"
+"Perhaps his memory is simply malfunctioning and causing hallucinations."
+msgstr ""
+"Він цього не пам'ятав. Але, можливо, спогад, збережений десь у глибині\n"
+"свідомості, і породив це видіння."
+
+#. Key: HKM1_018
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 進むべき道は一つ……
+msgctxt "HKM1_018"
+msgid "There is only one thing for him to do..."
+msgstr "Шлях далі був один..."
+
+#. Key: HKM1_019
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 来い……。猫の血族よ……！
+msgctxt "HKM1_019"
+msgid "I await your challenge, child of the cat!"
+msgstr "Підходь... Нащадку котів...!"
+
+#. Key: HKM1_021
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Taokaka
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……お？
+#. JA:   遊んでくれるのかニャス？
+#. JA:   いい人だな、お面の人！
+msgctxt "HKM1_021"
+msgid ""
+"...Oh? You'll play with meow?\n"
+"You're a good person, masked man!"
+msgstr "...О? Пограєшся з Тао, ня? Хороший ти, чоловіче в масці!"
+
+#. Key: HKM1_026
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: やはりこれは「現世」ではない、か……。
+#. JA:   力が不完全すぎる……。
+msgctxt "HKM1_026"
+msgid "As I thought...this is not the present... My power is sorely lacking..."
+msgstr "Я так і думав: це ще не реальний світ... Мої сили надто неповні..."
+
+#. Key: HKM1_027
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Taokaka
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ん？　もう終わりかニャス？
+#. JA:   タオはまだまだ元気だぞ？
+msgctxt "HKM1_027"
+msgid "Hm? Is it over already, meow? Tao can still go, though!"
+msgstr "Га? Уже все, ня? А Тао ще повна сил!"
+
+#. Key: HKM1_028
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: またあの「狭間」に戻る破目になる、か……。
+msgctxt "HKM1_028"
+msgid "Then I must return to the Edge, it seems..."
+msgstr "Отже, доведеться знов повернутися до Міжпростору..."
+
+#. Key: HKM1_031
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ―――こえるか？　返事をしてくれ……。
+msgctxt "HKM1_031"
+msgid "...Can you hear me? Please respond..."
+msgstr "...чуєш? Відповідай..."
+
+#. Key: HKM1_032
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM1_032"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM1_033
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 失敗した、か。
+#. JA:   あの「六英雄」がこんなものとはな。
+#. JA:   またやり直しだ……無駄な時間を使わせてくれる。
+msgctxt "HKM1_033"
+msgid ""
+"He must've failed. Pretty sad for one of the Six Heroes. Would've thought he'd do a\n"
+"little better... Now I gotta do it all over again...\n"
+"...Crap."
+msgstr ""
+"Програла? І це один із «Шести Героїв»... Доведеться починати заново.\n"
+"Стільки часу змарновано..."
+
+#. Key: HKM1_039
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Taokaka
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: フニャ……。
+#. JA:   もう、駄目…ニャス……。
+msgctxt "HKM1_039"
+msgid "Meow... I can't go on... Anymore, meow..."
+msgstr "Ня... Більше... не можу... ня..."
+
+#. Key: HKM1_041
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM1_041"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM1_043
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM1_043"
+msgid "!"
+msgstr "!"
+
+#. Key: HKM1_044
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 周囲の空気が一変し、彼は眩暈を覚えた。
+#. JA:   それが「定着」に伴った現象である事を、彼は知っていた。
+#. JA:   
+msgctxt "HKM1_044"
+msgid ""
+"Space twists around him for an instant, then snaps into place. He feels dizzy...\n"
+"This must be a side effect of the substantiation process."
+msgstr ""
+"Повітря довкола раптом змінилося, і в нього запаморочилося в голові.\n"
+"Він знав: так буває, коли існування закріплюється у світі.\n"
+
+#. Key: HKM1_045
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 彼程の強靭な精神力の持ち主であったとしても、その意識の
+#. JA:   揺らぎには抗う事はできない。彼は今、ようやく「狭間」から
+#. JA:   「現世」へとその身を移行し始めていたのである。
+msgctxt "HKM1_045"
+msgid ""
+"Even for a creature with a will like his, the process is jarring. For a moment, he\n"
+"feels something akin to fear, but it is gone in the blink of an eye.\n"
+"He is finally leaving the Edge and manifesting himself in the present world."
+msgstr ""
+"Навіть така міцна воля, як у нього, не могла встояти перед коливанням\n"
+"свідомості. Нарешті він почав переходити з Міжпростору до реального\n"
+"світу."
+
+#. Key: HKM1_046
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それは即ち、ココノエによる干渉が成功した事を意味していた。
+#. JA:   
+msgctxt "HKM1_046"
+msgid "It appears Kokonoe's interface has been successful."
+msgstr ""
+"Це означало, що втручання Коконое вдалося.\n"
+""
+
+#. Key: HKM1_047
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……流石は「化け猫」という事か。
+msgctxt "HKM1_047"
+msgid "Ah yes... The very first one...the original Grimalkin."
+msgstr "...Недарма він — відьомський кіт."
+
+#. Key: HKM1_048
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Jubei
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: おいおい、「化け猫」とは酷いな。
+msgctxt "HKM1_048"
+msgid "Whoa, whoa. Grimalkin? That ain't very nice."
+msgstr "Агов, називати мене відьомським котом — це вже образливо."
+
+#. Key: HKM1_049
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 懐かしい声がした。
+#. JA:   振り返るまでもなく、彼はその声の主を察した。
+msgctxt "HKM1_049"
+msgid ""
+"The voice is familiar.\n"
+"He doesn't even need to turn around to know who it belongs to."
+msgstr ""
+"Почувся знайомий голос. Хакумен знав, кому він належить, навіть не\n"
+"обертаючись."
+
+#. Key: HKM1_050
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 六英雄の一人であり、かつての戦友であった者。
+#. JA:   彼にその気配を全く察知させぬ程の実力の主。
+msgctxt "HKM1_050"
+msgid ""
+"One of the Six Heroes. His former comrade in times of war. \n"
+"The creature was so skilled, even Hakumen hadn't noticed his presence until \n"
+"he spoke."
+msgstr ""
+"Це був один із Шести Героїв, його давній бойовий товариш. Настільки\n"
+"майстерний, що Хакумен навіть не відчув його присутності."
+
+#. Key: HKM1_051
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 猫か……。
+msgctxt "HKM1_051"
+msgid "Perhaps you prefer -malkin-?"
+msgstr "Тоді просто кіт..."
+
+#. Key: HKM1_052
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Jubei
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……あんまり変わらんな。「化け」が取れただけでは。
+msgctxt "HKM1_052"
+msgid ""
+"...Ya just dropped the first part. Besides, who the hell calls a cat -malkin- these\n"
+"days?"
+msgstr "...Не велика різниця. Ти просто прибрав слово «відьомський»."
+
+#. Key: HKM1_053
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 獣兵衛。それがその猫の名だった。
+#. JA:   六英雄の一人にして、史上最強の生物。
+msgctxt "HKM1_053"
+msgid ""
+"Jubei. That is the cat's name. It is said to be the strongest creature in the world.\n"
+"Hakumen knows that it is."
+msgstr ""
+"Джубей — так звали цього кота. Один із Шести Героїв і найсильніша\n"
+"істота в історії."
+
+#. Key: HKM1_054
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: だが獣兵衛がこのような場所にいるはずはない。
+#. JA:   これもまた己の記憶の残滓が紡いだ幻影であろうと彼は考えた。
+msgctxt "HKM1_054"
+msgid ""
+"But what is Jubei doing here? He can't be here, Hakumen thinks.\n"
+"It doesn't make sense. The creature must be a hallucination."
+msgstr ""
+"Та Джубея тут не могло бути. Хакумен вирішив, що це теж примара,\n"
+"сплетена з уламків його пам'яті."
+
+#. Key: HKM1_055
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: しかしそれでも、
+#. JA:   その存在が懐かしいものである事に、何ら変わりはなかった。
+msgctxt "HKM1_055"
+msgid "Still, seeing the cat again makes Hakumen...nostalgic."
+msgstr "І все ж зустріч із ним пробуджувала давні спогади."
+
+#. Key: HKM1_056
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 久しいな……。
+msgctxt "HKM1_056"
+msgid "I have so few visitors..."
+msgstr "Давно не бачилися..."
+
+#. Key: HKM1_057
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Jubei
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……たぶん勘違いをしてるだろうから言っておく。
+#. JA:   俺は幻影じゃない。現実の俺がここにいる。
+msgctxt "HKM1_057"
+msgid ""
+"...Lemme spell it out, nice and easy-like.\n"
+"I ain't no illusion, friend. I'm as much right here in this room as you are."
+msgstr ""
+"...Ти, мабуть, помилився, тож скажу прямо: я не примара. Справжній я\n"
+"стою тут перед тобою."
+
+#. Key: HKM1_058
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 何……？
+msgctxt "HKM1_058"
+msgid "What...?"
+msgstr "Що...?"
+
+#. Key: HKM1_059
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Jubei
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 少し調べ物をしようと潜ってみた。
+#. JA:   そうしたら「場」がありお前がいた、そういう事だ。
+msgctxt "HKM1_059"
+msgid ""
+"Snuck in here to have a little look-see. Happened on your little hidey-hole, then\n"
+"I happened on you."
+msgstr ""
+"Пірнув сюди дещо розвідати. Натрапив на цю «точку опори», а тут і ти\n"
+"— ось і все."
+
+#. Key: HKM1_060
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……そうか。
+msgctxt "HKM1_060"
+msgid "...Is that so?"
+msgstr "...Он як."
+
+#. Key: HKM1_061
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Jubei
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: たぶんお前を回収しようとしているのはココノエだろうが……。
+#. JA:   あいつには俺と会ったことは言わないでくれ。
+#. JA:   こっちにもいろいろ事情があるんでな。
+msgctxt "HKM1_061"
+msgid ""
+"I reckon it's Kokonoe who's trying ta pull you out of here... An' if she does, I'd be\n"
+"much obliged if you don't tell about me. I got my reasons. "
+msgstr ""
+"Мабуть, тебе намагається витягти Коконое. Та не кажи їй, що ми\n"
+"зустрілися. У мене на те свої причини."
+
+#. Key: HKM1_062
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……承知した。
+#. JA:   だが、何故このような場所まで来た？
+#. JA:   「現世」で何が起こっている？
+msgctxt "HKM1_062"
+msgid ""
+"...Then you have my word.\n"
+"But what has brought you here? What news do you bring of the outside world?"
+msgstr ""
+"...Добре. Але навіщо ти прийшов аж сюди? Що відбувається в реальному\n"
+"світі?"
+
+#. Key: HKM1_063
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Jubei
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……「テルミ」が出てきた。
+msgctxt "HKM1_063"
+msgid "...Terumi's back."
+msgstr "...З'явився «Терумі»."
+
+#. Key: HKM1_064
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 奴が!?　馬鹿な！　ありえん！
+msgctxt "HKM1_064"
+msgid "What!? That can't be! It's impossible!"
+msgstr "Він?! Дурниці! Неможливо!"
+
+#. Key: HKM1_065
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Jubei
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: だがあいつはまた動き出した。
+#. JA:   お前も注意しろ。
+#. JA:   今言えるのはそれだけだ。
+msgctxt "HKM1_065"
+msgid "All the same, he's on the move, so you be careful. Can't say much else just now."
+msgstr ""
+"Та він знову почав діяти. Будь обережний. Більше я зараз сказати не\n"
+"можу."
+
+#. Key: HKM1_066
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Jubei
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 90年ぶりの再会だが、これ以上ここにいるとココノエに悟られる可能性が高いからな……俺はそろそろ行く。
+#. JA:   達者でな。
+msgctxt "HKM1_066"
+msgid ""
+"It's been ninety years since we saw each other. I got a mite to say to ya, but there\n"
+"ain't time. Kokonoe'll be on me any minute now, so I best be on my way.\n"
+"Good luck, friend."
+msgstr ""
+"Ми побачилися вперше за дев'яносто років. Але якщо я затримаюся,\n"
+"Коконое може мене помітити... Пора йти. Бережи себе."
+
+#. Key: HKM1_068
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 精々、十年やそこらと踏んでいたのだがな……。だがしかし……
+#. JA:   テルミがだと？　奴はあの時確実に封じ込めたはず……
+#. JA:   まさか「タカマガハラ」が動きだしたのか……？
+msgctxt "HKM1_068"
+msgid ""
+"I thought ten years had passed, at the most... But if Terumi has returned...\n"
+"I was sure the seal... Could it be that Takama-gahara has been activated once again?"
+msgstr ""
+"Я гадав, минуло щонайбільше років десять... Але Терумі? Ми ж тоді\n"
+"напевне його запечатали... Невже знов запрацювала Такамаґахара...?"
+
+#. Key: HKM1_070
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: む……？
+msgctxt "HKM1_070"
+msgid "Ungh...!"
+msgstr "Гм...?"
+
+#. Key: HKM2_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 此処も……。
+msgctxt "HKM2_002"
+msgid "Then this place as well..."
+msgstr "І тут теж..."
+
+#. Key: HKM2_003
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それもまた幻影であろうと思われた。
+#. JA:   「定着」の完了には時間を要する。
+msgctxt "HKM2_003"
+msgid ""
+"He tells himself it is only another hallucination. The substantiation process\n"
+"still isn't complete."
+msgstr ""
+"Це, мабуть, теж видіння, подумав він. Закріплення у світі ще\n"
+"потребувало часу."
+
+#. Key: HKM2_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: その間、意識の移ろうままに転々とする事になるだろう。
+#. JA:   今いる場所もまた、彼の記憶の残滓に他ならない。
+#. JA:   彼が人であった頃の―――。
+msgctxt "HKM2_004"
+msgid ""
+"In the meantime, he has nothing to do but wander.\n"
+"This place is a mere remnant of his memory...a memory from when he was\n"
+"human..."
+msgstr ""
+"А поки свідомість носитиме його з місця на місце. І нинішнє місце —\n"
+"лише уламок пам'яті з часів, коли він був людиною..."
+
+#. Key: HKM2_005
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM2_005"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM2_006
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 目の前には男が立っている。それが誰かは憶えていない。
+#. JA:   しかし彼の記憶の片隅に、その真っ直ぐな瞳だけは残されていた。
+msgctxt "HKM2_006"
+msgid ""
+"A man stands in front of Hakumen. He doesn't recognize the man, but something\n"
+"about his simple, honest eyes seems familiar..."
+msgstr ""
+"Перед ним стояв чоловік. Хакумен не пам'ятав, хто це, але його прямий\n"
+"погляд лишився десь у закутках пам'яті."
+
+#. Key: HKM2_007
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 六英雄のハクメン殿とお見受け致すが……？
+msgctxt "HKM2_007"
+msgid "I take it that you're one of the Six Heroes, Master Hakumen..."
+msgstr "Як я розумію, ви один із Шести Героїв, пане Хакумене...?"
+
+#. Key: HKM2_008
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: そうだ…。
+msgctxt "HKM2_008"
+msgid "Indeed..."
+msgstr "Так..."
+
+#. Key: HKM2_009
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 拙者、シシガミ＝バングと申す。
+#. JA:   貴殿の胸をお借りしたく、まかり越した次第。
+msgctxt "HKM2_009"
+msgid "My name is Bang Shishigami. I'm here to ask for a fair match...and your guidance."
+msgstr "Мене звуть Банґ Шішіґамі. Я прийшов помірятися з вами силами."
+
+#. Key: HKM2_010
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 何故に我が胸を借りると？
+msgctxt "HKM2_010"
+msgid "Why would you wish to do that?"
+msgstr "І навіщо тобі мірятися зі мною силами?"
+
+#. Key: HKM2_011
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 全ては正義のためでござる。
+msgctxt "HKM2_011"
+msgid "It's all in the name of justice."
+msgstr "Усе заради справедливості."
+
+#. Key: HKM2_012
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ほう、正義か……。
+#. JA:   では問おう、貴様の正義とは？
+msgctxt "HKM2_012"
+msgid "Justice, eh? Tell me, boy, what is this <DQ>justice<DQ> of yours?"
+msgstr "Ось як, справедливість... Тоді скажи: що для тебе «справедливість»?"
+
+#. Key: HKM2_013
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 森羅万象を救えるなどとは思ってはござらぬ。
+#. JA:   されどせめて、拙者の目に入る小さき者を余す事なく救いたいと
+#. JA:   願って止まぬゆえ……それが拙者の正義でござる。
+msgctxt "HKM2_013"
+msgid ""
+"I don't expect to save the entire universe...but at the very least, I want to save those\n"
+"I see suffering before me... -That- is my justice."
+msgstr ""
+"Я не думаю, що можу врятувати весь світ. Та щиро прагну допомогти\n"
+"кожному слабкому, кого бачу перед собою. У цьому й полягає моя\n"
+"справедливість."
+
+#. Key: HKM2_014
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 己が技量を知り、意思を貫けるかを試すか……良いだろう。
+msgctxt "HKM2_014"
+msgid "You have a strong spirit, and you know your limitations... Very well."
+msgstr "Знаєш межі своїх сил і хочеш перевірити твердість своєї волі... Гаразд."
+
+#. Key: HKM2_015
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: かたじけない。
+#. JA:   貫き通してみせようぞ……イカルガで失った全てを、
+#. JA:   それを取り戻すために！
+msgctxt "HKM2_015"
+msgid ""
+"I am in your debt.\n"
+"I will show you my justice...to retrieve everything I've lost in Ikaruga!"
+msgstr "Щиро вдячний. Я не відступлюся: поверну все, що втратив в Ікарузі!"
+
+#. Key: HKM2_016_0
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 男との会話の中で、彼は小さな記憶を掘り起こしていた。
+#. JA:   イカルガ……その再興のために奮闘する男がいた事を。
+#. JA:   そして過去の、人であった頃の彼は、そんな男を嘲り笑った事を。
+msgctxt "HKM2_016_0"
+msgid ""
+"There is something Hakumen feels he should remember... Something about\n"
+"Ikaruga... A man had worked very hard to restore the country of Ikaruga.\n"
+"When Hakumen had been human, he had mocked him for it."
+msgstr ""
+"У цій розмові Хакумен згадав дещо про Ікаруґу: колись був чоловік,\n"
+"який боровся за її відродження. А він сам, ще людиною, насміхався з\n"
+"нього."
+
+#. Key: HKM2_016_1
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: だが今の彼は違っていた。
+#. JA:   彼は意志を貫こうとする目の前の男に、敬意すら感じた。
+msgctxt "HKM2_016_1"
+msgid ""
+"...But the man is different now. He is a man who stands up for what he believes\n"
+"in. A man who Hakumen can respect."
+msgstr ""
+"Та тепер Хакумен змінився. Він навіть відчув повагу до чоловіка, який\n"
+"прагнув до кінця відстояти свої переконання."
+
+#. Key: HKM2_017
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 取り戻すため……か。
+msgctxt "HKM2_017"
+msgid "Retrieve, eh?"
+msgstr "Повернути втрачене..."
+
+#. Key: HKM2_018
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 同時に、考えていた。
+#. JA:   己の意思と、この男の意思と、果たしてどちらが強固か、と。
+msgctxt "HKM2_018"
+msgid ""
+"He can't help but wonder...\n"
+"His force of will, and this determined man's...\n"
+"Which is stronger?"
+msgstr ""
+"Водночас він міркував: чия воля виявиться твердішою — його чи цього\n"
+"чоловіка?"
+
+#. Key: HKM2_019
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ふ……貴様は変わらんな。
+msgctxt "HKM2_019"
+msgid "Hmph... You've not changed at all."
+msgstr "Хм... А ти не змінився."
+
+#. Key: HKM2_020
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: では、死合おうか……。来い、シシガミ＝バング！！
+msgctxt "HKM2_020"
+msgid "Very well then... Let us begin, Bang Shishigami!"
+msgstr "Що ж, зійдімося в смертельному двобої... Підходь, Банґу Шішіґамі!!"
+
+#. Key: HKM2_021
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 応ッ！
+msgctxt "HKM2_021"
+msgid "Ooh!"
+msgstr "Авжеж!"
+
+#. Key: HKM2_026
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: この男に敗れるとはな……。
+#. JA:   これも因果応報か……。
+msgctxt "HKM2_026"
+msgid ""
+"How could I lose to such a man...?\n"
+"Perhaps it is as they say...\n"
+"<DQ>What goes around, comes around...<DQ>"
+msgstr ""
+"Подумати тільки, програти цьому чоловікові... Мабуть, це і є «відплата\n"
+"за минуле»..."
+
+#. Key: HKM2_027
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 手合わせ、かたじけない！
+#. JA:   拙者はこれにて失礼致す！
+msgctxt "HKM2_027"
+msgid "I appreciate your time... However, I must excuse myself here."
+msgstr "Дякую за двобій! А тепер дозвольте відкланятися!"
+
+#. Key: HKM2_029
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 戻る事になるか……「狭間」へと……。
+msgctxt "HKM2_029"
+msgid "Must I return to the Edge again...?"
+msgstr "Знов повернуся до Міжпростору...?"
+
+#. Key: HKM2_031
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM2_031"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM2_032
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様……！
+msgctxt "HKM2_032"
+msgid "You...!"
+msgstr "Ти...!"
+
+#. Key: HKM2_033
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 不様ね。出直していらっしゃい。
+msgctxt "HKM2_033"
+msgid "How utterly pathetic. You would do well to start over."
+msgstr "Яке жалюгідне видовище. Спробуй іще раз."
+
+#. Key: HKM2_034
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: “傍観者”如きが―――
+msgctxt "HKM2_034"
+msgid "You are nothing but a spectator—"
+msgstr "Ти, нікчемна «спостерігачко»..."
+
+#. Key: HKM2_036
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: “次”はうまくいくといいけど……。
+msgctxt "HKM2_036"
+msgid "I hope you do better next time..."
+msgstr "Сподіваюся, «наступного разу» вийде краще..."
+
+#. Key: HKM2_042
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Bang
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: さ、さすがは六英雄…。
+msgctxt "HKM2_042"
+msgid "So this is the power...of the Six Heroes..."
+msgstr "О-ось вона, сила одного із Шести Героїв..."
+
+#. Key: HKM2_044
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様の意思、確かに受け取った。
+msgctxt "HKM2_044"
+msgid "Your will is strong. I acknowledge your spirit."
+msgstr "Я відчув силу твоєї волі."
+
+#. Key: HKM2_046
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……なかなか面白いことになってるわね。
+msgctxt "HKM2_046"
+msgid "...I see. An intriguing development."
+msgstr "...Цікаво все обернулося."
+
+#. Key: HKM2_047
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……貴様か。何をしに来た。
+msgctxt "HKM2_047"
+msgid "...You. Why have you come here?"
+msgstr "...Знов ти. Навіщо прийшла?"
+
+#. Key: HKM2_048
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……私も幻影だとは思わないのかしら？
+msgctxt "HKM2_048"
+msgid "...You don't suspect I am an illusion?"
+msgstr "...А раптом я теж видіння?"
+
+#. Key: HKM2_049
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様の性格はよく知っている。
+#. JA:   それに……間違っても私が貴様の幻影を見るなどあり得ん。
+msgctxt "HKM2_049"
+msgid ""
+"I know you too well. You would not stoop to an illusion...not that I would be able to\n"
+"see such legerdemain. "
+msgstr "Я добре знаю твою вдачу. І вже точно не побачив би видіння з тобою."
+
+#. Key: HKM2_050
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 嫌われたものね……。
+#. JA:   あんまり貴方が遅いから、ついでに様子を見に来てあげたのに。
+msgctxt "HKM2_050"
+msgid ""
+"I was unaware you had such hatred for me.\n"
+"I'm only here to see what was occupying your time, since you had yet to appear..."
+msgstr ""
+"От як ти мене не любиш... Я лише прийшла глянути, що з тобою, бо ти\n"
+"так довго не з'являєшся."
+
+#. Key: HKM2_051
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ほう……では、貴様の真の用事とは何だ？
+msgctxt "HKM2_051"
+msgid "Hmm... Why are you truly here, demon?"
+msgstr "Ось як... То яка твоя справжня мета?"
+
+#. Key: HKM2_052
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……例の“お人形さん”、少し面白い事になっていたの……。
+#. JA:   貴方と同じ、境界で叶わぬ夢をみていたわ。
+msgctxt "HKM2_052"
+msgid ""
+"...There's something interesting going on with that <DQ>doll<DQ>... I found her chasing\n"
+"rainbows near the Boundary, just like you."
+msgstr ""
+"...Із тією «лялечкою» коїться дещо цікаве. Вона, як і ти, бачила\n"
+"нездійсненні сни на Межі."
+
+#. Key: HKM2_053
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: “人形”……「ムラクモ」の事か。
+msgctxt "HKM2_053"
+msgid "Doll... You mean Murakumo?"
+msgstr "«Лялька»... Ти про Муракумо?"
+
+#. Key: HKM2_054
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 私は彼女の夢を醒ましに来ただけ。
+#. JA:   だから貴方はそのついでということよ。
+msgctxt "HKM2_054"
+msgid ""
+"I'm here to wake her up.\n"
+"But I thought perhaps I could play with you a little, while I was in the area."
+msgstr "Я прийшла лише розбудити її від сну. А до тебе завітала заодно."
+
+#. Key: HKM2_055
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: あれは人の罪の結晶…神に向けられし刃。
+#. JA:   あの剣、必ず折らねばならぬ。この私の手で…必ずだ…！
+#. JA:   邪魔をすると謂うのなら……貴様でも容赦はせんぞ。
+msgctxt "HKM2_055"
+msgid ""
+"That creation is a repository of crimes humans have committed...a blade meant to cut\n"
+"God. That sword must be destroyed. I shall destroy it...I must! I will destroy even\n"
+"you, should you stand in my way."
+msgstr ""
+"Вона — втілення людських гріхів, клинок, спрямований проти Бога. Я\n"
+"неодмінно зламаю цей меч власноруч... Неодмінно! Якщо завадиш мені,\n"
+"не пощаджу й тебе."
+
+#. Key: HKM2_056
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 乱暴ね……。まあ、好きになさい。
+#. JA:   じゃあ、また会いましょう「えいゆう」さん。
+msgctxt "HKM2_056"
+msgid ""
+"Such violence... Very well. Do as you please.\n"
+"Until we meet again, Hero."
+msgstr "Який грубий... Що ж, роби як знаєш. До зустрічі, «герою»."
+
+#. Key: HKM2_058
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……チッ。
+msgctxt "HKM2_058"
+msgid "...Hmph."
+msgstr "...Цк."
+
+#. Key: HKM3_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: またか……。
+#. JA:   次は……何処だ？
+msgctxt "HKM3_002"
+msgid ""
+"Again...?\n"
+"Where am I now...?"
+msgstr "Знову... Де я цього разу?"
+
+#. Key: HKM3_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: む……？
+msgctxt "HKM3_004"
+msgid "What!?"
+msgstr "Гм...?"
+
+#. Key: HKM3_006
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM3_006"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM3_007
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それが幻影ではない事は、彼にはすぐに理解できた。
+#. JA:   それはココノエが彼に干渉してきたときとよく似ていたのだ。
+msgctxt "HKM3_007"
+msgid ""
+"It takes him only a moment to determine that this is no hallucination.\n"
+"Something about it reminds him of Kokonoe's interference."
+msgstr ""
+"Він одразу зрозумів: це не видіння. Відчуття нагадувало втручання\n"
+"Коконое."
+
+#. Key: HKM3_008
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 即ち、目の前の男もまた、意識のみを「狭間」に飛ばし、
+#. JA:   彼の本体に直接干渉を行ってきたのに相違なかった。
+msgctxt "HKM3_008"
+msgid ""
+"If Hakumen was correct, this creature before him was a projection of someone's\n"
+"consciousness, sent to the Edge, most likely by Kokonoe."
+msgstr ""
+"Отже, чоловік перед ним теж переніс у Міжпростір лише свою свідомість\n"
+"і безпосередньо втрутився в його існування."
+
+#. Key: HKM3_009
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様が六英雄の一人、「ハクメン」か？
+msgctxt "HKM3_009"
+msgid "So, you're one of the Six Heroes, <DQ>Hakumen<DQ>?"
+msgstr "То ти один із Шести Героїв, «Хакумен»?"
+
+#. Key: HKM3_010
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: お前……は……「赤鬼」……？
+msgctxt "HKM3_010"
+msgid "And you...the Red Devil?"
+msgstr "А ти... «Червоний демон»...?"
+
+#. Key: HKM3_011
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……私を知っているのか？
+msgctxt "HKM3_011"
+msgid "...You know me?"
+msgstr "...Ти мене знаєш?"
+
+#. Key: HKM3_012
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それよりも、
+#. JA:   ココノエの助手というのは貴公か？
+msgctxt "HKM3_012"
+msgid "Or perhaps you are merely Kokonoe's assistant?"
+msgstr "Скажи краще: ти помічник Коконое?"
+
+#. Key: HKM3_013
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 如何にも。
+msgctxt "HKM3_013"
+msgid "Indeed."
+msgstr "Так."
+
+#. Key: HKM3_014
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: そう答えた男の異形を、彼は再度見つめた。
+#. JA:   これは人ではない。
+#. JA:   だがこれに似た生物を、彼はよく知っていた。
+msgctxt "HKM3_014"
+msgid ""
+"Hakumen stares at the creature. It isn't human, but he knows a creature that\n"
+"looks just like it..."
+msgstr ""
+"Після цієї відповіді Хакумен знову придивився до незвичайного вигляду\n"
+"чоловіка. То була не людина, та він знав істот, схожих на нього."
+
+#. Key: HKM3_015
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 「鬼」と呼ばれる異形達。
+#. JA:   彼自身、何度か刃を交えた事もある。
+msgctxt "HKM3_015"
+msgid "Strange creatures called <DQ>demons<DQ>. He had crossed swords with them before."
+msgstr ""
+"Потворних створінь, яких звали «демонами». Йому й самому доводилося\n"
+"схрещувати з ними клинки."
+
+#. Key: HKM3_016
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM3_016"
+msgid "Ugh..."
+msgstr "Гх..."
+
+#. Key: HKM3_017
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: だが目の前の男は、単純に「鬼」とは表現し難い微妙な姿をしていた。
+msgctxt "HKM3_017"
+msgid "...But the thing in front of him is different from a normal demon."
+msgstr ""
+"Та чоловіка перед ним не можна було просто назвати «демоном» — його\n"
+"вигляд був незвичайним навіть для них."
+
+#. Key: HKM3_018
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: となると、この男は「鬼」の遺伝子か何かを
+#. JA:   組み込まれた存在なのではないか……
+#. JA:   科学者を自称するココノエならばそうした行為も可能だろう。
+msgctxt "HKM3_018"
+msgid ""
+"He must have been implanted with demon genes of some sort...\n"
+"A scientist of questionable morals like Kokonoe would have no problem\n"
+"doing such a thing."
+msgstr ""
+"Можливо, в нього вживили демонські гени. Коконое, що називає себе\n"
+"науковицею, цілком могла на таке піти."
+
+#. Key: HKM3_019
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: また、この男が意識のみを「狭間」に飛ばしてきた事も、
+#. JA:   その予想が当たらずとも遠くはない場所にある事を窺わせた。
+msgctxt "HKM3_019"
+msgid ""
+"There is little doubt in Hakumen's mind that this Red Devil is an agent of\n"
+"the cat scientist, who has sent his consciousness to the Edge with her\n"
+"assistance."
+msgstr ""
+"Те, що чоловік переніс у Міжпростір лише свідомість, теж підказувало:\n"
+"ця здогадка, якщо й хибна, то не надто далека від істини."
+
+#. Key: HKM3_020
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 成程、「鬼」の血の霊験灼<ruby>あらた</ruby>か、というところか……。
+msgctxt "HKM3_020"
+msgid "This, then, is the miracle of the Devil..."
+msgstr "Отже, сила демонської крові справді велика..."
+
+#. Key: HKM3_021
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 私は第七機関のテイガーという。
+#. JA:   ココノエより、貴様を回収するように告げられて来た。
+#. JA:   だが回収方法は貴様に聞くようにと言われている。
+msgctxt "HKM3_021"
+msgid ""
+"I'm Tager from Sector Seven.\n"
+"Kokonoe sent me to retrieve you. But, how that will be done, is your call."
+msgstr ""
+"Я Тейґер із Сектору Сім. Коконое наказала витягти тебе, але як саме це\n"
+"зробити, веліла запитати в тебе."
+
+#. Key: HKM3_022
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 「化け猫」め……この男を「眼」にするという事か。
+#. JA:   良いだろう。我が力を存分にその眼に焼き付けるが良い！
+msgctxt "HKM3_022"
+msgid "Very well. Then the eye shall bear witness to my power!"
+msgstr ""
+"Клята відьомська кицька... Хоче зробити цього чоловіка своїм «оком»?\n"
+"Гаразд. Дивися ж і закарбуй у ньому всю мою силу!"
+
+#. Key: HKM3_024
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: む、ココノエめ……。
+#. JA:   こういう事か、細かい説明を渋っていた理由は。
+#. JA:   だが、かの六英雄と手合わせ出来るなど願ってもない機会！
+msgctxt "HKM3_024"
+msgid ""
+"Hmph, Kokonoe... So -this- is why you didn't give me the details...\n"
+"Nonetheless, I must thank you for giving me this opportunity to take down one of the Six Heroes!"
+msgstr ""
+"Ох уже ця Коконое... Тепер ясно, чому вона не хотіла нічого пояснювати.\n"
+"Та помірятися силами з одним із Шести Героїв — нагода, про яку я й\n"
+"мріяти не міг!"
+
+#. Key: HKM3_026
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 全力でやらせてもらうぞ「ハクメン」！
+msgctxt "HKM3_026"
+msgid "Haha! I'm not gonna hold back, <DQ>Hakumen<DQ>!"
+msgstr "Битимуся на повну силу, «Хакумене»!"
+
+#. Key: HKM3_027
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: フフフ……。来い、「赤鬼」！
+msgctxt "HKM3_027"
+msgid "Heheheh... We may begin when you desire, Red Devil."
+msgstr "Ха-ха... Підходь, «Червоний демоне»!"
+
+#. Key: HKM3_032
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……さすがは六英雄ということか。
+msgctxt "HKM3_032"
+msgid "...I can see why you're one of the Six Heroes..."
+msgstr "...Ось чому тебе називають одним із Шести Героїв."
+
+#. Key: HKM3_033
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: この感覚……貴公は「事象兵器」を―――
+msgctxt "HKM3_033"
+msgid "This sensation... Do you wield a weapon of causality...?"
+msgstr "Це відчуття... Ти володієш Арк-Енемі...?"
+
+#. Key: HKM3_034
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: いや、違う。
+#. JA:   これには意志を感じない、もっと機械的な……。
+msgctxt "HKM3_034"
+msgid "No... That is not possible... This feeling is that of an emotionless machine..."
+msgstr "Ні, не те. Я не відчуваю в ній волі. Це щось більш механічне..."
+
+#. Key: HKM3_035
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……なんの話だ？
+msgctxt "HKM3_035"
+msgid "...What are you talking about?"
+msgstr "...Про що ти говориш?"
+
+#. Key: HKM3_036
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 成程……これが「化け猫」の術という事か……。
+msgctxt "HKM3_036"
+msgid "I see... Then this is the work of the Grimalkin..."
+msgstr "Зрозуміло... Ось який задум у відьомської кицьки..."
+
+#. Key: HKM3_037
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: どうした!?
+msgctxt "HKM3_037"
+msgid "What's happening!?"
+msgstr "Що відбувається?!"
+
+#. Key: HKM3_039
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: これで「存在定着」が完了するという事だ……。
+#. JA:   貴公の搭載している謂わば「模倣事象兵器」によってな……。
+msgctxt "HKM3_039"
+msgid ""
+"The corporeal establishment process has reached completion...thanks to the\n"
+"causality phenomena weapon embedded within your metallic frame."
+msgstr ""
+"Отже, тепер моє існування остаточно закріпиться... Завдяки вбудованому\n"
+"в тебе, так би мовити, «штучному аналогу Арк-Енемі»..."
+
+#. Key: HKM3_040
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 事象、兵器だと……？
+#. JA:   私にはそんな物は……。
+msgctxt "HKM3_040"
+msgid ""
+"Phenomena...?\n"
+"I don't have such a thing inside me..."
+msgstr "Арк... Енемі...? Нічого такого в мені немає..."
+
+#. Key: HKM3_041
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴公は何も知らされていないようだな。
+#. JA:   「模倣事象兵器」によって私を強制的に「現世」に認識させ、
+#. JA:   そのまま存在を定着させる……それが「化け猫」の狙いだろう。
+msgctxt "HKM3_041"
+msgid ""
+"Then you have not been properly informed. Evaluating my quantum superposition and\n"
+"manifesting me in this world of the present with your causality phenomena device...\n"
+"That is almost certainly what the Grimalkin has intended."
+msgstr ""
+"Схоже, тобі нічого не сказали. Цей «штучний аналог Арк-Енемі» змусить\n"
+"реальний світ усвідомити моє існування і закріпить його там. Ось що\n"
+"задумала відьомська кицька."
+
+#. Key: HKM3_042
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: なに？
+msgctxt "HKM3_042"
+msgid "What?"
+msgstr "Що?"
+
+#. Key: HKM3_043
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 即ち、貴公は文字通りただの「眼」に過ぎぬ。
+#. JA:   現世から私を認識する「観測者」があの「化け猫」だ。
+msgctxt "HKM3_043"
+msgid ""
+"You are nothing but the eye—the observer who has collapsed the wave function of my\n"
+"prison is the one who holds your chain."
+msgstr ""
+"Інакше кажучи, ти буквально лише «око». А «спостерігач», що\n"
+"усвідомлює моє існування з реального світу, — та відьомська кицька."
+
+#. Key: HKM3_044
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 意思を持つ観測者だと！　馬鹿な、そんなことが…。
+#. JA:   それでは、まるで……。
+msgctxt "HKM3_044"
+msgid "An observer with their own will!? No, that can't be... That, would mean that..."
+msgstr "Спостерігач із власною волею?! Неможливо! Тоді це майже як..."
+
+#. Key: HKM3_045
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 「事象干渉」、刹那の間だが「神」になれる術だ。
+#. JA:   不完全ではあるがな……。
+msgctxt "HKM3_045"
+msgid ""
+"Yes... Quantum superpositional manipulation... A technique that can grant one the\n"
+"power of a god, if only for a moment...\n"
+"...But it is not perfected."
+msgstr ""
+"Втручання у причинність — техніка, що дозволяє бодай на мить стати\n"
+"«Богом». Хоч і недосконала..."
+
+#. Key: HKM3_047
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM3_047"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM3_052
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: チィッ……やはり完全ではないか……。
+msgctxt "HKM3_052"
+msgid "Guh... I knew there was much missing, but this..."
+msgstr "Тьху... Справді, ще не до кінця..."
+
+#. Key: HKM3_054
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: その程度か、六英雄よ。
+msgctxt "HKM3_054"
+msgid "That's all you've got, for one of the Six Heroes?"
+msgstr "І це все, на що здатен один із Шести Героїв?"
+
+#. Key: HKM3_055
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 今一度、と謂いたいところだが、どうやらそれも適わぬな。
+msgctxt "HKM3_055"
+msgid ""
+"I should like another opportunity to prove myself, but I do not think I will be granted\n"
+"one."
+msgstr "Я б залюбки спробував ще раз, та схоже, це вже неможливо."
+
+#. Key: HKM3_057
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: な、なんだ!?
+#. JA:   なにが起こっている？
+msgctxt "HKM3_057"
+msgid "Wh-What is it!? What's happening!?"
+msgstr "Щ-що?! Що відбувається?"
+
+#. Key: HKM3_058
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 何処へ飛ぶ……？
+#. JA:   再び「狭間」か、其れとも遥か「境界」の底か……。
+msgctxt "HKM3_058"
+msgid ""
+"Where will I find myself this time? Shall I return to the Edge again, or perhaps to\n"
+"the depths of the Boundary?"
+msgstr "Куди мене закине...? Знов у Міжпростір чи в самісінькі глибини Межі...?"
+
+#. Key: HKM3_060
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Tager
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ムッ!?
+msgctxt "HKM3_060"
+msgid "Huh!?"
+msgstr "Гм?!"
+
+#. Key: HKM4_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……クッ！
+msgctxt "HKM4_002"
+msgid "...Ugh!"
+msgstr "...Кх!"
+
+#. Key: HKM4_003
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 此処は……？
+msgctxt "HKM4_003"
+msgid "This is..."
+msgstr "Де я...?"
+
+#. Key: HKM4_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: その場所が「現世」ではない事を、彼はすぐに理解した。
+#. JA:   空気が違う。色が違う。
+#. JA:   しかし、だとすれば何処だというのか……。
+msgctxt "HKM4_004"
+msgid ""
+"He knows immediately that he is not in the present world. The air is wrong.\n"
+"The color is wrong. But if he isn't in the present world...where is he?"
+msgstr ""
+"Він одразу збагнув, що це не реальний світ. Повітря було іншим. Барви\n"
+"— іншими. Але де ж він тоді опинився...?"
+
+#. Key: HKM4_005
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 存在定着に失敗し、「境界」の底へと放り出されたのか。
+#. JA:   それともそもそも全てが「狭間」の己が見る夢だったのか。
+msgctxt "HKM4_005"
+msgid ""
+"Did the existential substantiation fail and throw him down into the Boundary?\n"
+"Or was the whole experience nothing more than a dream he'd had, floating\n"
+"in the Edge?"
+msgstr ""
+"Може, закріплення не вдалося і його жбурнуло на дно Межі? Чи все\n"
+"пережите було сном, який він бачив у Міжпросторі?"
+
+#. Key: HKM4_006
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 彼の心中の問いに応えるように、周囲がざわめいた。
+#. JA:   
+msgctxt "HKM4_006"
+msgid "As if in response to his curiosity, everything around him began to distort..."
+msgstr ""
+"Ніби у відповідь на його запитання довкола здійнявся гомін.\n"
+""
+
+#. Key: HKM4_008
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……おい！
+#. JA:   何をやっ………だお前！
+msgctxt "HKM4_008"
+msgid ""
+"...Hey!\n"
+"What the hell are you doing!?"
+msgstr "...Агов! Що ти... наробив?!"
+
+#. Key: HKM4_009
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……「化け猫」か。
+#. JA:   此処はどこだ？　何が起こった？
+msgctxt "HKM4_009"
+msgid ""
+"...Ah, the Grimalkin.\n"
+"Where am I?\n"
+"What has happened?"
+msgstr "...Відьомська кицька. Де я? Що сталося?"
+
+#. Key: HKM4_010
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ふざけるな、阿呆！
+#. JA:   お前の“意志”の過介入によって「場」が乱れたんだ！
+#. JA:   折角、うまくいきかけていたものを……！
+msgctxt "HKM4_010"
+msgid ""
+"You gotta be kidding, you asshole!\n"
+"Your damn ego is causing all sorts of causality drift!\n"
+"It was going so well, but you just had to screw it up, didn't you?"
+msgstr ""
+"Не жартуй, дурню! Твоя «воля» надто втрутилася, і «точка опори»\n"
+"втратила стійкість! А все вже майже вдалося...!"
+
+#. Key: HKM4_011
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……という事は、此処はまだ私の“意識”の中か？
+msgctxt "HKM4_011"
+msgid "...Then I am again inside my will?"
+msgstr "...Отже, я ще у власній «свідомості»?"
+
+#. Key: HKM4_012
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それは即ち、存在定着の手法そのものには
+#. JA:   何ら問題は生じていなかったという事だ。
+msgctxt "HKM4_012"
+msgid "The stabilizing process wasn't the issue..."
+msgstr "Це означало, що сам спосіб закріплення існування був правильним."
+
+#. Key: HKM4_013
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 問題になったのは、ただ一つ、彼の自我であった。
+#. JA:   
+msgctxt "HKM4_013"
+msgid "...It was his own ego."
+msgstr ""
+"Проблема полягала лише в одному — в його власному «я».\n"
+""
+
+#. Key: HKM4_014
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: あまりに強過ぎた彼の我<ruby>がし</ruby>執<ruby>ゅう</ruby>が、
+#. JA:   ココノエによる客観的な認識を放棄せしめ、
+#. JA:   未だ彼を「狭間」に留め続けたのである。
+msgctxt "HKM4_014"
+msgid ""
+"His powerful ego had rejected Kokonoe's objective recognition of his existence,\n"
+"trapping him on the other side of the Edge."
+msgstr ""
+"Його надто сильна прив'язаність до себе відкидала об'єктивне\n"
+"сприйняття Коконое й досі утримувала Хакумена в Міжпросторі."
+
+#. Key: HKM4_015
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ここまできたら後はお前次第だ。
+#. JA:   うまくやつを―――
+msgctxt "HKM4_015"
+msgid ""
+"Well, now that you're here, the rest's up to you.\n"
+"Just do it..."
+msgstr "Тепер усе залежить від тебе. Вправно впорайся з ним..."
+
+#. Key: HKM4_017
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM4_017"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM4_019
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Ragna
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……ん？
+msgctxt "HKM4_019"
+msgid "...Hm?"
+msgstr "...Га?"
+
+#. Key: HKM4_020
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 成程……確かに私の意<ruby>　な</ruby>識下<ruby>か　</ruby>らしい。
+#. JA:   私にとっての原点……。
+msgctxt "HKM4_020"
+msgid ""
+"I see... My will...it is all around me...\n"
+"And here, before me, is my origin..."
+msgstr ""
+"Зрозуміло... Це справді моя підсвідомість. Переді мною — початок\n"
+"усього..."
+
+#. Key: HKM4_021
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Ragna
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: なんだ、オマエ？
+#. JA:   変なお面なんぞ被りやがって……。
+#. JA:   怪我したくなきゃそこをどきな。
+msgctxt "HKM4_021"
+msgid ""
+"Who the hell are you supposed to be, wearing that weird mask...?\n"
+"Get out of my way, or you'll get hurt."
+msgstr ""
+"Ти хто такий? Ще й маску дивну начепив... Не хочеш постраждати —\n"
+"відійди."
+
+#. Key: HKM4_022
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 全ては此処から始まったのだ……。
+#. JA:   貴様等全てを屠るための、私の悠久の旅路！
+#. JA:   「ラグナ＝ザ＝ブラッドエッジ」……貴様こそが、その起点！
+msgctxt "HKM4_022"
+msgid ""
+"Ah, yes... My genesis...the beginning of my endless journey to defeat every last one\n"
+"of you! Ragna the Bloodedge, you are first!"
+msgstr ""
+"Усе почалося тут... Моя нескінченна путь, щоб знищити вас усіх! Раґно\n"
+"Бладедж... Ти — її початок!"
+
+#. Key: HKM4_023
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Ragna
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ああん……？
+#. JA:   ナニわけ分かんねぇこと言ってやがんだよ……。
+#. JA:   いいからさっさとどけよ！
+msgctxt "HKM4_023"
+msgid ""
+"Huh...? What the hell are you talking about...?\n"
+"Cut the crap and just get out of my way!"
+msgstr "Га...? Якого біса ти верзеш? Просто заберися з дороги!"
+
+#. Key: HKM4_024
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 退かぬ……退くものか……。
+#. JA:   たとえ貴様が「境界」の生み出した幻影だとしても！
+#. JA:   我が刃は貴様等「黒き者」全てを屠るためにある！
+msgctxt "HKM4_024"
+msgid ""
+"I will not withdraw! I will never withdraw!\n"
+"Even if you were an illusion of the Boundary, my blade exists only to banish demons\n"
+"like you from the Earth!"
+msgstr ""
+"Не відійду... Нізащо. Навіть якщо ти лише примара, породжена Межею!\n"
+"Мій меч існує, щоб знищити вас усіх — «чорних істот»!"
+
+#. Key: HKM4_025
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Ragna
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: チッ……全ッ然意味分かんねぇし……。
+#. JA:   なんだよ、相手して欲しいのか？
+#. JA:   怪我しても知らねぇぜ、お面野郎！
+msgctxt "HKM4_025"
+msgid ""
+"Tch... I have no idea where you're goin' with this...\n"
+"What, you really wanna fight me?\n"
+"I can guarantee you're gonna be sorry, you masked bitch!"
+msgstr ""
+"Тьху... Нічого не второпаю. Ти що, битися хочеш? Тільки не скаржся,\n"
+"якщо покалічу, виродку в масці!"
+
+#. Key: HKM4_026
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 来るが良い、全ての元凶―――「黒き獣」よ！
+msgctxt "HKM4_026"
+msgid ""
+"I am ready for you, Black Beast. To destroy evil, I must defeat it at the root, and\n"
+"that root is you!"
+msgstr "Підходь, джерело всіх лих... «Чорний Звіре»!"
+
+#. Key: HKM4_031
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 敗れる……？
+#. JA:   敗れるのか……“また”……。
+msgctxt "HKM4_031"
+msgid "I...I am defeated? Again?"
+msgstr "Програю...? Знову... програю...?"
+
+#. Key: HKM4_032
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Ragna
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: んだぁ？　口先だけだな、お面野郎！
+#. JA:   いいからもうどいてろよ、邪魔だし。
+msgctxt "HKM4_032"
+msgid "Hah! So you were all talk after all! Now get the hell outta my way..."
+msgstr "Оце й усе? Самі балачки! Забирайся з дороги, не заважай."
+
+#. Key: HKM4_033
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 此れも、運命か……。
+msgctxt "HKM4_033"
+msgid "Then this is my apportioned fate..."
+msgstr "Отже, і це... доля..."
+
+#. Key: HKM4_035
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Ragna
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……あん？　消えた……？
+#. JA:   なんだったんだ、あのお面野郎は……。
+msgctxt "HKM4_035"
+msgid "...Huh? He disappeared...? What did that bastard want anyway...?"
+msgstr "...Га? Зник...? Що це був за тип у масці...?"
+
+#. Key: HKM4_041
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Ragna
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ちっき、しょお……。
+msgctxt "HKM4_041"
+msgid "God...dammit.."
+msgstr "Чорт... забирай..."
+
+#. Key: HKM4_043
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM4_043"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM4_044
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 涙はとうの昔に尽き、流す眼すらも既に無い……。
+#. JA:   だが、かつて己が“兄”と呼んだ男との再会、そして別離。
+#. JA:   その双方に再び相対したが故の感傷が彼を支配する。
+msgctxt "HKM4_044"
+msgid ""
+"What tears he had have dried up long ago, and he no longer even has eyes to\n"
+"cry from...\n"
+"...But to be reunited with the man he once called <DQ>Brother<DQ>..."
+msgstr ""
+"Його сльози висохли давно, а очей, здатних плакати, більше не було. Та\n"
+"зустріч і прощання з чоловіком, якого колись він називав «братиком»,\n"
+"знов захопили його спогадами."
+
+#. Key: HKM4_045
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 彼は口を開いた。
+#. JA:   己自身に言い聞かせるように。
+msgctxt "HKM4_045"
+msgid "He opens his mouth to speak..."
+msgstr "Він заговорив, ніби переконуючи самого себе."
+
+#. Key: HKM4_046
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 私は私のやり方で世界を、過去を、未来を変えてみせる。
+#. JA:   だから……今“だけ”は安らかに眠るが良い。
+#. JA:   ラグナ＝ザ＝ブラッドエッジ―――“兄さん”。
+msgctxt "HKM4_046"
+msgid ""
+"I shall bend the world—the past and the future—to my will.\n"
+"Now rest in peace, Ragna the Bloodedge... Ragna my brother..."
+msgstr ""
+"Я зміню світ, минуле й майбутнє власним шляхом. Тож хоча б «зараз»\n"
+"спочивай спокійно... Раґно Бладедж, брате."
+
+#. Key: HKM4_047
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Ragna
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ケッ……泣き虫小僧が偉そうに……。
+#. JA:   生意気なんだよ、おめーは……。
+msgctxt "HKM4_047"
+msgid "Hmph...so the crybaby's acting all big now... You cheeky bastard..."
+msgstr "Хм... Малий плаксій уже задається... Який же ти зухвалий..."
+
+#. Key: HKM4_049
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM4_049"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM4_050
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 彼は今なお、己の意思に囚われ続けていた。
+#. JA:   存在を「現世」に定着させるためには、せねばならぬ事がある。
+msgctxt "HKM4_050"
+msgid ""
+"He can feel his will twisting him, but there is one more thing he must do to\n"
+"ensure his existence in the present world."
+msgstr ""
+"Його й досі тримала в полоні власна воля. Щоб закріпитися в реальному\n"
+"світі, він мав зробити ще дещо."
+
+#. Key: HKM4_051
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それは、己の否定。
+#. JA:   
+msgctxt "HKM4_051"
+msgid "He must deny himself."
+msgstr ""
+"Зректися самого себе.\n"
+""
+
+#. Key: HKM4_052
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Narrator
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 自己を廃し、「観測者」の認識のみを色濃くするための「儀式」。
+#. JA:   そして何より彼にとって、それは「贖罪」だった。
+#. JA:   兄を殺めた己への―――。
+msgctxt "HKM4_052"
+msgid "It will be his atonement for killing his own brother..."
+msgstr ""
+"Обряд відмови від власного «я», щоб лишилося тільки сприйняття\n"
+"«спостерігача». А для нього самого — спокута за вбивство брата..."
+
+#. Key: HKM4_053
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 我が魂の依代にて三輝神「スサノヲユニット」よ！
+#. JA:   贖罪の為、私は私を否定する！
+msgctxt "HKM4_053"
+msgid ""
+"I deserve no redemption! May my soul forever atone, encased in this undying\n"
+"shell—Sankishin Susano'o!"
+msgstr ""
+"Санкішіне, «модулю Сусаноо», пристановище моєї душі! Заради спокути\n"
+"я зрікаюся самого себе!"
+
+#. Key: HKM5_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Jin
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM5_002"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM5_003
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 我は空、我は鋼、我は刃……。
+#. JA:   我は一振りの剣にて全ての「罪」を刈り取り「悪」を滅する！！
+#. JA:   其れが過去の己であろうとも！
+msgctxt "HKM5_003"
+msgid ""
+"I am the white void. I am the cold steel. I am the just sword.\n"
+"With blade in hand shall I reap the sins of this world, and cleanse it in the fires of\n"
+"destruction. My past incarnation is no exception!"
+msgstr ""
+"Я — порожнеча. Я — сталь. Я — лезо... Єдиним мечем я пожну всі\n"
+"«гріхи» та знищу «зло»! Навіть якщо гріхом є я сам!"
+
+#. Key: HKM5_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 我が名は「ハクメン」！　推して参る！
+msgctxt "HKM5_004"
+msgid "I am Hakumen. The end has come."
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: HKM5_009
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 此れは私の意思なのか……。
+#. JA:   私自身が……刈られるべき「罪」だと……？
+msgctxt "HKM5_009"
+msgid "Is this truly my will? Am...I the sin that must be expunged?"
+msgstr "Це моя воля...? Виходить, я сам — «гріх», який слід пожати...?"
+
+#. Key: HKM5_010
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Jin
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM5_010"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM5_011
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 笑うが良い……不様な私を……。
+msgctxt "HKM5_011"
+msgid "Go. Laugh. Mock the pitiful creature that I am..."
+msgstr "Смійся... З мене, жалюгідного..."
+
+#. Key: HKM5_013
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Jin
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM5_013"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM5_020
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Unknown on screen; internally Jin
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM5_020"
+msgid "...!"
+msgstr "...!"
+
+#. Key: HKM5_021
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 消えるが良い。
+#. JA:   最早、迷いはない。
+msgctxt "HKM5_021"
+msgid "Begone, apparition. I have conquered my doubts."
+msgstr "Згинь. Відтепер я більше не вагаюся."
+
+#. Key: HKM5_023
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM5_023"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM5_025
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ようやく……始まるか。
+msgctxt "HKM5_025"
+msgid "Finally... It has begun."
+msgstr "Нарешті... починається."
+
+#. Key: HKM6_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM6_002"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM6_003
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: やっと来たか……。
+#. JA:   随分、時間を使ったな。
+msgctxt "HKM6_003"
+msgid "I've been waiting. Took you long enough."
+msgstr "Нарешті з'явився... Довго ж ти вовтузився."
+
+#. Key: HKM6_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様がココノエか……。
+msgctxt "HKM6_004"
+msgid "You are the one called Kokonoe."
+msgstr "Отже, ти Коконое..."
+
+#. Key: HKM6_005
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ああ……余計な挨拶は無用だ。
+#. JA:   お前と慣れ合うつもりはない。
+#. JA:   そもそも私はお前のことが嫌いだ。
+msgctxt "HKM6_005"
+msgid ""
+"Don't bother playing nice. We aren't gonna be friends. Fact is, I don't like you\n"
+"that much."
+msgstr ""
+"Так. Зайвих люб'язностей не треба. Я не збираюся з тобою\n"
+"приятелювати. Ти мені взагалі не подобаєшся."
+
+#. Key: HKM6_006
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……では何故、呼んだ？
+msgctxt "HKM6_006"
+msgid "Then why have you summoned me, demon?"
+msgstr "...Навіщо ж покликала мене?"
+
+#. Key: HKM6_007
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: とある目的のためにお前の体―――「スサノヲユニット」が必要だ。
+#. JA:   むしろ他はいらん。特にお前の自我など「境界」にでも叩き込んでやりたいくらいだ。
+msgctxt "HKM6_007"
+msgid ""
+"I need your body—the Susano'o unit—for one of my assignments. Just your body,\n"
+"really. I'd dump the rest of you back into the Boundary if I could."
+msgstr ""
+"Для однієї справи мені потрібне твоє тіло — «модуль Сусаноо». Більше\n"
+"нічого. А твоє «я» я б залюбки жбурнула назад у Межу."
+
+#. Key: HKM6_008
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: とはいえ「スサノヲユニット」とお前を切り離す術を
+#. JA:   残念ながら私は持ち合わせていない……。だから協力しろ。
+msgctxt "HKM6_008"
+msgid "But, I don't have what it takes to pull you out of the Susano'o, so I need your help."
+msgstr ""
+"Та, на жаль, я не знаю, як відділити тебе від «модуля Сусаноо». Тому\n"
+"доведеться тобі допомогти."
+
+#. Key: HKM6_009
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 私が大人しく従うとでも思ったか？
+msgctxt "HKM6_009"
+msgid "Do you truly believe I would heed your request?"
+msgstr "Гадаєш, я покірно послухаюся?"
+
+#. Key: HKM6_010
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 思わん。……だから嫌いなんだ、お前が。
+#. JA:   だがまあ、あれこれ命令をしたりするつもりはない。
+#. JA:   お前はただ“存在”さえし続けてくれればそれでいい。
+msgctxt "HKM6_010"
+msgid ""
+"No. Why the hell do you think I don't like you? Ah well. I'm not here to boss you\n"
+"around anyway. All I need you to do is keep on existing."
+msgstr ""
+"Ні. Тому ти мені й не подобаєшся. Та я не збираюся тобою командувати.\n"
+"Просто продовжуй «існувати» — і цього досить."
+
+#. Key: HKM6_011
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それで“奴”は必ず現れる。
+msgctxt "HKM6_011"
+msgid "With you around, I'm sure he'll show up sooner or later."
+msgstr "Тоді «він» неодмінно з'явиться."
+
+#. Key: HKM6_012
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 成程…。貴様の目的は「テルミ」か……。
+msgctxt "HKM6_012"
+msgid "Ah... Then you are in pursuit of Terumi."
+msgstr "Зрозуміло... Твоя мета — «Терумі»."
+
+#. Key: HKM6_013
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: お前には……まぁ説明の必要もあるまい。
+#. JA:   あぁ、それからもう一つだけ。
+msgctxt "HKM6_013"
+msgid ""
+"You go right ahead and think whatever you want. You aren't getting any sort of\n"
+"explanation from me.\n"
+"...Oh, one other thing..."
+msgstr "Тобі, мабуть, і пояснювати не треба. А, і ще дещо."
+
+#. Key: HKM6_014
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 私の邪魔はするな。
+#. JA:   もしもの時はまた干渉を発動する、それだけは覚えておけ。
+msgctxt "HKM6_014"
+msgid ""
+"Don't get in my way. I brought you here, and I can send you right back just as easily.\n"
+"Keep that in mind."
+msgstr ""
+"Не заважай мені. Якщо знадобиться, я знову втручуся в причинність.\n"
+"Запам'ятай це."
+
+#. Key: HKM6_015
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……貴様の企みに乗るのもまた一興か。
+#. JA:   良かろう、ならば“存在”し続けよう。
+#. JA:   “奴”が現れるその日までな！
+msgctxt "HKM6_015"
+msgid ""
+"Your plan intrigues me. Very well. I will do as you wish, until the day that he appears\n"
+"before me."
+msgstr ""
+"...Що ж, підіграти твоєму задуму теж може бути цікаво. Гаразд, я\n"
+"продовжу «існувати» — аж поки «він» не з'явиться!"
+
+#. Key: HKM6_017
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Kokonoe
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: さてと、奴はこのままカグツチに向かうのだろうが……。
+#. JA:   その時の回収の瞬間がまたチャンスか……。
+msgctxt "HKM6_017"
+msgid ""
+"All right... He's probably heading for Kagutsuchi, but...\n"
+"My best chance is probably going to be when I retrieve him there..."
+msgstr ""
+"Отже... Він, мабуть, попрямує до Каґуцучі. Тоді під час повернення й\n"
+"з'явиться ще одна нагода..."
+
+#. Key: HKM6_019
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 我が名は「ハクメン」！　推して参る！
+msgctxt "HKM6_019"
+msgid "I am Hakumen. The end has come."
+msgstr "Імʼя мені Хакумен. До бою!!!"
+
+#. Key: HKM7_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……グッ!?
+msgctxt "HKM7_002"
+msgid "...Guh!"
+msgstr "...Кх?!"
+
+#. Key: HKM7_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……あら、珍客ね。
+#. JA:   でも、お茶の時間にはまだ少し早くてよ。
+msgctxt "HKM7_004"
+msgid ""
+"What an unusual guest.\n"
+"Aren't you a little early for tea?"
+msgstr "...О, який незвичний гість. Та до чаювання ще трохи зарано."
+
+#. Key: HKM7_005
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様……！
+msgctxt "HKM7_005"
+msgid "You!"
+msgstr "Ти...!"
+
+#. Key: HKM7_006
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: それにしても不様な戦いぶりだったわね。
+#. JA:   英雄なんて呼ばれてた頃が懐かしいのではなくて？
+msgctxt "HKM7_006"
+msgid ""
+"I must say, your performance was rather lacking. \n"
+"Do you miss being a hero that much?"
+msgstr ""
+"Який жалюгідний бій. Мабуть, сумуєш за часами, коли тебе ще звали\n"
+"героєм?"
+
+#. Key: HKM7_007
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: クウッ……！
+msgctxt "HKM7_007"
+msgid "Ugh...!"
+msgstr "Кх...!"
+
+#. Key: HKM7_009
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 「境界」に居すぎたせいで意識が霧散しかかってるわね。
+#. JA:   よくその状態で体を維持しているものだわ。
+#. JA:   そこだけは褒めてあげる。
+msgctxt "HKM7_009"
+msgid ""
+"You've been in the Boundary too long. Your will has begun to seep away. I don't\n"
+"know how you've managed to sustain your body in such good condition. I must\n"
+"admit I'm impressed."
+msgstr ""
+"Ти надто довго пробув на Межі: твоя свідомість почала розсіюватися.\n"
+"Дивуюся, як ти взагалі втримуєш тіло. Принаймні за це можу похвалити."
+
+#. Key: HKM7_010
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴様如きに褒められたとて……。
+msgctxt "HKM7_010"
+msgid "Empty flattery does not suit you, nor will it serve your purpose."
+msgstr "Мені не потрібна похвала від такої, як ти..."
+
+#. Key: HKM7_011
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 強がる余力があるのなら立ちなさいな。
+#. JA:   貴方にもう一度チャンスをあげる。
+msgctxt "HKM7_011"
+msgid "If you have the energy to act tough, perhaps there is hope for you yet."
+msgstr "Якщо ще маєш сили хоробритися — вставай. Я дам тобі ще один шанс."
+
+#. Key: HKM7_012
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: さあ、“あの時”のように、立つのよ。
+#. JA:   「英雄」さん……。
+msgctxt "HKM7_012"
+msgid "Stand before me, Hero, like you once did."
+msgstr "Ну ж бо, підведися, як «тоді». Пане «герою»..."
+
+#. Key: HKM7_013
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: おおおああっ！！
+msgctxt "HKM7_013"
+msgid "Aaaaagh!"
+msgstr "А-а-а!"
+
+#. Key: HKM7_015
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 貴、様……！
+#. JA:   我は……空……ユキ……アネ、サ……召喚……。
+#. JA:   ラグ……にい……獣……。
+msgctxt "HKM7_015"
+msgid ""
+"Y-You...! I am...the blade of justice... Summon......Yuki...sa...\n"
+"Rag......Broth......Beast..."
+msgstr "Ти...! Я — порожнеча... Юкі... Анеса... виклик... Раґ... бра... Звір..."
+
+#. Key: HKM7_016
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 記憶が混乱してるわよ、大丈夫？
+#. JA:   そんなので戦えるのかしら？
+msgctxt "HKM7_016"
+msgid "Oh dear. It would appear your memory has been damaged. Are you quite all right?"
+msgstr "У тебе плутаються спогади. Ти як? Зможеш битися в такому стані?"
+
+#. Key: HKM7_017
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……ハァ、ハァ。
+msgctxt "HKM7_017"
+msgid "*pant* *pant*"
+msgstr "...Ха... ха..."
+
+#. Key: HKM7_018
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: でも素直でいいコね。
+#. JA:   よくできたならご褒美をあげる。
+#. JA:   それに美味しいお茶もね。
+msgctxt "HKM7_018"
+msgid ""
+"You are behaving rather nicely. Very well. Keep it up, and I shall reward you with a\n"
+"treat, and perhaps a delicious cup of tea as well."
+msgstr ""
+"Але який слухняний хлопчик. Якщо добре впораєшся, дам тобі нагороду.\n"
+"І смачного чаю теж."
+
+#. Key: HKM7_019
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 我は、罪を……刈り取りし刃……
+#. JA:   生まれ出でしその時より授けられた名……
+msgctxt "HKM7_019"
+msgid ""
+"With blade in hand shall I reap...the sins of this world, and cleanse it...in the fires of\n"
+"destruction. Such has been my fate since the day of my birth..."
+msgstr "Я — лезо... що жне гріхи... Ім'я, дане мені від народження..."
+
+#. Key: HKM7_020
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 我は刃<ruby>ジン</ruby>　　我が、名は……「ハクメン」……！
+#. JA:   推して……参る！
+#. Note: 刃 означає «лезо», але тут читається «Джін» — натяк на справжнє ім'я Хакумена.
+msgctxt "HKM7_020"
+msgid "I am...Hakumen. The end...has come."
+msgstr "Я — <ruby>Джін</ruby>. Лезо    Моє ім'я — «Хакумен»... До... бою!"
+
+#. Key: HKM7_025
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: う……グウッ！
+msgctxt "HKM7_025"
+msgid "Ugh... Argh!"
+msgstr "У... Кх!"
+
+#. Key: HKM7_026
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ますます不様ね……残念だわ。
+#. JA:   少し、期待していたのだけれど……。
+msgctxt "HKM7_026"
+msgid "Oh dear... And here I didn't think you could get any more pathetic. "
+msgstr "Ти став іще жалюгіднішим... Шкода. Я трохи на тебе сподівалася..."
+
+#. Key: HKM7_028
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: おやすみなさい、英雄さん。
+#. JA:   「境界」の底でゆっくりと眠るといいわ。永遠にね……。
+msgctxt "HKM7_028"
+msgid "Good night, Hero. Rest in peace beneath the Boundary. Forever."
+msgstr "На добраніч, пане герою. Поспи на дні Межі. Вічно..."
+
+#. Key: HKM7_030
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: ……お茶の時間ね、そろそろ。
+msgctxt "HKM7_030"
+msgid "...Oh my. I do believe it's time for tea."
+msgstr "...Мабуть, уже час пити чай."
+
+#. Key: HKM7_036
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: なかなか頑張ったわね。いいわ……「ご褒美」よ。
+#. JA:   少しだけ、貴方に干渉してあげる。
+msgctxt "HKM7_036"
+msgid "You've done quite well. A promise is a promise... Here is your reward—a reprieve."
+msgstr ""
+"Ти непогано постарався. Гаразд... Ось тобі «нагорода». Я трохи втручуся\n"
+"у твоє існування."
+
+#. Key: HKM7_037
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM7_037"
+msgid "..."
+msgstr "..."
+
+#. Key: HKM7_039
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+msgctxt "HKM7_039"
+msgid "...!"
+msgstr "...!"
+
+#. Key: HKM7_040
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: これで大丈夫よ。しばらくはね。
+msgctxt "HKM7_040"
+msgid "That should stitch you back together, for a while at any rate."
+msgstr "Тепер усе гаразд. Принаймні на деякий час."
+
+#. Key: HKM7_041
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 借りができたな、「吸血鬼」……。
+msgctxt "HKM7_041"
+msgid "I am in your debt, creature of the night."
+msgstr "Тепер я твій боржник, «вампірко»..."
+
+#. Key: HKM7_042
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 忘れていいわ。
+#. JA:   貴方に貸しなど作る気はないもの。
+msgctxt "HKM7_042"
+msgid "You owe me nothing. You've earned it."
+msgstr "Забудь. Не збираюся робити з тебе боржника."
+
+#. Key: HKM7_043
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: では、彼の地で会おう……
+msgctxt "HKM7_043"
+msgid "Then we shall meet again."
+msgstr "Тоді зустрінемося там..."
+
+#. Key: HKM7_045
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Rachel
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 忙しないわね。
+#. JA:   お茶も飲まずに行くなんて……。
+msgctxt "HKM7_045"
+msgid "What on Earth was so urgent? He didn't even drink his tea..."
+msgstr "Який нетерплячий. Пішов, навіть чаю не випив..."
+
+#. Key: HKM8_002
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 此処か……。
+msgctxt "HKM8_002"
+msgid "I have arrived."
+msgstr "Отже, це місце..."
+
+#. Key: HKM8_003
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 力は……二割程度……。
+#. JA:   されど今の“奴等”が相手なら通用するか。
+msgctxt "HKM8_003"
+msgid "Concentration is nearly twenty percent... This should be sufficient..."
+msgstr "Сили... десь двадцять відсотків... Але проти «них» зараз цього вистачить."
+
+#. Key: HKM8_004
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 時は満ちた。
+#. JA:   全ての始まりの刻……。
+#. JA:   だからこそ、この刻の中で―――
+msgctxt "HKM8_004"
+msgid "The time is at hand. It will begin soon, and that beginning..."
+msgstr "Час настав. Мить, коли все почалося... І саме в цю мить..."
+
+#. Key: HKM8_005
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 私は全てを終わらせる！
+msgctxt "HKM8_005"
+msgid "...will herald the end!"
+msgstr "Я покладу край усьому!"
+
+#. Key: HKM8_006
+#. Source: story/storytext_mainha (data/Story/Text/eng/storytext_mainha.pac)
+#. Speaker: Hakumen
+#. Context: Hakumen story route (POV: Hakumen)
+#. JA: 我が名は「ハクメン」！　推して参る！
+msgctxt "HKM8_006"
+msgid "I am Hakumen. The end has come."
+msgstr "Імʼя мені Хакумен. До бою!!!"

@@ -1,0 +1,5348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazBlue Calamity Trigger Ukrainian Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key: END01_002
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 緩やかな風がラグナの髪を揺らした。
+#. JA:   12月も終わりを告げようと言うのに、その場所は少し暖かい。
+#. JA:   おそらく、階層都市から吹く風のせいだろう。
+msgctxt "END01_002"
+msgid ""
+"A gentle breeze blows through Ragna's hair.\n"
+"It's the end of December, but the breeze feels warm.\n"
+"Probably because it's coming from the Hierarchical City."
+msgstr ""
+"Легкий вітерець ворушить волосся Раґни. Грудень добігає кінця, але\n"
+"вітер напрочуд теплий. Мабуть, тому, що дме з ієрархічного міста."
+
+#. Key: END01_003
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 階層都市は術式による気候調整機能が備わっているため、
+#. JA:   人々は一年中過ごしやすい環境を享受することができる。
+msgctxt "END01_003"
+msgid "The city's climate is regulated by Ars Magus to make it more <DQ>hospitable<DQ>."
+msgstr ""
+"Завдяки магічним формулам клімат в ієрархічному місті регулюється,\n"
+"тож люди цілий рік живуть у комфортних умовах."
+
+#. Key: END01_004
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: ふと視線を上げると、蒼い霧の向こうに薄明かりが見えた。
+#. JA:   「第十三階層都市カグツチ」の灯だ。
+msgctxt "END01_004"
+msgid ""
+"A light glimmers through the haze.\n"
+"It's the Kagutsuchi tower."
+msgstr ""
+"Крізь імлу мерехтить світло. Це вогні Тринадцятого ієрархічного міста\n"
+"Каґуцучі."
+
+#. Key: END01_005
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: それにしても……。
+#. JA:   魔素が薄いな、このあたりは…。
+msgctxt "END01_005"
+msgid "Anyway...the seithr is pretty thin around here..."
+msgstr "І все ж... мани тут доволі мало..."
+
+#. Key: END01_006
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: ラグナは深呼吸をしてから、おもむろに右手を前方にかざした。
+#. JA:   手の甲に嵌めていたプレートが鈍い光を放ち始める。
+msgctxt "END01_006"
+msgid ""
+"Ragna takes a deep breath and lifts up his right hand.\n"
+"The plate on it begins to glow."
+msgstr ""
+"Раґна глибоко вдихає і простягає вперед праву руку. Пластина на її\n"
+"тильному боці починає тьмяно світитися."
+
+#. Key: END01_007
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 次第に量を増していく光がラグナの前方で弧を描き、
+#. JA:   まるでサーカスの潜り輪のような円を形作っていく。
+msgctxt "END01_007"
+msgid "A ring starts to take shape in the air, about as high as Ragna is tall."
+msgstr ""
+"Світло перед Раґною вигинається дугою і поступово утворює кільце\n"
+"заввишки з нього."
+
+#. Key: END01_008
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: ラグナがゆっくりとその輪を潜ると、光の輪は強く発光し、
+#. JA:   紋様を浮かび上がらせた。迷彩の術式の完成である。
+msgctxt "END01_008"
+msgid ""
+"He steps through the ring, and it glows. A seal appears in the air behind him...\n"
+"An Ars."
+msgstr ""
+"Він повільно проходить крізь кільце, і те яскраво спалахує, проявляючи\n"
+"візерунок. Формулу маскування завершено."
+
+#. Key: END01_009
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 見た目には何も変わってはいない。
+msgctxt "END01_009"
+msgid "He doesn't look any different..."
+msgstr "На вигляд він анітрохи не змінився..."
+
+#. Key: END01_010
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: だが、ラグナの生命体としての気配は一切消え失せており、
+#. JA:   並の人間では彼を知覚することなど到底できない。
+msgctxt "END01_010"
+msgid ""
+"...but the Ars has erased his presence.\n"
+"Ordinary people won't even notice him now."
+msgstr ""
+"...але його присутність як живої істоти цілковито зникла. Тепер звичайна\n"
+"людина навіть не здатна його відчути."
+
+#. Key: END01_011
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: ま、こんなもんか……。
+msgctxt "END01_011"
+msgid "Well, I guess it's about the right amount..."
+msgstr "Ну, десь так..."
+
+#. Key: END01_012
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 魔素は少量であれば健康に影響はないが、
+#. JA:   大量に取り込むと非常に危険な物質である。
+msgctxt "END01_012"
+msgid ""
+"Walking down a path as choked with seithr as this one is suicide for most\n"
+"people."
+msgstr ""
+"Хоча, поглинання невелика кількість мани не шкідлива, поглинання її у\n"
+"великих обсягах перетворює її на вкрай небезпечну субстанцію."
+
+#. Key: END01_112
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: ゆえに、大量の魔素の霧に覆われた地表を徒歩で移動するような
+#. JA:   狂気じみた行動を取る者はいない。
+msgctxt "END01_112"
+msgid "Ragna doesn't think he's likely to meet anyone."
+msgstr "Раґна не думає, що зустріне тут бодай когось."
+
+#. Key: END01_013
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: しかし、ラグナのような“訳あり”の人間の中には、
+#. JA:   他人との接触を避けるため、あえて徒歩に頼る者も少なからずいた。
+msgctxt "END01_013"
+msgid "But there are a few people who, like Ragna, prefer to travel on foot."
+msgstr ""
+"Та все ж є люди, які, подібно до Раґни, воліють подорожувати пішки, аби\n"
+"уникати зустрічей з іншими."
+
+#. Key: END01_014
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: ラグナが迷彩の術式を施したのは、そういう理由からだった。
+msgctxt "END01_014"
+msgid "The concealment Ars is for them."
+msgstr "Саме тому Раґна й застосував формулу маскування."
+
+#. Key: END01_015
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 加えて先ほどから、ラグナは得体の知れない気配を感じていた。
+msgctxt "END01_015"
+msgid "Ragna senses someone behind him..."
+msgstr ""
+"До того ж Раґна вже деякий час відчуває позаду чиюсь незрозумілу\n"
+"присутність..."
+
+#. Key: END01_016
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 敵に先手を取られることは、死と直結する。
+#. JA:   姿を消し、敵から察知されないことは危険を回避する上で
+#. JA:   最も重要な手段のひとつである。
+msgctxt "END01_016"
+msgid ""
+"He knows letting an enemy get the jump on him would be a pretty bad\n"
+"idea, which is why he chooses to travel undetected."
+msgstr ""
+"Він знає: дозволити ворогові напасти першим — майже напевно\n"
+"загинути. Тому й вирішує пересуватися непоміченим."
+
+#. Key: END01_017
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: さてと……夜明けまでには着くかな。
+msgctxt "END01_017"
+msgid "Let's see...I guess I can get there by dawn. "
+msgstr "Так... гадаю, до світанку дістануся."
+
+#. Key: END01_018
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 誰に聞かせるわけでもなく、ラグナは一人つぶやき、足取りを速めた。
+msgctxt "END01_018"
+msgid "He sighs, then picks up the pace."
+msgstr "Пробурмотівши це самому собі, він пришвидшує крок."
+
+#. Key: END01_019
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: ……チッ、めんどくせぇ。
+msgctxt "END01_019"
+msgid "...Heh, what a pain in the ass."
+msgstr "...Тьху, оце морока."
+
+#. Key: END01_020
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 背後に強い気配を感じ、咄嗟に振り返る。
+#. JA:   蒼い霧の向こうに影が見えた。人のシルエットではない…。
+msgctxt "END01_020"
+msgid ""
+"Suddenly, he feels a powerful presence at his back. He spins around to confront it,\n"
+"and sees a small shadow moving through the thick blue clouds.\n"
+"The shadow isn't human..."
+msgstr ""
+"Раптом він відчуває за спиною могутню присутність і різко обертається.\n"
+"Крізь густий блакитний туман рухається невелика тінь. Її обриси не\n"
+"схожі на людські..."
+
+#. Key: END01_021
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: ……猫だった。
+#. JA:   世界最強の生物であるその猫を、ラグナは知っていた。
+msgctxt "END01_021"
+msgid ""
+"...It's a cat.\n"
+"But not just any cat.\n"
+"Ragna knows him. He's arguably the strongest creature on the planet."
+msgstr ""
+"...Це кіт. Але не звичайний. Раґна його знає — це, мабуть, найсильніша\n"
+"істота у світі."
+
+#. Key: END01_022
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: よう、こんな夜中に出歩くと幽霊に会うぞ。
+msgctxt "END01_022"
+msgid "Watch yourself, kid. Out this late, you might run into a ghost."
+msgstr "Обережніше, малий. Вештатимешся серед ночі — ще привида зустрінеш."
+
+#. Key: END01_023
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: なんだ、アンタかよ……。
+#. JA:   あのなぁ、幽霊ってのはこんな場所には出ねぇの。
+#. JA:   たいてい井戸とか、屋根裏とか……そういう場所だっつの。
+msgctxt "END01_023"
+msgid ""
+"Oh, it's just you...\n"
+"You know, ghosts never show up in a place like this. They'd normally appear in\n"
+"wells, attics... places like that."
+msgstr ""
+"А, це ти... Знаєш, привиди в таких місцях не з'являються. Зазвичай вони\n"
+"водяться біля криниць, на горищах... ну, типу того."
+
+#. Key: END01_024
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: ……一体どこから得た知識だ。
+msgctxt "END01_024"
+msgid "...Where the hell'd you hear that?"
+msgstr "...І звідки така інформація?"
+
+#. Key: END01_025
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: まあ無駄話は別にいいや。
+msgctxt "END01_025"
+msgid "I never was one for idle chit-chat."
+msgstr "Та байдуже, не до балачок."
+
+#. Key: END01_026
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: それより、なんだよ。
+#. JA:   まさか出迎えってわけじゃねーんだろ？
+#. JA:   “コト”はもうアンタが済ませたから、帰れってか？
+msgctxt "END01_026"
+msgid ""
+"So what did you need from me? Don't tell me you're here to pick me up.\n"
+"Are you trying to tell me you took care of it, so I should go home?"
+msgstr ""
+"Краще скажи, чого тобі треба? Не кажи, що прийшов провести. Хочеш\n"
+"сказати, що сам уже владнав справу, тож мені час додому?"
+
+#. Key: END01_027
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: いや、ただ単に偶然お前を見かけたのでな。
+#. JA:   先ほどから後について歩いていた。
+msgctxt "END01_027"
+msgid "Oh, nothin' like that. Just thought I'd say <DQ>howdy<DQ>. Been following you for a spell."
+msgstr ""
+"Та ні, нічого такого. Просто вирішив «привітатися». Уже якийсь час іду\n"
+"слідом."
+
+#. Key: END01_028
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: ……ん？
+#. JA:   じゃあ、妙な気配はアンタのだったのか。
+msgctxt "END01_028"
+msgid "...Hm? So, that strange presence was you."
+msgstr "...Га? То це від тебе йшла та дивна присутність."
+
+#. Key: END01_029
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: 俺の気配に気がついたのか？
+msgctxt "END01_029"
+msgid "Knew I was there, did ya?"
+msgstr "То ти мене помітив?"
+
+#. Key: END01_030
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: ああ、結構前からね。
+msgctxt "END01_030"
+msgid "Yeah, for a while."
+msgstr "Ага, вже давненько."
+
+#. Key: END01_031
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: 徐々に距離を詰めて来てたんで、一応迷彩を張ったんだよ。
+#. JA:   余計な戦闘なんざしたかねぇし。
+#. JA:   ま、相手がアンタじゃ意味なかったな。
+msgctxt "END01_031"
+msgid ""
+"You have been gradually shortening the distance between us, so I set up a\n"
+"camouflage just in case. I wanted to avoid battles if I could. Since it turned\n"
+"out to be just you, I guess I overreacted."
+msgstr ""
+"Ти поступово скорочував відстань, тож я про всяк випадок\n"
+"замаскувався. Хотів уникнути зайвої бійки. Але якщо це був лише ти, то\n"
+"я дарма старався."
+
+#. Key: END01_032
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: ははっ、俺も年かな。
+#. JA:   お前なんぞに気配を悟られるなんてな。至極残念だ。
+msgctxt "END01_032"
+msgid "Ha. I must be gettin' old if even a greenhorn like you can spot me."
+msgstr "Ха. Видно, старію, якщо хтось типу тебе мене помітив."
+
+#. Key: END01_033
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: くく……ははは……。
+msgctxt "END01_033"
+msgid "Haha... Hahahaha..."
+msgstr "Ха-ха... Ха-ха-ха..."
+
+#. Key: END01_034
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: なーに笑ってんだよ……。
+#. JA:   ここは師匠として弟子の成長を喜ぶとこだろ！
+msgctxt "END01_034"
+msgid ""
+"What's so funny...?\n"
+"You should be happy as a master that your apprentice has grown!"
+msgstr ""
+"І що тут смішного...? Як наставник, ти мав би радіти, що твій учень\n"
+"виріс!"
+
+#. Key: END01_035
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: ははは……まあいい。
+#. JA:   今のお前なら問題ないかもな。
+msgctxt "END01_035"
+msgid "Hahaha... Ah hell. You gotten that good, you ain't gonna have no trouble at all."
+msgstr ""
+"Ха-ха-ха... Та нехай. З твоїми теперішніми вміннями проблем у тебе не\n"
+"буде."
+
+#. Key: END01_036
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: ん……？　なにが？
+msgctxt "END01_036"
+msgid "Huh...? With what?"
+msgstr "Га...? З чим?"
+
+#. Key: END01_037
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: ラグナ、今回はいつもと少々勝手が違うぞ。
+#. JA:   お前のことだ、どうせなんとかなると思っているんだろう？
+#. JA:   だから忠告をしてやる。
+msgctxt "END01_037"
+msgid "It's gonna be a mite different this time, kid. Things ain't gonna go the way you think. I'm just makin' sure you got fair warning."
+msgstr ""
+"Цього разу все буде трохи інакше, малий. Не так, як ти собі гадаєш. Тож\n"
+"вважай, що я тебе попередив."
+
+#. Key: END01_038
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: だからなにをだよ？
+#. JA:   それじゃ忠告になってねーだろ。
+msgctxt "END01_038"
+msgid "About what? Without that information, it's not a very good warning, you know. "
+msgstr "Про що? Без цього твоє попередження ні хріна не варте."
+
+#. Key: END01_039
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: ……向こうで奴と会った。
+msgctxt "END01_039"
+msgid "...I saw him. He's here."
+msgstr "...Я бачив його. Він тут."
+
+#. Key: END01_040
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: 奴？
+msgctxt "END01_040"
+msgid "Him?"
+msgstr "Його?"
+
+#. Key: END01_041
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: 奴の狙いはお前だ。いずれ姿を現すだろう。
+msgctxt "END01_041"
+msgid "He's lookin' for ya. You'll run in to him, sooner or later."
+msgstr "Він шукає тебе. Рано чи пізно ви зустрінетеся."
+
+#. Key: END01_042
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: わけ分かんねぇし。
+#. JA:   もうちょっとさ、分かるようにいってくんない？
+msgctxt "END01_042"
+msgid ""
+"What the hell are you talking about? Can you explain it to me in a way that I can\n"
+"understand?"
+msgstr "Про яку хрінь ти говориш? Можеш пояснити так, щоб я зрозумів?"
+
+#. Key: END01_043
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: 会えば分かる。
+#. JA:   分からなくても分かるはずだ……。
+msgctxt "END01_043"
+msgid "Don't need to. You'll understand when ya meet him."
+msgstr ""
+"Немає потреби. Зустрінеш його — усе зрозумієш. Навіть якщо не\n"
+"захочеш."
+
+#. Key: END01_044
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: 頼むから人間語しゃべってくれって。
+#. JA:   全然イミ分かんねーから。
+msgctxt "END01_044"
+msgid "Will you please speak in a human language? You're not making sense at all."
+msgstr ""
+"Можеш говорити людською мовою? Бо зараз у твоїх словах немає\n"
+"жодного сенсу."
+
+#. Key: END01_045
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: 悪いが俺は人間じゃないんでな。
+msgctxt "END01_045"
+msgid "Sorry, but I ain't human. You know that."
+msgstr "Пробач, але я не людина. Ти ж знаєш."
+
+#. Key: END01_046
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: はいはい……もういーよ。
+#. JA:   どうせ教える気ねぇんだろ？
+#. JA:   このテの話で、アンタが答えたこと一回もねぇしな。
+msgctxt "END01_046"
+msgid ""
+"Yeah, yeah, whatever. You're not gonna tell me after all, are you?\n"
+"You've never answered my questions on matters like this."
+msgstr ""
+"Ага-ага, байдуже. Ти все одно нічого не скажеш, так? На такі запитання\n"
+"ти мені ще жодного разу не відповів."
+
+#. Key: END01_047
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: んじゃ、俺は行くぞ。
+msgctxt "END01_047"
+msgid "All right. I gotta get going."
+msgstr "Гаразд. Мені вже час."
+
+#. Key: END01_048
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: アンタと違ってこちとら肉球のない人間様の足なんでね。
+#. JA:   夜明けまでには着きてーし。
+msgctxt "END01_048"
+msgid "Unlike you, I only have human legs. I want to get there by dawn."
+msgstr ""
+"На відміну від тебе, я людина й подушечок на лапах не маю. А до\n"
+"світанку хочу дістатися на місце."
+
+#. Key: END01_049
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jubei
+#. Context: Ending sequence, segment END01
+#. JA: ……そうか。では、またな、ラグナ。
+msgctxt "END01_049"
+msgid "...That so? Well then Ragna, guess I'll be seein' ya."
+msgstr "...Он як? Тоді ще побачимося, Раґно."
+
+#. Key: END01_050
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: はいはい、アンタもがんばれよ。
+msgctxt "END01_050"
+msgid "Yeah, yeah. Good luck to you, too."
+msgstr "Ага-ага. І тобі щасти."
+
+#. Key: END01_051
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 見送りの言葉に振り返ることもなく、ラグナは歩いていく。
+#. JA:   その後ろ姿を獣兵衛は静かに見守っていた。
+#. JA:   辺りは次第に魔素の霧が濃くなっていた。
+msgctxt "END01_051"
+msgid ""
+"Jubei watches Ragna's back as he stomps off into the clouds.\n"
+"With a final farewell to his former student, the cat fades back into the seithr."
+msgstr ""
+"Джубей мовчки дивиться вслід Раґні, який, не обертаючись, іде в туман.\n"
+"Попрощавшись із колишнім учнем, кіт зникає в густому тумані мани."
+
+#. Key: END01_053
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: ……何だよ、まったく。
+msgctxt "END01_053"
+msgid "<DQ>...What was that about anyway?<DQ>"
+msgstr "«...І що це взагалі було?»"
+
+#. Key: END01_054
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 軽く舌打ちをする。
+#. JA:   獣兵衛の言葉を聞くよりも先に、ラグナはすでに予感していた。
+msgctxt "END01_054"
+msgid ""
+"Ragna already knew what Jubei had come to tell him,\n"
+"but that didn't make him feel any better about it."
+msgstr ""
+"Раґна й без слів Джубея знав, навіщо той прийшов, але легше від цього\n"
+"не стало."
+
+#. Key: END01_055
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: 嫌な予感。理由は分からない。
+#. JA:   だがそれはカグツチに近付くにつれ、大きくなっていた。
+msgctxt "END01_055"
+msgid ""
+"He had a bad feeling about the whole thing, and the closer he got to\n"
+"Kagutsuchi, the worse that feeling got."
+msgstr ""
+"Уся ця справа викликала в нього погане передчуття, і що ближче він\n"
+"підходив до Каґуцучі, то сильнішим воно ставало."
+
+#. Key: END01_056
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: その予感を獣兵衛の言葉によって裏打ちされてしまったことが、
+#. JA:   ラグナの不安を駆り立てた。
+msgctxt "END01_056"
+msgid "Jubei's warning hadn't helped."
+msgstr "Попередження Джубея лише посилило його тривогу."
+
+#. Key: END01_057
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: いくつもの階層都市を巡ってきた。
+#. JA:   いくつもの統制機構の「支部」を「窯」を破壊してきた。
+msgctxt "END01_057"
+msgid ""
+"He'd been to plenty of Hierarchical Cities, and destroyed plenty of Library\n"
+"branches and their Cauldrons..."
+msgstr ""
+"Він побував у багатьох ієрархічних містах і знищив чимало відділень\n"
+"Бібліотеки разом з їхніми Котлами..."
+
+#. Key: END01_058
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END01
+#. JA: だが……このように陰鬱な気分になったことは、
+#. JA:   今の今まで一度としてなかった―――。
+msgctxt "END01_058"
+msgid "...but none of them had ever made him feel this uneasy."
+msgstr "...але ще жодне з них не викликало в нього такого гнітючого відчуття."
+
+#. Key: END01_059
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: なんなんだよ、この感覚……。
+msgctxt "END01_059"
+msgid "What the hell is this sensation...?"
+msgstr "Що це, в біса, за відчуття...?"
+
+#. Key: END01_060
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END01
+#. JA: 俺が、ビビってる？
+#. JA:   なんてわきゃ、ねーよな……。
+msgctxt "END01_060"
+msgid "Am I scared? No way..."
+msgstr "Я що, боюся? Та ну..."
+
+#. Key: END02_001
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: なるほど、では少佐の行動に関しては心当たりがないと―――
+#. JA:   そういうことですよね？
+msgctxt "END02_001"
+msgid ""
+"I see. Then, you're saying you don't remember anything peculiar about Major\n"
+"Kisaragi's recent actions. Is that right?"
+msgstr ""
+"Розумію. Отже, ви не помітили нічого дивного в останніх діях майора\n"
+"Кісараґі. Правильно?"
+
+#. Key: END02_002
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: はい……。
+msgctxt "END02_002"
+msgid "Yes..."
+msgstr "Так..."
+
+#. Key: END02_003
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: あ、申し訳ありません。一つ、思い出しました……。
+msgctxt "END02_003"
+msgid "Ah, my apologies. I just remembered one thing..."
+msgstr "А, перепрошую. Я щойно дещо згадала..."
+
+#. Key: END02_004
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: なんでしょう？
+msgctxt "END02_004"
+msgid "What is it?"
+msgstr "Що саме?"
+
+#. Key: END02_005
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: あ、いえ、あの……。
+msgctxt "END02_005"
+msgid "Uh, um..."
+msgstr "Е-е, ну..."
+
+#. Key: END02_006
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: 急にめまいがしてしまったため、よく覚えていないのですが……。
+msgctxt "END02_006"
+msgid "I suddenly felt dizzy, so I don't remember clearly, but..."
+msgstr ""
+"У мене раптом запаморочилося в голові, тому я не все добре пам'ятаю,\n"
+"але..."
+
+#. Key: END02_007
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: ……めまい？
+msgctxt "END02_007"
+msgid "Dizzy?"
+msgstr "Запаморочилося?"
+
+#. Key: END02_008
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: はい。
+#. JA:   原因は分からないのですが、突然めまいに襲われて……。
+#. JA:   記憶にも少し曖昧な部分があるのですが……。
+msgctxt "END02_008"
+msgid ""
+"Yes. I don't know why, but I suddenly felt awfully dizzy...so I'm not sure if what\n"
+"I'm about to tell you is credible at all."
+msgstr ""
+"Так. Не знаю чому, але в мене раптом сильно запаморочилося в голові...\n"
+"Тому не впевнена, що моїм спогадам можна довіряти."
+
+#. Key: END02_009
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: いえ、どんな些細な事でも結構ですよ。
+#. JA:   そこから何らかの手掛かりがつかめるかもしれませんから。
+msgctxt "END02_009"
+msgid "No, anything will be helpful. It might lead us to some crucial clues."
+msgstr ""
+"Нічого, стане в пригоді будь-яка дрібниця. Можливо, вона дасть нам\n"
+"важливу зачіпку."
+
+#. Key: END02_010
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: ……はい。
+msgctxt "END02_010"
+msgid "...OK."
+msgstr "...Гаразд."
+
+#. Key: END02_011
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: え、ええと…。
+#. JA:   あの時…、少佐は笑っておられました。
+#. JA:   私、あの様な少佐の姿、初めて……。
+msgctxt "END02_011"
+msgid ""
+"U-Um... At that time...the major was laughing.\n"
+"I'd never seen him laugh like that..."
+msgstr ""
+"Е-е... Тоді... майор сміявся. Я ніколи раніше не бачила, щоб він так\n"
+"сміявся..."
+
+#. Key: END02_012
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: 笑っていた…？
+#. JA:   ……あのキサラギ少佐が？
+msgctxt "END02_012"
+msgid ""
+"Laughing...?\n"
+"...Major Kisaragi was laughing?"
+msgstr "Сміявся...? ...Майор Кісараґі сміявся?"
+
+#. Key: END02_014
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: ……失礼。続けてください。
+msgctxt "END02_014"
+msgid "...Excuse me. Please continue."
+msgstr "...Перепрошую. Продовжуйте."
+
+#. Key: END02_015
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: はい、えっと……。
+#. JA:   とても大きなお声でした。
+msgctxt "END02_015"
+msgid "Yes, sir. And...he was laughing hard."
+msgstr "Так, пане. І... він сміявся дуже голосно."
+
+#. Key: END02_016
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: なぜ急に笑い出したのかは、分かりません。
+#. JA:   私、驚いてしまいまして……。
+msgctxt "END02_016"
+msgid ""
+"I don't know why the major suddenly started laughing like that. I was really surprised\n"
+"by it..."
+msgstr ""
+"Я не знаю, чому майор раптом почав так сміятися. Це мене дуже\n"
+"здивувало..."
+
+#. Key: END02_017
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: まあ確かに、あのキサラギ少佐が大笑いしていれば、
+#. JA:   そりゃ誰が見ても驚くと思いますよ。
+msgctxt "END02_017"
+msgid "Well, I have to say, anybody would be surprised to see Major Kisaragi laugh hard. "
+msgstr ""
+"Що ж, гадаю, будь-кого здивував би майор Кісараґі, який регоче на весь\n"
+"голос."
+
+#. Key: END02_018
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: 威圧感というか、何かに取り憑かれているかのような……。
+#. JA:   とても恐ろしいものを感じました。
+msgctxt "END02_018"
+msgid ""
+"There's something overwhelming about that laughter...as if he was haunted...\n"
+"I was horrified."
+msgstr ""
+"У його сміхові було щось гнітюче... наче ним щось заволоділо... Мені\n"
+"стало страшно."
+
+#. Key: END02_019
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: それに、笑いながら少佐は、例の「死神」の名前を何度も―――
+#. JA:   “ラグナ、ラグナ”と。
+msgctxt "END02_019"
+msgid ""
+"And, as he laughed, the major repeated the name of the Grim Reaper like a mantra...\n"
+"<DQ>Ragna, Ragna...<DQ>"
+msgstr ""
+"І, сміючись, майор раз у раз повторював ім'я того Жнеця... «Раґна,\n"
+"Раґна...»"
+
+#. Key: END02_020
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: そこで「ラグナ＝ザ＝ブラッドエッジ」ですか……。
+msgctxt "END02_020"
+msgid "...He's referring to Ragna the Bloodedge."
+msgstr "...Отже, йдеться про Раґну Бладеджа."
+
+#. Key: END02_021
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: いや、これは結構大事な情報ですよ、少尉。
+msgctxt "END02_021"
+msgid "This is important information, Lieutenant."
+msgstr "Це важлива інформація, лейтенанте."
+
+#. Key: END02_022
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: フゥム……。
+msgctxt "END02_022"
+msgid "Hmm..."
+msgstr "Гм..."
+
+#. Key: END02_023
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: やはりキサラギ少佐の単独行動の原因に
+#. JA:   「ラグナ＝ザ＝ブラッドエッジ」が絡んでいるのは
+#. JA:   間違いなさそうですね……。
+msgctxt "END02_023"
+msgid ""
+"As we expected, Ragna the Bloodedge is likely to be the reason for Major Kisaragi's\n"
+"solo behavior."
+msgstr ""
+"Як ми й гадали, самовільні дії майора Кісараґі, найімовірніше, пов'язані\n"
+"з Раґною Бладеджем."
+
+#. Key: END02_024
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: しかし、どうして……？
+#. JA:   結局、知りたいのはそこになってしまうんですよねェ。
+#. JA:   自分は第七機関辺りが絡んでると思ってましたが……。
+msgctxt "END02_024"
+msgid ""
+"But, why...? Hmm...it all boils down to that question, after all.\n"
+"We thought it had something to do with Sector Seven..."
+msgstr ""
+"Але чому...? Гм... Зрештою, усе зводиться саме до цього питання. Ми\n"
+"гадали, що тут якось замішаний Сектор Сім..."
+
+#. Key: END02_025
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+msgctxt "END02_025"
+msgid "..."
+msgstr "..."
+
+#. Key: END02_026
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: どうしました？
+msgctxt "END02_026"
+msgid "Is something the matter?"
+msgstr "Щось не так?"
+
+#. Key: END02_027
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: いえ、何でもありません。
+msgctxt "END02_027"
+msgid "No, it's nothing."
+msgstr "Ні, нічого."
+
+#. Key: END02_028
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: とりあえず、「ラグナ＝ザ＝ブラッドエッジ」を追えば
+#. JA:   少佐に辿り着きそうだ、と……。
+#. JA:   それならば統制機構支部に向かったほうが早そうですね。
+msgctxt "END02_028"
+msgid ""
+"Anyways, Ragna the Bloodedge might lead us to Major Kisaragi...\n"
+"We should probably head to headquarters now."
+msgstr ""
+"Отже, якщо піти слідом за Раґною Бладеджем, ми, схоже, вийдемо на\n"
+"майора... Тоді найшвидше буде вирушити до місцевого відділення\n"
+"Організації Контролю."
+
+#. Key: END02_029
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: え？　なぜですか？
+msgctxt "END02_029"
+msgid "Huh? Why?"
+msgstr "Га? Чому?"
+
+#. Key: END02_030
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: なぜって、少尉。今までのラグナの目的……、
+#. JA:   ターゲットは一つも違わず統制機構だったでしょう？
+msgctxt "END02_030"
+msgid "Why? Lieutenant, Ragna's targets have always been the NOL, haven't they?"
+msgstr ""
+"Чому? Лейтенанте, цілями Раґни завжди були установи Організації\n"
+"Контролю, хіба ні?"
+
+#. Key: END02_031
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: であれば、ラグナが向かうのはカグツチの統制機構支部、
+#. JA:   と考えるのが自然です。
+msgctxt "END02_031"
+msgid "It's only natural to think Ragna is headed for the NOL branch in Kagutsuchi."
+msgstr ""
+"Цілком природно припустити, що Раґна прямує до відділення Організації\n"
+"Контролю в Каґуцучі."
+
+#. Key: END02_032
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: ラグナを追っていると考えられる少佐も、
+#. JA:   おそらくはそう考えるでしょう。
+#. JA:   ならば少佐も必ず支部に向かうはずではないですか？
+msgctxt "END02_032"
+msgid ""
+"I'm sure that Major Kisaragi will figure out that's where Ragna will be.\n"
+"That'll naturally drive Major Kisaragi to the headquarters in Kagutsuchi as well."
+msgstr ""
+"Упевнений, майор Кісараґі дійде того самого висновку. А отже, він теж\n"
+"неодмінно попрямує до відділення в Каґуцучі."
+
+#. Key: END02_033
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: な、なるほど……。
+msgctxt "END02_033"
+msgid "I-I see..."
+msgstr "Р-розумію..."
+
+#. Key: END02_034
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: なるほど、ってあなた……。
+msgctxt "END02_034"
+msgid "I see?"
+msgstr "Розумієте?"
+
+#. Key: END02_035
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: まあ、念のためこの都市の調査はします。
+#. JA:   もしかしたら別に要因があるかもしれませんしね。
+msgctxt "END02_035"
+msgid ""
+"Well, I'll investigate this city as well, just in case.\n"
+"There might be another reason for Major Kisaragi's solo behavior."
+msgstr ""
+"Що ж, про всяк випадок я також досліджу це місто. У самовільних дій\n"
+"майора Кісараґі може бути й інша причина."
+
+#. Key: END02_036
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: ホント……頼みますよ、少尉。
+#. JA:   報告書はちゃんと読みましたか？
+msgctxt "END02_036"
+msgid ""
+"Seriously...please pull yourself together, Lieutenant.\n"
+"Have you finished reading the reports?"
+msgstr "Серйозно... зберіться вже, лейтенанте. Ви дочитали звіти?"
+
+#. Key: END02_037
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: あ、あの……。すみません……まだ、です……。
+msgctxt "END02_037"
+msgid "Ah, um... I'm sorry... I haven't...gotten around to it..."
+msgstr "Е-е... Перепрошую... Я ще... не встигла..."
+
+#. Key: END02_039
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: ハァ…。
+msgctxt "END02_039"
+msgid "*sigh*"
+msgstr "*зітхає*"
+
+#. Key: END02_040
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: まあ、アレを書いたの私なんですけどね……。
+msgctxt "END02_040"
+msgid "Well, I compiled all the reports already..."
+msgstr "А звіти ж, між іншим, складав я..."
+
+#. Key: END02_041
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: 少尉が状況を把握せずに任務に失敗して、
+#. JA:   その上に報告書作成者共々連帯責任なんて困りますよ。
+msgctxt "END02_041"
+msgid ""
+"...but I'd like to avoid failing the mission and being held responsible for that failure,\n"
+"only because you didn't completely grasp the situation. "
+msgstr ""
+"...і мені не хотілося б, щоб ви провалили завдання через нерозуміння\n"
+"ситуації, а відповідальність за це повісили б на мене."
+
+#. Key: END02_042
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: はい……すみません……。
+msgctxt "END02_042"
+msgid "I know... I apologize..."
+msgstr "Я розумію... Вибачте..."
+
+#. Key: END02_043
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: まあ、後で目を通しておいてくれればそれでいいです。
+msgctxt "END02_043"
+msgid "It's all right, but make sure to go through them later."
+msgstr "Нічого, просто обов'язково перегляньте їх пізніше."
+
+#. Key: END02_044
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: それより、もう朝ですねェ……。
+msgctxt "END02_044"
+msgid "Hmm...it's morning already..."
+msgstr "Гм... уже ранок..."
+
+#. Key: END02_045
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: あ、はい……。そうですね……。
+msgctxt "END02_045"
+msgid "Oh, yes... it is..."
+msgstr "А, так... справді..."
+
+#. Key: END02_046
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: ラグナが統制機構を襲撃するのはきまって夜なんですよ。
+#. JA:   日中の行動は一切確認されていません。
+msgctxt "END02_046"
+msgid ""
+"Ragna usually attacks the NOL at night. \n"
+"His actions during the day have never been confirmed. "
+msgstr "Раґна зазвичай атакує вночі. Удень його ще жодного разу не помічали."
+
+#. Key: END02_047
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: ですから、今の時間は支部で張り込むよりも、
+#. JA:   カグツチで情報収集をした方が有益だと思われます。
+msgctxt "END02_047"
+msgid ""
+"So I think it should be more effective to collect information in Kagutsuchi first, than\n"
+"staking out headquarters at this hour."
+msgstr ""
+"Тож гадаю, зараз корисніше спершу позбирати відомості в Каґуцучі, ніж\n"
+"сидіти в засідці біля відділення."
+
+#. Key: END02_048
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END02
+#. JA: お願いできますか、少尉？
+msgctxt "END02_048"
+msgid "Can you take care of it, Lieutenant?"
+msgstr "Зможете цим зайнятися, лейтенанте?"
+
+#. Key: END02_049
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END02
+#. JA: ……了解しました。
+msgctxt "END02_049"
+msgid "...I will."
+msgstr "...Так точно."
+
+#. Key: END03_002
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END03
+#. JA: どういうことだ―――？
+msgctxt "END03_002"
+msgid "What is this...?"
+msgstr "Що це означає...?"
+
+#. Key: END03_003
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END03
+#. JA: なぜ誰もいない。
+msgctxt "END03_003"
+msgid "Why is there no one around?"
+msgstr "Чому тут нікого немає?"
+
+#. Key: END03_004
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END03
+#. JA: 戦闘の形跡もない……。
+msgctxt "END03_004"
+msgid "There're no signs of any battles, either..."
+msgstr "І жодних слідів битви..."
+
+#. Key: END03_005
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END03
+#. JA: 兄さんでは……ない？　いや、そんな馬鹿な！　
+#. JA:   一体何が……何が起こっているんだ？
+msgctxt "END03_005"
+msgid ""
+"You're not...my brother...? No, that can't be!\n"
+"What the... What the hell is going on here?"
+msgstr ""
+"Це... не мій брат...? Ні, такого не може бути! Що... Що тут, у біса,\n"
+"відбувається?"
+
+#. Key: END04_003
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: 寄り道しねぇでとっとと支部に向かうか……。
+msgctxt "END04_003"
+msgid "I guess I'll just head straight over to the branch..."
+msgstr "Мабуть, піду одразу до відділення..."
+
+#. Key: END04_004
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: ったくどこの図書館も山の頂上にこぞって隠れやがってよ。
+#. JA:   メンドクセェったらねーぜ。
+msgctxt "END04_004"
+msgid ""
+"What's up with every single Library being hidden at the top of mountains?\n"
+"It's such a pain in the ass."
+msgstr "Якого біса всі ці Бібліотеки ховаються на вершинах гір? Довбана морока."
+
+#. Key: END04_005
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END04
+#. JA: 突如ラグナの視界がさえぎられた。甘い香りが漂う。
+#. JA:   軽いめまいが襲ってくる。
+msgctxt "END04_005"
+msgid ""
+"Suddenly, something blocks Ragna's view.\n"
+"A sickeningly sweet smell fills the air around him, and he feels dizzy."
+msgstr ""
+"Раптом щось затуляє Раґні очі. Повітря наповнюється нудотно-солодким\n"
+"ароматом, і в нього паморочиться голова."
+
+#. Key: END04_006
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+msgctxt "END04_006"
+msgid "...!?"
+msgstr "...!?"
+
+#. Key: END04_009
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: ちっ、めんどくせーやつに絡まれちまった。
+msgctxt "END04_009"
+msgid "Tch, I didn't want to run into her."
+msgstr "Тьху, тільки її мені бракувало."
+
+#. Key: END04_011
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: ……おい、ウサギ。何のマネだこりゃ。
+msgctxt "END04_011"
+msgid "...Hey, rabbit. What the hell are you trying to pull?"
+msgstr "...Гей, кролице. Якого біса ти витворяєш?"
+
+#. Key: END04_012
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: 私に対しての言葉遣いがなっていないわね。
+#. JA:   教育が必要かしら？
+msgctxt "END04_012"
+msgid ""
+"You would do well to watch your mouth, peasant. Must I educate you in proper\n"
+"conduct toward a lady?"
+msgstr ""
+"Стеж за язиком, простолюдине. Чи мені навчити тебе належного\n"
+"поводження з пані?"
+
+#. Key: END04_013
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: 馬鹿かお前？　意味分かって言ってんのかよ。
+#. JA:   分かって言ってんなら、間違ってもお前だけには
+#. JA:   言われたかねーセリフだな。
+msgctxt "END04_013"
+msgid ""
+"Are you stupid? Do you even know what you're saying? If you do understand the\n"
+"meaning of it, that's the last sentence I want to hear from you."
+msgstr ""
+"Ти що, дурепа? Сама розумієш, що кажеш? Якщо розумієш, то саме від\n"
+"тебе я найменше хочу це чути."
+
+#. Key: END04_014
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: あらそう。
+msgctxt "END04_014"
+msgid "Oh, is it?"
+msgstr "Невже?"
+
+#. Key: END04_016
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: っと、あぶねーな！　何すんだよこの馬鹿！！
+msgctxt "END04_016"
+msgid "Whoa, what the hell!? Watch out, you idiot!"
+msgstr "Гей, якого біса!? Обережніше, дурепо!"
+
+#. Key: END04_017
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: 反抗的な下僕に躾をしてあげようと思っただけよ。
+msgctxt "END04_017"
+msgid "Rebellious servants must be punished."
+msgstr "Неслухняних слуг належить карати."
+
+#. Key: END04_018
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: おい、いつ俺がお前の下僕になったんだよ！
+msgctxt "END04_018"
+msgid "Hey, since when am I your servant!?"
+msgstr "Гей, відколи це я твій слуга!?"
+
+#. Key: END04_019
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: この馬鹿……って、お前、目がマジだぞ……。
+msgctxt "END04_019"
+msgid ""
+"You idiot...\n"
+"Wait, you're not serious, are you...?"
+msgstr "От дурепа... Стривай, ти ж не серйозно...?"
+
+#. Key: END04_021
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: おい、馬鹿ウサ……レイチェル、何考えてやがる。
+#. JA:   今のは遊びってレベルじゃなかったぞ。
+msgctxt "END04_021"
+msgid "Hey, what are you up to, stupid rabb— Rachel? It wasn't exactly playful."
+msgstr ""
+"Гей, що ти задумала, дурна кроли... Рейчел? Це вже було зовсім не схоже\n"
+"на гру."
+
+#. Key: END04_022
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: 私は貴方をからかっただけよ。
+#. JA:   それとも―――もしかして貴方、本気だったの？
+msgctxt "END04_022"
+msgid "I was only having a little fun. Oh my... Don't tell me... Is that all? "
+msgstr ""
+"Я лише трохи тебе дражнила. Ох... Не кажи мені... Це все, на що ти\n"
+"здатен?"
+
+#. Key: END04_023
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: まさかね……そうだとしたらとっても残念―――つまらないわ。
+#. JA:   もう一回死んだら？
+msgctxt "END04_023"
+msgid ""
+"No, that's not possible. You wouldn't wish to disappoint me, would you?\n"
+"...This is dull. Why don't you die again? That should be interesting."
+msgstr ""
+"Ні, неможливо. Ти ж не хочеш мене розчарувати, правда? ...Як нудно.\n"
+"Може, помреш іще раз? Це було б цікаво."
+
+#. Key: END04_024
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: おい―――
+msgctxt "END04_024"
+msgid "Hey—"
+msgstr "Гей—"
+
+#. Key: END04_025
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: ……何？　言いいたいことがあるのなら、特別サービスで
+#. JA:   一言だけ発言を許可してあげるわ。
+msgctxt "END04_025"
+msgid ""
+"...What? Oh very well. I feel merciful today, so you may speak a few last words. My\n"
+"gift to you."
+msgstr ""
+"...Що? Гаразд. Сьогодні я милосердна, тож дозволю тобі сказати кілька\n"
+"останніх слів. Вважай це моїм дарунком."
+
+#. Key: END04_026
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: でも、“馬鹿”と“いい加減にしろ”は、もう聞き飽きたの。
+#. JA:   悪いけど他の言葉にして頂戴。
+msgctxt "END04_026"
+msgid ""
+"But no more <DQ>idiot<DQ> or <DQ>that's enough<DQ>... Those are quite played out.\n"
+"I require something better."
+msgstr ""
+"Але тільки не «дурепа» і не «досить з мене»... Це я вже чула. Вигадай\n"
+"щось краще."
+
+#. Key: END04_027
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+msgctxt "END04_027"
+msgid "..."
+msgstr "..."
+
+#. Key: END04_028
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: いつまでぼんやりとそこに立っているつもり？
+#. JA:   私、これからお茶の時間なの。目障りだから消えなさい。
+msgctxt "END04_028"
+msgid ""
+"How long do you intend to stand there?\n"
+"It is time for my tea, and I do not wish to look at you."
+msgstr ""
+"Скільки ти ще стовбичитимеш? Мені час пити чай. Ти муляєш мені очі,\n"
+"геть."
+
+#. Key: END04_029
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: それとも、貴方もお茶にする？
+#. JA:   まあ、貴方にお茶の味が理解できるとは
+#. JA:   到底思えないけれど。
+msgctxt "END04_029"
+msgid ""
+"Or perhaps you could care to share some tea with me?\n"
+"No, perhaps not. I doubt a...person...such as you could appreciate the beauty and\n"
+"nuance of tea."
+msgstr ""
+"Або, можливо, хочеш випити чаю зі мною? Хоча ні. Сумніваюся, що\n"
+"така... особа... як ти здатна оцінити красу й тонкощі чаювання."
+
+#. Key: END04_030
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: いらねーっての。俺は行くぞ。
+#. JA:   つーか、消えて欲しいならさっさとここから出せ、この馬鹿。
+msgctxt "END04_030"
+msgid ""
+"No, thanks. I'm taking off. \n"
+"That is, if you let me out of here, you idiot. "
+msgstr ""
+"Ні, дякую. Я пішов. Але спершу випусти мене звідси, якщо так хочеш,\n"
+"щоб я зник, дурепо."
+
+#. Key: END04_031
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: “馬鹿”っていうのが本当に好きなのね。
+#. JA:   戯れに数えておいてあげたわ……ギィ。
+msgctxt "END04_031"
+msgid ""
+"You do enjoy calling me an idiot, don't you?\n"
+"I've kept track. It amused me.\n"
+"...Gii."
+msgstr ""
+"Тобі справді подобається називати мене дурепою, чи не так? Я навіть\n"
+"рахувала — просто задля розваги. ...Ґі."
+
+#. Key: END04_032
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Gii
+#. Context: Ending sequence, segment END04
+#. JA: あいっス、今回は5回ッス！
+msgctxt "END04_032"
+msgid "Yup! He said it five times!"
+msgstr "Ага! Цього разу він сказав це п'ять разів!"
+
+#. Key: END04_033
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: あら、思ったより少なかったわね。
+msgctxt "END04_033"
+msgid "Oh my... Somewhat less than I thought..."
+msgstr "Ох... Менше, ніж я гадала..."
+
+#. Key: END04_034
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END04
+#. JA: おい、テメェ、いい加減にしろ、馬鹿にしやがって…
+msgctxt "END04_034"
+msgid "Hey, that's enough. Stop treating me like I'm a moron..."
+msgstr "Гей, досить уже. Припини виставляти мене ідіотом..."
+
+#. Key: END04_039
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END04
+#. JA: 馬鹿は貴方よ……。
+msgctxt "END04_039"
+msgid "Oh, but you are."
+msgstr "Але ж ти і є ідіот."
+
+#. Key: END05_003
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: クソッ。いきなり放り出しやがって、あの馬鹿ウサギ……。
+msgctxt "END05_003"
+msgid "Damn it. I can't believe that stupid rabbit threw me out like this..."
+msgstr "Чорт. Не віриться, що ця дурна кролиця просто викинула мене сюди..."
+
+#. Key: END05_004
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: って、おい！　敵の本陣じゃねーか！
+msgctxt "END05_004"
+msgid "...Wait! Isn't this the enemy base!?"
+msgstr "...Стривай! Це ж ворожа база!?"
+
+#. Key: END05_005
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ―――って、あれ？　誰もいねぇぞ？
+msgctxt "END05_005"
+msgid "...Huh? There's no one around."
+msgstr "...Га? Тут нікого немає."
+
+#. Key: END05_006
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ハァ……。
+msgctxt "END05_006"
+msgid "*sigh*"
+msgstr "*зітхає*"
+
+#. Key: END05_007
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ちっ、一体何がどうなってやがる。わけ分かんねぇ。
+msgctxt "END05_007"
+msgid "Tch. What the hell is going on here? I've got absolutely no clue."
+msgstr "Тьху. Що тут, у біса, коїться? Ні хріна не розумію."
+
+#. Key: END05_008
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 悪態をつきながら、注意深く辺りを見渡した。
+msgctxt "END05_008"
+msgid "Ragna swears to himself. Something about the place doesn't feel right..."
+msgstr "Лаючись собі під ніс, Раґна обережно оглядається. Щось тут не так..."
+
+#. Key: END05_009
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: だが正直、統制機構に人がいようがいまいが、
+#. JA:   ラグナにとってそれはあまり重要なことではなかった。
+msgctxt "END05_009"
+msgid ""
+"...But he really doesn't care if there's anyone there or not. He's not visiting\n"
+"the Library for its people. The Grim Reaper has something else in mind..."
+msgstr ""
+"...Утім, йому байдуже, є тут хтось чи ні. Він прийшов до Бібліотеки не\n"
+"заради людей. Жнець має іншу мету..."
+
+#. Key: END05_010
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 目的さえ果たせればそれでいい。それが全てである。
+#. JA:   ―――そう、一刻も早く。
+msgctxt "END05_010"
+msgid ""
+"All he cares about is accomplishing what he came to do, as soon as\n"
+"possible."
+msgstr ""
+"Єдине, що його турбує, — якнайшвидше завершити те, заради чого він\n"
+"прийшов."
+
+#. Key: END05_011
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 突き当りのドアの前に立つ。荘厳なつくりの扉だ。
+#. JA:   取っ手に手をかけるが、鍵がかかっている様子はなかった。
+#. JA:   取っ手を静かに回し、重厚な扉を力いっぱい押す。
+msgctxt "END05_011"
+msgid ""
+"He stands before a huge set of doors.\n"
+"He tries the handle... They don't seem to be locked. He grits his teeth, grabs\n"
+"the handle, and throws open the massive doors."
+msgstr ""
+"Він зупиняється перед величезними дверима. Торкається ручки... Не\n"
+"замкнено. Стиснувши зуби, Раґна хапається за неї й навстіж відчиняє\n"
+"масивні двері."
+
+#. Key: END05_014
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 開け放った瞬間、中からまばゆい光がこぼれた。
+#. JA:   溢れ出た光に目を奪われ、ラグナは一瞬目が眩んでしまった。
+msgctxt "END05_014"
+msgid ""
+"Bright light streams out from the room behind the doors.\n"
+"Ragna throws up his arms to shield his eyes and squints into the room."
+msgstr ""
+"З-за дверей ллється сліпуче світло. Раґна прикриває очі рукою й\n"
+"примружено вдивляється в кімнату."
+
+#. Key: END05_015
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 先は大きく開けた空間のようであった。
+#. JA:   音はない。不気味なほどに静まり返っている。
+#. JA:   しかし、かすかな人の気配をラグナは敏感に察知していた。
+msgctxt "END05_015"
+msgid ""
+"The room is huge and empty.\n"
+"The silence is deafening."
+msgstr "Приміщення величезне й порожнє. Стоїть оглушлива тиша."
+
+#. Key: END05_016
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: （誰だ…？　誰かいやがる……！！）
+msgctxt "END05_016"
+msgid "(Someone's there... Who's that...!?)"
+msgstr "(Там хтось є... Хто це...!?)"
+
+#. Key: END05_017
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 照明が逆光になり、顔が見えづらい。
+msgctxt "END05_017"
+msgid "The light is too bright... He can't see their face..."
+msgstr "Світло надто яскраве... Обличчя не розгледіти..."
+
+#. Key: END05_018
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 男なのか、女なのかさえも、よく分からない。
+#. JA:   ラグナは目を細めた。
+msgctxt "END05_018"
+msgid "He can't even tell if the person is male or female..."
+msgstr "Не можна зрозуміти навіть того, чоловік це чи жінка..."
+
+#. Key: END05_020
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: （図書館員か―――？）
+msgctxt "END05_020"
+msgid "(An officer from the Library—)"
+msgstr "(Офіцер Бібліотеки—)"
+
+#. Key: END05_022
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: っ!?
+msgctxt "END05_022"
+msgid "!?"
+msgstr "!?"
+
+#. Key: END05_023
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 顔を認識した刹那――恐らく百分の一秒程度の反応速度で、
+#. JA:   ラグナは前に踏み込んでいた。永遠に続くかのように感じられる
+#. JA:   その一瞬に、遥か過去の記憶が呼び覚まされる。
+msgctxt "END05_023"
+msgid ""
+"Ragna's eyes adjust to the light, and the mysterious figure's face comes into\n"
+"focus. He recognizes it immediately. He snarls and lunges at the figure.\n"
+"Memories come flooding back."
+msgstr ""
+"Очі Раґни звикають до світла, й обличчя загадкової постаті стає чітким.\n"
+"Він миттю його впізнає. З гарчанням кидається вперед, а в пам'яті\n"
+"спалахують давні події."
+
+#. Key: END05_024
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ジン！！！！！！！！！
+msgctxt "END05_024"
+msgid "Jin!"
+msgstr "Джіне!"
+
+#. Key: END05_028
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 鍔迫り合いの格好となり、交差する二対の剣。
+#. JA:   その隙間からお互いの顔が覗き、視線が交錯する。
+msgctxt "END05_028"
+msgid ""
+"Their swords locked. A true stalemate.\n"
+"From in between the gap, they catch a glimpse of each other's faces."
+msgstr ""
+"Їхні клинки зчепилися. Сили рівні. Крізь перехрещені мечі вони\n"
+"дивляться один одному в очі."
+
+#. Key: END05_029
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 炎のごとく熱気を帯びた表情のラグナ。
+#. JA:   氷のような冷たい微笑を浮かべるジン。
+#. JA:   朱と蒼―――対称的な二人の共演。
+msgctxt "END05_029"
+msgid ""
+"Ragna's face, distorted with rage.\n"
+"Jin's face, as cold as steel.\n"
+"Red versus blue."
+msgstr ""
+"Обличчя Раґни спотворене люттю. Обличчя Джіна холодне, наче крига.\n"
+"Червоний проти синього."
+
+#. Key: END05_030
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 待ちくたびれたよ。
+msgctxt "END05_030"
+msgid "I was getting very tired of waiting..."
+msgstr "Я вже втомився чекати..."
+
+#. Key: END05_031
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 久しぶりだね……兄さん。
+msgctxt "END05_031"
+msgid "Long time no see... Ragna..."
+msgstr "Давно не бачилися... братику..."
+
+#. Key: END05_032
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 瞬間、ラグナの脳裏を真っ赤な世界が蹂躙した。
+msgctxt "END05_032"
+msgid "Ragna's mind is filled with flames... He sees the past..."
+msgstr "Свідомість Раґни охоплює полум'я... Він бачить минуле..."
+
+#. Key: END05_033
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END05
+#. JA: 幼いころの記憶。
+#. JA:   真っ赤に燃え上がるあの情景が！
+msgctxt "END05_033"
+msgid "Memories of the past...a room...filled with fire..."
+msgstr "Спогади дитинства... Все у вогні..."
+
+#. Key: END05_034
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ジン！！　テメェ！
+msgctxt "END05_034"
+msgid "Jin! You bastard!"
+msgstr "Джіне! Ах ти ж покидьок!"
+
+#. Key: END05_035
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 何を怒ってるんだい？　せっかく会えたのにさ……。
+msgctxt "END05_035"
+msgid ""
+"Why so angry...?\n"
+"We're finally able to meet again..."
+msgstr "Чого ти сердишся...? Ми ж нарешті знову зустрілися..."
+
+#. Key: END05_036
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: テメェ、ふざけんじゃねぇぞ！
+msgctxt "END05_036"
+msgid "Cut the crap, bastard!"
+msgstr "Закрий писка, виродку!"
+
+#. Key: END05_037
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: まさか兄さんが「ラグナ＝ザ＝ブラッドエッジ」だったなんてね。
+msgctxt "END05_037"
+msgid "Who would've thought that you... Were Ragna the Bloodedge..."
+msgstr "Хто б міг подумати, що ти... і є Раґна Бладедж..."
+
+#. Key: END05_038
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: なっ!?
+msgctxt "END05_038"
+msgid "!?"
+msgstr "!?"
+
+#. Key: END05_040
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 兄さんが世界最高額の賞金首だなんて、すごいね。
+msgctxt "END05_040"
+msgid "I'm impressed... You have the highest bounty known to man..."
+msgstr "Я вражений... За твою голову призначено найвищу нагороду у світі..."
+
+#. Key: END05_041
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 今じゃ誰もが「ラグナ＝ザ＝ブラッドエッジ」を狙ってる……。
+msgctxt "END05_041"
+msgid "Everyone's after this <DQ>Ragna the Bloodedge<DQ>..."
+msgstr "Тепер усі полюють на цього «Раґну Бладеджа»..."
+
+#. Key: END05_042
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: テメェにゃ関係ねーだろうが！！
+msgctxt "END05_042"
+msgid "Mind your own business!"
+msgstr "Не твоя справа!"
+
+#. Key: END05_044
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: （なんだ―――？　今の違和感は……！）
+msgctxt "END05_044"
+msgid "(What is this strange sensation...!?)"
+msgstr "(Що це за дивне відчуття...!?)"
+
+#. Key: END05_045
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 関係ないことはないだろう？
+#. JA:   ほら、僕は統制機構の衛士だし！
+msgctxt "END05_045"
+msgid "But you see, it -is- my business. You know I'm with the NOL..."
+msgstr "Але ж це моя справа. Ти знаєш, що я служу в Організації Контролю..."
+
+#. Key: END05_046
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 統制機構の敵は僕の敵……。
+#. JA:   ハハッ、なんてね、嘘。
+msgctxt "END05_046"
+msgid "An enemy of the NOL is an enemy of my own... Haha, just kidding."
+msgstr "Ворог Організації Контролю — мій ворог... Ха-ха, та я жартую."
+
+#. Key: END05_047
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: そんなこと、一度も思ったことないよ。
+#. JA:   ハハハハッ……。
+msgctxt "END05_047"
+msgid "I've never thought like that... Hahahaha."
+msgstr "Я ніколи так не думав... Ха-ха-ха."
+
+#. Key: END05_048
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ……んだ？
+msgctxt "END05_048"
+msgid "...Yeah?"
+msgstr "...Що?"
+
+#. Key: END05_049
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: 随分楽しそうじゃねぇか！
+msgctxt "END05_049"
+msgid "You sound like you're having too much fun!"
+msgstr "А тобі, бачу, аж надто весело!"
+
+#. Key: END05_050
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: アハハハハッ！　あれ、兄さんは楽しくないの？
+msgctxt "END05_050"
+msgid ""
+"Ahahaha...\n"
+"Oh...and you're not, Brother?"
+msgstr "А-ха-ха-ха... А тобі хіба ні, братику?"
+
+#. Key: END05_051
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: 楽しいわけねーだろ、この馬鹿がっ！
+msgctxt "END05_051"
+msgid "Oh, yeah I am. Thanks to you, idiot!"
+msgstr "Аякже. Завдяки тобі, ідіоте!"
+
+#. Key: END05_052
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 久しぶりに会えたっていうのに、冷たいな。
+msgctxt "END05_052"
+msgid "Why do you have to be so cold, to me... Brother...?"
+msgstr "Чому ти такий холодний зі мною... братику...?"
+
+#. Key: END05_053
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: ハハハハッ！
+#. JA:   ほら、もっと楽しもうよ。あの時みたいにさ。クククッ……。
+msgctxt "END05_053"
+msgid "Hahahaha... Let's have fun like we used to...hahaha..."
+msgstr "Ха-ха-ха... Розважмося, як колись... ха-ха..."
+
+#. Key: END05_054
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+msgctxt "END05_054"
+msgid "..."
+msgstr "..."
+
+#. Key: END05_055
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: クッ、アハハハッ！　兄さん、どうしたの？
+msgctxt "END05_055"
+msgid "What's the matter, Brother?"
+msgstr "Що таке, братику?"
+
+#. Key: END05_056
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ……邪魔だ、どけ。
+msgctxt "END05_056"
+msgid "...You're in my way. Get out of my sight."
+msgstr "...Ти стоїш у мене на шляху. Забирайся геть."
+
+#. Key: END05_057
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 酷いなぁ、兄さん……そんなに僕が邪魔なの？
+msgctxt "END05_057"
+msgid "That hurts, Brother... Am I really getting in your way...?"
+msgstr "Як боляче, братику... Невже я справді тобі заважаю...?"
+
+#. Key: END05_058
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: 二度は言わねぇぞ、ジン。
+msgctxt "END05_058"
+msgid "Don't make me say it again, Jin."
+msgstr "Я не повторюватиму, Джіне."
+
+#. Key: END05_059
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: そうなんだ……。
+#. JA:   やっぱり兄さんは…僕が邪魔なんだ……。
+#. JA:   ハハ…なら、僕たちはやっぱり―――
+msgctxt "END05_059"
+msgid ""
+"So, it's true... I'm a nuisance to you...\n"
+"Then, I guess we are, after all—"
+msgstr "Отже, це правда... Я тобі заважаю... Тоді, гадаю, ми все-таки—"
+
+#. Key: END05_060
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: そう……じゃあ、黒き者は……殺すしかないね。
+msgctxt "END05_060"
+msgid ""
+"I see...\n"
+"I guess... I'll have to kill you..."
+msgstr "Розумію... Тоді чорного... доведеться вбити..."
+
+#. Key: END05_063
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ……テメェには聞きたい事が山ほどある。
+msgctxt "END05_063"
+msgid "I have tons of questions that I need to ask you..."
+msgstr "У мене до тебе до біса багато запитань..."
+
+#. Key: END05_064
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: だからトドメはささねえ。
+msgctxt "END05_064"
+msgid "...so I won't finish you off. "
+msgstr "...тому добивати тебе не буду."
+
+#. Key: END05_065
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: そこで寝てろ。
+msgctxt "END05_065"
+msgid "Just lie right there."
+msgstr "Лежи тут і не рипайся."
+
+#. Key: END05_066
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: グッ……ククク、アハハハ……。
+msgctxt "END05_066"
+msgid "Ugh... Hehehe... Hahahaha..."
+msgstr "Кх... Хе-хе... Ха-ха-ха..."
+
+#. Key: END05_067
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Jin
+#. Context: Ending sequence, segment END05
+#. JA: 兄さんは、兄さんは、僕が……。
+msgctxt "END05_067"
+msgid "Brother... Brother...! I'm the one...! K'hahahahaha..."
+msgstr "Братику... Братику... Саме я...! Кха-ха-ха-ха..."
+
+#. Key: END05_069
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: ハァ……ハァ……くっ！
+msgctxt "END05_069"
+msgid "*pant* *pant* Ugh...!"
+msgstr "*важко дихає* Кх...!"
+
+#. Key: END05_070
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END05
+#. JA: なんだ、クソッ、めまいが収まらねぇ……。
+msgctxt "END05_070"
+msgid ""
+"What the hell is happening to me?\n"
+"What's this crazy vertigo...?"
+msgstr "Що зі мною, в біса, відбувається? Чому в голові так крутиться...?"
+
+#. Key: END06_002
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: キサラギ少佐！！
+msgctxt "END06_002"
+msgid "Major Kisaragi!"
+msgstr "Майоре Кісараґі!"
+
+#. Key: END06_003
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: 大丈夫ですか!?
+msgctxt "END06_003"
+msgid "Are you all right!?"
+msgstr "Ви мене чуєте!?"
+
+#. Key: END06_004
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: 少佐、少佐！！
+msgctxt "END06_004"
+msgid "Major! Major!"
+msgstr "Майоре! Майоре!"
+
+#. Key: END06_005
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: ……気を失ってる。それに怪我も……。
+msgctxt "END06_005"
+msgid "...He's unconscious. He seems to be injured, too..."
+msgstr "...Він непритомний. І, схоже, поранений..."
+
+#. Key: END06_006
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: まさか、「ラグナ＝ザ＝ブラッドエッジ」がもうここに？
+msgctxt "END06_006"
+msgid "Could this have been done by Ragna the Bloodedge?"
+msgstr "Невже це зробив Раґна Бладедж?"
+
+#. Key: END06_007
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: いやぁ、ちょうどよかったですね。
+#. JA:   任務完了ということで。
+msgctxt "END06_007"
+msgid ""
+"Oh, good, the timing couldn't be more perfect.\n"
+"It's safe to say that the mission is complete."
+msgstr ""
+"О, чудово, ми прибули якраз вчасно. Можна вважати завдання\n"
+"виконаним."
+
+#. Key: END06_008
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: ちょうどよかったって、ハザマさん。
+#. JA:   もう少し到着が早ければ少佐は……。
+msgctxt "END06_008"
+msgid ""
+"<DQ>The timing couldn't be more perfect<DQ>? If we were a little late, Hazama, Major\n"
+"Kisaragi would've been—"
+msgstr ""
+"«Якраз вчасно»? Якби ми прибули трохи раніше, пане Хазамо, майор\n"
+"Кісараґі не—"
+
+#. Key: END06_009
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: え、少尉さん。まさかそれを本気で？
+#. JA:   貴方が暴走したキサラギ少佐を止められると？
+#. JA:   多分二人がかりでも勝てないと思いますよ。
+msgctxt "END06_009"
+msgid ""
+"Uh, you seriously think so, Lieutenant? Do you think you can stop Major Kisaragi\n"
+"after he goes out of control? I don't think it's possible for even two people. "
+msgstr ""
+"Ви справді так думаєте, лейтенанте? Гадаєте, змогли б зупинити майора\n"
+"Кісараґі, коли він утратив контроль? Сумніваюся, що це вдалося б\n"
+"навіть нам удвох."
+
+#. Key: END06_010
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: それに、その少佐でも勝てなかった何か―――
+#. JA:   おそらく「ラグナ＝ザ＝ブラッドエッジ」が
+#. JA:   ここにいたのなら尚更ですね。
+msgctxt "END06_010"
+msgid ""
+"Even more so if it's something that even the major couldn't defeat...\n"
+"Ragna the Bloodedge was probably here. "
+msgstr ""
+"Тим паче, якщо тут був той, кого не зміг перемогти навіть майор...\n"
+"Найімовірніше, Раґна Бладедж."
+
+#. Key: END06_011
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: そんな……でも！
+msgctxt "END06_011"
+msgid ""
+"That—\n"
+"But—"
+msgstr "Але— Це ж—"
+
+#. Key: END06_012
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: 僕の任務はキサラギ少佐の拘束であって、
+#. JA:   「ラグナ＝ザ＝ブラッドエッジ」ではありませんからね。
+msgctxt "END06_012"
+msgid "My duty is to restrain Major Kisaragi, and not Ragna the Bloodedge."
+msgstr "Моє завдання — затримати майора Кісараґі, а не Раґну Бладеджа."
+
+#. Key: END06_013
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: この状況は非常に好都合と言えるでしょう。
+msgctxt "END06_013"
+msgid "I have to say this situation is quite convenient."
+msgstr "Мушу визнати, ця ситуація для нас дуже зручна."
+
+#. Key: END06_014
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+msgctxt "END06_014"
+msgid "..."
+msgstr "..."
+
+#. Key: END06_015
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: どうしました？　ノエル＝ヴァーミリオン少尉。
+msgctxt "END06_015"
+msgid "What's the matter, Lieutenant Vermillion?"
+msgstr "Щось не так, лейтенанте Вермільйон?"
+
+#. Key: END06_016
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: ハザマさん、少佐をお願いします。
+#. JA:   私は、奥に向かったと思われるラグナを追います。
+#. JA:   私のもう一つの任務はラグナの拘束ですから。
+msgctxt "END06_016"
+msgid ""
+"Hazama, please continue attending the major.\n"
+"I'll go after Ragna, whom I believe went inside.\n"
+"Another duty of mine is to restrain Ragna."
+msgstr ""
+"Пане Хазамо, подбайте про майора. Я піду за Раґною — думаю, він\n"
+"рушив углиб. Ще одне моє завдання — затримати його."
+
+#. Key: END06_017
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: あれ、そうなんですか？
+#. JA:   まぁ、任務なら仕方ありませんね。
+msgctxt "END06_017"
+msgid "Oh, really? I guess you have no other choice then. "
+msgstr "О, невже? Якщо це наказ, тоді вам справді нічого не лишається."
+
+#. Key: END06_018
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: では、よろしくお願いします。
+msgctxt "END06_018"
+msgid "All right. I'll see you later."
+msgstr "Гаразд. Побачимося пізніше."
+
+#. Key: END06_020
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: （事態に気が動転してたから気づかなかったけど……）
+msgctxt "END06_020"
+msgid "I didn't realize this before since I was panicking..."
+msgstr "Я не помітила цього раніше, бо запанікувала..."
+
+#. Key: END06_021
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: （支部に着いてからここに来るまで、誰の姿もなかった。
+#. JA:   　統制機構の支部が無人だなんて聞いたことがない）
+msgctxt "END06_021"
+msgid ""
+"...but I haven't seen anybody since I got here. I've never seen a deserted department\n"
+"in the NOL before."
+msgstr ""
+"...але відколи я сюди прибула, не бачила жодної людини. Я ніколи не\n"
+"чула, щоб відділення Організації Контролю стояло цілком порожнім."
+
+#. Key: END06_022
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: （ハザマさんならきっと気づいているはずなのに、
+#. JA:   　なぜ……？）
+msgctxt "END06_022"
+msgid ""
+"There's no way someone of Hazama's caliber would have missed that...\n"
+"But why...?"
+msgstr ""
+"Такий досвідчений офіцер, як Хазама, не міг цього не помітити... Але\n"
+"чому...?"
+
+#. Key: END06_023
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: （この状態でラグナを放っておけば、
+#. JA:   　さらに深刻な事態を招くはず）
+msgctxt "END06_023"
+msgid "If we leave Ragna roaming around like this, the situation will become worse."
+msgstr "Якщо дозволити Раґні й далі вільно тут ходити, усе стане лише гірше."
+
+#. Key: END06_024
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: （なぜ、なぜあんなことを……）
+msgctxt "END06_024"
+msgid "Why...Why did he say such a thing...?"
+msgstr "Чому... Чому він таке сказав...?"
+
+#. Key: END06_025
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: あの人―――。
+msgctxt "END06_025"
+msgid "That man..."
+msgstr "Цей чоловік..."
+
+#. Key: END06_026
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END06
+#. JA: ノエルは、ラグナが通っていったであろう道をたどった。
+msgctxt "END06_026"
+msgid "Noel follows Ragna's tracks..."
+msgstr "Ноель іде слідами Раґни..."
+
+#. Key: END06_027
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END06
+#. JA: やがて地下へと続く巨大な縦穴に突き当たる。
+msgctxt "END06_027"
+msgid "Eventually she finds herself in the giant chasm that leads to the basement..."
+msgstr "Зрештою вона виходить до величезної шахти, що веде під землю..."
+
+#. Key: END06_028
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END06
+#. JA: 傍には操作パネルがあり、
+#. JA:   明滅するランプが、すでにエレベーターが
+#. JA:   下へ向かって稼動したことを示していた。
+msgctxt "END06_028"
+msgid ""
+"The elevator control panel nearby indicates someone has already used the\n"
+"elevator to descend."
+msgstr ""
+"Панель керування неподалік показує, що хтось уже скористався ліфтом і\n"
+"спускається вниз."
+
+#. Key: END06_029
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: エレベーター？　なんでここにこんなものが……。
+msgctxt "END06_029"
+msgid "An elevator? Why is something like this here...?"
+msgstr "Ліфт? Чому тут узагалі є щось таке...?"
+
+#. Key: END06_030
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END06
+#. JA: 下に向かって動いてるみたい……。ラグナ？
+msgctxt "END06_030"
+msgid "It seems to be going down... Ragna?"
+msgstr "Схоже, він рухається вниз... Раґна?"
+
+#. Key: END06_032
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: クククッ、頑張ってますねノエル嬢。
+msgctxt "END06_032"
+msgid "Hehehe...you seem to be working hard, Miss Noel."
+msgstr "Хе-хе-хе... стараєтеся, пані Ноель."
+
+#. Key: END06_033
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: まあ―――
+msgctxt "END06_033"
+msgid "Well..."
+msgstr "Що ж..."
+
+#. Key: END06_035
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END06
+#. JA: もっと頑張ってもらわないと俺が困るんだけどね。
+msgctxt "END06_035"
+msgid "I'll be in trouble if you don't try harder."
+msgstr "Якщо не старатимешся ще більше, у мене виникнуть проблеми."
+
+#. Key: END06_037
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END06
+#. JA: エレベータは鈍い音を奏でながら、ラグナをカグツチの内部の深部へと誘っていく。音の響きからして、相当な深さのようだ。
+msgctxt "END06_037"
+msgid "He climbs into the elevator. With a roar, it begins to move down."
+msgstr ""
+"Раґна заходить до ліфта. З низьким гуркотом той починає спускатися в\n"
+"глибини Каґуцучі."
+
+#. Key: END06_038
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END06
+#. JA: ややあって、低い音と共にエレベーターは停止した。
+#. JA:   どうやら最下層に到達したようだ。
+msgctxt "END06_038"
+msgid ""
+"After what seems like an eternity, it finally grinds to a halt...\n"
+"This must be as far as it goes."
+msgstr ""
+"Після, здавалося б, цілої вічності ліфт нарешті зі скреготом\n"
+"зупиняється... Схоже, нижче він не їде."
+
+#. Key: END06_039
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END06
+#. JA: 今までの支部でもこれと似たようなエレベーターが存在したが、
+#. JA:   これほど長い時間乗り続けたのはラグナにとっても初めてのことだった。どれほどの深度なのだろうか。
+msgctxt "END06_039"
+msgid ""
+"Other branches have had elevators like this one, but none of them had\n"
+"any that took so long to reach the bottom. Ragna can't help wondering\n"
+"just how deep underground he actually is."
+msgstr ""
+"В інших відділеннях теж були подібні ліфти, але жоден не спускався так\n"
+"довго. Раґна мимоволі замислюється, наскільки ж глибоко під землею\n"
+"він опинився."
+
+#. Key: END06_041
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END06
+#. JA: どんだけ降りるんだよって思ったが、
+#. JA:   なんとか着いたみてぇだな。
+msgctxt "END06_041"
+msgid "Just when I thought it was taking too long, it finally stopped."
+msgstr ""
+"Я вже думав, що ця бляшанка ніколи не зупиниться. Але, схоже,\n"
+"приїхали."
+
+#. Key: END06_042
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END06
+#. JA: エレベーターの扉が開く。
+msgctxt "END06_042"
+msgid "The elevator doors open."
+msgstr "Двері ліфта відчиняються."
+
+#. Key: END06_043
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END06
+#. JA: そこには、見慣れた光景が広がっていた。
+msgctxt "END06_043"
+msgid "Laid out before him is a tableau he's seen many times before."
+msgstr "Перед ним постає вже не раз бачена картина."
+
+#. Key: END06_044
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END06
+#. JA: さすがにここは似たような感じになってるのか。
+msgctxt "END06_044"
+msgid "So I guess this place does kinda look like that."
+msgstr "Ну, принаймні тут усе виглядає знайомо."
+
+#. Key: END06_045
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END06
+#. JA: さてと―――
+msgctxt "END06_045"
+msgid "Now then—"
+msgstr "Ну що ж—"
+
+#. Key: END07_001
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+msgctxt "END07_001"
+msgid "Now then..."
+msgstr "Ну що ж..."
+
+#. Key: END07_003
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 来たか、黒き者よ……。
+msgctxt "END07_003"
+msgid "So you have arrived, Dark One..."
+msgstr "Отже, ти прийшов, Чорний..."
+
+#. Key: END07_004
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: なっ！
+msgctxt "END07_004"
+msgid "Wha!?"
+msgstr "Що!?"
+
+#. Key: END07_005
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 目の前に立つ者を見た瞬間、ラグナの手足は凍りついた。
+#. JA:   喉の奥が焼けたように熱い。
+#. JA:   金縛りにあったかのように、身動きが取れない。
+msgctxt "END07_005"
+msgid ""
+"The moment Ragna sees him, he freezes.\n"
+"Not out of fear, but almost as if he's been hypnotized...\n"
+"No matter how hard he tries to move, Ragna can't lift so much as a finger."
+msgstr ""
+"Щойно Раґна його бачить, то застигає. Не від страху — радше так, наче\n"
+"його загіпнотизували... Хай як він силкується, не може поворухнути й\n"
+"пальцем."
+
+#. Key: END07_006
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: うっ……あっ……。
+msgctxt "END07_006"
+msgid "Ugh...argh..."
+msgstr "Кх... ах..."
+
+#. Key: END07_007
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 嗚咽にも似た声が自然と漏れた。
+#. JA:   本能が今すぐここから逃げ出せと叫んでいる。
+#. JA:   しかし、その内なる声を頭を振って追い払う。
+msgctxt "END07_007"
+msgid ""
+"Ragna grunts in pain. Every fiber of his body wants to get out of that room\n"
+"as fast as possible, but no matter how much he struggles, his body refuses \n"
+"to respond."
+msgstr ""
+"Раґна стогне від болю. Кожна клітина його тіла волає негайно тікати,\n"
+"але, хай як він пручається, тіло не слухається."
+
+#. Key: END07_008
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 目の前に立つその男を、ラグナはただ見つめていた。
+msgctxt "END07_008"
+msgid "All he can do is stand there and stare at the man before him."
+msgstr "Він може лише стояти й дивитися на чоловіка перед собою."
+
+#. Key: END07_009
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 顔は白い面に覆われているにも関わらず、
+#. JA:   その“眼”はラグナをしっかりと捉えていた。
+#. JA:   射抜かれるような視線。
+msgctxt "END07_009"
+msgid ""
+"His face is a mask, and Ragna can't see any eyes to speak of, but\n"
+"he can't shake the feeling that the creature is staring straight at him.\n"
+"...As if it can see straight through him."
+msgstr ""
+"Обличчя того приховане маскою, очей зовсім не видно, але Раґну не\n"
+"полишає відчуття, що істота дивиться просто на нього. ...Наче бачить\n"
+"його наскрізь."
+
+#. Key: END07_010
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 瞬きすらできぬまま、ラグナはその視線を受け止めていた。
+msgctxt "END07_010"
+msgid "Ragna can't blink... The mask..."
+msgstr "Раґна не може навіть кліпнути... Ця маска..."
+
+#. Key: END07_011
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 恐怖が足下から駆け上ってくる。
+#. JA:   それ程に、目の前の男は危険な存在だった。
+msgctxt "END07_011"
+msgid ""
+"Fear rolls over him in waves...\n"
+"The thing standing before him is dangerous...\n"
+"Far more dangerous than any other foe Ragna has faced."
+msgstr ""
+"Його накривають хвилі страху... Істота перед ним небезпечна... Набагато\n"
+"небезпечніша за всіх ворогів, яких Раґна зустрічав досі."
+
+#. Key: END07_012
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: ラグナの本能が、それを感じていた。
+#. JA:   それでもどうにか、無理やり声を絞り出す。
+msgctxt "END07_012"
+msgid "Finally, he manages to force words from his dry throat..."
+msgstr "Нарешті йому вдається вичавити слова з пересохлого горла..."
+
+#. Key: END07_013
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: テメェ……なに者だ……。
+msgctxt "END07_013"
+msgid "Bastard...who are you...?"
+msgstr "Ти... хто ти, в біса, такий?"
+
+#. Key: END07_014
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 貴様を滅ぼす者だ……黒き者よ。
+msgctxt "END07_014"
+msgid "I am the end of you."
+msgstr "Той, хто знищить тебе, Чорний."
+
+#. Key: END07_015
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: ラグナは獣兵衛の言葉を思い出していた。
+msgctxt "END07_015"
+msgid "Jubei's words echo through Ragna's head..."
+msgstr "У голові Раґни відлунюють слова Джубея..."
+
+#. Key: END07_016
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: “会えば分かる”
+#. JA:   “分からなくても分かるはずだ……”
+#. JA:   かつての師の言葉を脳裏で反芻する。
+msgctxt "END07_016"
+msgid "<DQ>Don't need to. You'll understand when ya meet him.<DQ>"
+msgstr "«Немає потреби. Зустрінеш його — усе зрозумієш.»"
+
+#. Key: END07_017
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 最悪だぜ……。
+msgctxt "END07_017"
+msgid "This can't get any worse..."
+msgstr "Гірше вже й бути не могло..."
+
+#. Key: END07_018
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: ……どうした？
+msgctxt "END07_018"
+msgid "...Is something the matter?"
+msgstr "...Щось не так?"
+
+#. Key: END07_019
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 震えているように見えるぞ、「ラグナ＝ザ＝ブラッドエッジ」。
+msgctxt "END07_019"
+msgid "You seem to be shaking, Ragna the Bloodedge."
+msgstr "Ти тремтиш, Раґно Бладедж."
+
+#. Key: END07_020
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 貴様は世界最強では無いのか？
+msgctxt "END07_020"
+msgid "Is this pitiful child truly the most powerful this world has to offer?"
+msgstr "Невже це жалюгідне дитя — найсильніший воїн цього світу?"
+
+#. Key: END07_021
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 低い声を出しながら、男は身の丈程の長さを持つ大刀を引き抜いた。
+msgctxt "END07_021"
+msgid ""
+"His voice echoes across the room as he unsheathes a sword as tall as\n"
+"he is."
+msgstr ""
+"Його голос відлунює кімнатою, поки він оголює меч завбільшки з нього\n"
+"самого."
+
+#. Key: END07_022
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 長刀は白刃の煌めきを優雅にまとい、冷たく輝く。
+#. JA:   ラグナは背筋が凍りつくのを感じた。
+msgctxt "END07_022"
+msgid ""
+"The sword is a brilliant silver, and it shines with a cool, hard light...\n"
+"Ragna feels a drop of cold sweat trickle down his spine."
+msgstr ""
+"Срібне лезо сяє холодним, жорстким світлом... Раґна відчуває, як спиною\n"
+"стікає крапля холодного поту."
+
+#. Key: END07_023
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 全身が目の前の現象全てを完全に拒絶している。
+#. JA:   恐怖が精神を覆い尽くしていく。
+msgctxt "END07_023"
+msgid ""
+"He understands what's about to happen all too well.\n"
+"It terrifies him."
+msgstr "Він надто добре розуміє, що зараз станеться. І це жахає його."
+
+#. Key: END07_024
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 黒の焦点にして諸悪の元凶……。
+#. JA:   貴様を屠り、そして……、
+msgctxt "END07_024"
+msgid ""
+"The darkness that infects our world springs from you, a font of evil...\n"
+"I shall staunch that flow..."
+msgstr ""
+"Ти — осередок чорноти й джерело всього зла цього світу... Я знищу\n"
+"тебе..."
+
+#. Key: END07_025
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 全てを終わらせる！
+msgctxt "END07_025"
+msgid "...and put an end to you!"
+msgstr "...і покладу всьому край!"
+
+#. Key: END07_026
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: クッ……。
+msgctxt "END07_026"
+msgid "Guh..."
+msgstr "Кх..."
+
+#. Key: END07_027
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: ラグナは気力を振り絞り、懸命に体を動かそうと命令する。
+msgctxt "END07_027"
+msgid "Ragna strains to move his body, drawing out all the energy he has left..."
+msgstr ""
+"Раґна збирає залишки своєї сили волі й відчайдушно наказує своєму тілу\n"
+"рухатися."
+
+#. Key: END07_028
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 手も脚も感覚が麻痺しているかのように、言うことを聞かない。
+#. JA:   まるで生まれたての仔鹿のようなか弱さで、みじめに震えていた。
+msgctxt "END07_028"
+msgid ""
+"...It isn't enough. He remains trapped; paralyzed. All he can do is stand and\n"
+"watch."
+msgstr ""
+"...але цього замало. Руки й ноги відмовляються слухати, ніби\n"
+"паралізувало. Він тремтить як немовля."
+
+#. Key: END07_029
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: だがそれでも、ラグナは少しずつ身構えていった。
+#. JA:   こんな所で終わるわけにはいかないというただ一つの思い、それだけを原動力にして。
+msgctxt "END07_029"
+msgid ""
+"But he doesn't give up. He can't give up.\n"
+"One thought echoes through his mind...\n"
+"<DQ>I can't let it end here...!<DQ>"
+msgstr ""
+"Попри все, Раґна поступово опанував себе. У свідомості лунає лише одна\n"
+"думка... «Я не можу померти тут...!»"
+
+#. Key: END07_030
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: チッ、勝手に終わってろ、このお面野郎！
+msgctxt "END07_030"
+msgid "Tch, why don't you put an end to your life instead, you son of a bitch!"
+msgstr "Тьху, краще сам здохни, виродку в масці!"
+
+#. Key: END07_031
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 御託はいらねぇからかかってこいよ！
+msgctxt "END07_031"
+msgid "Cut the crap, and just bring it on!"
+msgstr "Годі молоти язиком — нападай!"
+
+#. Key: END07_032
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 我は―――白。
+#. JA:   世界を白く染め、無に回帰させし者！！
+msgctxt "END07_032"
+msgid ""
+"I am the white void.\n"
+"I wipe the slate of the world clean, that it may begin anew!"
+msgstr "Я — Білий. Я очищу цей світ до білого аркуша, аби він постав наново!"
+
+#. Key: END07_033
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 我が名はハクメン！
+msgctxt "END07_033"
+msgid "I am Hakumen!"
+msgstr "Ім'я мені — Хакумен!"
+
+#. Key: END07_034
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 推して参る！！
+msgctxt "END07_034"
+msgid "The end has come!"
+msgstr "Настав твій кінець!"
+
+#. Key: END07_039
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 黒き者よ……混沌の渦に還れ。
+msgctxt "END07_039"
+msgid ""
+"You are finished, Dark One... Return now, to the maelstrom of chaos from whence\n"
+"you were born..."
+msgstr "Тобі кінець, Чорний... Повернися у вир хаосу, з якого постав..."
+
+#. Key: END07_040
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: ヤベェ！
+msgctxt "END07_040"
+msgid "Aw crap!"
+msgstr "От лайно!"
+
+#. Key: END07_041
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 終わりだ！
+msgctxt "END07_041"
+msgid "The end has come for you, Dark One!"
+msgstr "Це твій кінець, Чорний!"
+
+#. Key: END07_042
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 黒き者よ！
+msgctxt "END07_042"
+msgid "The sword descends!"
+msgstr "Прийми мій клинок!"
+
+#. Key: END07_044
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: なっ!?
+msgctxt "END07_044"
+msgid "What!?"
+msgstr "Що!?"
+
+#. Key: END07_045
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 事象干渉か！
+msgctxt "END07_045"
+msgid "How dare you interrupt me!"
+msgstr "Втручання в причинність!?"
+
+#. Key: END07_046
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: ぐうっ……邪魔をするな、化け猫め！！
+msgctxt "END07_046"
+msgid "Ugh... Get out of my way, Grimalkin!"
+msgstr "Кх... Не ставай мені на заваді, відьомська кицька!"
+
+#. Key: END07_048
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: お、おい…、なんだよ一体ッ…!?
+msgctxt "END07_048"
+msgid "H-Hey... What the hell's going on...!?"
+msgstr "Г-гей... Якого біса тут коїться...!?"
+
+#. Key: END07_049
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: ハァ、ハァ、ハァ……。
+msgctxt "END07_049"
+msgid "*pant* *pant* "
+msgstr "*важко дихає*"
+
+#. Key: END07_051
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Kokonoe
+#. Context: Ending sequence, segment END07
+#. JA: な、馬鹿なっ!?　事象干渉をディスペルしただと!?
+msgctxt "END07_051"
+msgid "I-Impossible! The causal interruption has been dispelled?"
+msgstr "Н-неможливо! Він розвіяв втручання у причинність?"
+
+#. Key: END07_052
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Kokonoe
+#. Context: Ending sequence, segment END07
+#. JA: おい、貴様！　早く逃げろ！
+#. JA:   今のお前では、こいつには勝てん！！
+msgctxt "END07_052"
+msgid "Hey, get the hell out of there! Now! You aren't strong enough to beat him!"
+msgstr ""
+"Гей, негайно забирайся звідти! Ти ще не досить сильний, щоб його\n"
+"перемогти!"
+
+#. Key: END07_053
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: だ、誰だテメェ！
+#. JA:   人の頭ン中で勝手にしゃべってんじゃねぇ！
+msgctxt "END07_053"
+msgid ""
+"Wh-Who the hell are you!?\n"
+"Stop talking inside my head!"
+msgstr "Х-хто ти, в біса, така!? Припини говорити в моїй голові!"
+
+#. Key: END07_054
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Kokonoe
+#. Context: Ending sequence, segment END07
+#. JA: そんなことはどうでもいい！
+#. JA:   いいから早く逃げろ！！
+msgctxt "END07_054"
+msgid "That doesn't matter! Just get the hell out of there!"
+msgstr "Це не має значення! Просто тікай звідти!"
+
+#. Key: END07_055
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Kokonoe
+#. Context: Ending sequence, segment END07
+#. JA: テイガー！　お前は動けないのか！
+msgctxt "END07_055"
+msgid "Tager! Can you move at all!?"
+msgstr "Тейґере! Ти взагалі можеш рухатися!?"
+
+#. Key: END07_057
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tager
+#. Context: Ending sequence, segment END07
+#. JA: すまんココノエっ！　今は手が離せん！
+msgctxt "END07_057"
+msgid "Sorry, Kokonoe! I'm tied up!"
+msgstr "Пробач, Коконое! Я зараз зайнятий!"
+
+#. Key: END07_059
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Kokonoe
+#. Context: Ending sequence, segment END07
+#. JA: テイガー！　おい、テイガー！
+msgctxt "END07_059"
+msgid "Tager! Hey, Tager!"
+msgstr "Тейґере! Гей, Тейґере!"
+
+#. Key: END07_060
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: ……なんなんだ、テェメら！
+#. JA:   クソッ！　わけ分かんねぇ！
+msgctxt "END07_060"
+msgid ""
+"...Who the hell are you!?\n"
+"Damn it! Somebody tell me what the hell is going on here!?"
+msgstr "...Хто ви, в біса, такі!? Чорт! Хай уже хтось пояснить, що тут коїться!?"
+
+#. Key: END07_061
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hakumen
+#. Context: Ending sequence, segment END07
+#. JA: 終わりだ、「ラグナ＝ザ＝ブラッドエッジ」……。
+#. JA:   「冥<ruby>イ</ruby>府<ruby>ザ</ruby>の<ruby>ナ</ruby>王<ruby>ミ</ruby>」が、貴様を呼んでいる……。
+msgctxt "END07_061"
+msgid ""
+"Your time is done, Ragna the Bloodedge... The ruler of the netherworld calls your\n"
+"name..."
+msgstr ""
+"Твій час вичерпано, Раґно Бладедж... Ізанамі, володарка потойбіччя,\n"
+"кличе тебе..."
+
+#. Key: END07_062
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: そりゃ逃げてーのは山々だけどよ……。
+#. JA:   どうも無理そうだよな、こりゃ……。
+msgctxt "END07_062"
+msgid "As much as I want to get the hell out of here, I don't think I can..."
+msgstr "Я б залюбки забрався звідси, але, схоже, не вийде..."
+
+#. Key: END07_063
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: しゃーねぇな……。使いたくなかったんだが……。
+msgctxt "END07_063"
+msgid "Tch... I didn't want to use this, but..."
+msgstr "Тьху... Не хотів я цим користуватися, але..."
+
+#. Key: END07_065
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: グッ……！
+msgctxt "END07_065"
+msgid "Ugh...!"
+msgstr "Кх...!"
+
+#. Key: END07_066
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: うおおおおおおおおおおおお！！！
+msgctxt "END07_066"
+msgid "RAAAAAAAAAAAAGGGGGGGHHHHH!"
+msgstr "А-А-А-А-А-А-А-А-А-А-А!"
+
+#. Key: END07_068
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 第６６６拘束機関解放、次元干渉虚数法陣展開……。
+msgctxt "END07_068"
+msgid ""
+"Restriction 666 released...\n"
+"Dimensional interruption imaginary number formed..."
+msgstr ""
+"Обмежувальний механізм №666 знято... Розгортання уявної формації\n"
+"просторового втручання..."
+
+#. Key: END07_069
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 「蒼<ruby>ブ</ruby>の<ruby>レ</ruby>魔<ruby>イ</ruby>道<ruby>ブ</ruby>書<ruby>ルー</ruby>」……起動……っ！！
+msgctxt "END07_069"
+msgid "Azure Grimoire...activated...!"
+msgstr "Лазурний Гримуар... активувати...!"
+
+#. Key: END07_071
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 行くぞ、このお面野郎が！！
+msgctxt "END07_071"
+msgid "Take this, you son of a bitch!"
+msgstr "Отримуй, виродку!"
+
+#. Key: END07_076
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: なに、これ……？
+msgctxt "END07_076"
+msgid "What is this...?"
+msgstr "Що це...?"
+
+#. Key: END07_077
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 目の前に広がる巨大な空間のいたるところに破壊の跡が見受けられた。
+#. JA:   瓦礫からは砂埃が舞い、数分前までここで激しい戦闘が行われていた
+#. JA:   ことを物語っていた。
+msgctxt "END07_077"
+msgid ""
+"The scene before her eyes is that of utter destruction.\n"
+"Dust hangs in the air, a remnant of the epic battle that took place here."
+msgstr ""
+"Перед її очима — картина суцільного руйнування. У повітрі висить пил\n"
+"— слід запеклої битви, що відбулася тут зовсім недавно."
+
+#. Key: END07_078
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 辺りを警戒しながら慎重に奥へと進む。
+#. JA:   すり鉢状の穴があり、その底に窯のような物が見えた。
+msgctxt "END07_078"
+msgid ""
+"On guard, she slowly moves deeper in.\n"
+"Before her is a massive hole, and what looks like...a pot."
+msgstr ""
+"Не втрачаючи пильності, вона повільно йде вглиб. Попереду —\n"
+"величезна вирва, а на її дні щось схоже на... Котел."
+
+#. Key: END07_079
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: ノエルはそれに目を奪われた。
+msgctxt "END07_079"
+msgid "For a moment, she's struck speechless by the spectacle."
+msgstr "На мить від цього видовища їй відбирає мову."
+
+#. Key: END07_080
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: これ……見たこと、ある……。
+msgctxt "END07_080"
+msgid "I've...seen this before..."
+msgstr "Я... вже бачила це..."
+
+#. Key: END07_082
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: あ、あ……。
+msgctxt "END07_082"
+msgid "Ah...ah..."
+msgstr "А... ах..."
+
+#. Key: END07_084
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: ああ、あああああ！！
+msgctxt "END07_084"
+msgid "Ahh, ahhhhh!"
+msgstr "А-а... А-а-а-а-а!"
+
+#. Key: END07_087
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 対象認識・対象認識・対象認識・対象認識・対象認識……
+msgctxt "END07_087"
+msgid "Target confirmation, target confirmation, target confirmation, target confirmation..."
+msgstr ""
+"Розпізнавання цілі, розпізнавання цілі, розпізнавання цілі, розпізнавання\n"
+"цілі..."
+
+#. Key: END07_091
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: ムラクモユニット・起動開始……
+msgctxt "END07_091"
+msgid "Murakumo Unit, activate..."
+msgstr "Блок Муракумо, активація..."
+
+#. Key: END07_092
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: 対象・照合……同一体と認識……
+msgctxt "END07_092"
+msgid "Identifying target... The target match has been confirmed... "
+msgstr "Ідентифікація цілі... Збіг цілі підтверджено..."
+
+#. Key: END07_093
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: あなた、誰……？
+msgctxt "END07_093"
+msgid "Who... are you...?"
+msgstr "Хто... ти...?"
+
+#. Key: END07_094
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 私・私・私・私・私は……次元境界接触用素体……No,12……
+msgctxt "END07_094"
+msgid "I...I...I...I am...dimensional boundary contact medium No. 12..."
+msgstr "Я... я... я... я... контактний носій Просторової Межі № 12..."
+
+#. Key: END07_095
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 対三輝神コアユニット……
+msgctxt "END07_095"
+msgid "Anti-Sankishin Core Unit..."
+msgstr "Ядро протидії Санкішін..."
+
+#. Key: END07_096
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 対象・状況説明を求む……
+msgctxt "END07_096"
+msgid "Request explanation regarding circumstances and target..."
+msgstr "Запит пояснення обставин і цілі..."
+
+#. Key: END07_097
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （え？　なに？　私、なに言ってるの……？）
+msgctxt "END07_097"
+msgid "(Uh? What is this? What am I saying...?)"
+msgstr "(Га? Що це? Що я таке кажу...?)"
+
+#. Key: END07_098
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: ノエルの体は既に彼女の制<ruby>モ</ruby>御<ruby>ノ</ruby>ではなくなっていた。
+#. JA:   口から紡ぎ出される言葉は、本人の意思ではない。
+#. JA:   自分ではないなにかが、自らを支配していた。
+msgctxt "END07_098"
+msgid ""
+"Noel is losing control of her body...\n"
+"The words coming out of her mouth are not hers..."
+msgstr ""
+"Ноель утрачає контроль над власним тілом... Слова, що злітають з її\n"
+"вуст, належать не їй..."
+
+#. Key: END07_099
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: 存在・説明……
+msgctxt "END07_099"
+msgid "Existence description..."
+msgstr "Опис існування..."
+
+#. Key: END07_100
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: 次元境界接触用素体No,13 ・対三輝神コアユニット、ニュー
+msgctxt "END07_100"
+msgid "Dimensional boundary contact prime force No. 13 Anti-Sankishin core unit, Nu."
+msgstr ""
+"Контактний носій Просторової Межі № 13, ядро протидії Санкішін —\n"
+"Ню."
+
+#. Key: END07_101
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: 対象の存在は不適切・速やかな自壊を勧告する
+msgctxt "END07_101"
+msgid "The existence of the target is a violation. Immediate self-destruction is advised."
+msgstr "Існування цілі є порушенням. Рекомендовано негайне самознищення."
+
+#. Key: END07_102
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 勧告・拒否……
+msgctxt "END07_102"
+msgid "Advice has been declined..."
+msgstr "Рекомендацію відхилено..."
+
+#. Key: END07_103
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 存在の存続を最優先とする
+msgctxt "END07_103"
+msgid "Existential sustainment is priority."
+msgstr "Збереження існування має найвищий пріоритет."
+
+#. Key: END07_104
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: 対応検索……
+msgctxt "END07_104"
+msgid "Searching for secondary protocol."
+msgstr "Пошук вторинного протоколу."
+
+#. Key: END07_105
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: 不正同一体との接触・対象の稼働確認・排除が適当……
+msgctxt "END07_105"
+msgid ""
+"Unexpected contact with the same individual. The activation of the target has been\n"
+"confirmed. Termination is suggested..."
+msgstr ""
+"Незапланований контакт з ідентичним індивідом. Активацію цілі\n"
+"підтверджено. Рекомендовано ліквідацію..."
+
+#. Key: END07_106
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: よって―――
+msgctxt "END07_106"
+msgid "Thus—"
+msgstr "Отже—"
+
+#. Key: END07_107
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 
+#. JA:   対象の殲滅を開始します
+#. JA:   
+msgctxt "END07_107"
+msgid ""
+"Noel: Begin termination.\n"
+"Nu: Begin termination."
+msgstr "Ноель: Розпочати ліквідацію. Ню: Розпочати ліквідацію."
+
+#. Key: END07_113
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: コア回収後、対象の消去を実行します……
+msgctxt "END07_113"
+msgid "Begin elimination after the core is retrieved..."
+msgstr "Розпочати ліквідацію цілі після вилучення ядра..."
+
+#. Key: END07_118
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （どう、して……）
+msgctxt "END07_118"
+msgid "(Wh-Why...?)"
+msgstr "(Ч-чому...?)"
+
+#. Key: END07_119
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: どれだけ攻撃を加えても、それは立ち上がった。
+#. JA:   幾度となく、致命的なダメージを与えているはずなのに。
+msgctxt "END07_119"
+msgid "No matter how many times Noel attacks it, the creature won't stay down."
+msgstr "Скільки б Ноель не атакувала, ця істота щоразу підводиться."
+
+#. Key: END07_120
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: 対象に対する攻撃を続行……
+msgctxt "END07_120"
+msgid "Continue assault on the target..."
+msgstr "Продовжити атаку на ціль..."
+
+#. Key: END07_121
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （もう、腕が上がらない……）
+msgctxt "END07_121"
+msgid "(I...can't move anymore...)"
+msgstr "(Я... більше не можу рухатися...)"
+
+#. Key: END07_122
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: ユニット再接続・ペタル展開……
+msgctxt "END07_122"
+msgid "Reestablishing connection..."
+msgstr "Повторне встановлення з'єднання..."
+
+#. Key: END07_124
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （もう駄目なのかな……私、死んじゃうのかな……？）
+msgctxt "END07_124"
+msgid "(Is it over for me...? Am I...gonna die...?)"
+msgstr "(Це кінець...? Я... помру...?)"
+
+#. Key: END07_125
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （でも、怖くない……。これもアークエネミーのおかげ……？）
+msgctxt "END07_125"
+msgid "(But, I'm not scared... Is it because of the Nox Nyctores...?)"
+msgstr "(Але мені не страшно... Це через Арк-Енемі...?)"
+
+#. Key: END07_126
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （あぁ……お腹、すいたな……）
+msgctxt "END07_126"
+msgid "(*sigh*... I'm...hungry...)"
+msgstr "(Ех... Я... зголодніла...)"
+
+#. Key: END07_127
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （ツバキとマコト、今頃何してるんだろう……？）
+msgctxt "END07_127"
+msgid "(I wonder what Tsubaki and Makoto are doing right now...)"
+msgstr "(Цікаво, що зараз роблять Цубакі й Макото...)"
+
+#. Key: END07_128
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （また三人でケーキ食べに行きたいな……）
+msgctxt "END07_128"
+msgid "(I want to go out and have a piece of cake with them again...)"
+msgstr "(Я хочу знову піти з ними по тістечка...)"
+
+#. Key: END07_129
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （お義父さん、お義母さん、元気かな……？）
+msgctxt "END07_129"
+msgid "(I wonder how my foster parents are doing...)"
+msgstr "(Цікаво, як там мої прийомні батьки...)"
+
+#. Key: END07_130
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （お義父さん、また無理してないかな……？）
+msgctxt "END07_130"
+msgid "(I hope my father's not working too hard...)"
+msgstr "(Сподіваюся, тато знову не працює до знемоги...)"
+
+#. Key: END07_131
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: ……「滅べ」
+msgctxt "END07_131"
+msgid "...Die."
+msgstr "...Помри."
+
+#. Key: END07_133
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: （やっぱり……死にたくないっ！）
+msgctxt "END07_133"
+msgid "(I...don't want to die!)"
+msgstr "(Я... не хочу помирати!)"
+
+#. Key: END07_136
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+msgctxt "END07_136"
+msgid "..."
+msgstr "..."
+
+#. Key: END07_137
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: しかし、いつまで待っても攻撃を受けることはなかった。
+#. JA:   ノエルはゆっくりと瞳を開く。
+msgctxt "END07_137"
+msgid ""
+"She waits for the final blow, but it never comes...\n"
+"Slowly, she opens her eyes..."
+msgstr ""
+"Вона чекає останнього удару, але той не настає... Повільно розплющує\n"
+"очі..."
+
+#. Key: END07_138
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+msgctxt "END07_138"
+msgid "...?"
+msgstr "...?"
+
+#. Key: END07_139
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 目の前に男が立っていた。
+#. JA:   ボロボロの赤い服を着た、傷だらけの男。
+msgctxt "END07_139"
+msgid ""
+"There's a man standing in from of her.\n"
+"His clothes are torn, and he's covered in blood."
+msgstr ""
+"Перед нею стоїть чоловік. Його одяг пошматований, а тіло залите\n"
+"кров'ю."
+
+#. Key: END07_140
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 背を向けていて、顔は見えない。
+#. JA:   しかし、ノエルはなぜか、その背中に懐かしさを覚えた。
+msgctxt "END07_140"
+msgid ""
+"His back is to her, so she can't see his face, but something about him is...\n"
+"...nostalgic."
+msgstr ""
+"Він стоїть до неї спиною, тож обличчя не видно, але є в ньому щось...\n"
+"...знайоме."
+
+#. Key: END07_141
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: あ、ああ……！
+msgctxt "END07_141"
+msgid "Ah, ahh...!"
+msgstr "А... а-а...!"
+
+#. Key: END07_143
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 涙が溢れた。理由は分からなかった。
+#. JA:   否、理由なんて必要ないのかもしれない。
+msgctxt "END07_143"
+msgid ""
+"Her tears begin to fall... She doesn't know why.\n"
+"Or maybe...she doesn't care..."
+msgstr ""
+"Її очі наповнюються сльозами... Вона не знає чому. А можливо причин і\n"
+"не було..."
+
+#. Key: END07_144
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 男は背中越しにノエルを一瞥した。
+#. JA:   そして少し驚いたような表情を浮かべて……。
+msgctxt "END07_144"
+msgid "He turns around to look at Noel, and she can see sudden surprise in his face."
+msgstr ""
+"Він обертається до Ноель, і на його обличчі з'являється щире\n"
+"здивування."
+
+#. Key: END07_145
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: お面野郎に手間取っちまった……。
+#. JA:   おいアンタ、そこ動くんじゃねーぞ！
+msgctxt "END07_145"
+msgid ""
+"It took too long to take care of that bastard...\n"
+"Hey you, stay where you are!"
+msgstr "Я надто довго возився з тим виродком... Гей, ти! Стій на місці!"
+
+#. Key: END07_149
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: しつけーんだよ！　マジで！
+msgctxt "END07_149"
+msgid "You just don't know when to stop, do you!?"
+msgstr "Та коли ж ти вже вгомонишся!?"
+
+#. Key: END07_150
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: ハハハハハハ！
+msgctxt "END07_150"
+msgid "Hahahahahahaha!"
+msgstr "Ха-ха-ха-ха-ха-ха!"
+
+#. Key: END07_151
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: ラグナ！　ラグナ！　無理だよラグナ！
+msgctxt "END07_151"
+msgid "Ragna! Ragna! It's impossible, Ragna!"
+msgstr "Раґно! Раґно! Це неможливо, Раґно!"
+
+#. Key: END07_152
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: 何も変わらない！　何も変えられない！　ハハハハハ！
+msgctxt "END07_152"
+msgid "Nothing will change! You can't change anything! Hahahahaha!"
+msgstr "Нічого не зміниться! Ти нічого не зможеш змінити! Ха-ха-ха-ха!"
+
+#. Key: END07_154
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: ぐ、ぐはぁッ！
+msgctxt "END07_154"
+msgid "Guh...Guaargh!"
+msgstr "Кх... А-а-аргх!"
+
+#. Key: END07_155
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: ラグナ―――――ーッ！
+msgctxt "END07_155"
+msgid "Ragnaaaaaaa!"
+msgstr "Раґно-о-о-о-о-о!"
+
+#. Key: END07_157
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 待って！
+msgctxt "END07_157"
+msgid "Wait!"
+msgstr "Зачекай!"
+
+#. Key: END07_158
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 行っちゃ駄目！
+msgctxt "END07_158"
+msgid "You can't go there!"
+msgstr "Тобі не можна туди!"
+
+#. Key: END07_159
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: そこから先に行っちゃ駄目！
+msgctxt "END07_159"
+msgid "Don't go any further!"
+msgstr "Не йди далі!"
+
+#. Key: END07_161
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 大きな木の下で横になっていた。
+msgctxt "END07_161"
+msgid "Lying down underneath a big tree..."
+msgstr "Він лежить під великим деревом..."
+
+#. Key: END07_162
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 誰かが顔を覗き込んでいる。少女のようだ。
+msgctxt "END07_162"
+msgid "...someone is watching. A little girl."
+msgstr "...а хтось дивиться на нього згори. Маленька дівчинка."
+
+#. Key: END07_163
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 強い日差しのせいで顔は見えない。
+msgctxt "END07_163"
+msgid "The light is too bright. He can't make out her face."
+msgstr "Світло надто яскраве. Її обличчя не розгледіти."
+
+#. Key: END07_164
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: けれど、なぜか気持ちが落ち着く。
+msgctxt "END07_164"
+msgid "But something about her puts him at ease."
+msgstr "Та чомусь поруч із нею він заспокоюється."
+
+#. Key: END07_165
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: 
+#. JA:   少女はゆっくりと手を伸ばし、ラグナの顔に触れた。
+msgctxt "END07_165"
+msgid ""
+"\n"
+"She reaches out slowly and touches his face."
+msgstr ""
+"\n"
+"Вона повільно простягає руку й торкається його обличчя."
+
+#. Key: END07_166
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: そして優しく微笑む。
+msgctxt "END07_166"
+msgid "A gentle smile crosses her face."
+msgstr "На її обличчі з'являється лагідна усмішка."
+
+#. Key: END07_167
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+#. JA: その仕草で、それが誰だか分かった。
+msgctxt "END07_167"
+msgid "Suddenly he realizes who she is."
+msgstr "І раптом він розуміє, хто вона."
+
+#. Key: END07_168
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 「なんだよ、サヤじゃねーか」
+msgctxt "END07_168"
+msgid "<DQ>Oh, hey. It's you, Saya.<DQ>"
+msgstr "«А, це ти, Сає.»"
+
+#. Key: END07_169
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 「今日は具合、いいのか？」
+msgctxt "END07_169"
+msgid "<DQ>Are you feeling better today?<DQ>"
+msgstr "«Тобі сьогодні краще?»"
+
+#. Key: END07_170
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Saya
+#. Context: Ending sequence, segment END07
+msgctxt "END07_170"
+msgid "<DQ>...<DQ>"
+msgstr "«...»"
+
+#. Key: END07_171
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 「どうした？　またジンにいじめられたのか？」
+msgctxt "END07_171"
+msgid "<DQ>What's wrong? Did Jin pick on you again?<DQ>"
+msgstr "«Що таке? Джін знову тебе ображав?»"
+
+#. Key: END07_172
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Saya
+#. Context: Ending sequence, segment END07
+msgctxt "END07_172"
+msgid "<DQ>...<DQ>"
+msgstr "«...»"
+
+#. Key: END07_173
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 「なんだか疲れちまってよ……。すげー眠いんだ……」
+msgctxt "END07_173"
+msgid "<DQ>I'm exhausted... I can barely keep my eyes open...<DQ>"
+msgstr "«Я так утомився... Очі самі заплющуються...»"
+
+#. Key: END07_174
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Saya
+#. Context: Ending sequence, segment END07
+msgctxt "END07_174"
+msgid "<DQ>...<DQ>"
+msgstr "«...»"
+
+#. Key: END07_175
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 「…なんだって？　わりぃ。よく聞こえねーわ」
+msgctxt "END07_175"
+msgid ""
+"<DQ>...Hm? Say that again?\n"
+" I'm sorry, I can't hear you.<DQ>"
+msgstr "«...Га? Повтори. Пробач, я тебе не чую.»"
+
+#. Key: END07_176
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Saya
+#. Context: Ending sequence, segment END07
+#. JA: 
+#. JA:   「あきらめないで」
+#. JA:   
+msgctxt "END07_176"
+msgid ""
+"\n"
+"<DQ>Don't give up.<DQ>\n"
+msgstr ""
+"\n"
+"«Не здавайся.»\n"
+
+#. Key: END07_177
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 「……あ？」
+msgctxt "END07_177"
+msgid "<DQ>...Huh?<DQ>"
+msgstr "«...Га?»"
+
+#. Key: END07_179
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Unknown on screen; internally Noel
+#. Context: Ending sequence, segment END07
+#. JA: 手を伸ばして！　早く！
+msgctxt "END07_179"
+msgid "Give me your hand! Hurry!"
+msgstr "Дай мені руку! Швидше!"
+
+#. Key: END07_180
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: がぁっ!?
+msgctxt "END07_180"
+msgid "Agh!"
+msgstr "А-а!"
+
+#. Key: END07_182
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nu
+#. Context: Ending sequence, segment END07
+#. JA: あっ……！
+msgctxt "END07_182"
+msgid "Ah...!"
+msgstr "А...!"
+
+#. Key: END07_185
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: ハァ、ハァ、ハァ、ハァ……。
+msgctxt "END07_185"
+msgid "*pant* *pant* *pant* *pant*"
+msgstr "*важко дихає*"
+
+#. Key: END07_187
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+msgctxt "END07_187"
+msgid "..."
+msgstr "..."
+
+#. Key: END07_188
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: なんなんですかあなた！
+msgctxt "END07_188"
+msgid "What do you think you're doing!?"
+msgstr "Про що ти думав!?"
+
+#. Key: END07_189
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 無茶しないでください！
+msgctxt "END07_189"
+msgid "How can you do such a thing!?"
+msgstr "Не будь таким необачним!"
+
+#. Key: END07_190
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: びっくりさせないでください！！
+msgctxt "END07_190"
+msgid "Please don't scare me like that!"
+msgstr "Не лякай мене так!"
+
+#. Key: END07_191
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 本当に怖かったんですよ！
+msgctxt "END07_191"
+msgid "I was really worried about you!"
+msgstr "Я так хвилювалася!"
+
+#. Key: END07_192
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 物凄く怖かったんですよ！！
+msgctxt "END07_192"
+msgid "Seriously, how can you scare me like that!?"
+msgstr "Це було просто жахливо!?"
+
+#. Key: END07_193
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: もう、もう、私……ひっ！！
+msgctxt "END07_193"
+msgid "I... I... Geez... Wa—"
+msgstr "Я... Я... Ну чому... Уа-а—"
+
+#. Key: END07_195
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 馬鹿！　馬鹿！　馬鹿！　馬鹿！　馬鹿！
+msgctxt "END07_195"
+msgid "Stupid! Stupid! Stupid! Stupid! Stupid!"
+msgstr "Дурень! Дурень! Дурень! Дурень! Дурень!"
+
+#. Key: END07_196
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: お、おい……。
+#. JA:   なんだよ、いきなり……。
+msgctxt "END07_196"
+msgid "H-Hey... What're you doing...?"
+msgstr "Г-гей... Ти чого...?"
+
+#. Key: END07_197
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 馬鹿！！　馬鹿！！　馬鹿！！　馬鹿！！　馬鹿！！　馬鹿！！　馬鹿！！
+#. JA:   馬鹿！！　馬鹿！！　馬鹿！！　馬鹿！！
+msgctxt "END07_197"
+msgid ""
+"Stupid! Stupid! Stupid! Stupid!\n"
+"Stupid! Stupid! Stupid! Stupid!\n"
+"Stupid! Stupid! Stupid! Stupid!"
+msgstr ""
+"Дурень! Дурень! Дурень! Дурень! Дурень! Дурень! Дурень! Дурень!\n"
+"Дурень! Дурень! Дурень! Дурень!"
+
+#. Key: END07_198
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: バカバカ言うんじゃねーよ！
+msgctxt "END07_198"
+msgid "Will you cut it out!?"
+msgstr "Та припини вже!"
+
+#. Key: END07_199
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: ………馬鹿。
+msgctxt "END07_199"
+msgid "...Stupid."
+msgstr "...Дурень."
+
+#. Key: END07_200
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: いや、なんか……ごめん。
+#. JA:   悪かったよ……よく分かんねーけど……。
+msgctxt "END07_200"
+msgid "I mean...I guess I'm...sorry. My bad...though I don't quite understand..."
+msgstr "Ну... гаразд... пробач. Я винен... хоч і не дуже розумію..."
+
+#. Key: END07_201
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: わあああああああああ！！
+msgctxt "END07_201"
+msgid "Waaaaaaaaaaah!"
+msgstr "Уа-а-а-а-а-а-а-а-а!"
+
+#. Key: END07_203
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: なんなんだよ……。
+msgctxt "END07_203"
+msgid "What the hell is going on here...?"
+msgstr "Що тут, у біса, коїться...?"
+
+#. Key: END07_204
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: スー……。
+msgctxt "END07_204"
+msgid "Zz..."
+msgstr "Хр-р..."
+
+#. Key: END07_205
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 泣き疲れて寝ちまうし……。
+#. JA:   どうしろってんだよ……。
+msgctxt "END07_205"
+msgid ""
+"She cried herself to sleep...\n"
+"What am I supposed to do now...?"
+msgstr "Наплакалася й заснула... І що мені тепер робити...?"
+
+#. Key: END07_207
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+msgctxt "END07_207"
+msgid "..."
+msgstr "..."
+
+#. Key: END07_208
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 貴方は私と会う時いつも寝てるわね。
+msgctxt "END07_208"
+msgid "You are always asleep when we meet. Rather rude, if you ask me."
+msgstr "Щоразу, коли ми зустрічаємося, ти спиш. Доволі нечемно, як на мене."
+
+#. Key: END07_209
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: おい、ウサギ。なんだよ、こいつ……。
+msgctxt "END07_209"
+msgid "Hey, rabbit. Who's this?"
+msgstr "Гей, кролице. Хто це?"
+
+#. Key: END07_210
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 新しい「眼」よ。
+msgctxt "END07_210"
+msgid "The new eye."
+msgstr "Нове Око."
+
+#. Key: END07_211
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 「眼」？　なんだ、そりゃ？
+msgctxt "END07_211"
+msgid "<DQ>Eye<DQ>? The hell's that?"
+msgstr "«Око»? Що це, в біса, означає?"
+
+#. Key: END07_212
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: あ―――もう！
+#. JA:   さっきから全ッ然意味分かんねーんだよ！
+#. JA:   もうちょっと分かるように説明できねーのかよ！
+msgctxt "END07_212"
+msgid ""
+"Arrrgh! I don't know what the hell you're talking about!\n"
+"Can you explain it to me in a way that I can understand!?"
+msgstr ""
+"А-а-аргх! Я ні хріна не розумію! Можеш хоч раз пояснити так, щоб було\n"
+"зрозуміло!?"
+
+#. Key: END07_213
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: ……真の「蒼」を受け継ぐ者よ。
+msgctxt "END07_213"
+msgid "...The one who inherits the true Azure."
+msgstr "...Та, що успадкує справжню Лазур."
+
+#. Key: END07_214
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 貴方の持ってる模造品では無くてね。
+msgctxt "END07_214"
+msgid "Not that foolish imitation you have now."
+msgstr "Не ту жалюгідну підробку, якою ти володієш зараз."
+
+#. Key: END07_216
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: な……んだと……？
+msgctxt "END07_216"
+msgid "What...?"
+msgstr "Що...?"
+
+#. Key: END07_217
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: そしてこれから世界は未知の領域に入る。
+msgctxt "END07_217"
+msgid "It won't be long now... The world will change."
+msgstr "Лишилося недовго... Світ зміниться."
+
+#. Key: END07_218
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: もう私にも解らないことが起きるわ。
+msgctxt "END07_218"
+msgid "A great deal will happen that is beyond my understanding."
+msgstr "Станеться багато такого, чого не зможу осягнути навіть я."
+
+#. Key: END07_219
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: フフ……ちょっと悔しいけれど、でも楽しみね……。
+msgctxt "END07_219"
+msgid "Hehe... I cannot say I enjoy the prospect, but something about it excites me."
+msgstr "Хе-хе... Не скажу, що мене це тішить, але в цьому є щось захопливе."
+
+#. Key: END07_220
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: いや、楽しくねーよ……。
+#. JA:   マジ意味分かんねぇっての……。
+msgctxt "END07_220"
+msgid "There is nothing exciting about it... You're not making any sense..."
+msgstr "Нічого тут нема захопливого... У твоїх словах узагалі немає сенсу..."
+
+#. Key: END07_221
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: でもその前に……あれが来るわ。
+msgctxt "END07_221"
+msgid "Ah, but before the world changes... Something else will."
+msgstr "Але перш ніж зміниться світ... прийде дещо інше."
+
+#. Key: END07_222
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 説明しろよ、ちゃんと……。
+msgctxt "END07_222"
+msgid "You gotta fill me in here...!"
+msgstr "Та поясни вже нормально...!"
+
+#. Key: END07_224
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: お、おい！　待てよっコラっ！
+msgctxt "END07_224"
+msgid "H-Hey! Wait a minute!"
+msgstr "Г-гей! Зачекай!"
+
+#. Key: END07_225
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: なんだってんだよ……“模造品”……？
+#. JA:   この力が……？
+msgctxt "END07_225"
+msgid "What the hell...? So this power's just an <DQ>imitation<DQ>?"
+msgstr "Що за хрінь...? Яка ще «підробка»?"
+
+#. Key: END07_226
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: う、ううん……。
+msgctxt "END07_226"
+msgid "Mmm..."
+msgstr "М-м..."
+
+#. Key: END07_227
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 幸せそうな顔しやがって、なんだコイツ……。
+msgctxt "END07_227"
+msgid "What's with her? Why does she look so happy?"
+msgstr "І чого це вона така щаслива?"
+
+#. Key: END07_228
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: て言うか、似すぎだろ、どう考えても……。
+msgctxt "END07_228"
+msgid "But more importantly, their resemblance is uncanny..."
+msgstr "Але важливіше інше: вони ж до біса схожі..."
+
+#. Key: END07_233
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+msgctxt "END07_233"
+msgid "..."
+msgstr "..."
+
+#. Key: END07_234
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nago
+#. Context: Ending sequence, segment END07
+#. JA: 姫様、一体なにを始める気だい？
+msgctxt "END07_234"
+msgid "Princess, what are you trying to do?"
+msgstr "Принцесо, що ви задумали?"
+
+#. Key: END07_235
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Gii
+#. Context: Ending sequence, segment END07
+#. JA: それにしても良い眺めっス。
+msgctxt "END07_235"
+msgid "The view is nice, though..."
+msgstr "А краєвид тут гарний..."
+
+#. Key: END07_236
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: ナゴ、ギィ。
+#. JA:   少しだけ離れていて頂戴。
+msgctxt "END07_236"
+msgid "Nago, Gii. A moment please."
+msgstr "Наґо, Ґі. Залиште мене на мить."
+
+#. Key: END07_237
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nago
+#. Context: Ending sequence, segment END07
+#. JA: 姫様……？
+msgctxt "END07_237"
+msgid "Princess...?"
+msgstr "Принцесо...?"
+
+#. Key: END07_238
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 早くなさい！
+msgctxt "END07_238"
+msgid "Quickly!"
+msgstr "Негайно!"
+
+#. Key: END07_239
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Nago
+#. Context: Ending sequence, segment END07
+#. JA: り、了解！
+msgctxt "END07_239"
+msgid "A-As you wish!"
+msgstr "Т-так, як забажаєте!"
+
+#. Key: END07_240
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Gii
+#. Context: Ending sequence, segment END07
+#. JA: 了解っス！
+msgctxt "END07_240"
+msgid "As you wish!"
+msgstr "Так, як забажаєте!"
+
+#. Key: END07_242
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 私にここまでさせるなんてね……フフッ。
+msgctxt "END07_242"
+msgid "I did not foresee that he would push me to this extreme... Hehe..."
+msgstr "Не думала, що він змусить мене зайти аж так далеко... Хе-хе..."
+
+#. Key: END07_243
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: ラグナ、期待してるわよ……これからのこと……。
+msgctxt "END07_243"
+msgid "Oh Ragna... I do so want to know what happens next..."
+msgstr "Ох, Раґно... Я так хочу побачити, що буде далі..."
+
+#. Key: END07_244
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: さあ、いらっしゃい。
+msgctxt "END07_244"
+msgid "Come to me."
+msgstr "Іди до мене."
+
+#. Key: END07_245
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 遊んであげるわ。
+msgctxt "END07_245"
+msgid "You want to play, don't you?"
+msgstr "Ти ж хочеш погратися, правда?"
+
+#. Key: END07_246
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: アークエネミーハイランダー「タケミカヅチ」……。
+msgctxt "END07_246"
+msgid "Nox Nyctores Gigant: Take-Mikazuchi..."
+msgstr "Арк-Енемі «Гайлендер» — Таке-Міказучі..."
+
+#. Key: END07_249
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 第零式拘束機関開放、次元干渉虚数法陣展開……。
+msgctxt "END07_249"
+msgid ""
+"Nulliplex restriction mechanism release, dimensional interruption imaginary number\n"
+"developing..."
+msgstr ""
+"Обмежувальний механізм нульового типу знято, формування уявного\n"
+"числа для просторового втручання..."
+
+#. Key: END07_250
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: <color 255 0 0> 固有境界に接続……。</color>
+msgctxt "END07_250"
+msgid "<color 255 0 0> Connecting to congenital border...</color>"
+msgstr "<color 255 0 0> З'єднання з внутрішньою межею...</color>"
+
+#. Key: END07_252
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: <color 255 0 0>「ツクヨミユニット」起動。</color>
+msgctxt "END07_252"
+msgid "<color 255 0 0> Activating <DQ>Tsukuyomi unit<DQ>.</color>"
+msgstr "<color 255 0 0> Активація «блока Цукуйомі».</color>"
+
+#. Key: END07_256
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 無理よ。
+#. JA:   いくら貴方でもこのツクヨミの絶対防御を崩すことはできないわ。
+msgctxt "END07_256"
+msgid ""
+"It's impossible.\n"
+"Even you cannot defeat Tsukuyomi's absolute defense."
+msgstr ""
+"Це неможливо. Навіть ти не здатен пробити абсолютний захист\n"
+"Цукуйомі."
+
+#. Key: END07_257
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 次の照射までまた４年はかかるわね。
+msgctxt "END07_257"
+msgid "It will be four years before you can awaken again."
+msgstr "До твого наступного пробудження мине ще чотири роки."
+
+#. Key: END07_258
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: それまでゆっくりお眠りなさい……。
+msgctxt "END07_258"
+msgid "Until then...go to sleep, young one."
+msgstr "А доти... спи, дитя."
+
+#. Key: END07_264
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: うぉっと、危ねぇ……！
+msgctxt "END07_264"
+msgid "Whoa, what the hell...!?"
+msgstr "Ох, якого біса...!?"
+
+#. Key: END07_266
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: ん、ん……？
+msgctxt "END07_266"
+msgid "Hm...ung...?"
+msgstr "М-м... га...?"
+
+#. Key: END07_267
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: お……目、覚めたか？
+msgctxt "END07_267"
+msgid "Oh... You awake now?"
+msgstr "О... Прокинулася?"
+
+#. Key: END07_268
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: あ、れ……？　ここは……？
+msgctxt "END07_268"
+msgid "Huh...? Where am I...?"
+msgstr "Га...? Де я...?"
+
+#. Key: END07_269
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: あな、た……？
+msgctxt "END07_269"
+msgid "Who...are you...?"
+msgstr "Хто... ви...?"
+
+#. Key: END07_270
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: ！！　貴方！　ラグナ＝ザ＝ブラッドエッジ！
+msgctxt "END07_270"
+msgid ""
+"!\n"
+"You! You're Ragna the Bloodedge!"
+msgstr "! Ви! Ви ж Раґна Бладедж!"
+
+#. Key: END07_271
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 貴方っ!?　ななななな、何をしてるんですかっ!?？
+#. JA:   とにかくおとなしく逃げも隠れもしても捕まりません！
+msgctxt "END07_271"
+msgid "What do you think you're doing here!? You can't run or hide from me!"
+msgstr ""
+"Щ-щ-щ-що ви тут робите!? Не намагайтеся втекти чи сховатися — я вас\n"
+"не відпущу!"
+
+#. Key: END07_272
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 弁護士を呼ぶ権利は黙秘してもいいです！
+#. JA:   逮捕しますから！
+msgctxt "END07_272"
+msgid "You're under arrest. You have the right to remain silent!"
+msgstr "Ви заарештовані! Ви маєте право на адвоката й... право мовчати!"
+
+#. Key: END07_273
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: 言ってること、メチャクチャだぞ……。
+#. JA:   いいから落ち着けって……。
+msgctxt "END07_273"
+msgid "You're not making any sense. Just calm down for a second."
+msgstr "Ти сама розумієш, що верзеш? Просто заспокойся на хвилинку."
+
+#. Key: END07_275
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+msgctxt "END07_275"
+msgid "!?"
+msgstr "!?"
+
+#. Key: END07_276
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+msgctxt "END07_276"
+msgid "!?"
+msgstr "!?"
+
+#. Key: END07_277
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Unknown on screen; internally Hazama / Terumi
+#. Context: Ending sequence, segment END07
+#. JA: ハハハハハハハハハ！
+msgctxt "END07_277"
+msgid "Hahahahahaha!"
+msgstr "Ха-ха-ха-ха-ха-ха-ха!"
+
+#. Key: END07_278
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Unknown on screen; internally Hazama / Terumi
+#. Context: Ending sequence, segment END07
+#. JA: こん時を待ってたぜぇ！！！
+msgctxt "END07_278"
+msgid "I've been waiting for this moment!"
+msgstr "Я так довго чекав цієї миті!"
+
+#. Key: END07_280
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Unknown on screen; internally Hazama / Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 俺を見ろ……。
+msgctxt "END07_280"
+msgid "Look at me..."
+msgstr "Поглянь на мене..."
+
+#. Key: END07_281
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Unknown on screen; internally Hazama / Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 俺を見ろ、ノエル＝ヴァーミリオン！
+msgctxt "END07_281"
+msgid "Look at me, Noel Vermillion!"
+msgstr "Поглянь на мене, Ноель Вермільйон!"
+
+#. Key: END07_282
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: ハ、ハザマさん……!?
+msgctxt "END07_282"
+msgid "H-Hazama...!?"
+msgstr "П-пане Хазамо...!?"
+
+#. Key: END07_284
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+msgctxt "END07_284"
+msgid "!"
+msgstr "!"
+
+#. Key: END07_285
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: しまっ―――ノエル！
+msgctxt "END07_285"
+msgid "No— Noel!"
+msgstr "Ні— Ноель!"
+
+#. Key: END07_286
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: その男を「観<ruby>　　み</ruby>測」ては駄目！
+msgctxt "END07_286"
+msgid "Do not look at that man!"
+msgstr "Не дивися на цього чоловіка!"
+
+#. Key: END07_287
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: え……？
+msgctxt "END07_287"
+msgid "Eh...?"
+msgstr "Га...?"
+
+#. Key: END07_288
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: あなた、誰……？
+msgctxt "END07_288"
+msgid "Who are you...?"
+msgstr "Хто ви...?"
+
+#. Key: END07_289
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: きひひひひひひ！
+msgctxt "END07_289"
+msgid "Heeheehahahaha!"
+msgstr "Хі-хі-хі-ха-ха-ха!"
+
+#. Key: END07_290
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: ははははははっ！　認識したな、貴様！！！
+msgctxt "END07_290"
+msgid "Hahahahahaha! You recognized me, didn't you!?"
+msgstr "Ха-ха-ха-ха-ха! Ти мене розпізнала, так!?"
+
+#. Key: END07_291
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: おい、クソ吸血鬼！　やったぞコラ！
+msgctxt "END07_291"
+msgid "Hey, shitty vampire! Who's laughing now!?"
+msgstr "Гей, довбана вампірко! Ну хто тепер сміється!?"
+
+#. Key: END07_292
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: ……テメェは！！！
+msgctxt "END07_292"
+msgid "...You bastard!"
+msgstr "...Ах ти ж покидьок!"
+
+#. Key: END07_295
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: おいおい、危ねーなぁ、なんだよ～。
+msgctxt "END07_295"
+msgid "Hey now, that was close. What the hell?"
+msgstr "Овва, мало не зачепило. Ви чого?"
+
+#. Key: END07_296
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 二人掛かりなんて卑怯じゃん、大人げないじゃん。
+msgctxt "END07_296"
+msgid ""
+"That's not fair, double-teaming me like that.\n"
+"It's not a very grown-up thing to do."
+msgstr "Удвох на одного — нечесно. Якось це не по-дорослому."
+
+#. Key: END07_297
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 駄目　駄目　駄目　駄目よ！
+msgctxt "END07_297"
+msgid "No no no no no!"
+msgstr "Ні-ні-ні-ні-ні!"
+
+#. Key: END07_298
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: まあどうしてもやりたいって言うなら相手してあげちゃうけどね。
+msgctxt "END07_298"
+msgid "Well, but if you insist, I might reconsider, you know."
+msgstr "Хоча, якщо так наполягаєте, я можу й передумати."
+
+#. Key: END07_299
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 丁度いい準備体操にもなりそうだしー。
+msgctxt "END07_299"
+msgid "I might be able to get a good warm-up out of it."
+msgstr "Непогана розминка вийде."
+
+#. Key: END07_300
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: テメェ……。
+msgctxt "END07_300"
+msgid "Damn you..."
+msgstr "Падлюка..."
+
+#. Key: END07_301
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 久しぶりじゃん、ラグナ＝ザ＝ブラッドエッジ。
+#. JA:   右腕はお元気～？
+msgctxt "END07_301"
+msgid ""
+"Long time, no see, Ragna the Bloodedge.\n"
+"How's your right arm holding up?"
+msgstr "Давно не бачилися, Раґно Бладедж. Як там твоя права рука?"
+
+#. Key: END07_302
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: ……あ、ごめんごめん。俺がぶった切っちゃったんだっけ。
+msgctxt "END07_302"
+msgid "...Oops. My bad. It was me who chopped that off, wasn't it?"
+msgstr "...Ой. Вибач. Це ж я її відрубав, так?"
+
+#. Key: END07_303
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: どうよ？　そのつくりもんの腕、なかなか便利なんじゃね？
+msgctxt "END07_303"
+msgid "So, how is it? Doesn't that fake arm come in handy?"
+msgstr "Ну то як? Зручна в тебе штучна рука?"
+
+#. Key: END07_304
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 模造品の割にはイケてなくなくない？
+msgctxt "END07_304"
+msgid "Do you think it's pretty good for an imitation?"
+msgstr "Як на підробку, вона ж не те щоб не непогана?"
+
+#. Key: END07_305
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: こンの……クソ野郎がっ！！！
+msgctxt "END07_305"
+msgid "Shut up, you son of a bitch!"
+msgstr "Заткни пельку, довбаний виродку!"
+
+#. Key: END07_306
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: やめなさいラグナ！
+msgctxt "END07_306"
+msgid "Ragna! Stop!"
+msgstr "Раґно! Зупинися!"
+
+#. Key: END07_307
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: ウサギ！　邪魔すんな！！！！
+msgctxt "END07_307"
+msgid "Don't interrupt me, rabbit!"
+msgstr "Не заважай мені, кролице!"
+
+#. Key: END07_308
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: 悔しいけど事象が変わったのよ……。
+#. JA:   今の貴方じゃ万に一つの勝ち目もないわ……。
+msgctxt "END07_308"
+msgid ""
+"I am loathe to admit it, but the situation has changed.\n"
+"You haven't a chance, Ragna."
+msgstr ""
+"Мені прикро це визнавати, але ситуація змінилася. У тебе немає жодного\n"
+"шансу, Раґно."
+
+#. Key: END07_309
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: そう　そう　そういうことよぉ！
+msgctxt "END07_309"
+msgid "Yeah, yeah, what she said!"
+msgstr "Ага, ага, усе так, як вона сказала!"
+
+#. Key: END07_310
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 今、俺様のお遊びに付き合えそうなのは
+#. JA:   そこのクソ吸血鬼ぐらいじゃないかなぁ～？
+msgctxt "END07_310"
+msgid "I think that dumb vampire right there is the only one who can keep up with me now."
+msgstr "Зараз лише ця тупа вампірка здатна хоч трохи мене розважити."
+
+#. Key: END07_311
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: テメエみてーな小僧じゃはっきり言って役不足なんだっての。
+msgctxt "END07_311"
+msgid "A little bitch like you wouldn't be able to satisfy me."
+msgstr "Такий молокосос, як ти, мене не задовольнить."
+
+#. Key: END07_312
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: アレ？　役不足って使い方間違ってたっけ？
+#. JA:   ま、いーか。どっちでも。キヒヒヒヒヒ！
+msgctxt "END07_312"
+msgid ""
+"Hm? Did I misuse the phrase? \n"
+"Oh, well. Whatever. Keeheeheehee!"
+msgstr "Га? Я правильно вжив це слово? Та байдуже. Хі-хі-хі-хі!"
+
+#. Key: END07_313
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: ……テメェ！
+msgctxt "END07_313"
+msgid "...Bastard!"
+msgstr "...Покидьок!"
+
+#. Key: END07_314
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: やってやろうじゃねーか！
+#. JA:   かかってこいよこのクソ野郎！！
+msgctxt "END07_314"
+msgid ""
+"You wanna try me!?\n"
+"Bring it on, you son of a bitch!"
+msgstr "Хочеш мене випробувати!? Нападай, сучий сину!"
+
+#. Key: END07_315
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: イキがるなって子犬ちゃんよぉ……。
+#. JA:   あんまキャンキャン吼えるとマジ殺すぞ。
+msgctxt "END07_315"
+msgid ""
+"That's a little too cocky for a puppy like you...\n"
+"If you keep yelping at me, I'll have to seriously kill you. "
+msgstr ""
+"Не надто зухвало як для цуценяти...? Продовжиш на мене гавкати — я\n"
+"тебе справді вб'ю."
+
+#. Key: END07_316
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: あら？　粋がっているのは貴方の方ではなくて？
+msgctxt "END07_316"
+msgid "Oh? And just who is being cocksure now..."
+msgstr "Ох? І хто це тут надто впевнений у собі...?"
+
+#. Key: END07_317
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: ……“坊や”。
+msgctxt "END07_317"
+msgid "...little boy."
+msgstr "...хлопчику."
+
+#. Key: END07_319
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: 冗談冗談、ヤッベー、マジこえー。
+msgctxt "END07_319"
+msgid "Just kidding! Damn, you're scary, lady."
+msgstr "Та я жартую! От же ж, яка ви страшна пані."
+
+#. Key: END07_320
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: いやー良かったねラグナ君。
+#. JA:   優しい保護者に付いててもらって！
+msgctxt "END07_320"
+msgid ""
+"But seriously, you're lucky, Ragna.\n"
+"You have such a sweet guardian with you!"
+msgstr ""
+"А якщо серйозно, тобі пощастило, Раґно. Поруч із тобою така турботлива\n"
+"опікунка!"
+
+#. Key: END07_321
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: んだと！　テメエ！
+msgctxt "END07_321"
+msgid "What did you say, you son of a bitch!?"
+msgstr "Що ти сказав, виродку!?"
+
+#. Key: END07_322
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: だからやめなさい、ラグナ！
+msgctxt "END07_322"
+msgid "I told you to stop, Ragna!"
+msgstr "Я сказала зупинитися, Раґно!"
+
+#. Key: END07_323
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: ま、俺、今日は超ゴキゲンだし、子犬ちゃんは見逃してやんよ。
+#. JA:   怖～い人が三人がかりじゃ、俺もきついしさー。
+msgctxt "END07_323"
+msgid ""
+"Well, I'm in a really good mood today, so I'll just let the little puppy go.\n"
+"It'd be tough even for me to handle three scary people like you."
+msgstr ""
+"Що ж, сьогодні в мене чудовий настрій, тому відпущу цуценя. Навіть\n"
+"мені буде складно впоратися з трьома такими страшними\n"
+"супротивниками."
+
+#. Key: END07_324
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: あ、二人と一匹か！　ウヒャヒャヒャヒャヒャ！
+msgctxt "END07_324"
+msgid ""
+"Oops, it's more like two people and a dog, huh?\n"
+"Hahahahahahaha!"
+msgstr "Ой, тобто з двома людьми й одним псом! Ха-ха-ха-ха-ха-ха!"
+
+#. Key: END07_325
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Terumi
+#. Context: Ending sequence, segment END07
+#. JA: んじゃまた遊ぼうぜ、クソ吸血鬼。
+#. JA:   おっさんによろしくな～。
+msgctxt "END07_325"
+msgid ""
+"Let's do this again sometime, stupid vampire.\n"
+"Say hello to the old man for me."
+msgstr "Якось іще пограємося, клята вампірко. Передавай вітання старому."
+
+#. Key: END07_327
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: おい！　待ちやがれテメェ！！
+msgctxt "END07_327"
+msgid "Hey, wait the hell up!"
+msgstr "Гей, ану стій, падлюко!"
+
+#. Key: END07_328
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: なに、あの人、なんなの……なに……なんなの……？
+msgctxt "END07_328"
+msgid "What's with him? What's going on? What was that all about...?"
+msgstr "Хто він такий? Що відбувається? Що за хрінь...?"
+
+#. Key: END07_330
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: クソッ……！
+msgctxt "END07_330"
+msgid "Damn it...!"
+msgstr "Чорт...!"
+
+#. Key: END07_331
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: おい、大丈夫か、アンタ……。
+#. JA:   え～と、ノエルだっけか？
+msgctxt "END07_331"
+msgid ""
+"...Hey, are you OK?\n"
+"Umm, Noel, was it?"
+msgstr "...Гей, ти як? Е-е, Ноель, так?"
+
+#. Key: END07_332
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Ragna
+#. Context: Ending sequence, segment END07
+#. JA: おい！　しっかりしろ、おい！　ノエル！
+msgctxt "END07_332"
+msgid "Hey! Get a grip! Hey, Noel!"
+msgstr "Гей! Отямся! Гей, Ноель!"
+
+#. Key: END07_333
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Noel
+#. Context: Ending sequence, segment END07
+#. JA: 漆黒の……スサノヲ……。
+msgctxt "END07_333"
+msgid "Dark...Susano'o..."
+msgstr "Чорний... Сусаноо..."
+
+#. Key: END07_335
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Rachel
+#. Context: Ending sequence, segment END07
+#. JA: ……ココノエ、見てたわね。
+msgctxt "END07_335"
+msgid "...Kokonoe, you are watching this, aren't you?"
+msgstr "...Коконое, ти ж усе це бачила, так?"
+
+#. Key: END07_337
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Kokonoe
+#. Context: Ending sequence, segment END07
+#. JA: ああ……待ちに待ったぞ、この時を……。
+msgctxt "END07_337"
+msgid "Yeah... I've been waiting for this..."
+msgstr "Так... Я так довго чекала цієї миті..."
+
+#. Key: END07_338
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Kokonoe
+#. Context: Ending sequence, segment END07
+#. JA: ヤツは、私が必ずこの世から存在ごと消し去ってやる。
+msgctxt "END07_338"
+msgid "I swear, I'm gonna take that son of a bitch out myself."
+msgstr "Присягаюся, я власноруч зітру цього виродка з лиця землі."
+
+#. Key: END07_339
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Kokonoe
+#. Context: Ending sequence, segment END07
+#. JA: ……必ずだ！
+msgctxt "END07_339"
+msgid "...No matter what it takes!"
+msgstr "...За будь-яку ціну!"
+
+#. Key: END07_344
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment END07
+msgctxt "END07_344"
+msgid "―Epilogue―"
+msgstr "—Епілог—"
+
+#. Key: END07_346
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tsubaki
+#. Context: Ending sequence, segment END07
+#. JA: 失礼いたします。
+#. JA:   ツバキ＝ヤヨイ中尉、出頭いたしました。
+msgctxt "END07_346"
+msgid "Hello. First Lieutenant Tsubaki Yayoi reporting, sir. You wanted to see me?"
+msgstr ""
+"Дозвольте ввійти. Старша лейтенантка Цубакі Яйої прибула за вашим\n"
+"наказом."
+
+#. Key: END07_347
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: あー、どうもどうも。
+#. JA:   私、諜報部のハザマです、よろしくお願いします。
+msgctxt "END07_347"
+msgid ""
+"Oh, hello.\n"
+"I'm Hazama from the intelligence department. It's nice to meet you."
+msgstr "О, вітаю. Я Хазама з розвідувального відділу. Приємно познайомитися."
+
+#. Key: END07_348
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: 貴方が噂のヤヨイ家の方ですか。
+#. JA:   いや～わざわざすみませんね、遠いところ。
+msgctxt "END07_348"
+msgid ""
+"You're that Yayoi family that I keep hearing about.\n"
+"Thanks for coming all the way from there."
+msgstr ""
+"То ви з тієї самої родини Яйої, про яку всі говорять. Дякую, що подолали\n"
+"такий довгий шлях."
+
+#. Key: END07_349
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tsubaki
+#. Context: Ending sequence, segment END07
+#. JA: ……いえ。えー、と……。
+msgctxt "END07_349"
+msgid "...Ah, uh..."
+msgstr "...А, е-е..."
+
+#. Key: END07_351
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: あ、私は一応階級的には大尉なんですけどね。
+#. JA:   ほら、諜報部ってあまり階級とか気にしないので。
+#. JA:   あんまり固くならないで下さいね。
+msgctxt "END07_351"
+msgid ""
+"Oh, by the way, hierarchically speaking, I'm technically a captain. But, the\n"
+"intelligence department isn't bound by hierarchy, so please relax."
+msgstr ""
+"До речі, формально я маю звання капітана. Але в розвідці на звання\n"
+"особливо не зважають, тож розслабтеся."
+
+#. Key: END07_352
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tsubaki
+#. Context: Ending sequence, segment END07
+#. JA: は……し、失礼いたしました、大尉殿。
+msgctxt "END07_352"
+msgid "O-Oh... My apologies, captain. "
+msgstr "Т-так... Перепрошую, пане капітане."
+
+#. Key: END07_353
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: だから固くならないで、って……まあいっか。
+msgctxt "END07_353"
+msgid ""
+"I just asked you to relax...\n"
+"0h, well."
+msgstr "Я ж щойно попросив вас розслабитися... Та нехай."
+
+#. Key: END07_354
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: 今回中尉を呼んだのはですね……。
+#. JA:   ある極秘任務に当たって頂きたいんですよ。
+msgctxt "END07_354"
+msgid ""
+"The reason that I called upon you, First Lieutenant, is because I'd like to put you in\n"
+"charge of a...classified mission."
+msgstr ""
+"Я викликав вас, старша лейтенантко, бо хочу доручити вам... таємне\n"
+"завдання."
+
+#. Key: END07_355
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tsubaki
+#. Context: Ending sequence, segment END07
+#. JA: それは……諜報部主導のものでしょうか？
+msgctxt "END07_355"
+msgid ""
+"What sort of a mission would require the intelligence department to get involved,\n"
+"sir?"
+msgstr "Що це за завдання, якщо до нього залучено розвідувальний відділ, пане?"
+
+#. Key: END07_356
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: あ、ああ、言いたいことは分かりますよー。
+msgctxt "END07_356"
+msgid "O—Ohhh, I know what you're trying to get at."
+msgstr "О-о, я розумію, до чого ви ведете."
+
+#. Key: END07_357
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: でも大丈夫、ちゃんと中尉の部隊の性格は把握してます。
+#. JA:   それにこれ、統合本部からの勅命でもあるんですよね～。
+msgctxt "END07_357"
+msgid ""
+"But don't worry. I have a full grasp of the character of your squad, First Lieutenant.\n"
+"Besides, this is a direct order from the main headquarters."
+msgstr ""
+"Але не хвилюйтеся. Я чудово знаю особливості вашого підрозділу. До\n"
+"того ж це прямий наказ Об'єднаного штабу."
+
+#. Key: END07_358
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: あ、確認します？
+#. JA:   ちゃんと本物ですよ、「帝」のサインも……。
+msgctxt "END07_358"
+msgid ""
+"Oh, would you like some proof of that?\n"
+"Here is a signature from the Imperator."
+msgstr "Бажаєте підтвердження? Ось підпис Імператора."
+
+#. Key: END07_359
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tsubaki
+#. Context: Ending sequence, segment END07
+msgctxt "END07_359"
+msgid "!"
+msgstr "!"
+
+#. Key: END07_360
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tsubaki
+#. Context: Ending sequence, segment END07
+#. JA: も、申し訳ありません、詮索するような真似をして。
+msgctxt "END07_360"
+msgid "My apologies. I didn't mean to pry."
+msgstr "Перепрошую. Я не хотіла ставити зайвих запитань."
+
+#. Key: END07_361
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: いえいえ、気にしないでください。
+msgctxt "END07_361"
+msgid "Oh no, please don't worry about it."
+msgstr "Та ні, не переймайтеся."
+
+#. Key: END07_362
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: では、改めて。
+#. JA:   任務内容は口頭で伝えます。
+msgctxt "END07_362"
+msgid ""
+"Now, let me continue.\n"
+"The details of the mission will be given verbally."
+msgstr "А тепер продовжимо. Подробиці завдання буде повідомлено усно."
+
+#. Key: END07_363
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: 極秘任務なんで、書面とかに残すのはマズいですし、
+#. JA:   内容的にも簡単に覚えられますから。
+msgctxt "END07_363"
+msgid ""
+"Since it's a classified mission, it'd be inconvenient to leave any record of it. Besides,\n"
+"the mission description is simple enough for you to memorize it on the spot. "
+msgstr ""
+"Завдання таємне, тож залишати письмові записи було б незручно. До\n"
+"того ж воно досить просте, щоб ви запам'ятали все одразу."
+
+#. Key: END07_364
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tsubaki
+#. Context: Ending sequence, segment END07
+#. JA: ハッ。
+msgctxt "END07_364"
+msgid "Yes, sir."
+msgstr "Так, пане."
+
+#. Key: END07_365
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: え～……では……コホン。
+msgctxt "END07_365"
+msgid "Uh, all right, here it comes. *ahem*"
+msgstr "Е-е, гаразд. Отже... *кахикає*"
+
+#. Key: END07_366
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: ツバキ＝ヤヨイ中尉。
+msgctxt "END07_366"
+msgid "First Lieutenant Yayoi Tsubaki."
+msgstr "Старша лейтенантко Цубакі Яйої."
+
+#. Key: END07_367
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Hazama
+#. Context: Ending sequence, segment END07
+#. JA: 貴官にはジン＝キサラギ少佐およびノエル＝ヴァーミリオン少尉
+#. JA:   両名の暗殺をお願いします。
+msgctxt "END07_367"
+msgid ""
+"I'd like to assign you to assassinate Major Jin Kisaragi and Lieutenant Noel\n"
+"Vermillion. "
+msgstr ""
+"Вам доручено вбити майора Джіна Кісараґі та лейтенантку Ноель\n"
+"Вермільйон."
+
+#. Key: END07_368
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Tsubaki
+#. Context: Ending sequence, segment END07
+#. JA: えっ……!?
+msgctxt "END07_368"
+msgid "!?"
+msgstr "!?"
+
+#. Key: BATTLE_000
+#. Source: story/storytext_ending (data/Story/Text/eng/storytext_ending.pac)
+#. Speaker: Narrator
+#. Context: Ending sequence, segment BATTLE
+#. JA: 戦いに勝った！
+msgctxt "BATTLE_000"
+msgid "x"
+msgstr "Перемога!"
